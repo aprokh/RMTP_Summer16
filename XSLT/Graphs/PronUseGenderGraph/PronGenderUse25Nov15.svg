@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(80, 400)">
+      <line x1="0"
+            y1="0"
+            x2="1000"
+            y2="0"
+            stroke="black"
+            stroke-width="2px"/>
+      <line x1="0"
+            y1="0"
+            x2="0"
+            y2="-200"
+            stroke="black"
+            stroke-width="2px"/>
+      <line x1="-3"
+            y1="-10"
+            x2="3"
+            y2="-10"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="-3"
+            y1="-20"
+            x2="3"
+            y2="-20"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="-3"
+            y1="-30"
+            x2="3"
+            y2="-30"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="-3"
+            y1="-40"
+            x2="3"
+            y2="-40"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="-3"
+            y1="-50"
+            x2="3"
+            y2="-50"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="-3"
+            y1="-60"
+            x2="3"
+            y2="-60"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="-3"
+            y1="-70"
+            x2="3"
+            y2="-70"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="-3"
+            y1="-80"
+            x2="3"
+            y2="-80"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="-3"
+            y1="-90"
+            x2="3"
+            y2="-90"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="-3"
+            y1="-100"
+            x2="3"
+            y2="-100"
+            stroke="black"
+            stroke-width="2"/>
+      <text x="-50" y="-100" stroke="black" stroke-width="1">
+                    100%
+                </text>
+      <rect x="30"
+            y="-100"
+            height="100"
+            width="90"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="30"
+            y="-38.246041412911084"
+            height="38.246041412911084"
+            width="90"
+            fill="blue"/>
+      <rect x="200"
+            y="-100"
+            height="100"
+            width="90"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="200"
+            y="-27.7777777777777778"
+            height="27.7777777777777778"
+            width="90"
+            fill="blue"/>
+      <rect x="370"
+            y="-100"
+            height="100"
+            width="90"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="370"
+            y="-29.1262135922330098"
+            height="29.1262135922330098"
+            width="90"
+            fill="blue"/>
+      <rect x="540"
+            y="-100"
+            height="100"
+            width="90"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="540"
+            y="-26.8456375838926174"
+            height="26.8456375838926174"
+            width="90"
+            fill="blue"/>
+      <rect x="710"
+            y="-100"
+            height="100"
+            width="90"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="710"
+            y="-48.1481481481481482"
+            height="48.1481481481481482"
+            width="90"
+            fill="blue"/>
+      <rect x="880"
+            y="-100"
+            height="100"
+            width="90"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="880"
+            y="-42.3300970873786408"
+            height="42.3300970873786408"
+            width="90"
+            fill="blue"/>
+      <text x="30" y="-250" stroke="black" stroke-width="1">
+                    Use of Pronouns in Interviews by Gender (%)
+                    
+                </text>
+      <text x="30" y="-230" stroke="black" stroke-width="1">
+                    Red represents female interviewees and blue represents male interviewees.
+                    Interviews are weighted.
+                </text>
+      <text x="30" y="40" stroke="black" stroke-width="1">
+                    Total
+                </text>
+      <text x="30" y="-110" stroke="black" stroke-width="1">
+                    F:62%/M:38%
+                </text>
+      <text x="200" y="40" stroke="black" stroke-width="1">
+                    Plural
+                </text>
+      <text x="200" y="-110" stroke="black" stroke-width="1">
+                    F:73%/M:27%
+                </text>
+      <text x="370" y="40" stroke="black" stroke-width="1">
+                    Plur, Poss
+                </text>
+      <text x="370" y="-110" stroke="black" stroke-width="1">
+                    F:71%/M:29%
+                </text>
+      <text x="540" y="40" stroke="black" stroke-width="1">
+                    Plur, Pers
+                </text>
+      <text x="540" y="-110" stroke="black" stroke-width="1">
+                    F:73%/M:27%
+                </text>
+      <text x="710" y="40" stroke="black" stroke-width="1">
+                    Sing, Poss
+                </text>
+      <text x="710" y="-110" stroke="black" stroke-width="1">
+                    F:52%/M:48%
+                </text>
+      <text x="880" y="40" stroke="black" stroke-width="1">
+                    Sing, Pers
+                </text>
+      <text x="880" y="-110" stroke="black" stroke-width="1">
+                    F:58%/M:42%
+                </text>
+   </g>
+</svg>

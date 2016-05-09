@@ -1,0 +1,6 @@
+[A-Za-z]+[ .’?!\-“”]
+
+Example for the possessive pronouns 
+наш[егойму]* 
+
+

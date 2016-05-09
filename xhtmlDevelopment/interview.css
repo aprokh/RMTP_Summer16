@@ -1,0 +1,39 @@
+
+#centerPanel {
+    position:absolute;
+    width: 50%;
+    margin-left:20%;
+	margin-top:7%;
+	overflow-y:scroll;
+    }
+    
+#boxes {
+    border: 2px;
+    border-color:black;
+    border-style:solid; 
+    position:fixed;
+    width:15%;
+    padding-left:10px;
+    margin-left:2%;
+    margin-top:4%;
+    height: 70%;
+    overflow-y:auto;
+}
+
+label {
+    display:block
+    
+}
+
+#rightPanel{
+    border: 2px;
+    border-color:black;
+    border-style:solid; 
+    position:fixed;
+    width:18%;
+    padding-left:10px;
+    height: 70%;
+    margin-left:80%;
+    margin-top:4%;
+    overflow-y:auto;
+}

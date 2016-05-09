@@ -1,0 +1,392 @@
+<?xml-model href="../schema_interview.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../exampleSchematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<interview>
+
+    <meta>
+        <project>Russian Movie Theater Project (RMTP)</project>
+        <university>College of William and Mary</university>
+        <persons>
+            <interviewee ref="voronin"/>
+            <interviewer ref="parks"/>
+            <interviewer ref="clark"/>
+            <transcriber ref="clark"/>
+            <transcriber ref="kitchen"/>
+            <translator ref="clark"/>
+            <translator ref="kitchen"/>
+        </persons>
+
+        <date milestone="interview">July 2013</date>
+        <date milestone="translation">Fall 2013</date>
+
+    </meta>
+
+    <body>
+        <speech speaker="parks" speechtype="q">Сегодня двадцать девятоe июля 2013ого года. Мы
+            находимся в Санкт Петербурге, в России. Меня зовут Джессика Паркс, мою коллегу Эмили
+            Кларк. Эмили и я берём интервью у Михаила Воронина. Мы берём у вас интервью для
+            кинопроекта, который изучает общественную, политическую, и культурную историю России
+            Через фильмы. Мы хотели бы, чтобы вы рассказали нам о ваших воспоминаниях о посещении
+            кино. На основании Ваших ответов мы напишем эссе, в котором мы проанализируем результаты
+            опроса и напишем о посещении кинотеатров в России.
+            Цель этого интервью для нас – узнать как можно больше о конкретных людях и месте кино в
+            их жизни. Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу
+            помощь нам. Это интервью будет доступно для прослушивания на интернетсайте кинопроекта.
+            Если вы не против, давайте начнём. </speech>
+        <speech speaker="voronin" speechtype="a">Very good!</speech>
+        <speech speaker="parks" speechtype="q">Расскажите нам, когда и где вы выросли. </speech>
+        <speech speaker="voronin" speechtype="a">Я вырос на <place ref="urals">Урале</place>, в
+            городе <place ref="ufa">Уфа</place>. Это один из городов милионников, довольно большой
+            город в <place ref="russia">России</place>. Первыe 15 лет своей жизни <pron type="pers"
+                number="sing">я</pron> прожил именно там. </speech>
+        <speech speaker="parks" speechtype="q">Где работали ваши папа и мама?</speech>
+        <speech speaker="voronin" speechtype="a">Мои родители развeлись, когда <pron type="pers"
+                number="sing">я</pron> был еще ребенком. Моя мама работала стюардессой, летала, в
+            основном, по <place ref="russia">России</place>. Иногда ближнее зарубежье. </speech>
+        <speech speaker="parks" speechtype="q">Какоe у вас образование? </speech>
+        <speech speaker="voronin" speechtype="a">Сейчас <pron type="poss" number="sing">у
+                меня</pron> высшее образование. В этом году <pron type="pers" number="sing">я</pron>
+            закончил Военный университет. </speech>
+        <speech speaker="parks" speechtype="q">В каких городах вы жили? </speech>
+        <speech speaker="voronin" speechtype="a">Я жил в <place ref="ufa">Уфе</place>, столице
+                <place ref="republicBashkirtostan">республики Башкортостан</place>. Также жил 3 года
+            в <place ref="moscow">Москве</place>, в столице <place ref="russia">России</place>, и
+            последние 6 лет, <pron type="pers" number="sing">я</pron> жил в <place
+                ref="stPetersburg">Санкт Петербурге</place>, <epit ref="stPetersburg">самом
+                красивом</epit> городе, наs <pron type="poss" number="sing">мой</pron> взгляд. </speech>
+        <speech speaker="parks" speechtype="q">Вы помните первый раз когда вы ходили в кино? </speech>
+        <speech speaker="voronin" speechtype="a">Нет, <pron type="pers" number="sing">я</pron> не
+            помню первый раз. Плохо, очень плохо помню. </speech>
+        <speech speaker="parks" speechtype="q">Какие фильмы вы посмотрели? </speech>
+        <speech speaker="voronin" speechtype="a">Так как <pron type="pers" number="sing">я</pron>
+            начал в кино ходить с детства, то все было в хронологическом порядке. Начиная с <title
+                ref="rockyBullwinkle">Роки и Бульвинкля</title>, <hes type="lex">может быть</hes> вы
+            знаете, и заканчивая <genre ref="horror">ужастиками</genre>, <genre ref="comedy"
+                >комедиями</genre>. Сейчас, в принципе, сейчас редко очень хожу в кино. </speech>
+        <speech speaker="parks" speechtype="q">Сколько вам было лет? </speech>
+        <speech speaker="voronin" speechtype="a">Я не помню, <hes type="lex">наверно</hes>, это был
+            первый класс, семь лет. Семь или восемь. </speech>
+        <speech speaker="parks" speechtype="q">С кем вы ходили в кино? </speech>
+        <speech speaker="voronin" speechtype="a">С кем <pron type="pers" number="sing">я</pron>
+            только не ходил в кино!<pron type="pers" number="sing"> Я </pron>первый раз с кем ходил?
+            Вообще? <pron type="pers" number="sing">Я</pron> ходил в кино с мамой, с учительницeй
+                <hes type="nonlex"/> почти со всеми девушками. С друзьями <pron type="pers"
+                number="plur">мы</pron> любили ходить в кино, большой компанией. Да, большой
+            компанией и также немножко, предварительно развеселившись. <pron type="pers"
+                number="sing">Я</pron> бы, <pron type="pers" number="sing">я </pron>, просто, не
+            могу сказать это на запись, чем обычно веселятся перед кино. Ваши ребята меня поймут. </speech>
+        <speech speaker="parks" speechtype="q">Сколько стоил билет? </speech>
+        <speech speaker="voronin" speechtype="a">Билет стоил, <pron type="pers" number="sing"
+                >я</pron> не помню, копейки. Поначалу <hes type="nonlex"/>, поначалу, когда <pron
+                type="pers" number="plur">мы</pron> были детьми и <pron type="poss" number="plur">у
+                нас</pron> было мало собственно денег в карманов, <pron type="pers" number="plur"
+                >мы</pron> ходили на утренние сеансы, тогда было дешевле. А потом уже в любое време.
+            Билет стоил от, от одного доларов, по вашему, до десяти или двадцати доларов. </speech>
+        <speech speaker="parks" speechtype="q">Как назывался <place ref="movieTheater"
+                >кинотеатр</place>? Опишите <place ref="movieTheater">кинотеатр</place>. </speech>
+        <speech speaker="voronin" speechtype="a">Кинотеатр назывался <place ref="kinoteatrIskra"
+                >Искра</place>. Он был сначала в советском стиле оформлен, в старом стиле. “Old
+            School”. Но потом его отреставрировали, сделали хороший ремонт, и сейчас это <epit
+                ref="kinoteatrIskra">современный</epit> кинозал, очень много
+                <collective>людей</collective> туда ходят, в <place ref="russia">России</place> кино
+            в последнее время странно популярно, и все премьеры сюда, и все звезды съезжаются,
+            например. </speech>
+        <speech speaker="parks" speechtype="q">Вы ходили пешком, или ездили? </speech>
+        <speech speaker="voronin" speechtype="a">Обычно <pron type="pers" number="sing">я</pron>
+            ездил, это довольно далеко от дома было, ближайший <place ref="movieTheater"
+                >кинотеатр</place> от <pron type="poss" number="sing">моего</pron> дома был
+            километров двадцать. </speech>
+        <speech speaker="parks" speechtype="q">На чем вы ездили? </speech>
+        <speech speaker="voronin" speechtype="a">Обычно, сначала ездили на автобусах, после, уже
+            когда выросли, ездили на машинах. </speech>
+        <speech speaker="parks" speechtype="q">У вас был один кинотеатр или больше около дома? </speech>
+        <speech speaker="voronin" speechtype="a">Нет, около дома вообще <place ref="movieTheater"
+                >кинотеатров</place> не было. <pron type="pers" number="plur">Мы</pron> менялись
+            касетами VHS, этими, старыми. А <place ref="movieTheater">кинотеатр</place> был далеко
+            от дома. Кинотеатров в городе было, штук 5, сначала. А сейчас их штук 10, <pron
+                type="pers" number="sing">я</pron> думаю. </speech>
+        <speech speaker="parks" speechtype="q">Сравните эти кинотеатры. </speech>
+        <speech speaker="voronin" speechtype="a">Сравнить их немного трудно, потому что они все
+            типовые, похожи друг на друга, все <place ref="movieTheater">кинотеатры</place>. А
+            разница есть так <hes type="nonlex"/> такая: <place ref="movieTheater">кинотеатр</place>
+            <hes type="lex">может быть</hes> отдельным зданием стоять или <place ref="movieTheater"
+                >кинотеатр</place>
+            <hes type="lex">может быть</hes> в торговом комплексе. А, как правило, сейчас все <place
+                ref="movieTheater">кинотеатры</place> <collective><pron type="poss" number="plur">у
+                    нас</pron></collective> в торговoм комплексе. </speech>
+        <speech speaker="parks" speechtype="q">Когда вы начали ходить в кинотеатр один? </speech>
+        <speech speaker="voronin" speechtype="a">Я не помню лет, лет в 10. </speech>
+        <speech speaker="parks" speechtype="q">Вам нравилось ходить в кино и почему? </speech>
+        <speech speaker="voronin" speechtype="a">Мне нравилось ходить в кино только на опредленные
+            фильмы. <pron type="pers" number="sing">Я</pron> очень редко хожу в кино просто так.
+            Только на определенные <genre ref="blockbuster">блокбастеры</genre>, либо какие-то
+            знаменитые премьеры. Знаменитых режиссеров, либо актеров. <pron type="pers"
+                number="plur">Мы</pron> с друзьями больше любили гулять, играть в футбол, или в
+            хоккей. </speech>
+        <speech speaker="parks" speechtype="q">Как часто вы ходили в кино? На какие сеансы?
+            Утренние, дневные, вечерние? </speech>
+        <speech speaker="voronin" speechtype="a">Да по-разному, когда хотели, тогда ходили. Дети
+            были, ходили на утренние, а когда выросли, бывает в <place ref="russia">России</place>
+            холодно и, чтобы не мерзнуть, ходили в кино. </speech>
+        <speech speaker="parks" speechtype="q">Ходить в кино—это былo обычное дело или особое
+            событие? </speech>
+        <speech speaker="voronin" speechtype="a">В детстве, <hes type="lex">может быть</hes> особое,
+            а сейчас, пойти в кино это <hes type="nonlex"/>
+            <pron type="pers" number="plur">Мы</pron> считаем ходить в кино - это значит больше
+            нечем заняться. Если тебе нечем с пользой провести, не знаешь, как с пользой провести
+            время, можешь сходить в кино. </speech>
+        <speech speaker="parks" speechtype="q">Как посещение кино изменилось, когда вы выросли или
+            закончили школу? </speech>
+        <speech speaker="voronin" speechtype="a"><hes type="lex">Ну</hes> стало <epit ref="kino"
+                >менее интересным</epit>, <epit ref="kino">менее захватывающим</epit>. Проще стало
+            скачать из интернета. </speech>
+        <speech speaker="parks" speechtype="q">Какие были ваши самые любимые жанры в детстве? </speech>
+        <speech speaker="voronin" speechtype="a"><genre ref="comedy">Комедия</genre>, с самого
+            детсва, <pron type="poss" number="sing">мой</pron> любимый жанр <genre ref="comedy"
+                >,комедия</genre>, <genre ref="action">,боевики</genre> тоже любил, а сейчас больше
+            люблю какие-то <genre ref="melodrama">мелодрамы</genre>, либо основанные на реальных
+            событиях. </speech>
+        <speech speaker="parks" speechtype="q">Какие были ваши самые любимые жанры, когда вы были
+            студентами? </speech>
+        <speech speaker="voronin" speechtype="a">Конечно <genre ref="adult">порно</genre>. Конечно,
+                <genre ref="adult">порно</genre>, это правда не нужно ничего менять, у
+                <collective>всех</collective> русских студентов, это так. А потом, <genre
+                ref="action">боевики</genre>, и <genre ref="comedy">комедии</genre>. </speech>
+        <speech speaker="parks" speechtype="q">У вас есть любимый фильм? </speech>
+        <speech speaker="voronin" speechtype="a">Да, <pron type="pers" number="sing">я</pron> думаю,
+                <pron type="poss" number="sing">у меня</pron> есть несколько любимых фильмов. Просто
+                <pron type="pers" number="sing">я</pron> очень много фильмов посмотрел, последний
+            фильм, который произвел впечатление, называется “<title ref="mavericks"
+                >Mavericks</title>” <hes type="nonlex"/> либо, <title ref="mavericks">Укротители
+                волн 1</title> на русском. Это плохой перевод, с <person ref="butler">Джеральдом
+                Батлером</person>. Maybe, но <hes type="lex">может быть</hes> ты знаешь. Почему
+            понравилось? Он основан на реальных событиях. </speech>
+        <speech speaker="parks" speechtype="q">У вас были любимые актеры или актрисы в зарубежном
+            кино? Кто и почему? </speech>
+        <speech speaker="voronin" speechtype="a">Да. Есть любимые актеры. Почему? Почему не знаю.
+                <person ref="theron">Шарлиз Терон</person>, например. Да, <person ref="theron"
+                >Шарлиз Терон</person>, а <hes type="nonlex"/><hes type="lex"> ну </hes><person
+                ref="depp">Джонни Депп</person>, хорош, особенно в <title ref="piratesCaribbean"
+                >Пиратах</title>. Вo-первых. <hes type="lex">Может быть</hes>, <person ref="carrey"
+                >Джим Керри</person>, да, Джим Керри. Особенно в <title ref="mask">Маске</title> и в
+                <title ref="aceVentura">Эйс Вентура</title>, самые лучшие его работы. <person
+                ref="murphy">Мерфи, Эдди Мерфи</person> красавчик. Тоже делал вещи. </speech>
+        <speech speaker="parks" speechtype="q">Вы помните какой-нибудь фильм или посещение кино
+            особенно? Расскажите об этом посещении. </speech>
+        <speech speaker="voronin" speechtype="a">Нет. Особенно <pron type="pers" number="sing"
+                >я</pron> не помню именно посещения <place ref="movieTheater"
+                    >кинотеатров</place>.<pron type="pers" number="sing"> Я </pron> больше помню фильмы,
+            которые на всю жизнь запомнились. <title ref="godfather">Крестный Отец</title>,
+            “Godfather”. Также русский сериал, может вы, смотрели, <title ref="brigade"
+                >Бригада</title>. Русский сериал <title ref="brigade">Бригада</title>, и русский
+            фильм <title ref="brother">Брат</title> и <title ref="brother2">Брат 2</title>. “Brother
+            and Brother 2.” <hes type="lex">Ну</hes>, да, <pron type="pers" number="sing">я</pron>
+            думаю <hes type="lex">может быть</hes> еще некоторые фильмы, а да, <title
+                ref="lifeIsBeautiful">Это Прeкрасная Жизнь</title>. 2 “It’s A Beautiful Life.”
+            Итальянский фильм. <hes type="lex">Может быть</hes>
+            <pron type="pers" number="sing">я</pron> перепутал название. Итальянский фильм. Многие
+                <pron type="poss" number="plur">наши</pron> взгляды с <pron type="poss"
+                number="sing">моими</pron> друзьями совпадают с рейтингом Интернет Муви Дейта Бейз. </speech>
+        <speech speaker="parks" speechtype="q">Как вы проводили свободное время кроме посещения в
+            кино? </speech>
+        <speech speaker="voronin" speechtype="a">Гуляли, играли в футбол, и в хоккей. <pron
+                type="pers" number="sing">Я</pron> думаю примерно так же, как и все подростки, у
+            которых есть свободное время и которые могут себе что-нибудь запрещенное купить. </speech>
+        <speech speaker="parks" speechtype="q">С кем вы были обычно ходите в кино? </speech>
+        <speech speaker="voronin" speechtype="a">Обычно с либо друзьями, либо с подругами. Очень
+            редко ходим смешанной компанией. Как правило, только мальчики или только девочки. “Only
+            boys or only girls.” </speech>
+        <speech speaker="parks" speechtype="q">Больше мужчин или женщин? </speech>
+        <speech speaker="voronin" speechtype="a">В кино ходят? Даже не знаю, <hes type="lex"
+                >наверно</hes>, больше женщин. Но, скорее потому, что <collective><pron type="poss"
+                    number="plur">у нас</pron></collective> вообще больше женщин живет. </speech>
+        <speech speaker="parks" speechtype="q">Вообще, люди чаще ходили в кино с семьями или с
+            друзьями или с подругами? </speech>
+        <speech speaker="voronin" speechtype="a">Да нет, больше девушки ходят в кино, потому что им
+            делать нечего. Вот, семьи ходят редко, в выходные, семьи ходят в кино. </speech>
+        <speech speaker="parks" speechtype="q">В <place ref="movieTheater">кинотеатрах</place> были
+            очереди? Вы помните когда вы ждали в очереди? </speech>
+        <speech speaker="voronin" speechtype="a">Да, но очень редко. Очень редко когда бывали
+            очереди. Пять минут максимум. </speech>
+        <speech speaker="parks" speechtype="q">Разные группы сидели в разных частях кинозала? </speech>
+        <speech speaker="voronin" speechtype="a">Разные группы? <hes type="lex">Ну</hes>, когда как.
+            По-разному, бывало, мест не было, бывало, <pron type="pers" number="plur">мы</pron> там
+            могли лечь и смотреть. </speech>
+        <speech speaker="parks" speechtype="q">Люди шумели или вели себя тихо во время сеанса? </speech>
+        <speech speaker="voronin" speechtype="a">Ах, не всегда. Это смотря какой сеанс, бывало, и
+                <pron type="pers" number="plur">мы</pron> шумели. </speech>
+        <speech speaker="parks" speechtype="q">Как люди одевались в кино? Нарядно или обычно? </speech>
+        <speech speaker="voronin" speechtype="a">По-разному. Для многих в кино выйти - это событие
+            какое-то. Особенно для девушек показать себя, <pron type="pers" number="sing">я</pron>
+            не знаю почему, могут и зимой одеть колготки, тонкие, одеть высокие шпильки, это
+            неудобно, это глупо, но чтобы привлекательно выглядеть. Парни проще одевались. </speech>
+        <speech speaker="parks" speechtype="q">Вы знали людей, которые работали в <place
+                ref="movieTheater">кинотеатре</place>? </speech>
+        <speech speaker="voronin" speechtype="a">Да, парочку знал. И, бывало, ходили бесплатно. </speech>
+        <speech speaker="parks" speechtype="q">Какая была атмосфера в <place ref="movieTheater"
+                >кинотеатре</place>? </speech>
+        <speech speaker="voronin" speechtype="a">По-разному. На ужастиках обычно <epit ref="kino"
+                >весело</epit>, потому что <pron type="pers" number="plur">мы</pron> на <genre
+                ref="horror">ужастиках</genre> ходим с девушкой и самый напряженный момент,<pron
+                type="pers" number="plur"> мы </pron>специально ее пугаем. <hes type="lex">Ну</hes>,
+            чтобы посмеяться. </speech>
+        <speech speaker="parks" speechtype="q">Опишите <place ref="movieTheater">кинотеатр</place>.
+            Если можно, сравните с <place ref="movieTheater">кинотеатрами</place> сейчас. </speech>
+        <speech speaker="voronin" speechtype="a">Я даже не знаю как его описать. Там большой экран,
+                <epit ref="kino">темно</epit> и <epit ref="kino">громко</epit>. </speech>
+        <speech speaker="parks" speechtype="q">Опишите звуки и запахи, которые вы вспоминаете, когда
+            вы думаете о кинотреатрах. </speech>
+        <speech speaker="voronin" speechtype="a">Запах попкорна. <pron type="pers" number="sing"
+                >Я</pron> думаю звук, <epit ref="kino">сильный нарастающий</epit> звук. Сильными
+            басами. </speech>
+        <speech speaker="parks" speechtype="q">Кресла были удобные? </speech>
+        <speech speaker="voronin" speechtype="a">Когда как, обычно да, <epit ref="kino">обычно
+                удобные</epit>. </speech>
+        <speech speaker="parks" speechtype="q">В кино было холодно, тепло, жарко, душно? </speech>
+        <speech speaker="voronin" speechtype="a">Тоже по-разному, иногда кондиционер не работал, а
+            иногда слишком сильно работал. </speech>
+        <speech speaker="parks" speechtype="q">Кинотеатр был большой? Сколько было залов? </speech>
+        <speech speaker="voronin" speechtype="a">Когда, бывает <hes type="nonlex"/> Залов бывает от
+            двух до пятнадцати, <pron type="pers" number="sing">я</pron> так думаю. А посадочных
+            мест бывает от 50 до 300. До 300 посадочных мест. Разные. </speech>
+        <speech speaker="parks" speechtype="q">Кинотеатр был только для кино, или для других
+            мероприятий? </speech>
+        <speech speaker="voronin" speechtype="a">Иногда и для других мероприятий. Но в основном, для
+            кино. </speech>
+        <speech speaker="parks" speechtype="q">Был буфет? Что продавали в буфете? </speech>
+        <speech speaker="voronin" speechtype="a">В буфетах всегда продавали попкорн, пепси, колу,
+            пиво продавали еще. И бывало что-нибудь поесть. Мороженое. Ice cream. </speech>
+        <speech speaker="parks" speechtype="q">Были в кинотреатре билетеры и сколько им обычно было
+            лет?</speech>
+        <speech speaker="voronin" speechtype="a">А билетеры были всегда, обычно это было молодые
+            люди. Обычно это было молодые девушки. До 30 лет. </speech>
+        <speech speaker="parks" speechtype="q"> Где вы обычнои любили сидеть и почему?</speech>
+        <speech speaker="voronin" speechtype="a">Смотря с кем придешь в кино. С друзьями сидели
+            обычно в центре, чтобы лучше видеть, а с девушками обычно сзади. Места для
+            поцелуев.</speech>
+        <speech speaker="parks" speechtype="q">Фильмы были немые или звуковые? Черно-белые или
+            цветные? </speech>
+        <speech speaker="voronin" speechtype="a">Всегда были цветные, всегда были со звуком, за
+            исключением специальных фильмов, не специальных, а когда по задумке режиссера. Если во
+            всех <place ref="movieTheater">кинотеатрах</place> мира крутился черно-белый и без
+            звука, то <collective><pron type="poss" number="plur">у нас</pron></collective> тоже. А
+            все остальные цветные, со звуком </speech>
+        <speech speaker="parks" speechtype="q">Какое былo качество?</speech>
+        <speech speaker="voronin" speechtype="a">Качество отличное было. Tакже много сейчас <place
+                ref="movieTheater">кинотеатров</place> в формате 3D, IMAX. <pron type="pers"
+                number="sing">Я</pron> просто не очень большой фанат кино в последное время, очень
+            редко бываю, нет времени. </speech>
+        <speech speaker="parks" speechtype="q">Какие фильмы были самыми популярными у зрителей и
+            почему? </speech>
+        <speech speaker="voronin" speechtype="a">У зрителей? Были самые популярные фильмы <hes
+                type="nonlex"/>
+            <pron type="pers" number="sing">я</pron> думаю, те которые хорошо рекламировались. У
+            россиян привычка такая, популярная, попсовая ходить в кино, если хорошая реклама, то
+            много <collective>людей</collective> ходят в кино. Если кино понравилось, то расскажут
+            друзьям, и друзья сходят. А <pron type="pers" number="sing">я</pron> думаю, почти те же
+            фильмы, что и в Америке, почти те же фильмы популярны и в России. Как вообще в мире, судя
+            по рейтингaм. </speech>
+        <speech speaker="parks" speechtype="q">В <place ref="movieTheater">кинотеатрах</place> часто
+            показывали иностранные фильмы? И фильмы из каких стран? </speech>
+        <speech speaker="voronin" speechtype="a">Почти всегда иностранные фильмы, потому что после
+            развала <place ref="sovietUnion">Советского Союза</place><collective><pron type="poss"
+                    number="plur"> у нас </pron></collective>мало кино снималось. Вот, но сейчас,
+            показывают и <nationalCinema ref="foreignCinema">иностранные</nationalCinema>, и
+                    <collective><pron type="poss" number="plur">наши</pron> фильмы</collective>,
+            всех стран, абсолютно всех стран, в основном, конечно, это <nationalCinema
+                ref="americanCinema">американские фильмы</nationalCinema>, в основном, потомучто они
+                <epit ref="americanCinema">самые прокатные</epit>. <epit ref="americanCinema">Самые
+                успешные</epit> в прокате. </speech>
+        <speech speaker="parks" speechtype="q">Какие фильмы вам нравились больше всего? </speech>
+        <speech speaker="voronin" speechtype="a">Больше всего, нравились, well, по возрасту, в
+            детстве <genre ref="skazka">фильмы-сказки</genre>, потом и <genre ref="action"
+                >боевики</genre>, а потом больше <genre ref="melodrama">мелодрамы</genre>.
+            По-разному. По настроению. Скажем так. </speech>
+        <speech speaker="parks" speechtype="q">Были фильмы, на которые нельзя было ходить детям и
+            почему? </speech>
+        <speech speaker="voronin" speechtype="a">Да, очень много таких фильмов, и сейчас такие
+            ограничения есть. Почему? Всем известно почему. Потому что там сцены для взрослых
+            присутствуют. С рейтингом R, <nationalCinema ref="americanCinema">вашим же
+                американским</nationalCinema>, но дети ходят, в основном. Если хотят. </speech>
+        <speech speaker="parks" speechtype="q">Вам не разрешали ваши родители или администрация
+                <place ref="movieTheater">кинотеатра</place>? </speech>
+        <speech speaker="voronin" speechtype="a">Не разрешали, но <pron type="pers" number="plur"
+                >мы</pron> все равно ходили. И администрация <place ref="movieTheater"
+                >кинотеатра</place> нам не запрещала, когда <pron type="pers" number="sing">я</pron>
+            был маленький, а сейчас <pron type="pers" number="sing">я</pron> не знаю, <hes
+                type="lex">может быть</hes>, сейчас и запрещают. </speech>
+        <speech speaker="parks" speechtype="q">Вы пробовали пройти на фильм, на который вам нельзя
+            было пройти? </speech>
+        <speech speaker="voronin" speechtype="a">Конечно. В этом, и был интерес. </speech>
+        <speech speaker="parks" speechtype="q">Расскажите о том, как это было. </speech>
+        <speech speaker="voronin" speechtype="a">Это было легко, потому что, <hes type="lex">ну,
+            </hes>в <place ref="russia">России</place>, когда <pron type="pers" number="sing"
+                >я</pron> был маленький, не особо следили за возрастом и не особо соблюдали правила.
+            Да и сейчас, главное, денег заработать. И не важно что ребенок на пару лет моложе и
+            пройдет на кино для взрослых. Ребенок сам же этого хочет. </speech>
+        <speech speaker="parks" speechtype="q">Вы помните какой-нибудь фильм, у которого были
+            проблемы с выходом на экран? Расскажите о таком фильме. </speech>
+        <speech speaker="voronin" speechtype="a">Если честно, не помню, потому что <pron type="pers"
+                number="sing">я</pron> не интересовался. Если бы у него были проблемы, он просто бы
+            на экран не вышел, и никто бы его не увидел. Поэтому <pron type="pers" number="sing"
+                >я</pron> не помню таких фильмов. </speech>
+        <speech speaker="parks" speechtype="q">Как вы узнавали о репертуаре <place
+                ref="movieTheater">кинотеатра</place>? </speech>
+        <speech speaker="voronin" speechtype="a">О репертуаре <place ref="movieTheater"
+                >кинотеатров</place>? Узнавал либо по рекламам, рекламным баннерам на улицах и
+            вывескам, либо в интернете, на расписании <place ref="movieTheater">кинотеатров</place>.
+            Или от друзей, которым понравился какой-нибудь фильм. </speech>
+        <speech speaker="parks" speechtype="q">Вы читали о фильмах в журналах или в газетах? </speech>
+        <speech speaker="voronin" speechtype="a">Да, случайно, если только случайно попадалось. В
+            Плейбое, например. </speech>
+        <speech speaker="parks" speechtype="q">Как реклама кино изменилась с советского времени? </speech>
+        <speech speaker="voronin" speechtype="a">Почти никак, реклама просто стала лучше и красивее.
+            Ее стало больше. </speech>
+        <speech speaker="parks" speechtype="q">Ваши родители ходили в кино? </speech>
+        <speech speaker="voronin" speechtype="a">Конечно ходили, только в кино родители и ходили. </speech>
+        <speech speaker="parks" speechtype="q">Что они смотрели? </speech>
+        <speech speaker="voronin" speechtype="a">Я не знаю, они мало рассказывали, <pron type="pers"
+                number="sing">я</pron> думаю то же самое, но раньше крутили почти все <place
+                ref="movieTheater">кинотеатры</place> только советские фильмы. </speech>
+        <speech speaker="parks" speechtype="q">Они ходили в кино вместе с вами, друг с другом, одни? </speech>
+        <speech speaker="voronin" speechtype="a">Когда как, по-разному. Или вместе, и без меня, то
+            есть, это ни от чего не зависело, от настроения, по желанию. </speech>
+        <speech speaker="parks" speechtype="q">У вас был телевизор? </speech>
+        <speech speaker="voronin" speechtype="a">Да. </speech>
+        <speech speaker="parks" speechtype="q">Когда вы купили его, вы ходили в кино больше или
+            меньше? </speech>
+        <speech speaker="voronin" speechtype="a">Столько же. </speech>
+        <speech speaker="parks" speechtype="q">Вы знаете, когда звуковые фильмы пришли на экраны? </speech>
+        <speech speaker="voronin" speechtype="a">Нет, не знаю, но помню, что давно. Давно <hes
+                type="nonlex"/> после <hes type="nonlex"/> где-то, первые звуковые фильмы до Второй
+            мировой появились, по-моему, в <place ref="america">Америке</place>. А после второй
+            мировой уже появились и у нас, в <place ref="sovietUnion">СССР</place>. </speech>
+        <speech speaker="parks" speechtype="q">Вы помните фильмы во время войны? После войны? Во
+            время перестройки? </speech>
+        <speech speaker="voronin" speechtype="a">Да, <pron type="pers" number="sing">я</pron>
+            смотрел, естественно, нeмного позже.<pron type="pers" number="sing"> Я </pron>ходил на
+            премьерные показы. Был немного занят. Вот, но потом смотрел много фильмов, да, есть
+            довольно интересные. У них свой стиль, есть, кстати, много запрещенных фильмов, которые
+            советское правительство запрещало показывать и только сейчас они вышли на экраны. Но,
+            если честно, они мне не очень по душе. </speech>
+        <speech speaker="parks" speechtype="q">Как ваше посещение <place ref="movieTheater"
+                >кинотеатров</place> изменилось со временем и почему? </speech>
+        <speech speaker="voronin" speechtype="a">Реже хожу, потому что меньше времени, и <place
+                ref="movieTheater">кинотеатр</place> уже немножко приелся. Раньше это было что-то
+            удивительное и редкое, <hes type="lex">может быть</hes>. Редко, когда мало ходишь, это
+            как захватывает дух. А сейчас хочется чего-то нового. Каких-то новых удовольствий, но
+                <pron type="pers" number="sing">я</pron> знаю многих людей, многих <pron type="poss"
+                number="sing">моих</pron> друзей, у которых, есть такая привычка, ходить в кино, они
+            просто не знают, куда еще пойти. Им хватает похода в кино. </speech>
+        <speech speaker="parks" speechtype="q">Что бы вы хотели добавить в заключениe? </speech>
+        <speech speaker="voronin" speechtype="a">В заключение, <pron type="pers" number="sing"
+                >я</pron> хочу добавить <hes type="nonlex"/>что нужно сходить как-нибудь в кино.
+            Давно что-то <pron type="pers" number="sing">я</pron> там не был, да, и что <title
+                ref="ironman3">Железный Человек 3</title>, <title ref="ironman3">Ironman 3</title>,
+            very good. </speech>
+        <speech speaker="parks" speechtype="q">У кого бы вы посоветовали нам взять интервью на эту
+            же тему в будущем? </speech>
+        <speech speaker="voronin" speechtype="a">Только не <pron type="poss" number="sing">у
+                меня</pron>! У кого-нибудь другого. Потому что <pron type="pers" number="sing"
+                >я</pron> мало чего могу сказать. Последнее время особенно. </speech>
+    </body>
+</interview>

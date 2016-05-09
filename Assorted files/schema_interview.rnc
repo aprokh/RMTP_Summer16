@@ -1,0 +1,35 @@
+#changes: chanted name of nat_cinema element to natCinema to reflec this. 
+#       Changed ref and speaker to be text, rather than IDREF (these are verified with schematron against EXTERNAL document, not internal xml:id attributes)
+
+start = interview
+interview = element interview {meta, body}
+meta = element meta {project, university, persons, date+}
+#I used place_meta, to include <university> in the index, and peson_list to differentiate it from the <person> element in the body.
+project = element project {text}
+university = element university {text}
+persons = element persons {mixed {interviewer | interviewee | transcriber | translator}+}
+interviewer = element interviewer {mixed {ref}}
+ref = attribute ref {text}
+interviewee = element interviewee {mixed {ref}}
+transcriber = element transcriber {mixed {ref}}
+translator = element translator {mixed {ref}}
+date = element date {milestone, text}
+milestone = attribute milestone {"interview" | "translation"}
+body = element body {speech+}
+speech = element speech {mixed {(speaker, speechtype), (title | person | place | genre | nationalCinema | hes | epit | pron | collective)*}}
+speaker = attribute speaker {text}
+speechtype = attribute speechtype {"q" | "a"}
+title = element title {ref, text}
+person = element person {ref, text}
+place = element place {ref, text}
+genre = element genre {ref, text}
+nationalCinema =  element nationalCinema {ref, text}
+hes = element hes {type, text}
+type = attribute type {"lex" | "nonlex"}
+lex = attribute lex {text}
+nonlex = attribute nonlex {text}
+epit = element epit {mixed {ref}}
+pron = element pron {mixed {pronType, number}}
+collective = element collective {mixed {pron?}}
+pronType = attribute type {"pers" | "poss"}
+number = attribute number {"sing" | "plur"}

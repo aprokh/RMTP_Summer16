@@ -1,0 +1,73 @@
+
+Danilenko English Translation XML Markup.
+Autotagging Stages.
+
+Regular Expressions
+
+ 1.     
+
+Find: Roberts: (with a space after colon)
+Replace: <speech speaker="roberts" speechtype="q">
+
+
+2.  
+
+Find: Danilenko: (with a space after colon)
+Replace: <speech speaker="danilenko" speechtype="a">
+
+
+3.  
+
+Find: ^<speech
+Replace: </speech>\n\0
+
+
+4.  Auto Tag Pronouns
+
+4.1. Personal pronoun, first person, singular:
+Find: I (with a space after the pronoun).
+Replace: <pron type="pers" number="sing">я</pron> (with a space after the pronoun).
+
+4.2. Personal pronoun, first person, plural:
+Find: We (with a space after the pronoun).
+Replace: <pron type="pers" number="plur">we</pron> (with a space after the pronoun).
+
+Problem: This autotagging killed all the capitalized "We"
+
+4.3.  Possessive pronouns, first person, singular
+Find: my (with a space after the pronoun).
+Replace: <pron type="poss" number="sing">my</pron> (with a space after the pronoun).
+
+4.4.  Possessive pronouns, first person, plural
+Find: our (with a space after the pronoun).
+Replace: <pron type="poss" number="plur">our</pron> (with a space after the pronoun).
+
+
+5. title
+Found in the Russian version and than manually tagged in the English translation.
+
+6. person
+Found in the Russian version and than manually tagged in the English translation.
+
+7. genre
+Found in the Russian version and than manually tagged in the English translation.
+
+8. nationalCinema
+Found in the Russian version and than manually tagged in the English translation.
+
+9. place
+Found in the Russian version and than manually tagged in the English translation.
+
+10. epit
+Found in the Russian version and than manually tagged in the English translation.
+
+11. hes marks
+done
+
+12
+Find: <collective
+
+
+
+
+

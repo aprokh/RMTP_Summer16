@@ -1,0 +1,9 @@
+xquery version "3.0";
+let $index := doc('/db/course/rmtp/index.xml')
+let $interviews := collection('/db/course/rmtp/data')/interview[.//interviewee/@ref = $index//person[.//gender/text()='f']/@xml:id]
+let $distinctGenres := distinct-values($interviews//genre/@ref)
+for $distinctGenre in $distinctGenres
+let $countInterviews := count($interviews//body[.//genre/@ref = $distinctGenre])
+where $countInterviews gt 1
+return concat($distinctGenre, " occurs in ", $countInterviews, "interview(s).")
+

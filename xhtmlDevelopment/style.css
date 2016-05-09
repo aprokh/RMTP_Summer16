@@ -1,0 +1,121 @@
+
+h1 {padding-top:30px;}
+
+body
+{background-color: #f4eee2;
+text-decoration:none;
+margin:0;
+color:black;}
+
+ul#indexList {
+    
+    list-style-type: none;
+    padding-left:0
+}
+
+#langToggle {
+position:fixed;
+top:20px;
+right:20px;
+}
+
+div#description
+{
+    margin-left:35px;
+    margin-right:35px;
+}
+
+div#menu
+{
+position: fixed;
+top: 0px;
+text-align: left;
+width: 100%;
+background-color: tan;
+z-index: 10;
+
+
+}
+
+ul#interviewList li a {text-decoration:none; color:maroon;}
+
+ul#menuList li a {text-decoration:none; color:black;}
+
+ul#menuList
+{
+  list-style: none;
+position: relative;
+color:black;
+}
+
+ul#menuList li
+{
+    display: inline;
+    padding-right:15px;
+    padding-left:15px;
+    font-size: 125%;
+    text-decoration:none;
+    color:black
+}
+
+ul#menuList li a:hover{color:white;}
+
+
+#menu ul li{
+    float:left;
+    display:inline-block;
+    text-align:center;
+}
+#menu li a{
+    padding:3px 8px;
+    text-decoration:none;
+    color:#FFFFFF;
+    float:left;
+    display:inline-block;
+}
+#menu li a:hover{
+    color:#FFFFFF;
+}
+#menu li ul{
+    display:none;
+    height:auto;
+    width:100px;
+    margin:0;
+}
+#menu li ul li{
+    display:block;
+    font-size:.8em;
+    color:#FFFFFF;
+    height:auto;
+    width:60px;
+    background:tan;
+    position:relative;
+    padding-top:3px;
+    padding-bottom: 3px;
+}
+#menu li:hover ul{
+    display:block;
+    position:absolute;
+    margin-top:28px;
+}
+
+#menu li:hover{
+    position:relative;
+    background:tan;
+}
+#menu li:active{
+    position:relative;
+    background:tan;
+    z-index:100;
+}
+#menu li:hover ul li{
+    padding:5px;
+    display:block;
+    width:160px;
+    background-color:tan;
+}
+#menu li:hover ul li a:hover{
+    background:tan;
+}
+
+

@@ -1,0 +1,14 @@
+xquery version "3.0";
+let $interviews := collection('/db/course/rmtp/data')
+let $distinctTitles := distinct-values($interviews//title/@ref)
+for $title in $distinctTitles
+let $otherTitles := $distinctTitles[. != $title]
+for $otherTitle in $otherTitles
+let $countInterviews := count($interviews//body[.//title/@ref = $title][.//title/@ref = $otherTitle])
+(:  :let $countInterviews := count($interviews//body[.//title/@ref = $title][.//title/@ref = $otherTitle])
+let $cooccurInterview := $interviews[.//title/@ref = $title][.//title/@ref = $otherTitle]/tokenize(base-uri(.), '/')[last()]
+where $countInterviews gt 0:)
+
+for $interview in $interviews[.//title/@ref = $title][.//title/@ref = $otherTitle]
+let $cooccurInterview := $interview/tokenize(base-uri(), '/')[last()]
+return concat($title, ',', $otherTitle, ',', $cooccurInterview, ',', $countInterviews)

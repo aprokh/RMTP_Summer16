@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema_index.rnc" type="application/relax-ng-compact-syntax"?>
+<index>
+    <persons>
+        <person xml:id="example1">
+            <role></role>
+            <surname></surname>
+            <forename></forename>
+            <gender>f</gender>
+            <nationality></nationality>
+        </person>
+    </persons>
+<projectIndex>
+    
+<places>
+    <stPetersburg/>
+    <russia/>
+    <pskovskayaOblast/>
+    <sovietUnion/>
+    <kinoteatrRodina/>
+    <nevel/>
+    <china/>
+    <hongKong/>
+    <urals/>
+    <ufa/>
+    <republicBashkirtostan/>
+    <moscow/>
+    <kinoteatrIskra/>
+    <kino/>
+    <film/>
+    <sverdlovsk/>
+    <ekaterinburg/>
+    <berlin/>
+    <domKino/>
+    <atHome/>
+    <movieTheater/>
+    <philadelphia/>
+    <seoul/>
+    <kinoteatrFestival/>
+    <microRegion/>
+    <cityCenter/>
+    <kinoteatrAurora/>
+    <kinoteatrMaksim/>
+    <leningrad/>
+    <videoSalon/>
+    <citySquare/>
+    <canneFestival/>
+    <nevskiyProspekt/>
+    <imperialRussia/>
+    <hotelAngleter/>
+    <isaacsSquare/>
+    <hollywood/>
+    <siberia/>
+    <volgograskayaOblast/>
+    <volgograd/>
+    <america/>
+    <vietnam/>
+    <kinoteatrMirazh/>
+    
+</places>
+
+<persons>
+    <irinaLeventhal/>
+    <andreyTartovskiy/>
+    <arseniyTartovskiy/>
+    <sokurov/>
+    <serebrennikov/>
+    <popogrebskiy/>
+    <pazolini/>
+    <antonioni/>
+    <visconti/>
+    <godar/>
+    <bergman/>
+    <fellini/>
+    <lynch/>
+    <jarmusch/>
+    <aronofsky/>
+    <vonTrier/>
+    <binoche/>
+    <karvay/>
+    <bellucci/>
+    <butler/>
+    <theron/>
+    <depp/>
+    <carrie/>
+    <murphy/>
+    <peck/>
+    <hepburn/>
+    <ryazanov/>
+    <allen/>
+    <almodovar/>
+    <mamonov/>
+    <mikhailkov/>
+    <menshov/>
+    <deNiro/>
+    <pacino/>
+    <chaplin/>
+    <christie/>
+    <lee/>
+    <rubichnik/>
+    <bondarchuk/>
+    <cruise/>
+    <jackson/>
+    <trofimenkov/>
+    <volobuev/>
+    <chuvilyaev/>
+    <gayday/>
+    <leonov/>
+    <pugacheva/>
+    <dalton/>
+    <deFunes/>
+    <mare/>
+    <rourke/>
+    <verne/>
+    <milosForman/>
+</persons>
+    
+<title>
+    <aladdin/>
+    <theLittleMermaid/>
+    <beautyBeast/>
+    <playingVictim/>
+    <straightStory/>
+    <wildHeart/>
+    <melancholy/>
+    <moodForLove/>
+    <mavericks/>
+    <piratesCaribbean/>
+    <aceVentura/>
+    <fullTitle><max/></fullTitle>   ???
+    <godfather/>
+    <brigade/>              TV
+    <brother/>
+    <brother2/>
+    <lifeIsBeautiful/>
+    <ironman3/>
+    <firstYearStudent/>
+    <romanHoliday/>
+    <goneWithTheWind/>
+    <moscowDoesNotBelieveInTears/>
+    <vasilisaTheWise/>
+    <pomegranate/>
+    <theIsland/>
+    <theAdmiral/>
+    <burntBySun2/>
+    <ironyOfFate/>
+    <piratesOfTheTwentiethCentury/>
+    <tenLittleIndians/>
+    <coldSummer/>
+    <nineAndHalfWeeks/>
+    <windowOnParis/>
+    <savageHuntKingStakh/>
+    <pinkCloud/>
+    <transformers/>
+    <worldwarZ/>
+    <hobbit/>
+    <lifeOfAdele/>
+    <inTheAnimalWorld/> TV
+    <diamondArm/>
+    <elusiveAvengers/>
+    <swanLake/>         TV
+    <womanWhoSings/>
+    <troy/>
+    <spartacus/>
+    <alexander/>
+    <janeEyre/>
+    <dumbAndDumber/>
+    <pi/>
+    <spokNochi/>            TV
+    <childrenOfCaptainGrant/>
+    <unclеBoonmee/>
+    <juno/>
+    <irreversible/>
+</title>
+    
+<nationalCinema>
+    <americanCinema/>
+    <sovietCinema/>
+    <russianCinema/>
+    <foreignCinema/>
+    <europeanCinema/>
+    <italianCinema/>
+    <ourCinema/>
+    <chineseCinema/>
+    <japaneseCinema/>
+    <polishCinema/>
+    <indianCinema/>
+    <koreanCinema/>
+    <germanCinema/>
+    <frenchCinema/>
+    <swedishCinema/>
+    <taiwaneseCinema/>
+    <austrailianCinema/>
+</nationalCinema>
+
+<genre>
+    <cartoon/>
+    <childrens/>
+    <disney/>
+    <comedy/>
+    <drama/>
+    <melodrama/>
+    <psychologicalThriller/>
+    <horror/>
+    <blockbuster/>
+    <warFilms/>
+    <porno/>
+    <skazka/>
+    <comedy/>
+    <alternative/>
+    <artistic/>
+    <romance/>
+    <action/>
+    <erotic/>
+    <documentary/>
+    <classics/>
+    <patrioticFilms/>
+</genre>
+    
+</projectIndex>
+</index>
