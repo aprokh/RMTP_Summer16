@@ -1,1 +1,0 @@
-If we do end up doing PHP we need to “sanitize results“ to make sure that everything is clean. 
