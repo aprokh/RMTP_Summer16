@@ -1,0 +1,297 @@
+
+<?xml-model href="../schema_interview.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../exampleSchematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<interview>
+
+    <meta>
+        <project>Russian Movie Theater Project (RMTP)</project>
+        <university>College of William and Mary</university>
+        <persons>
+            <interviewee ref="danilenko"/>
+            <interviewer ref="roberts"/>
+            <transcriber ref="argodale"/>
+            <transcriber ref="roberts"/>
+            <transcriber ref="mcgrath"/>
+            <translator ref="argodale"/>
+            <translator ref="roberts"/>
+            <translator ref="mcgrath"/>
+        </persons>
+        <date milestone="interview">July 2008</date>
+        <date milestone="translation">Fall 2012</date>
+
+    </meta>
+
+
+    <body> <speech speaker="roberts" speechtype="q">What’s your
+            name? </speech>
+        <speech speaker="danilenko" speechtype="a"><pron type="poss" number="sing">my</pron> name is
+            Liudmila. </speech>
+        <speech speaker="roberts" speechtype="q">Last name and patronymic, please? </speech>
+        <speech speaker="danilenko" speechtype="a">Liudmila Vasilievna Danilenko. </speech>
+        <speech speaker="roberts" speechtype="q">And where were you born? </speech>
+        <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> was born
+            in <place ref="volgogradskayaOblast">Volgograd province</place>. And in 1982 <hes type="nonlex"/>… and from
+            1982 on I’ve been living in <place ref="stPetersburg">St.Petersburg</place>. </speech>
+        <speech speaker="roberts" speechtype="q">Do you remember the first time you went to the
+            movies? </speech>
+        <speech speaker="danilenko" speechtype="a">It was a long time ago. <hes type="lex">Maybe</hes> when <pron
+                type="pers" number="sing">I</pron> was five. </speech>
+        <speech speaker="roberts" speechtype="q">Do you remember the movie you went to see? </speech>
+        <speech speaker="danilenko" speechtype="a">It was a <genre ref="skazka">fairy tale</genre>. </speech>
+        <speech speaker="roberts" speechtype="q">Could you please explain the movie? </speech>
+        <speech speaker="danilenko" speechtype="a">The impression from watching the movie or its
+            plot? </speech>
+        <speech speaker="roberts" speechtype="q">About the experiences. </speech>
+        <speech speaker="danilenko" speechtype="a">About the experiences. The sensation<hes type="nonlex"/>…it was a
+            long time ago, it really was. The first big screen at <place ref="movieTheater">the
+                movies</place> for me was something unusual. Some sort of <genre ref="skazka">fairy
+                tale film</genre>. It was a version for kids, that all of life is a fairy tale, oh
+            so beautiful. Those were the first impressions. </speech>
+        <speech speaker="roberts" speechtype="q">Who did you go with? </speech>
+        <speech speaker="danilenko" speechtype="a">With <pron type="poss" number="sing">my</pron>
+            mom. </speech>
+        <speech speaker="roberts" speechtype="q">How did you like the movie theater? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes> <pron type="pers" number="sing">I</pron>
+            haven’t been in a modern <place ref="movieTheater">movie theater</place>, because in
+            connection with work, with <pron type="poss" number="sing">my</pron> profession, there
+            just isn’t time to go. But <pron type="poss" number="sing">my</pron> first
+            impression<hes type="nonlex"/>…what <epit ref="kino">a huge building</epit> <epit ref="kino">with big seats</epit>, something very enjoyable, something new,
+            it wasn’t quite a house. <pron type="pers" number="plur">we</pron> didn’t have a TV set
+            then, <pron type="pers" number="plur">we</pron> didn’t know what that was. But of course
+            it was very, very enjoyable. </speech>
+        <speech speaker="roberts" speechtype="q">When did you start going to the movies by yourself? </speech>
+        <speech speaker="danilenko" speechtype="a">It was<hes type="nonlex"/>…<hes type="lex">well</hes>, <pron type="pers" number="sing"
+                >I</pron> didn’t go alone, only sometime around sixteen, when <pron type="pers"
+                number="sing">I</pron> was sixteen years old. <hes ref="lex">Surely</hes> only then. And even so <pron
+                type="pers" number="plur">we</pron> went together to the movie theater. With school.
+            Or there was a showing for us at school, <pron type="pers" number="plur">we</pron> had a
+            not too big movie room. They showed them to us there or <pron type="pers" number="plur"
+                >we</pron> went in a group to the <place ref="movieTheater">movie theater</place>. </speech>
+        <speech speaker="roberts" speechtype="q">Did you like going to the movies? </speech>
+        <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> liked
+            it, of course <pron type="pers" number="sing">I</pron> liked it. </speech>
+        <speech speaker="roberts" speechtype="q">How often did you go to the movies? </speech>
+        <speech speaker="danilenko" speechtype="a">Not very often. <hes type="lex">Maybe</hes> once a month or once every
+            two months. Because it was such an expensive treat <hes type="nonlex"/>… </speech>
+        <speech speaker="roberts" speechtype="q">How did your habit of going to the movies change
+            when you grew up? </speech>
+        <speech speaker="danilenko" speechtype="a">It changed profoundly. When <pron type="pers"
+                number="sing">I</pron> was a kid, and when I, <hes type="lex">well</hes>, became a teenager and then
+            already a full-grown adult <hes type="nonlex"/>… Earlier cinema was more accessible to the <collective>people</collective>, it was
+            accessible for the <collective>people</collective>. It was just more full of life, not like today. Now these
+            films like <genre ref="blockbuster">blockbusters</genre>, everything is very <epit ref="blockbuster">strange</epit> and
+            <epit ref="blockbuster">a bit incomprehensible</epit>. </speech>
+        <speech speaker="roberts" speechtype="q">What were your favorite genres in childhood? </speech>
+        <speech speaker="danilenko" speechtype="a">As a child, <pron type="pers" number="sing"
+                >I</pron> think it was <genre ref="skazka">fairy tales</genre> and those educational
+            programs. <title ref="inTheAnimalWorld">In the World of Animals</title>, <collective><pron type="pers" number="plur">we</pron></collective> had a show like that, and many, many people
+            watched it. <genre ref="documentary">Documentaries</genre>. </speech>
+        <speech speaker="roberts" speechtype="q">Do you have a favorite movie? </speech>
+        <speech speaker="danilenko" speechtype="a"><collective><pron type="poss" number="plur">Our</pron> classics</collective>. But not just one, <pron type="pers" number="sing">I</pron> think there are
+            very many, the films of <person ref="gaidai">Gaidai</person>, <title ref="diamondArm">The Diamond Arm</title><hes type="nonlex"/>…and others. </speech>
+        <speech speaker="roberts" speechtype="q">Explain the movies, please. </speech>
+        <speech speaker="danilenko" speechtype="a">They’re <genre ref="comedy">comedies</genre>.
+            They became classics. Or <title ref="ivanVasilevichChangesJobs">Ivan Vasilievich Changes
+                his Profession</title>. You too <hes ref="lex">surely</hes> know it. They’re really <epit ref="diamondArm">interesting</epit> and
+            <epit ref="diamondArm">about real life</epit>. </speech>
+        <speech speaker="roberts" speechtype="q">Did you have favorite actors and actresses? </speech>
+        <speech speaker="danilenko" speechtype="a">Yes, of course. They were and still remain,
+            although they’re not still alive. <hes type="lex">Well</hes><hes type="nonlex"/>…<person ref="leonov">Eugene Leonov</person>. </speech>
+        <speech speaker="roberts" speechtype="q">Why were they your favorite actors? </speech>
+        <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> don’t
+            know why<hes type="nonlex"/>… watching them at the movies, you, <hes type="lex">maybe</hes> how you experienced the role that they were playing together with them. And it was very interesting, how they acted. </speech>
+        <speech speaker="roberts" speechtype="q">Do you remember any movie or outing concretely? </speech>
+        <speech speaker="danilenko" speechtype="a">Could you repeat the question? </speech>
+        <speech speaker="roberts" speechtype="q">Do you remember any movie or outing concretely? </speech>
+        <speech speaker="danilenko" speechtype="a">Outing to the <place ref="movieTheater">movie
+                theater</place>? That was a long time ago. <hes type="lex">Well</hes>, <pron type="pers" number="sing"
+                >I</pron> don’t know. Many different films, and the <genre ref="classics"
+                >classics</genre>, and <genre ref="warFilms">war movies</genre>. <pron type="pers"
+                number="sing">I</pron> really liked them as a kid. <collective><pron type="pers" number="plur">We</pron></collective> also had <title ref="elusiveAvengers">The Elusive Avengers</title>, it
+            was a <epit ref="elusiveAvengers">revolutionary</epit> film. There young boys played the roles. A young girl and young
+            boys. <pron type="pers" number="sing">I</pron> really liked that. </speech>
+        <speech speaker="roberts" speechtype="q">Why? </speech>
+        <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> don’t
+            know. <hes type="lex">Maybe</hes> they had such adventurous topics, perhaps because <pron type="pers"
+                number="plur">we</pron> were about the same age. </speech>
+        <speech speaker="roberts" speechtype="q">Do you remember a screening on television, a movie
+            on television? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes><hes type="nonlex"/>…the first movie, no<hes type="nonlex"/>…Yes. The first movie,
+            probably, <pron type="pers" number="sing">I</pron> don’t know, but <pron type="pers"
+                number="sing">I</pron> remember <pron type="pers" number="sing">I</pron> saw the
+            ballet <title ref="swanLake">Swan Lake</title> on TV. But that was <epit ref="swanLake">something fabulous</epit>. It was
+            <epit ref="swanLake">really, really beautiful</epit>. <pron type="pers" number="sing">I</pron> liked the music in
+            the show. And <pron type="pers" number="sing">I</pron> really liked the girls, who were
+            acting. <pron type="pers" number="sing">I</pron> was really little then. The first time
+                <pron type="pers" number="sing">I</pron> saw it. There were in really pretty
+            dresses, in tutus<hes type="nonlex"/>…they were all white, so unusual. It was that, probably, that left such
+            a strong impression on me. <pron type="pers" number="sing">I</pron> really, really liked
+            ballet. </speech>
+        <speech speaker="roberts" speechtype="q">Do you remember when you saw it? </speech>
+        <speech speaker="danilenko" speechtype="a">It was probably 1959. </speech>
+        <speech speaker="roberts" speechtype="q">How did you spend your free time, apart from going
+            to the movies? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, <collective><pron type="pers" number="plur">we</pron></collective> had a lot. <pron type="pers" number="sing">I</pron> lived in, how can one say this<hes type="nonlex"/>…such
+            a little village, like in the countryside. <pron type="pers" number="plur">we</pron> had
+            so many chores around the house, so much work. <pron type="pers" number="plur">we</pron>
+            helped <pron type="poss" number="plur">our</pron> parents. <pron type="pers"
+                number="plur">we</pron> had a lot of animals. <pron type="pers" number="plur"
+                >we</pron> took care of them, fed them. <pron type="pers" number="plur">we</pron>
+            read books. There, <pron type="pers" number="plur">we</pron> had vacation in the
+            summertime. After school <pron type="pers" number="plur">we</pron> were off for three
+            months. <hes type="lex">Well</hes> and they absolutely gave us a big assignment in school, in order for us to
+            ready many books over the summer. <hes type="lex">Well</hes> whatever, <pron type="pers" number="sing"
+                >I</pron> really like to read. </speech>
+        <speech speaker="roberts" speechtype="q">Who did you usually go to the movies with? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, when <pron type="pers" number="sing"
+                >I</pron> was little, with <pron type="poss" number="sing">my</pron> mom or with
+                <pron type="poss" number="sing">my</pron> older sister or <pron type="poss"
+                number="sing">my</pron> brother. And then <pron type="pers" number="sing">I</pron>
+            would go with <pron type="poss" number="sing">my</pron> friends. </speech>
+        <speech speaker="roberts" speechtype="q">Were there more men or women at the movie theater? </speech>
+        <speech speaker="danilenko" speechtype="a">No, it was really equal. </speech>
+        <speech speaker="roberts" speechtype="q">Did people often go to the movies with their
+            families or with their friends/girlfriends? </speech>
+        <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> don’t
+            know. How to say<hes type="nonlex"/>…it was generally different, <hes type="lex">maybe</hes> you went one tie with your friends,
+            then another time with family. Parents with their kids. </speech>
+        <speech speaker="roberts" speechtype="q">Were there lines at the movie theater? </speech>
+        <speech speaker="danilenko" speechtype="a">Yes, there were lines. </speech>
+        <speech speaker="roberts" speechtype="q">Do you remember waiting in line? </speech>
+        <speech speaker="danilenko" speechtype="a">What kind of movie? <pron type="pers"
+                number="sing">I</pron> remember <pron type="pers" number="sing">I</pron> was
+            studying in <place ref="volgograd">Volgograd</place>, and <pron type="pers"
+                number="sing">I</pron> went with <pron type="poss" number="sing">my</pron> friend.
+            The film was called <title ref="womanWhoSings">The Woman Who Sings</title>. <collecitve><pron type="poss" number="plur">our</pron></collecitve> <epit ref="pugacheva">famous singer</epit> <person ref="pugacheva">Alla
+                Borisovna Pugacheva</person> starred in that movie. </speech>
+        <speech speaker="roberts" speechtype="q">Why did you like it? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, how. She became a famous singer and a new
+            movie came out. <pron type="pers" number="plur">we</pron> really like seeing and
+            listening to her new songs and seeing her not like a singer, but like an actress. </speech>
+        <speech speaker="roberts" speechtype="q">Did you know people who worked at the movie
+            theater? </speech>
+        <speech speaker="danilenko" speechtype="a">At the <place ref="movieTheater">movie
+                theater</place><hes type="nonlex"/>…probably not. </speech>
+        <speech speaker="roberts" speechtype="q">How was the atmosphere in the movie theater? </speech>
+        <speech speaker="danilenko" speechtype="a">What was it like in the screening room? With how
+            the kids behaved, who came to the movies? It depended on the film they were showing,
+            they shouted, clapped. But when it was quiet, someone cried. What a topic there was in
+            the movie, if it was sad. When it was funny, everyone laughed. </speech>
+        <speech speaker="roberts" speechtype="q">Did you eat anything at the movie theater? </speech>
+        <speech speaker="danilenko" speechtype="a">No. <pron type="pers" number="sing">I</pron>
+            think that wasn’t permitted. If a person came to watch a film, that meant that all his
+            attention had to be turned to the screen, and he had to watch, and not snack. There was
+            another place for that. </speech>
+        <speech speaker="roberts" speechtype="q">But there was food service in the movie theater? </speech>
+        <speech speaker="danilenko" speechtype="a">Yes. </speech>
+        <speech speaker="roberts" speechtype="q">Other people ate? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, sometimes. </speech>
+        <speech speaker="roberts" speechtype="q">What did they eat? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, something there. Pies, sandwiches. What
+            they sold. Lemonade – like you have Coca Cola, Pepsi Cola, <collective><pron type="pers" number="plur">we</pron></collective> have lemonade. </speech>
+        <speech speaker="roberts" speechtype="q">And ice cream? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, <pron type="pers" number="plur">we</pron>
+            didn’t have ice cream. It was like that only in the city, <collective><pron type="poss" number="plur">they</pron></collective> <!-- DISCREPANCY between the original and translation in our markup.  I marked "they" as possessive here because in Russian original the interviewee uses "u nas" We need to account for such discrepancies in English translation in our analysis. Also when we publish our xhtml files this "they" will appear as a possessive pronoun, not personal.  We need to alert the user that this is not a mistake.  --> only seldom brought us
+            ice cream in the store. </speech>
+        <speech speaker="roberts" speechtype="q">Did you watch foreign movies? </speech>
+        <speech speaker="danilenko" speechtype="a">Foreign ones? Yes <pron type="pers" number="sing"
+                >I</pron> watched foreign movies. <hes type="lex">Well</hes>, and like today with <collective><pron type="poss" number="plur">our</pron> new movies</collective> <!-- Here is an interesting case of using <collective> element.  We tag not only the pronoun, which the interviewee uses to refer to the "us" as a national community, but also the words that "our" modifies, i.e. "new films" -->, <pron type="pers" number="sing">I</pron> don’t
+            really like <nationalCinema ref="foreignCinema">foreign movies</nationalCinema>. There’s
+            a lot of <hes type="nonlex"/>… some sort of violence and murder there. <hes type="lex">Well</hes>, <hes type="lex">maybe</hes> it’s like that, <pron
+                type="pers" number="sing">I</pron> don’t know. I’m somehow closer to <collective><pron
+                    type="poss" number="plur">our</pron> old movies</collective>, <collective><pron type="poss" number="plur">our</pron> movies</collective>. <!-- Here is an interesting case of using <collective> element.  We tag not only the pronoun, which the interviewee uses to refer to the "us" as a national community, but also the words that "our" modifies, i.e. "new films" -->. We’re brought up on <genre
+                ref="patrioticFilms">patriotic movies</genre>, on <genre ref="skazka">fairy
+                tales</genre>, something like that. <hes type="lex">Well</hes>, there are really good <nationalCinema
+                ref="foreignCinema">foreign movies</nationalCinema>, I’m not saying that it’s all
+            just <nationalCinema ref="americanCinema">American</nationalCinema>, <nationalCinema
+                ref="frenchCinema">French cinema</nationalCinema> there, no. There are really good
+            movies. <pron type="pers" number="sing">I</pron> watch them with enjoyment. </speech>
+        <speech speaker="roberts" speechtype="q">Do you remember any films you’ve seen? </speech>
+        <speech speaker="danilenko" speechtype="a">Foreign ones? <pron type="pers" number="sing"
+                >I</pron> can say <title ref="spartacus">Spartacus</title>, yours, but <pron
+                type="pers" number="sing">I</pron> don’t remember the director or the actors.
+            There’s <title ref="alexander">Alexander</title>, yours, <title ref="troy">Troy</title>
+            and <hes type="lex">maybe</hes> there’s others, <epit ref="alexander and spartacus and troy">historical</epit> ones like this, of course, these very
+            <epit ref="alexander and spartacus and troy">striking</epit> movies. </speech>
+        <speech speaker="roberts" speechtype="q">Do you like historical films? </speech>
+        <speech speaker="danilenko" speechtype="a">Yes. They’re really good. <title ref="gladiator"
+                >Gladiator</title>, although in these movies, of course, very many of their plots
+            are also tragic. But the movies are very interesting. </speech>
+        <speech speaker="roberts" speechtype="q">When did you see this movie? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes><hes type="nonlex"/>…it was last year <pron type="pers"
+                number="sing">I</pron> saw it. </speech>
+        <speech speaker="roberts" speechtype="q">And <title ref="spartacus">Spartacus</title> also? </speech>
+        <speech speaker="danilenko" speechtype="a">Yes. </speech>
+        <speech speaker="roberts" speechtype="q">And what movies do you like most of all? </speech>
+        <speech speaker="danilenko" speechtype="a">There’s also foreign comedies. <pron type="pers"
+                number="sing">I</pron> really like ones with <person ref="deFunes">Louis de
+                Funes</person>. French movies. Where <person ref="marais">Jean Marais</person>
+            plays. He’s already gone. One and the other, they died. <hes type="lex">Well</hes> Timothy Dalton is still
+            making movies. Now I’ll say, <pron type="pers" number="sing">I</pron> saw <title
+                ref="janeEyre">Jane Eyre</title>. The film’s called <title ref="janeEyre">Jane
+                Eyre</title>. <person ref="dalton">Timothy Dalton</person> plays in the movie. <pron
+                type="pers" number="sing">I</pron> really like it. Him too<hes type="nonlex"/>…like there’s a not too
+            big story there. </speech>
+        <speech speaker="roberts" speechtype="q">And do you like Timothy Dalton? </speech>
+        <speech speaker="danilenko" speechtype="a">Yes. </speech>
+        <speech speaker="roberts" speechtype="q">Do you have a favorite foreign actor? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes><hes type="nonlex"/>…<pron type="pers" number="sing">I</pron>
+            don’t know. <pron type="pers" number="sing">I</pron> like ones with <person ref="rourke"
+                >Mickey Rourke</person>. Rukenhauer? Did <pron type="pers" number="sing">I</pron>
+            get his name right? Also, <hes type="lex">well</hes>, <pron type="pers" number="sing">I</pron> could name
+            many, there are many good actors. </speech>
+        <speech speaker="roberts" speechtype="q">Were there movies you weren’t allowed to go to? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, yes. With <collective><pron type="poss" number="plur">us</pron></collective><!-- DISCREPANCY between the original and translation in our markup.  I marked "us" as possessive here because in Russian original the interviewee uses "u nas" We need to account for such discrepancies in English translation in our analysis. Also when we publish our xhtml files this "they" will appear as a possessive pronoun, not personal.  We need to alert the user that this is not a mistake.  --> it was forbidden, they
+            wouldn’t let you go up until sixteen. The movie theater only until four o’clock. And
+            there they showed only <genre ref="childrens">children’s films</genre>.</speech>
+        <speech speaker="roberts" speechtype="q">Your parents didn’t let you go or the movie
+            theater’s administration? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, the administration, and the school, but
+                <pron type="poss" number="sing">my</pron> parents too, how to say<hes type="nonlex"/>…they didn’t forbid
+            it. At nine o’clock <pron type="pers" number="plur">we</pron> had to come home if <pron
+                type="pers" number="plur">we</pron> were out. </speech>
+        <speech speaker="roberts" speechtype="q">Yes. Did you try to go out, to a film you weren’t
+            allowed to go to? </speech>
+        <speech speaker="danilenko" speechtype="a"><pron type="pers" number="plur">We</pron> tried,
+            but they didn’t let us in. </speech>
+        <speech speaker="roberts" speechtype="q">Do you remember any film that had problems coming
+            to the screen? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, <pron type="pers" number="sing">I</pron>
+            don’t know, <pron type="pers" number="sing">I</pron> can’t say that<hes type="nonlex"/>…<hes type="lex">Well</hes>, <hes type="lex">maybe</hes> the
+            censor forbade some films. </speech>
+        <speech speaker="roberts" speechtype="q">Excuse me? </speech>
+        <speech speaker="danilenko" speechtype="a">It was like that before, there was a commission.
+            They, when a film was ready, it was supposed to come to the big screen at the <place
+                ref="movieTheater">movie theater</place>, they watched it and gave their decision,
+            whether it was okay or not. <hes type="lex">Well</hes> <pron type="pers" number="sing">I</pron> don’t know. </speech>
+        <speech speaker="roberts" speechtype="q">Did your parents go to the movies? </speech>
+        <speech speaker="danilenko" speechtype="a">They went, but very rarely, when there was time. </speech>
+        <speech speaker="roberts" speechtype="q">What did they watch when they went? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, different kinds of movies that were <collective><pron
+                type="poss" number="plur">our</pron>
+            <genre ref="classics">classics</genre></collective><!-- Here is an interesting case of using <collective> element.  We tag not only the pronoun, which the interviewee uses to refer to the "us" as a national community, but also the words that "our" modifies, i.e. "new films" -->, and <genre ref="comedy">comedies</genre>, <hes type="lex">well</hes>
+            foreign films, <pron type="pers" number="sing">I</pron> can’t say their names now,
+            because <pron type="pers" number="sing">I</pron> was very little. <hes type="lex">Well</hes>, whatever was at
+            the <place ref="movieTheater">movie theater</place>, they tried when they were able to
+            go to the <place ref="movieTheater">movie theater</place> to see, and they were
+            interested in finding out how another country lived. </speech>
+        <speech speaker="roberts" speechtype="q">Do you still go to the movies? </speech>
+        <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> would
+            like to, but only if there were time and the opportunity, of course. But now, when there
+            is time, <pron type="pers" number="sing">I</pron> watch movies on television. </speech>
+        <speech speaker="roberts" speechtype="q">How and why did your experiences of movie theaters
+            change? </speech>
+        <speech speaker="danilenko" speechtype="a"><hes type="lex">Well</hes>, <pron type="pers" number="sing">I</pron>
+            haven’t been in a contemporary movie theater. Like <pron type="pers" number="sing"
+                >I</pron> don’t know now<hes type="nonlex"/>…what there is and stereo movies, different screening halls.
+            Before there was just a typical screening hall with chairs and a big screen. Of course,
+            the first impression was atypical for us when <pron type="pers" number="plur">we</pron>
+            went to the movies, but it was very enjoyable. <pron type="pers" number="sing">I</pron>
+            can’t compare today, because <pron type="pers" number="sing">I</pron> haven’t been in a
+            new theater. You could ask the younger generation though. </speech>
+        <speech speaker="roberts" speechtype="q">When was the last time when you went to the movies? </speech>
+        <speech speaker="danilenko" speechtype="a">Oy, the last time, huh? <hes type="lex">Well</hes>, ten years ago.
+        </speech>
+    </body>
+</interview>
