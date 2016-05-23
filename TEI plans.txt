@@ -1,9 +1,40 @@
+Can base conversion on this http://oralhistory.library.ucla.edu/technology/XML/simpleTEIp5.xml
+
+
 Should use <rs> and <name> with the attributes @type and, if needed, @subtype for all references, to refer back to our key. 
 	-think we should use @key for this. 
-	-<rs> if it is referring string; <name> if they explicitly state the name. 
-	-Epithets would probably be <rs> with @type the kind of referent, and @subtype as epithet. 
+	-<rs> if it is referring string; <name> if they explicitly state the name. We can 	do a general conversion to <rs>, but these should then be proofread and changed to 	<name> when applicable. 
+	-Epithets would probably be <rs> with @type the kind of referent, and @subtype as 	epithet. 
 
 Refer here for clear outline about how to do names, dates, places. http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html
 
 Could possibly use <gap> to do pauses in the speech. Used for omissions really, but might be able to use as a pause. 
+
+
+All tags (X next to ones that are appropriately dealt with in converter)
+
+interview X
+meta X
+project 
+university
+persons X
+date
+interviewer X
+interviewee X
+translator X
+milestone
+body X
+speech
+speaker
+speechtype
+title X
+person X
+place X
+genre X
+nationalCinema X
+hes
+epit X
+pron
+collective
+
 

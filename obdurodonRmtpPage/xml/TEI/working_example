@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>Russian Movie Theater Project (RMTP)College of William and Mary<list>
+         <rs type="interviewee" key="voronin"/>
+         <rs type="interviewer" key="parks"/>
+         <rs type="interviewer" key="clark"/>
+         <rs type="transcriber" key="clark"/>
+         <rs type="transcriber" key="kitchen"/>
+         <rs type="translator" key="clark"/>
+         <rs type="translator" key="kitchen"/>
+      </list>
+   </teiHeader>
+
+    <div>
+        <sp xml:id="sp1">
+         <speaker>parks</speaker>
+         <p>Сегодня двадцать девятоe июля 2013ого года. Мы
+            находимся в Санкт Петербурге, в России. Меня зовут Джессика Паркс, мою коллегу Эмили
+            Кларк. Эмили и я берём интервью у Михаила Воронина. Мы берём у вас интервью для
+            кинопроекта, который изучает общественную, политическую, и культурную историю России
+            Через фильмы. Мы хотели бы, чтобы вы рассказали нам о ваших воспоминаниях о посещении
+            кино. На основании Ваших ответов мы напишем эссе, в котором мы проанализируем результаты
+            опроса и напишем о посещении <rs type="place" key="movieTheater"/>ов в России.
+            Цель этого интервью для нас – узнать как можно больше о конкретных людях и месте кино в
+            их жизни. Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу
+            помощь нам. Это интервью будет доступно для прослушивания на интернетсайте кинопроекта.
+            Если вы не против, давайте начнём. </p>
+      </sp>
+        <sp xml:id="sp2">
+         <speaker>voronin</speaker>
+         <p>Very good!</p>
+      </sp>
+        <sp xml:id="sp3">
+         <speaker>parks</speaker>
+         <p>Расскажите нам, когда и где вы выросли. </p>
+      </sp>
+        <sp xml:id="sp4">
+         <speaker>voronin</speaker>
+         <p>Я вырос на <rs type="place" key="urals"/>, в
+            городе <rs type="place" key="ufa"/>. Это один из городов милионников, довольно большой
+            город в <rs type="place" key="russia"/>. Первыe 15 лет своей жизни я прожил именно там. </p>
+      </sp>
+        <sp xml:id="sp5">
+         <speaker>parks</speaker>
+         <p>Где работали ваши папа и мама?</p>
+      </sp>
+        <sp xml:id="sp6">
+         <speaker>voronin</speaker>
+         <p>Мои родители развeлись, когда я был еще ребенком. Моя мама работала стюардессой, летала, в
+            основном, по <rs type="place" key="russia"/>. Иногда ближнее зарубежье. </p>
+      </sp>
+        <sp xml:id="sp7">
+         <speaker>parks</speaker>
+         <p>Какоe у вас образование? </p>
+      </sp>
+        <sp xml:id="sp8">
+         <speaker>voronin</speaker>
+         <p>Сейчас у
+                меня высшее образование. В этом году я
+            закончил Военный университет. </p>
+      </sp>
+        <sp xml:id="sp9">
+         <speaker>parks</speaker>
+         <p>В каких городах вы жили? </p>
+      </sp>
+        <sp xml:id="sp10">
+         <speaker>voronin</speaker>
+         <p>Я жил в <rs type="place" key="ufa"/>, столице
+                <rs type="place" key="republicBashkirtostan"/>. Также жил 3 года
+            в <rs type="place" key="moscow"/>, в столице <rs type="place" key="russia"/>, и
+            последние 6 лет, я жил в <rs type="place" key="stPetersburg"/>, <rs type="epit" key="stPetersburg"/> городе, наs мой взгляд. </p>
+      </sp>
+        <sp xml:id="sp11">
+         <speaker>parks</speaker>
+         <p>Вы помните первый раз когда вы ходили в кино? </p>
+      </sp>
+        <sp xml:id="sp12">
+         <speaker>voronin</speaker>
+         <p>Нет, я не
+            помню первый раз. Плохо, очень плохо помню. </p>
+      </sp>
+        <sp xml:id="sp13">
+         <speaker>parks</speaker>
+         <p>Какие фильмы вы посмотрели? </p>
+      </sp>
+        <sp xml:id="sp14">
+         <speaker>voronin</speaker>
+         <p>Так как я
+            начал в кино ходить с детства, то все было в хронологическом порядке. Начиная с <rs type="title" key="rockyBullwinkle"/>, может быть вы
+            знаете, и заканчивая <rs type="genre" key="horror"/>, <rs type="genre" key="comedy"/>. Сейчас, в принципе, сейчас редко очень хожу в кино. </p>
+      </sp>
+        <sp xml:id="sp15">
+         <speaker>parks</speaker>
+         <p>Сколько вам было лет? </p>
+      </sp>
+        <sp xml:id="sp16">
+         <speaker>voronin</speaker>
+         <p>Я не помню, наверно, это был
+            первый класс, семь лет. Семь или восемь. </p>
+      </sp>
+        <sp xml:id="sp17">
+         <speaker>parks</speaker>
+         <p>С кем вы ходили в кино? </p>
+      </sp>
+        <sp xml:id="sp18">
+         <speaker>voronin</speaker>
+         <p>С кем я
+            только не ходил в кино! Я первый раз с кем ходил?
+            Вообще? Я ходил в кино с мамой, с учительницeй
+                 почти со всеми девушками. С друзьями мы любили ходить в кино, большой компанией. Да, большой
+            компанией и также немножко, предварительно развеселившись. Я бы, я , просто, не
+            могу сказать это на запись, чем обычно веселятся перед кино. Ваши ребята меня поймут. </p>
+      </sp>
+        <sp xml:id="sp19">
+         <speaker>parks</speaker>
+         <p>Сколько стоил билет? </p>
+      </sp>
+        <sp xml:id="sp20">
+         <speaker>voronin</speaker>
+         <p>Билет стоил, я не помню, копейки. Поначалу , поначалу, когда мы были детьми и у
+                нас было мало собственно денег в карманов, мы ходили на утренние сеансы, тогда было дешевле. А потом уже в любое време.
+            Билет стоил от, от одного доларов, по вашему, до десяти или двадцати доларов. </p>
+      </sp>
+        <sp xml:id="sp21">
+         <speaker>parks</speaker>
+         <p>Как назывался <rs type="place" key="movieTheater"/>? Опишите <rs type="place" key="movieTheater"/>. </p>
+      </sp>
+        <sp xml:id="sp22">
+         <speaker>voronin</speaker>
+         <p>Кинотеатр назывался <rs type="place" key="kinoteatrIskra"/>. Он был сначала в советском стиле оформлен, в старом стиле. “Old
+            School”. Но потом его отреставрировали, сделали хороший ремонт, и сейчас это <rs type="epit" key="kinoteatrIskra"/> кинозал, очень много
+                людей туда ходят, в <rs type="place" key="russia"/> кино
+            в последнее время странно популярно, и все премьеры сюда, и все звезды съезжаются,
+            например. </p>
+      </sp>
+        <sp xml:id="sp23">
+         <speaker>parks</speaker>
+         <p>Вы ходили пешком, или ездили? </p>
+      </sp>
+        <sp xml:id="sp24">
+         <speaker>voronin</speaker>
+         <p>Обычно я
+            ездил, это довольно далеко от дома было, ближайший <rs type="place" key="movieTheater"/> от моего дома был
+            километров двадцать. </p>
+      </sp>
+        <sp xml:id="sp25">
+         <speaker>parks</speaker>
+         <p>На чем вы ездили? </p>
+      </sp>
+        <sp xml:id="sp26">
+         <speaker>voronin</speaker>
+         <p>Обычно, сначала ездили на автобусах, после, уже
+            когда выросли, ездили на машинах. </p>
+      </sp>
+        <sp xml:id="sp27">
+         <speaker>parks</speaker>
+         <p>У вас был один кинотеатр или больше около дома? </p>
+      </sp>
+        <sp xml:id="sp28">
+         <speaker>voronin</speaker>
+         <p>Нет, около дома вообще <rs type="place" key="movieTheater"/>ов не было. Мы менялись
+            касетами VHS, этими, старыми. А <rs type="place" key="movieTheater"/> был далеко
+            от дома. Кинотеатров в городе было, штук 5, сначала. А сейчас их штук 10, я думаю. </p>
+      </sp>
+        <sp xml:id="sp29">
+         <speaker>parks</speaker>
+         <p>Сравните эти кинотеатры. </p>
+      </sp>
+        <sp xml:id="sp30">
+         <speaker>voronin</speaker>
+         <p>Сравнить их немного трудно, потому что они все
+            типовые, похожи друг на друга, все <rs type="place" key="movieTheater"/>ы. А
+            разница есть так  такая: <rs type="place" key="movieTheater"/>
+            может быть отдельным зданием стоять или <rs type="place" key="movieTheater"/>
+            может быть в торговом комплексе. А, как правило, сейчас все <rs type="place" key="movieTheater"/> у
+                    нас в торговoм комплексе. </p>
+      </sp>
+        <sp xml:id="sp31">
+         <speaker>parks</speaker>
+         <p>Когда вы начали ходить в кинотеатр один? </p>
+      </sp>
+        <sp xml:id="sp32">
+         <speaker>voronin</speaker>
+         <p>Я не помню лет, лет в 10. </p>
+      </sp>
+        <sp xml:id="sp33">
+         <speaker>parks</speaker>
+         <p>Вам нравилось ходить в кино и почему? </p>
+      </sp>
+        <sp xml:id="sp34">
+         <speaker>voronin</speaker>
+         <p>Мне нравилось ходить в кино только на опредленные
+            фильмы. Я очень редко хожу в кино просто так.
+            Только на определенные <rs type="genre" key="blockbuster"/>, либо какие-то
+            знаменитые премьеры. Знаменитых режиссеров, либо актеров. Мы с друзьями больше любили гулять, играть в футбол, или в
+            хоккей. </p>
+      </sp>
+        <sp xml:id="sp35">
+         <speaker>parks</speaker>
+         <p>Как часто вы ходили в кино? На какие сеансы?
+            Утренние, дневные, вечерние? </p>
+      </sp>
+        <sp xml:id="sp36">
+         <speaker>voronin</speaker>
+         <p>Да по-разному, когда хотели, тогда ходили. Дети
+            были, ходили на утренние, а когда выросли, бывает в <rs type="place" key="russia"/>
+            холодно и, чтобы не мерзнуть, ходили в кино. </p>
+      </sp>
+        <sp xml:id="sp37">
+         <speaker>parks</speaker>
+         <p>Ходить в кино—это былo обычное дело или особое
+            событие? </p>
+      </sp>
+        <sp xml:id="sp38">
+         <speaker>voronin</speaker>
+         <p>В детстве, может быть особое,
+            а сейчас, пойти в кино это 
+            Мы считаем ходить в кино - это значит больше
+            нечем заняться. Если тебе нечем с пользой провести, не знаешь, как с пользой провести
+            время, можешь сходить в кино. </p>
+      </sp>
+        <sp xml:id="sp39">
+         <speaker>parks</speaker>
+         <p>Как посещение кино изменилось, когда вы выросли или
+            закончили школу? </p>
+      </sp>
+        <sp xml:id="sp40">
+         <speaker>voronin</speaker>
+         <p>Ну стало <rs type="epit" key="kino"/>, <rs type="epit" key="kino"/>. Проще стало
+            скачать из интернета. </p>
+      </sp>
+        <sp xml:id="sp41">
+         <speaker>parks</speaker>
+         <p>Какие были ваши самые любимые жанры в детстве? </p>
+      </sp>
+        <sp xml:id="sp42">
+         <speaker>voronin</speaker>
+         <p>
+            <rs type="genre" key="comedy"/>, с самого
+            детсва, мой любимый жанр <rs type="genre" key="comedy"/>, <rs type="genre" key="action"/> тоже любил, а сейчас больше
+            люблю какие-то <rs type="genre" key="melodrama"/>, либо основанные на реальных
+            событиях. </p>
+      </sp>
+        <sp xml:id="sp43">
+         <speaker>parks</speaker>
+         <p>Какие были ваши самые любимые жанры, когда вы были
+            студентами? </p>
+      </sp>
+        <sp xml:id="sp44">
+         <speaker>voronin</speaker>
+         <p>Конечно <rs type="genre" key="adult"/>. Конечно,
+                <rs type="genre" key="adult"/>, это правда не нужно ничего менять, у
+                всех русских студентов, это так. А потом, <rs type="genre" key="action"/>, и <rs type="genre" key="comedy"/>. </p>
+      </sp>
+        <sp xml:id="sp45">
+         <speaker>parks</speaker>
+         <p>У вас есть любимый фильм? </p>
+      </sp>
+        <sp xml:id="sp46">
+         <speaker>voronin</speaker>
+         <p>Да, я думаю,
+                у меня есть несколько любимых фильмов. Просто
+                я очень много фильмов посмотрел, последний
+            фильм, который произвел впечатление, называется “<rs type="title" key="mavericks"/>”  либо, <rs type="title" key="mavericks"/> на русском. Это плохой перевод, с <rs type="person" key="butler"/>. Maybe, но может быть ты знаешь. Почему
+            понравилось? Он основан на реальных событиях. </p>
+      </sp>
+        <sp xml:id="sp47">
+         <speaker>parks</speaker>
+         <p>У вас были любимые актеры или актрисы в зарубежном
+            кино? Кто и почему? </p>
+      </sp>
+        <sp xml:id="sp48">
+         <speaker>voronin</speaker>
+         <p>Да. Есть любимые актеры. Почему? Почему не знаю.
+                <rs type="person" key="theron"/>, например. Да, <rs type="person" key="theron"/>, а  ну <rs type="person" key="depp"/>, хорош, особенно в <rs type="title" key="piratesCaribbean"/>. Вo-первых. Может быть, <rs type="person" key="carrey"/>, да, Джим Керри. Особенно в <rs type="title" key="mask"/> и в
+                <rs type="title" key="aceVentura"/>, самые лучшие его работы. <rs type="person" key="murphy"/> красавчик. Тоже делал вещи. </p>
+      </sp>
+        <sp xml:id="sp49">
+         <speaker>parks</speaker>
+         <p>Вы помните какой-нибудь фильм или посещение кино
+            особенно? Расскажите об этом посещении. </p>
+      </sp>
+        <sp xml:id="sp50">
+         <speaker>voronin</speaker>
+         <p>Нет. Особенно я не помню именно посещения <rs type="place" key="movieTheater"/>ов. Я  больше помню фильмы,
+            которые на всю жизнь запомнились. <rs type="title" key="godfather"/>,
+            “Godfather”. Также русский сериал, может вы, смотрели, <rs type="title" key="brigade"/>. Русский сериал <rs type="title" key="brigade"/>, и русский
+            фильм <rs type="title" key="brother"/> и <rs type="title" key="brother2"/>. “Brother
+            and Brother 2.” Ну, да, я
+            думаю может быть еще некоторые фильмы, а да, <rs type="title" key="lifeIsBeautiful"/>. 2 “It’s A Beautiful Life.”
+            Итальянский фильм. Может быть
+            я перепутал название. Итальянский фильм. Многие
+                наши взгляды с моими друзьями совпадают с рейтингом Интернет Муви Дейта Бейз. </p>
+      </sp>
+        <sp xml:id="sp51">
+         <speaker>parks</speaker>
+         <p>Как вы проводили свободное время кроме посещения в
+            кино? </p>
+      </sp>
+        <sp xml:id="sp52">
+         <speaker>voronin</speaker>
+         <p>Гуляли, играли в футбол, и в хоккей. Я думаю примерно так же, как и все подростки, у
+            которых есть свободное время и которые могут себе что-нибудь запрещенное купить. </p>
+      </sp>
+        <sp xml:id="sp53">
+         <speaker>parks</speaker>
+         <p>С кем вы были обычно ходите в кино? </p>
+      </sp>
+        <sp xml:id="sp54">
+         <speaker>voronin</speaker>
+         <p>Обычно с либо друзьями, либо с подругами. Очень
+            редко ходим смешанной компанией. Как правило, только мальчики или только девочки. “Only
+            boys or only girls.” </p>
+      </sp>
+        <sp xml:id="sp55">
+         <speaker>parks</speaker>
+         <p>Больше мужчин или женщин? </p>
+      </sp>
+        <sp xml:id="sp56">
+         <speaker>voronin</speaker>
+         <p>В кино ходят? Даже не знаю, наверно, больше женщин. Но, скорее потому, что у нас вообще больше женщин живет. </p>
+      </sp>
+        <sp xml:id="sp57">
+         <speaker>parks</speaker>
+         <p>Вообще, люди чаще ходили в кино с семьями или с
+            друзьями или с подругами? </p>
+      </sp>
+        <sp xml:id="sp58">
+         <speaker>voronin</speaker>
+         <p>Да нет, больше девушки ходят в кино, потому что им
+            делать нечего. Вот, семьи ходят редко, в выходные, семьи ходят в кино. </p>
+      </sp>
+        <sp xml:id="sp59">
+         <speaker>parks</speaker>
+         <p>В <rs type="place" key="movieTheater"/>ах были
+            очереди? Вы помните когда вы ждали в очереди? </p>
+      </sp>
+        <sp xml:id="sp60">
+         <speaker>voronin</speaker>
+         <p>Да, но очень редко. Очень редко когда бывали
+            очереди. Пять минут максимум. </p>
+      </sp>
+        <sp xml:id="sp61">
+         <speaker>parks</speaker>
+         <p>Разные группы сидели в разных частях кинозала? </p>
+      </sp>
+        <sp xml:id="sp62">
+         <speaker>voronin</speaker>
+         <p>Разные группы? Ну, когда как.
+            По-разному, бывало, мест не было, бывало, мы там
+            могли лечь и смотреть. </p>
+      </sp>
+        <sp xml:id="sp63">
+         <speaker>parks</speaker>
+         <p>Люди шумели или вели себя тихо во время сеанса? </p>
+      </sp>
+        <sp xml:id="sp64">
+         <speaker>voronin</speaker>
+         <p>Ах, не всегда. Это смотря какой сеанс, бывало, и
+                мы шумели. </p>
+      </sp>
+        <sp xml:id="sp65">
+         <speaker>parks</speaker>
+         <p>Как люди одевались в кино? Нарядно или обычно? </p>
+      </sp>
+        <sp xml:id="sp66">
+         <speaker>voronin</speaker>
+         <p>По-разному. Для многих в кино выйти - это событие
+            какое-то. Особенно для девушек показать себя, я
+            не знаю почему, могут и зимой одеть колготки, тонкие, одеть высокие шпильки, это
+            неудобно, это глупо, но чтобы привлекательно выглядеть. Парни проще одевались. </p>
+      </sp>
+        <sp xml:id="sp67">
+         <speaker>parks</speaker>
+         <p>Вы знали людей, которые работали в <rs type="place" key="movieTheater"/>е? </p>
+      </sp>
+        <sp xml:id="sp68">
+         <speaker>voronin</speaker>
+         <p>Да, парочку знал. И, бывало, ходили бесплатно. </p>
+      </sp>
+        <sp xml:id="sp69">
+         <speaker>parks</speaker>
+         <p>Какая была атмосфера в <rs type="place" key="movieTheater"/>е? </p>
+      </sp>
+        <sp xml:id="sp70">
+         <speaker>voronin</speaker>
+         <p>По-разному. На ужастиках обычно <rs type="epit" key="kino"/>, потому что мы на <rs type="genre" key="horror"/> ходим с девушкой и самый напряженный момент, мы специально ее пугаем. Ну,
+            чтобы посмеяться. </p>
+      </sp>
+        <sp xml:id="sp71">
+         <speaker>parks</speaker>
+         <p>Опишите <rs type="place" key="movieTheater"/>.
+            Если можно, сравните с <rs type="place" key="movieTheater"/>ами сейчас. </p>
+      </sp>
+        <sp xml:id="sp72">
+         <speaker>voronin</speaker>
+         <p>Я даже не знаю как его описать. Там большой экран,
+                <rs type="epit" key="kino"/> и <rs type="epit" key="kino"/>. </p>
+      </sp>
+        <sp xml:id="sp73">
+         <speaker>parks</speaker>
+         <p>Опишите звуки и запахи, которые вы вспоминаете, когда
+            вы думаете о кинотреатрах. </p>
+      </sp>
+        <sp xml:id="sp74">
+         <speaker>voronin</speaker>
+         <p>Запах попкорна. Я думаю звук, <rs type="epit" key="kino"/> звук. Сильными
+            басами. </p>
+      </sp>
+        <sp xml:id="sp75">
+         <speaker>parks</speaker>
+         <p>Кресла были удобные? </p>
+      </sp>
+        <sp xml:id="sp76">
+         <speaker>voronin</speaker>
+         <p>Когда как, обычно да, <rs type="epit" key="kino"/>. </p>
+      </sp>
+        <sp xml:id="sp77">
+         <speaker>parks</speaker>
+         <p>В кино было холодно, тепло, жарко, душно? </p>
+      </sp>
+        <sp xml:id="sp78">
+         <speaker>voronin</speaker>
+         <p>Тоже по-разному, иногда кондиционер не работал, а
+            иногда слишком сильно работал. </p>
+      </sp>
+        <sp xml:id="sp79">
+         <speaker>parks</speaker>
+         <p>Кинотеатр был большой? Сколько было залов? </p>
+      </sp>
+        <sp xml:id="sp80">
+         <speaker>voronin</speaker>
+         <p>Когда, бывает  Залов бывает от
+            двух до пятнадцати, я так думаю. А посадочных
+            мест бывает от 50 до 300. До 300 посадочных мест. Разные. </p>
+      </sp>
+        <sp xml:id="sp81">
+         <speaker>parks</speaker>
+         <p>Кинотеатр был только для кино, или для других
+            мероприятий? </p>
+      </sp>
+        <sp xml:id="sp82">
+         <speaker>voronin</speaker>
+         <p>Иногда и для других мероприятий. Но в основном, для
+            кино. </p>
+      </sp>
+        <sp xml:id="sp83">
+         <speaker>parks</speaker>
+         <p>Был буфет? Что продавали в буфете? </p>
+      </sp>
+        <sp xml:id="sp84">
+         <speaker>voronin</speaker>
+         <p>В буфетах всегда продавали попкорн, пепси, колу,
+            пиво продавали еще. И бывало что-нибудь поесть. Мороженое. Ice cream. </p>
+      </sp>
+        <sp xml:id="sp85">
+         <speaker>parks</speaker>
+         <p>Были в кинотреатре билетеры и сколько им обычно было
+            лет?</p>
+      </sp>
+        <sp xml:id="sp86">
+         <speaker>voronin</speaker>
+         <p>А билетеры были всегда, обычно это было молодые
+            люди. Обычно это было молодые девушки. До 30 лет. </p>
+      </sp>
+        <sp xml:id="sp87">
+         <speaker>parks</speaker>
+         <p> Где вы обычнои любили сидеть и почему?</p>
+      </sp>
+        <sp xml:id="sp88">
+         <speaker>voronin</speaker>
+         <p>Смотря с кем придешь в кино. С друзьями сидели
+            обычно в центре, чтобы лучше видеть, а с девушками обычно сзади. Места для
+            поцелуев.</p>
+      </sp>
+        <sp xml:id="sp89">
+         <speaker>parks</speaker>
+         <p>Фильмы были немые или звуковые? Черно-белые или
+            цветные? </p>
+      </sp>
+        <sp xml:id="sp90">
+         <speaker>voronin</speaker>
+         <p>Всегда были цветные, всегда были со звуком, за
+            исключением специальных фильмов, не специальных, а когда по задумке режиссера. Если во
+            всех <rs type="place" key="movieTheater"/>ах мира крутился черно-белый и без
+            звука, то у нас тоже. А
+            все остальные цветные, со звуком </p>
+      </sp>
+        <sp xml:id="sp91">
+         <speaker>parks</speaker>
+         <p>Какое былo качество?</p>
+      </sp>
+        <sp xml:id="sp92">
+         <speaker>voronin</speaker>
+         <p>Качество отличное было. Tакже много сейчас <rs type="place" key="movieTheater"/>ов в формате 3D, IMAX. Я просто не очень большой фанат кино в последное время, очень
+            редко бываю, нет времени. </p>
+      </sp>
+        <sp xml:id="sp93">
+         <speaker>parks</speaker>
+         <p>Какие фильмы были самыми популярными у зрителей и
+            почему? </p>
+      </sp>
+        <sp xml:id="sp94">
+         <speaker>voronin</speaker>
+         <p>У зрителей? Были самые популярные фильмы 
+            я думаю, те которые хорошо рекламировались. У
+            россиян привычка такая, популярная, попсовая ходить в кино, если хорошая реклама, то
+            много людей ходят в кино. Если кино понравилось, то расскажут
+            друзьям, и друзья сходят. А я думаю, почти те же
+            фильмы, что и в Америке, почти те же фильмы популярны и в России. Как вообще в мире, судя
+            по рейтингaм. </p>
+      </sp>
+        <sp xml:id="sp95">
+         <speaker>parks</speaker>
+         <p>В <rs type="place" key="movieTheater"/>ах часто
+            показывали иностранные фильмы? И фильмы из каких стран? </p>
+      </sp>
+        <sp xml:id="sp96">
+         <speaker>voronin</speaker>
+         <p>Почти всегда иностранные фильмы, потому что после
+            развала <rs type="place" key="sovietUnion"/> у нас мало кино снималось. Вот, но сейчас,
+            показывают и <rs type="nationalCinema" key="foreignCinema"/>, и
+                    наши фильмы,
+            всех стран, абсолютно всех стран, в основном, конечно, это <rs type="nationalCinema" key="americanCinema"/>, в основном, потомучто они
+                <rs type="epit" key="americanCinema"/>. <rs type="epit" key="americanCinema"/> в прокате. </p>
+      </sp>
+        <sp xml:id="sp97">
+         <speaker>parks</speaker>
+         <p>Какие фильмы вам нравились больше всего? </p>
+      </sp>
+        <sp xml:id="sp98">
+         <speaker>voronin</speaker>
+         <p>Больше всего, нравились, well, по возрасту, в
+            детстве <rs type="genre" key="skazka"/>, потом и <rs type="genre" key="action"/>, а потом больше <rs type="genre" key="melodrama"/>.
+            По-разному. По настроению. Скажем так. </p>
+      </sp>
+        <sp xml:id="sp99">
+         <speaker>parks</speaker>
+         <p>Были фильмы, на которые нельзя было ходить детям и
+            почему? </p>
+      </sp>
+        <sp xml:id="sp100">
+         <speaker>voronin</speaker>
+         <p>Да, очень много таких фильмов, и сейчас такие
+            ограничения есть. Почему? Всем известно почему. Потому что там сцены для взрослых
+            присутствуют. С рейтингом R, <rs type="nationalCinema" key="americanCinema"/>, но дети ходят, в основном. Если хотят. </p>
+      </sp>
+        <sp xml:id="sp101">
+         <speaker>parks</speaker>
+         <p>Вам не разрешали ваши родители или администрация
+                <rs type="place" key="movieTheater"/>а? </p>
+      </sp>
+        <sp xml:id="sp102">
+         <speaker>voronin</speaker>
+         <p>Не разрешали, но мы все равно ходили. И администрация <rs type="place" key="movieTheater"/>а нам не запрещала, когда я
+            был маленький, а сейчас я не знаю, может быть, сейчас и запрещают. </p>
+      </sp>
+        <sp xml:id="sp103">
+         <speaker>parks</speaker>
+         <p>Вы пробовали пройти на фильм, на который вам нельзя
+            было пройти? </p>
+      </sp>
+        <sp xml:id="sp104">
+         <speaker>voronin</speaker>
+         <p>Конечно. В этом, и был интерес. </p>
+      </sp>
+        <sp xml:id="sp105">
+         <speaker>parks</speaker>
+         <p>Расскажите о том, как это было. </p>
+      </sp>
+        <sp xml:id="sp106">
+         <speaker>voronin</speaker>
+         <p>Это было легко, потому что, ну,
+            в <rs type="place" key="russia"/>, когда я был маленький, не особо следили за возрастом и не особо соблюдали правила.
+            Да и сейчас, главное, денег заработать. И не важно что ребенок на пару лет моложе и
+            пройдет на кино для взрослых. Ребенок сам же этого хочет. </p>
+      </sp>
+        <sp xml:id="sp107">
+         <speaker>parks</speaker>
+         <p>Вы помните какой-нибудь фильм, у которого были
+            проблемы с выходом на экран? Расскажите о таком фильме. </p>
+      </sp>
+        <sp xml:id="sp108">
+         <speaker>voronin</speaker>
+         <p>Если честно, не помню, потому что я не интересовался. Если бы у него были проблемы, он просто бы
+            на экран не вышел, и никто бы его не увидел. Поэтому я не помню таких фильмов. </p>
+      </sp>
+        <sp xml:id="sp109">
+         <speaker>parks</speaker>
+         <p>Как вы узнавали о репертуаре <rs type="place" key="movieTheater"/>а? </p>
+      </sp>
+        <sp xml:id="sp110">
+         <speaker>voronin</speaker>
+         <p>О репертуаре <rs type="place" key="movieTheater"/>ов? Узнавал либо по рекламам, рекламным баннерам на улицах и
+            вывескам, либо в интернете, на расписании <rs type="place" key="movieTheater"/>ов.
+            Или от друзей, которым понравился какой-нибудь фильм. </p>
+      </sp>
+        <sp xml:id="sp111">
+         <speaker>parks</speaker>
+         <p>Вы читали о фильмах в журналах или в газетах? </p>
+      </sp>
+        <sp xml:id="sp112">
+         <speaker>voronin</speaker>
+         <p>Да, случайно, если только случайно попадалось. В
+            Плейбое, например. </p>
+      </sp>
+        <sp xml:id="sp113">
+         <speaker>parks</speaker>
+         <p>Как реклама кино изменилась с советского времени? </p>
+      </sp>
+        <sp xml:id="sp114">
+         <speaker>voronin</speaker>
+         <p>Почти никак, реклама просто стала лучше и красивее.
+            Ее стало больше. </p>
+      </sp>
+        <sp xml:id="sp115">
+         <speaker>parks</speaker>
+         <p>Ваши родители ходили в кино? </p>
+      </sp>
+        <sp xml:id="sp116">
+         <speaker>voronin</speaker>
+         <p>Конечно ходили, только в кино родители и ходили. </p>
+      </sp>
+        <sp xml:id="sp117">
+         <speaker>parks</speaker>
+         <p>Что они смотрели? </p>
+      </sp>
+        <sp xml:id="sp118">
+         <speaker>voronin</speaker>
+         <p>Я не знаю, они мало рассказывали, я думаю то же самое, но раньше крутили почти все <rs type="place" key="movieTheater"/>ы только советские фильмы. </p>
+      </sp>
+        <sp xml:id="sp119">
+         <speaker>parks</speaker>
+         <p>Они ходили в кино вместе с вами, друг с другом, одни? </p>
+      </sp>
+        <sp xml:id="sp120">
+         <speaker>voronin</speaker>
+         <p>Когда как, по-разному. Или вместе, и без меня, то
+            есть, это ни от чего не зависело, от настроения, по желанию. </p>
+      </sp>
+        <sp xml:id="sp121">
+         <speaker>parks</speaker>
+         <p>У вас был телевизор? </p>
+      </sp>
+        <sp xml:id="sp122">
+         <speaker>voronin</speaker>
+         <p>Да. </p>
+      </sp>
+        <sp xml:id="sp123">
+         <speaker>parks</speaker>
+         <p>Когда вы купили его, вы ходили в кино больше или
+            меньше? </p>
+      </sp>
+        <sp xml:id="sp124">
+         <speaker>voronin</speaker>
+         <p>Столько же. </p>
+      </sp>
+        <sp xml:id="sp125">
+         <speaker>parks</speaker>
+         <p>Вы знаете, когда звуковые фильмы пришли на экраны? </p>
+      </sp>
+        <sp xml:id="sp126">
+         <speaker>voronin</speaker>
+         <p>Нет, не знаю, но помню, что давно. Давно  после  где-то, первые звуковые фильмы до Второй
+            мировой появились, по-моему, в <rs type="place" key="america"/>. А после второй
+            мировой уже появились и у нас, в <rs type="place" key="sovietUnion"/>. </p>
+      </sp>
+        <sp xml:id="sp127">
+         <speaker>parks</speaker>
+         <p>Вы помните фильмы во время войны? После войны? Во
+            время перестройки? </p>
+      </sp>
+        <sp xml:id="sp128">
+         <speaker>voronin</speaker>
+         <p>Да, я
+            смотрел, естественно, нeмного позже. Я ходил на
+            премьерные показы. Был немного занят. Вот, но потом смотрел много фильмов, да, есть
+            довольно интересные. У них свой стиль, есть, кстати, много запрещенных фильмов, которые
+            советское правительство запрещало показывать и только сейчас они вышли на экраны. Но,
+            если честно, они мне не очень по душе. </p>
+      </sp>
+        <sp xml:id="sp129">
+         <speaker>parks</speaker>
+         <p>Как ваше посещение <rs type="place" key="movieTheater"/>ов изменилось со временем и почему? </p>
+      </sp>
+        <sp xml:id="sp130">
+         <speaker>voronin</speaker>
+         <p>Реже хожу, потому что меньше времени, и <rs type="place" key="movieTheater"/> уже немножко приелся. Раньше это было что-то
+            удивительное и редкое, может быть. Редко, когда мало ходишь, это
+            как захватывает дух. А сейчас хочется чего-то нового. Каких-то новых удовольствий, но
+                я знаю многих людей, многих моих друзей, у которых, есть такая привычка, ходить в кино, они
+            просто не знают, куда еще пойти. Им хватает похода в кино. </p>
+      </sp>
+        <sp xml:id="sp131">
+         <speaker>parks</speaker>
+         <p>Что бы вы хотели добавить в заключениe? </p>
+      </sp>
+        <sp xml:id="sp132">
+         <speaker>voronin</speaker>
+         <p>В заключение, я хочу добавить что нужно сходить как-нибудь в кино.
+            Давно что-то я там не был, да, и что <rs type="title" key="ironman3"/>, <rs type="title" key="ironman3"/>,
+            very good. </p>
+      </sp>
+        <sp xml:id="sp133">
+         <speaker>parks</speaker>
+         <p>У кого бы вы посоветовали нам взять интервью на эту
+            же тему в будущем? </p>
+      </sp>
+        <sp xml:id="sp134">
+         <speaker>voronin</speaker>
+         <p>Только не у
+                меня! У кого-нибудь другого. Потому что я мало чего могу сказать. Последнее время особенно. </p>
+      </sp>
+    </div>
+</TEI>
