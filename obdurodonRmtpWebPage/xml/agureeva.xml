@@ -1,0 +1,590 @@
+<?xml-model href="../schema_interview.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../exampleSchematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+
+<!-- Marina Agureeva Interview -->
+<!-- coders: Maggie Swiftl, Bailey Orr, Spencer Small, Micah Butler, Julia Seeley-Hall -->
+<!-- April 22, 2016 -->
+<!-- 15:00 - 19:24 -->
+
+<!-- Add to index file:  
+ King Kong, 10 Little Indians, Комсомольская правда, Служебный Роман,  
+Покровские ворота, 'history' genre, indianCinema, Зеркало (film), kinoteaterMurmansk,
+kinoteatrLagoda, Murmansk (place)-->
+
+<!-- I also tagged <period> for ussr and perestroika, if we wanted to analyze those references. -->
+
+<!-- Line 218 or thereabouts is missing a question tag -->
+
+<interview>
+ 
+  <meta>
+
+   <project>Russian Movie Theater Project (RMTP)</project>
+   <university>College of William and Mary</university>
+
+   <persons>
+    <interviewee ref="agureeva"/>
+    <interviewer ref="bernotas"/>
+    <interviewer ref="mcgrath"/>
+    <transcriber ref="butler"/>
+    <transcriber ref="seeley-hall"/>
+    <transcriber ref="small"/>
+    <translator ref="orr"/>
+    <translator ref="swift"/>
+   </persons>
+
+   <date milestone="interview">July 2011</date>
+   <date milestone="translation">Spring 2016</date>
+
+  </meta>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <body>
+  <!-- Micah:  Minutes 1:00 to 3:22 -->
+  
+   <speech speaker="bernotas" speechtype="q"> Сегодня пятнадцатое июля 2011ого года. Мы находимся в
+    Санкт-Петербурге, в России. Меня зовут Моника. Мой коллега Алекс и я берём интервью у Марины
+    Агуреевой. Мы берём у Вас интервью для кино-проекта, который изучает общественную, политическую
+    и культурную историю России через фильмы. Мы хотели бы, чтобы Вы рассказали нам о Ваших
+    воспоминаниях от посещения кино; нас особенно интересуют детали. На основании Ваших ответов мы
+    напишем эссе, в котором мы проанализируем результаты опроса и напишем о посещении кинотеатров в
+    России. Цель этого интервью для нас – узнать как можно больше о конкретных людях и месте кино в
+    их жизни. Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу помощь
+    нам. Это интервью будет доступно для прослушивания на интернет-сайте кинопроекта. Если вы не
+    против, давайте начнём. </speech>
+
+   <speech speaker="agureeva" speechtype="a">
+    <pron type="pers" number="sing">я</pron> не против. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Расскажите нам, когда и где вы выросли. </speech>
+
+   <speech speaker="agureeva" speechtype="a">
+    <pron type="pers" number="sing">я</pron> родилась в городе <place ref="leningrad"
+     >Ленинграде,</place> когда он так назывался, и жила здесь до восьми лет. Потом <pron
+     type="pers" number="sing">я</pron> жила пять лет в городе <place ref="murmansk"
+     >Мурманск</place> . Вы знаете где этот город, да? На севере. Из-за работы <pron type="poss"
+     number="sing">моего</pron> отца. И потом <pron type="pers" number="sing">я</pron> вернулась
+    опять в <place ref="stPetersburg">родной город</place> и жила здесь до двадцати четырех лет а
+    потом еще три года в <place ref="moscow">Москве</place> потому, что <pron type="pers"
+     number="sing">я</pron> там училась в аспирантуре. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Где работали ваши мама и папа? </speech>
+
+   <speech speaker="agureeva" speechtype="a">
+    <pron type="poss" number="sing">Моя</pron> мама юрист, она работала по специальности юристом. А
+     <pron type="poss" number="sing">мой</pron> отец был капитаном танкера. А знаете слово “танкер”?
+    Это корабль, который возит нефть. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Какое у вас образование? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Высшее. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Вы помните первый раз, когда вы видели кино? </speech>
+
+   <speech speaker="agureeva" speechtype="a">
+    <pron type="pers" number="sing">я</pron> очень хорошо помню, как <pron type="pers" number="sing"
+     >я</pron> первый раз ходила в театр, но к сожалению не помню... <pron type="pers" number="sing"
+     >я</pron> думаю <pron type="pers" number="sing">мне</pron> было лет девять когда <pron
+     type="pers" number="sing">я</pron> первый раз пошла в кино, вот, а первое посещение в театр
+     <pron type="pers" number="sing">я</pron> помню очень хорошо. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> С кем вы ходили в кино обычно в детстве? </speech>
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Julia:  Minutes 3:22 to 8:08 -->
+  
+   <speech speaker="bernotas" speechtype="q"> С кем вы ходили в кино обычно в детстве? </speech>
+   <speech speaker="agureeva" speechtype="a"> В детстве, обычно с младшим братом летом потому, что
+     <pron type="poss" number="plur">у нас</pron> было много свободного времени и <pron type="pers"
+     number="plur">мы</pron> так получали удовольствие. </speech>
+   <speech speaker="bernotas" speechtype="q"> Сколько стоил билет? </speech>
+   <speech speaker="agureeva" speechtype="a">
+    <pron type="pers" number="sing">Я</pron> точно не помню сколько но знаю, что очень мало.
+    По-моему двадцать пять копеек на утренние сеансы и пятьдесят копеек на вечерние сеансы. </speech>
+   <speech speaker="bernotas" speechtype="q"> Как назывался кинотеатр? </speech>
+   <speech speaker="agureeva" speechtype="a"> Кинотеатр, в который <pron type="pers" number="plur"
+     >мы</pron> ходили с братом, назывался <place ref="kinoteatrMurmansk">“Мурманск.”</place>
+   </speech>
+   <speech speaker="bernotas" speechtype="q"> В городе <place ref="murmansk">Мурманске?</place>
+   </speech>
+   <speech speaker="agureeva" speechtype="a"> Да. </speech>
+   <speech speaker="bernotas" speechtype="q"> В <place ref="leningrad">Ленинграде</place> было
+    кино?</speech>
+   <speech speaker="agureeva" speechtype="a"> Да, там где <pron type="pers" number="sing">я</pron>
+    потом жила с четырнадцати лет, прямо на против нашего дома был <place ref="kinoteatrLagoda"
+     >кинотеатр “Ладога.”</place>
+   </speech>
+   <!-- We are missing a question tag here?! -->
+   <speech speaker="agureeva" speechtype="a"> Ну, <place ref="kinoteatrMurmansk">кинотеатр
+     "Мурманск"</place> был достаточно старый кинотеатр. Он был серого цвета и очень большого
+    размера. Там был только один зал. Стулья были деревянные. А вот... чистые. А <place
+     ref="kinoteatrLagoda">“Ладога”</place> был современный <place ref="movieTheater"
+     >кинотеатр</place> . Он был из бетона и стекла. Там был тоже только один зал. Но там было очень
+    красивое фойе и часто были выставки картин на стенах. </speech>
+   <speech speaker="bernotas" speechtype="q"> Кресла были удобные? </speech>
+   <speech speaker="agureeva" speechtype="a"> Вы знаете, <pron type="pers" number="sing">я</pron>
+    тогда не думала, они удобны или нет, потому, что во всех кинотеатрах были одинаковые. Кресла в
+    основном деревянные. Ну сидеть было достаточно комфортно. </speech>
+   <speech speaker="bernotas" speechtype="q"> В кинотеатр вы ходили пешком или ездили? </speech>
+   <speech speaker="agureeva" speechtype="a"> В тот кинотеатр который был на против моего дома,
+    конечно пешком а в <place ref="kinoteatrMurmansk">Мурманске</place> нам нужно было проехать
+    четыре остановки. </speech>
+   <speech speaker="bernotas" speechtype="q"> У вас был один кинотеатр или больше около дома? </speech>
+   <speech speaker="agureeva" speechtype="a"> Нет, обычно <place ref="movieTheater"
+     >кинотеатр</place> не так близко друг друга расположен. </speech>
+   <speech speaker="bernotas" speechtype="q"> Что вы чувствовали когда вы ходили в кинотеатр? </speech>
+   <speech speaker="agureeva" speechtype="a"> Что <pron type="pers" number="sing">я</pron>
+    чувствовала? Ну вы знаете, интерес, прежде всего. Во вторых, удовольствие потому, что <pron
+     type="pers" number="plur">мы</pron> ходили, чтобы получить удовольствие. </speech>
+   <speech speaker="bernotas" speechtype="q"> Когда вы начали ходить в кинотеатр одна? </speech>
+   <speech speaker="agureeva" speechtype="a">
+    <pron type="pers" number="sing">Я</pron> никогда не хожу никуда одна. <pron type="pers"
+     number="sing">Я</pron> совсем не люблю получать удовольствие одна. </speech>
+   <speech speaker="bernotas" speechtype="q"> Вам нравилось ходить в кино? </speech>
+   <speech speaker="agureeva" speechtype="a"> В детстве нравилась потому, что это было самое удобное
+    развлечение, самое доступное. И кроме того, в детстве мало знаешь. По этому все интересно. </speech>
+   <speech speaker="bernotas" speechtype="q"> Как посещения кино изменилось когда вы выросли? И
+    закончили школу? </speech>
+   <speech speaker="agureeva" speechtype="a"> Да, ну могу сказать что, когда <pron type="pers"
+     number="plur">мы</pron> вернулись в <place ref="Leningrad">Ленинград</place>, появились много
+    очень хороших <genre ref="history">исторических</genre> фильмов. Вот, <pron type="pers"
+     number="sing">я</pron> с удовольствием ходила на <nationalCinema ref="englishCinema">английские
+     фильмы</nationalCinema> , которые очень хорошо делали в <place ref="England">Англии</place>
+    <place ref="England">об истории Англии</place> и тоже был направленный интерес.  До этого, <pron
+     type="pers" number="plur">мы</pron> смотрели в основном <nationalCinema ref="frenchCinema"
+     >французские</nationalCinema>
+    <genre ref="comedy">комедии</genre> , потому, что очень много привозили в <place
+     ref="sovietUnion">Советский Союз</place> тогда фильмов из <place ref="france">Франции</place> и
+    в основном это был лёгкий жанр.  Когда <pron type="pers" number="sing">я</pron> закончила школу,
+    я училась в университете, <pron type="pers" number="plur">мы</pron> уже увлекались конечно
+     <person ref="andreiTarkovskii">Тарковским</person>, то есть ходили на конкретных режиссёров,
+    которых знали и любили. </speech>   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Spencer:  8:08 to 15:00 -->
+  
+   <speech speaker="bernotas" speechtype="q"> Когда вы начали изучать другие языки? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Когда? во втором классе. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Какие языки? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну, <pron type="pers" number="sing">я</pron> изучала
+    английский язык в школе, потом в университете, в университете ещё польский. Когда работала в
+     <place ref="norway">Норвегии</place> , норвежский. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> У вас есть самый любимый фильм? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Много. Очень любимых фильмов. Много. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Ах, какие, пожалуйста? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну, <pron type="pers" number="sing">я</pron> думаю,
+    что все русские любят <title ref="whiteSun">Белое солнце пустыни</title> , <title
+     ref="pokrovskyGate">Покровские ворота</title> , <title ref="officeRomance">Служебный
+     роман</title> , <title ref="ironyOfFate">Ирония судьбы</title> , <title
+     ref="moscowDoesNotBelieveInTears">Москва слезам не верит</title> . И так далее, их много
+    хороших фильмов. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> У вас были любимые актёры или актрисы? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Вы имеете в виду русские, или зарубежные? </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Или русские или зарубежные. </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Да, тоже очень много любимых актёров и актрис. Все
+    талантливыe и яркие актрисы и актёры любимые </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Один особенный, или. . .? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Нет, особенного нет. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Какие были ваши самые любимые жанры </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну, в детстве, как <pron type="pers" number="sing"
+     >я</pron> уже сказала, <genre ref="comedy">комедии</genre> . Потом <genre ref="history"
+     >исторические</genre> фильмы. Потом проблемные фильмы о русском обществе, да? А потом, во время
+     <period ref="perestroika">перестройки</period> появились новые жанры--боевики. Это <pron
+     type="pers" number="sing">мне</pron> не очень нравится. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Как вы провели свободное время, кроме посещения кино? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну, как… Гуляла в парках, читала книги. Путешествовала
+    летом, конечно </speech>
+
+   <speech speaker="bernotas" speechtype="q"> В детстве и сейчас, как часто вы ходите в кино? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну, в детстве во время каникул, довольно часто. А
+    сейчас крайне редко. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Сколько лет было, в среднем, людям, которые были в
+    кино? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Каким людям? </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Средним. </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ах, понятно. Вы знаете, утром конечно больше пожилых и
+    детей, а вечером конечно молодёжи. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Как сейчас. </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Да, ничего не изменилось. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Больше мужчин или женщин? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Больше женщин. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> В кинотеатре были очереди? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Да. Если был какой-то иностранный, интересный фильм
+    были очереди, длинные очереди. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Например? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну, <pron type="pers" number="sing">я</pron> уже
+    говорила что одно время привозили только <nationalCinema ref="frenchCinema"
+     >французские</nationalCinema>
+    <genre ref="comedy">комедии</genre> , очень лёгкие, потом <nationalCinema ref="indianCinema"
+     >индийские</nationalCinema> , фильмы… А вот тогда стали привозить <genre ref="history"
+     >исторические фильмы</genre> , очень много людей стояли в очереди. И конечно на фильмеы <person
+     ref="andreiTarkovskii">Тарковского</person> тоже стояли в очереди. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> У вас есть любимый фильм Тарковского? </speech>
+
+   <speech speaker="agureeva" speechtype="a">
+    <title ref="mirror">Зеркало</title> .</speech>
+
+   <speech speaker="bernotas" speechtype="q"> Во времени сеанса были шумные или было тихо? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Вели себя очень серьёзно и тихо, не шумели. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Как люди одевались в кинотеатр? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Как обычно. Как обычно. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Вы знаете людей, которые работали в кинотеатре? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Нет. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Опишите звуки и запахи, которые вы вспоминаете в
+    кинотеатре? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Вы знаете, ну конечно звук шагов потому, что много
+    людей поднимались по лестницам. Запах может быть лёгкий хлорки потому, что мыли полы с хлоркой. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> В кино было холодно, жарко, душно? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Тепло. Нормально. Хорошие условия были. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Сколько было мест в кинотеатре? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> По разному, были маленькие залы, большие, в основном
+    большие. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Сколько большие? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну, <pron type="pers" number="sing">я</pron> думаю,
+    мест сто пятьдесят, двести может быть. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Был буфет в кинотеатре? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> По-моему нет. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Когда вы ходили в кино, есть буфет? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Нет. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Что вы пробовали в кинотеатре? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Вы знаете, то что предлагают сейчас в кинотеатрах
+     <pron type="pers" number="sing">мне</pron> не очень нравится. <pron type="pers" number="sing"
+     >мне</pron> совсем не нравятся попкорн, кока-кола, пепси-кола, и <pron type="pers"
+     number="sing">мне</pron> не нравится когда люди едят, когда смотрят фильм. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Почему? </speech>
+
+   <speech speaker="agureeva" speechtype="a">
+    <pron type="pers" number="sing">я</pron> считаю что это не очень уважительно по отношению к
+    искусству, к тем, кто сидит рядом. Запах попкорна <pron type="pers" number="sing">мне</pron>
+    очень не нравится. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Где в кино зале вы любили сидеть? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Вы знаете, раньше не спрашивали зрители просто
+    продавали билет и там можно было написано какой ряд и какое место. И <pron type="pers"
+     number="sing">мне</pron> в принципе было всё равно. И сейчас <pron type="pers" number="sing"
+     >я</pron> люблю сидеть с краю потому, что если фильм плохой, можно легко уйти. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Фильмы были немые или звуковые? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Звуковые, конечно </speech>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Maggie:  15:00 to 19:24 -->
+  
+   <speech speaker="bernotas" speechtype="q"> И цветные? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Были или чёрно-белые или цветные, это зависело от
+    выбора режиссёра. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Какое было качество? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Разное. Особенно если это фильм, который привозили из
+    за границы, во время путешествия иногда портилась, очевидно пленка, так что, разное качество. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Были ли фильмы, на которые нельзя было ходить детям? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Конечно, всегда были фильмы, где было написано: “Детям
+    до шестнадцати.” </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Вам не разрешали ваши родители или администрация
+     <place ref="movieTheater">кинотеатра?</place>
+   </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Вы знаете, мне в голову не приходило, что можно пойти
+    туда, куда нельзя. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Вы помните, какой-нибудь фильм у которого были
+    проблемы с выходом на экран? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Вы знаете, таких фильмов было довольно много, потому
+    что--по-моему до сих пор есть такие фильмы, которые пока никто никогда не видел. Но <pron
+     type="pers" number="sing">я</pron> специально этим не интересовалась, но знаю что такие фильмы
+    были, такие случаи были. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Как вы узнавали о репертуаре кинотеатров? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Обычно, у каждого <place ref="movieTheater"
+     >кинотеатра</place> висела афиша. На месяц. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> А… о качестве фильмов? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну, прежде всего, от друзей, о том, что много говорили
+    всегда о хороших фильмах. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Вы читали о фильмах в журналах, или в газетах? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну да, когда попадались такие статьи, в принципе <pron
+     type="poss" number="plur">у нас</pron> были специальные журналы где писали только о кино. Но
+     <pron type="pers" number="sing">я</pron> такие журналы не покупала. А если попадались статьи в
+    газетах или в других журналах, читала. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Какие газеты и журналы вы читали? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Литературную, <title ref="komsomolskaya pravda"
+     >комсомольскую правды.</title>
+   </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Как реклама в кино изменилась с <period ref="ussr"
+     >советского времени?</period>
+   </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Как реклама фильмов изменилось, вы знаете, в принципе
+    не рекламировали фильмы; люди сами шли в кино. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Ваши родители ходили в кино? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ходили. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Часто или . . . ? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Нет, не часто потому, что мой отец часто был в море и
+    мама тоже целый день работала так, что не часто. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Что они смотрели? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> До собственно то, что предлагали потому, что выбор был
+    не большой. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Вы ходили в кино вместе? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Вместе. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> С детьми? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Нет, обычно <pron type="pers" number="plur">мы</pron>
+    ходили когда были свободные во время каникул утром одни, они вечером после работы. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> У вас есть дети? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Есть. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Вы ходили в кино с ними? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Да. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> На какие фильмы вы ходили с ними? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Ну какие, ну когда <pron type="poss" number="sing"
+     >моей</pron> дочери было четырнадцать лет, <pron type="pers" number="plur">мы</pron> ходили в
+    основном на те фильмы, которые могли быть ей интересны. Например, очень хороший фильм, хотя
+     <nationalCinema ref="russianCinema">русский</nationalCinema> , это экранизация <person
+     ref="christie">Агаты Кристи</person>
+    <title ref="tenLittleIndians">Двенадцать негритят.</title> И собственно говоря в таком возрасте
+    подросток очень любит испытывать сильные эмоции фильм довольно страшный. <pron type="pers"
+     number="plur">Мы</pron> ходили на этот фильм. Смотрели хорошо вам знакомый фильм как <title
+     ref="King Kong">Кинг Конг</title> чтобы тоже испытывать сильные эмоции. Конечно, мне это было
+    не очень интересно но с ней ходила. </speech>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Bailey: 19:24 to 22:56 -->
+  
+
+   <speech speaker="bernotas" speechtype="q"> Мультфильмы? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> На <genre ref="animation">мультфильмы</genre>
+    <pron type="pers" number="sing">я</pron> хожу с внуками. У меня есть внуки. И вот сейчас
+    появилось много хороших мультфильмов, которые привозят, например <nationalCinema
+     ref="americanCinema">из США</nationalCinema> анимационные фильмы они очень любят. Ой, вы знаете
+     <pron type="pers" number="sing">я</pron> названия не помню потому, что это вот так мимо меня
+    идёт, потому что мне не очень нравятся эти фильмы. Ну сейчас очень много появилось таких, где
+    очень много движений, так пингвины какие-то животные прыгают и бегают, но как называется <pron
+     type="pers" number="sing">я</pron> не помню. <title ref="iceAge">Ледниковый период</title> ,
+    по-моему, есть один такой, да? Вот, по-моему мы посмотрели. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> У вас был телевизор? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Он был, конечно. тогда нам было, по-моему, лет шесть,
+    у нас появился телевизор. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Вы смотрели фильмы по телевизору? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> По телевизору? Конечно. Много хороших фильмов
+    показывали по телевизору. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Какие? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Какие? Ну например, <title ref="balzaminovWedding"
+     >Женитьба Бальзаминова</title> , очень хороший фильм, <pron type="pers" number="sing">я</pron>
+    считаю. Экранизация <person ref="gogol">Гоголя</person> .</speech>
+
+   <speech speaker="bernotas" speechtype="q"> Когда фильмы были в кинотеатре, сколько было времени
+    между кинотеатром и телевизором? Я не знаю, как сказать. </speech>
+
+   <speech speaker="agureeva" speechtype="a">
+    <pron type="pers" number="sing">Я</pron> поняла, <pron type="pers" number="sing">Я</pron> поняла
+    вас. Вы хотите сказать, что если фильм появлялся сначала в кинотеатре, через какое время его
+    начинали показывать. Ну, обычно это могло быть и. . . Полгода-год. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Как ваши посещения кинотеатра изменились со временем?
+    И почему? Это. . . </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Это главный вопрос, да? Ну, как <pron type="pers"
+     number="sing">я</pron> уже говорила, в детстве, чтобы получать как можно больше информации.
+    Потом было интерес к хорошему зарубежному кино, как <pron type="pers" number="sing">я</pron> уже
+    говорила, вот очень мне нравились <genre ref="historical">исторические</genre>
+    <nationalCinema ref="britishCinema">английские фильмы</nationalCinema> . Потом появился интерес
+    к <pron type="poss" number="plur">нашим</pron> хорошим режиссёрам, тоже в студенческие годы,
+     <pron type="pers" number="plur">мы</pron> с удовольствием ходили на эти фильмы. Потом интерес
+    исчез, потому что репертуар очень сильно изменился и хорошие фильмы можно было смотреть и по
+    телевизору. Вот, а последние лет наверное. . . наверное года четыре, когда подрос <pron
+     type="poss" number="sing">мой</pron> старший внук, <pron type="pers" number="sing">я</pron>
+    стала ходить с ним, потому что он это любит. Как ребёнок. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Что вы думаете об этих изменениях? </speech>
+
+   <speech speaker="agureeva" speechtype="a"> А что <pron type="pers" number="sing">я</pron> думаю?
+     <pron type="pers" number="sing">Я</pron> думаю, что это естественно. С возрастом у человека
+    интерес кино немножко ослабевает, и есть масса других приятных увлечений. Ну потом особенно
+    предложение в кинотеатр сейчас достаточно ограничен, не всегда есть хорошие фильмы. Очень легко,
+    можно сказать, можно посмотреть хорошие фильмы. </speech>
+
+   <speech speaker="bernotas" speechtype="q"> Хорошо. Большое спасибо за интервью. </speech>
+
+   <speech speaker="agureeva" speechtype="a"> Пожалуйста. Была рада вам помочь. </speech>
+  
+ </body>
+</interview>
