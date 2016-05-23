@@ -1,0 +1,9 @@
+Should use <rs> and <name> with the attributes @type and, if needed, @subtype for all references, to refer back to our key. 
+	-think we should use @key for this. 
+	-<rs> if it is referring string; <name> if they explicitly state the name. 
+	-Epithets would probably be <rs> with @type the kind of referent, and @subtype as epithet. 
+
+Refer here for clear outline about how to do names, dates, places. http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html
+
+Could possibly use <gap> to do pauses in the speech. Used for omissions really, but might be able to use as a pause. 
+
