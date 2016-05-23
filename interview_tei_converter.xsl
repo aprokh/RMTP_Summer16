@@ -50,6 +50,8 @@ conformant element.
         </sp>
     </xsl:template>
 <!--  Conversion of references to <rs> tag  -->
+<!--  Conversion of   -->
+    
     <xsl:template match="title | person | place | genre | nationalCinema | epit">
         <rs type="{node-name()}" key="{@ref}"/>
     </xsl:template>
