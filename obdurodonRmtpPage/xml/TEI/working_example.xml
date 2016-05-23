@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-
     <teiHeader>Russian Movie Theater Project (RMTP)College of William and Mary<list>
          <rs type="interviewee" key="voronin"/>
          <rs type="interviewer" key="parks"/>
