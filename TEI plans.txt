@@ -7,3 +7,29 @@ Refer here for clear outline about how to do names, dates, places. http://www.te
 
 Could possibly use <gap> to do pauses in the speech. Used for omissions really, but might be able to use as a pause. 
 
+Sasha: 
+We can do the following
+
+Use <name> tag for <person> and <place>.
+Use <rs> tag for <genre> <title> and <nationalCinema>
+
+For example,
+Instead of <person ref='gaidai'>Gaidai</person>
+We will use TEI compliant 
+<name type='person' ref='gaidai'>Gaidai</name>
+
+Instead of <place ref="volgogradskayaOblast">Волгоградской области</place>
+we will use
+<name type='place' ref="volgogradskayaOblast">Волгоградской области</name>
+
+Instead of <genre ref="skazka">сказка</genre>
+we will use
+<rs type="genre" ref="skazka">сказка</rs>
+
+Instead of <title ref="elusiveAvengers>Неуловимые Мстители</title>
+we will use
+<rs type="title" ref="elusiveAvengers>Неуловимые Мстители</title>
+
+
+
+
