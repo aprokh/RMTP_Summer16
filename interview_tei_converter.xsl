@@ -21,13 +21,37 @@ conformant element.
     
 <!--  Convert metadata section to TEI header  -->
     <xsl:template match="meta">
+        
+        <!--
+            What needs filled in:
+            
+            titleStmt/title : description of title
+            publicationStmt/p : description of where to be published
+            sourceDesc/p : link to where transcripts are located / gathered
+            
+        -->
         <teiHeader>
-<!--      Need proper tag for project and university      -->
-            <xsl:apply-templates select="project"/>
-            <xsl:apply-templates select="university"/>
-            <list>
-                <xsl:apply-templates select="persons/*"/>
-            </list>
+            <fileDesc>
+                <titleStmt>
+<!--        Function: gets filename, strips path from beginning and .xml extension from end            -->
+                    <title>RMTP interview with <xsl:value-of select="substring-before(substring-after(base-uri(), 'xml/'), '.')"/></title>
+                </titleStmt>
+                <publicationStmt>
+                    <p>To be published on the RMTP website at http://rmtp.obdurodon.org</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Original transcriptions gathered by {fill in}</p>
+                    <ab>
+                        <xsl:apply-templates select="persons/*"/>
+                    </ab>
+                </sourceDesc>
+            </fileDesc>
+            <!--<encodingDesc/>
+            <profileDesc/>
+            <xenoData/>-->
+            <revisionDesc>
+                <change>This will need much more elaborate description</change>
+            </revisionDesc>
         </teiHeader>
     </xsl:template>
     <xsl:template match="persons/*">
@@ -35,9 +59,11 @@ conformant element.
     </xsl:template>
 <!--  Structural tags: body to div, speech to something  -->
     <xsl:template match="body">
-        <div>
-            <xsl:apply-templates/>
-        </div>
+        <text>
+            <body>
+                <xsl:apply-templates/>
+            </body>
+        </text>
     </xsl:template>
     <xsl:template match="speech">
         <sp xml:id="sp{count(preceding::speech) + 1}">
