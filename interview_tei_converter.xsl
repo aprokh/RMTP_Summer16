@@ -34,7 +34,10 @@ conformant element.
             <fileDesc>
                 <titleStmt>
 <!--        Function: gets filename, strips path from beginning and .xml extension from end            -->
-                    <title>RMTP interview with <xsl:value-of select="substring-before(substring-after(base-uri(), 'xml/'), '.')"/></title>
+<!--        Note: Full name is not provided in original markup in English, so will need to be added after
+                    running transformation to match rmpt_tei_header_TEST.xml template-->
+                    <title>Interview with <xsl:value-of select="substring-before(substring-after(base-uri(), 'xml/'), '.')"/>: electronic version</title>
+                    
                 </titleStmt>
                 <publicationStmt>
                     <p>To be published on the RMTP website at http://rmtp.obdurodon.org</p>
