@@ -69,14 +69,18 @@ conformant element.
         </text>
     </xsl:template>
     <xsl:template match="speech">
-        <sp xml:id="sp{count(preceding::speech) + 1}">
+        <!--<sp xml:id="sp{count(preceding::speech) + 1}">
             <speaker>
                 <xsl:value-of select="@speaker"/>
             </speaker>
+            
+        </sp>-->
+<!--   Switch to <u> with @speaker and give the xml:id     -->
+        <u xml:id="sp{count(preceding::speech) + 1}" who='{@speaker}'>
             <p>
                 <xsl:apply-templates/>
             </p>
-        </sp>
+        </u>
     </xsl:template>
 <!--  Conversion of references to <rs> tag  -->
 <!--  Conversion of   -->
