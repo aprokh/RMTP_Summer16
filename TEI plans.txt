@@ -15,14 +15,14 @@ All tags (X next to ones that are appropriately dealt with in converter)
 
 interview X
 meta X
-project 
+project (this will be in the Header)
 university
 persons X
 date
 interviewer X
 interviewee X
 translator X
-milestone
+milestone (do we need milestone tag?, These are dates that we can include in the header)
 body X
 speech
 speaker
