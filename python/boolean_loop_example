@@ -1,0 +1,38 @@
+#Here are two loops. The logic is the same, but second uses a boolean to control
+#the while loop and the first does not. To test either, just uncomment them by
+#deleting the triple quotes (""") at the beginning and end of the block of code.
+
+
+
+#Declaring variables for testing
+int1 = 10
+int2 = 0
+
+#Method 1: not using boolean. Things to note: the input has to be cast to an int
+#explicitly using the int() function, because the input() function understands
+#the input as a String. Because of this, if you don't case it, it will try to
+#compare a String to an int and you will get an error (you can try getting rid of
+#the int() function and check out the error message.)
+
+"""while int2 < int1:
+    print('Will break when int2 > int1.')
+    int2 = int(input('Enter new value for int2: '))
+print('Loop ended')   
+
+"""
+#Method 2: using boolean. Things to note: use of single equals sign for setting
+#variables (boolean = False), and double equals sign for testing
+#(while boolean == False). Basic logic is that it takes new input for int2 each
+#time, and then tests if its greater than int1. When this is true, the if block
+#is executed, and it sets boolean variable to True. Thus, the next time it comes
+#to the while block, it passes it over becasue boolean != False. 
+
+"""
+boolean = False
+while boolean == False:
+    print('Will break when int2 > int1.')
+    int2 = int(input('Enter new value for int2: '))
+    if int2 > int1:
+        boolean = True
+print('Loop ended') 
+"""
