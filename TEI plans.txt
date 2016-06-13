@@ -24,9 +24,9 @@ interviewee X
 translator X
 milestone (do we need milestone tag?, These are dates that we can include in the header)
 body X
-speech
-speaker
-speechtype
+speech <u>
+speaker <@who=id of a speaker>
+speechtype get rid off them
 title X
 person X
 place X
