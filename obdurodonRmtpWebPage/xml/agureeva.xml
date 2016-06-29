@@ -3,14 +3,23 @@
 
 
 <!-- Marina Agureeva Interview -->
-<!-- coders: Maggie Swiftl, Bailey Orr, Spencer Small, Micah Butler, Julia Seeley-Hall -->
+<!-- coders: Maggie Swift, Bailey Orr, Spencer Small, Micah Butler, Julia Seeley-Hall -->
 <!-- April 22, 2016 -->
 <!-- 15:00 - 19:24 -->
 
 <!-- Add to index file:  
- King Kong, 10 Little Indians, Комсомольская правда, Служебный Роман,  
-Покровские ворота, 'history' genre, indianCinema, Зеркало (film), kinoteaterMurmansk,
-kinoteatrLagoda, Murmansk (place)-->
+King Kong, DONE
+10 Little Indians / , DONE
+Комсомольская правда, WHAT TO DO WITH NEWSPAPERS?
+Служебный Роман, DONE 
+Покровские ворота, DONE
+'history' genre, DONE
+indianCinema, DONE
+Зеркало (film), DONE
+kinoteaterMurmansk, DONE
+kinoteatrLadoga, DONE
+Murmansk (place) DONE
+-->
 
 <!-- I also tagged <period> for ussr and perestroika, if we wanted to analyze those references. -->
 
@@ -148,7 +157,7 @@ kinoteatrLagoda, Murmansk (place)-->
    <speech speaker="bernotas" speechtype="q"> В <place ref="leningrad">Ленинграде</place> было
     кино?</speech>
    <speech speaker="agureeva" speechtype="a"> Да, там где <pron type="pers" number="sing">я</pron>
-    потом жила с четырнадцати лет, прямо на против нашего дома был <place ref="kinoteatrLagoda"
+    потом жила с четырнадцати лет, прямо на против нашего дома был <place ref="kinoteatrLadoga"
      >кинотеатр “Ладога.”</place>
    </speech>
    <!-- We are missing a question tag here?! -->
@@ -445,7 +454,7 @@ kinoteatrLagoda, Murmansk (place)-->
 
    <speech speaker="bernotas" speechtype="q"> Какие газеты и журналы вы читали? </speech>
 
-   <speech speaker="agureeva" speechtype="a"> Литературную, <title ref="komsomolskaya pravda"
+   <speech speaker="agureeva" speechtype="a"> Литературную, <title ref="komsomolskaia pravda"
      >комсомольскую правды.</title>
    </speech>
 
