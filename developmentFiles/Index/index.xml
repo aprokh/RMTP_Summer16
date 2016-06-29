@@ -2090,6 +2090,39 @@
             <year>2005</year>
             <imdb>http://www.imdb.com/title/tt0360717/</imdb>
         </title>
+        
+        <title xml:id="officeRomance">
+            <fullTitleEng>Office Romance</fullTitleEng>
+            <fullTitleRus>Служебный роман</fullTitleRus>
+            <director>Eldar Riazanov</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>comedy</genre>
+            <year>1977</year>
+            <imdb>http://www.imdb.com/title/tt0076727/</imdb>
+        </title>
+        
+        <title xml:id="pokrovskyGate">
+            <fullTitleEng>Pokrov Gates</fullTitleEng>
+            <fullTitleRus>Покровские ворота</fullTitleRus>
+            <director>Mikhail Kozakov</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>comedy</genre>
+            <year>1983</year>
+            <imdb>http://www.imdb.com/title/tt0083465/</imdb>
+        </title>
+        
+        <title xml:id="mirror">
+            <fullTitleEng>Mirror</fullTitleEng>
+            <fullTitleRus>Зеркало</fullTitleRus>
+            <director>Andrei Tarkovskii</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>drama</genre>
+            <year>1975</year>
+            <imdb>http://www.imdb.com/title/tt0072443/</imdb>
+        </title>
   
     </titles>
 
@@ -2122,6 +2155,7 @@
         <genre xml:id="western"/>
         <genre xml:id="shortFilm"/>
         <genre xml:id="commercialCinema"/>
+        <genre xml:id="historyFilm"/>
     </genres>
 
     <places>
@@ -2421,10 +2455,22 @@
             <placeType>exhibition</placeType>
         </place>
         
+        <place xml:id="murmansk">
+            <fullName>Murmansk</fullName>
+            <placeType>geo</placeType>
+        </place>
         
+        <place xml:id="kinoteatrMurmansk">
+            <fullName>Murmansk</fullName>
+            <placeType>exhibition</placeType>
+        </place>
         
-       
-      
+        <place xml:id="kinoteatrLadoga">
+            <fullName>Ladoga</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+         
     </places>
 
 
@@ -2452,6 +2498,7 @@
         <nationalCinema xml:id="britishCinema"/>
         <nationalCinema xml:id="coproduction"/>
         <nationalCinema xml:id="asianCinema"/>
+        <nationalCinema xml:id="indianCinema"/>
         
     </nationalCinemas>
 </index>
