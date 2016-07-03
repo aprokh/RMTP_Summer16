@@ -77,15 +77,16 @@ conformant element.
         </sp>-->
 <!--   Switch to <u> with @speaker and give the xml:id     -->
         <u xml:id="sp{count(preceding::speech) + 1}" who='{@speaker}'>
-            <p>
                 <xsl:apply-templates/>
-            </p>
         </u>
     </xsl:template>
 <!--  Conversion of references to <rs> tag  -->
 <!--  Conversion of   -->
     
     <xsl:template match="title | person | place | genre | nationalCinema | epit">
-        <rs type="{node-name()}" key="{@ref}"/>
+        <rs type="{node-name()}" key="{@ref}">
+            <xsl:apply-templates/>
+        </rs>
+        
     </xsl:template>
 </xsl:stylesheet>
