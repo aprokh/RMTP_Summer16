@@ -8,6 +8,11 @@
    
    <teiHeader>
       <fileDesc>
+         <!--2016-07-09 ebb: I made one correction here, to place your sourceDesc element inside the fileDesc. It was outside it before and causing a TEI validation error. Notice that fileDesc contains three major elements:
+            1) titleStmt
+            2) publicationStmt
+            3) sourceDesc          
+  -->
          <titleStmt>
             <title>Interview with Liudmila Danilenko: electronic version</title>
             <author>
@@ -40,67 +45,132 @@
                <name ref="prokhorova">ELENA PROKHOROVA</name>
             </respStmt>
          </titleStmt>
-         
          <publicationStmt>
-            <pubPlace>Williamsburg, Virginia</pubPlace>
+            
             <publisher>College of William and Mary</publisher>
 <!--            I put here the date of TEI  version.-->
-            <date>2 June, 2016</date>
+ <!--2016-07-09 ebb: The element pubPlace needs to sit after the element publisher because the 
+    TEI header is very strict about the order of these elements, so I just moved it.-->
+            <pubPlace>Williamsburg, Virginia</pubPlace>
+            <date type="interview">2 June, 2016</date>
 <!--            <date value="2012-07-04" milestone="interview">4 July, 2008</date> MILESTONE ELEMENT IS NOT ALLOWED BY TEI.  WHAT TO DO? -->  
 <!--            <date value="2012-11-24" milestone="translation">24 November, 2012</date> MILESTONE ELEMENT IS NOT ALLOWED BY TEI.  WHAT TO DO? -->
             <!--tei copy  ASK ELISA (ONE DATE?)-->
+            <!--2016-07-09 ebb: milestone is an *element* and not an attribute in the TEI. I would 
+            choose a different attribute that is legal for the date element. I think you are using this the 
+            way I would use an @type attribute, which is permitted on date, so I've just applied it here. 
+            Will that work for you? See the element specifications for date here: 
+            http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html
+            Notice, you can look up any element in the TEI on the search form. You'll want to 
+            spend some time looking up the elements you're interested in, so you can see what kinds of 
+            attributes they are allowed to take, and what their parents and children are allowed to be.
+            -->
+<!--2016-07-09 ebb: I think you may want more information in your publicationStmt, so you can identify the name of the whole project here as the <authority>Russian Movie Theater Project</authority> and so that you comment on the availability of this material: is it something you can make available with a Creative Commons License? Is it available via special permissions from the interviewees? This is the place to include such information about availability and access permissions. Here is what I use in the Digital Mitford project, for example: 
+   
+   <publicationStmt>
+<authority>Digital Mitford: The Mary Russell Mitford Archive</authority>
+<pubPlace>Greensburg, PA, USA</pubPlace>
+<date>2014</date>
+<availability>
+<p>
+Reproduced by courtesy of the
+<placeName>Reading Central Library</placeName>
+.
+</p>
+<licence>
+Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported License
+</licence>
+</availability>
+</publicationStmt>  
+
+Following that model, here's where I'd place the information on permissions you need to deliver:
+            -->
+            <availability>
+               <p>EDITORIAL POLICY</p>
+               <!--           In the Editorial Policy we have included a link to the web site of the PHS Committee.  We follow TEI Guidelines "16.2.1 Pointing Elsewhere." -->
+               <p>The project is approved by Protection of <ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/humansubjects/index.php">Human Subjects Committee (PHSC) of the College of William and Mary</ref>.
+               </p>      
+            </availability>          
+            
          </publicationStmt>         
-         
-      </fileDesc>
-     
-<!--     Information about the source of the interview: an audio or video recording.-->
-      <sourceDesc>
+ <!--     Information about the source of the interview: an audio or video recording.--> 
+         <sourceDesc>
+        
          <biblFull>
-            <titleStmt>
-               <title>INTERVIEW WITH LIUDMILA DANILENKO</title>
+               <titleStmt><title>INTERVIEW WITH LIUDMILA DANILENKO</title>
                <author>
                   <name ref="danilenko">LIUDMILA DANILENKO</name>
                </author>
                <editor role="interviewer">
                   <name ref="roberts">MICHAEL ROBERTS</name>
-               </editor>
-            </titleStmt>
-
-            <publicationStmt>
-               <publisher>College of William and Mary</publisher>
+               </editor></titleStmt>
+               <publicationStmt><publisher>College of William and Mary</publisher>
                <pubPlace>Williamsburg, VA</pubPlace>
 <!-- This is a date of the interview. -->
-               <date>4 July, 2008</date>
-            </publicationStmt>
-<!--  Do we want an abstract?  -->
-            <note type="abstract">BRIEF ABSTRACT</note>
+               <date>4 July, 2008</date></publicationStmt>
+            <notesStmt><note type="abstract">ABSTRACT HERE</note></notesStmt>
+               <!--  Do we want an abstract?  -->   
+            <!--2016-07-09 ebb: To make this valid inside biblFull, I wrapped your note element in a notesStmt element. This is a good place to put an abstract. I don't think you need the @type="abstract" here UNLESS you intend to include other kinds of notes here. You *can* do that, and have multiple notes inside the notesStmt, like this:
+           
+           <notesStmt>
+              <note type="abstract">ABSTRACT HERE</note>
+              <note type="somethingElse">SOMETHING ELSE RELEVANT HERE THAT IS NOT AN ABSTRACT</note>
+           </notesStmt>
+  My guess is that you don't need that, so if you only ever have one type of note in this biblFull, just go without an attribute to simplify things.          
+            --> 
          </biblFull>
+         
       </sourceDesc>
      
-     <encodingDesc>
-        <projectDesc><p>RUSSIAN MOVIE THEATER PROJECT.  The Russian Movie Theater Project is an archive and a study of film exhibition in St. Petersburg during the twentieth century: a portrait of film exhibition and movie-going scene in Soviet Leningrad and Post-Soviet St. Petersburg. The project is inspired by Williamsburg Theater Project (led by Professor Arthur Knight) and the international initiative, the History of Moviegoing, Exhibition, and Reception (HOMER) Project. While many Western cinematic traditions are represented in the HOMER project, there is no online archive covering Russian cinema. The RMTP aims to fill that gap.
-           Most histories of Russian and Soviet cinema operate under the assumption that all films released were available to all citizens of Russia Soviet Union. When the films received a limited release for political reasons, researchers provide anecdotal evidence about how these films were distributed. The Russian Movie Theater Project would like to create an empirical portrait of Russians’ movie going habits and film exhibition patterns at different periods of Soviet and Russian history. For example, when and where Soviets were able to see Western films in Stalinist Russia? How did the availability of Italian, Indian, and American films changed after Stalin’s death? How does Soviet-era propaganda and post-Soviet promotion affect film distribution and film attendance? Using computational tools, this Project examines oral history interviews, in which interviewees reconstruct their moviegoing experiences in St. Petersburg, Russia.  To see the computational module of the project click here. Specifically, the Project analyzes
+      </fileDesc>
+     <!--<encodingDesc>
+        <projectDesc>-->
+      <!--2016-07-09 ebb: Instead of encodingDesc + projectDesc, I'd suggest using profileDesc instead, given your content here. It will make your metadata more searchable, and your content here seems more consistent with a profile description in the TEI than an encoding description. The profile description in TEI tells us something more than a bibliography can about your project, so it's meant to help capture its "profile" if you will! The encodingDesc is really more about explaining your approach to coding and markup in particular. The challenge of profileDesc, though, is that you need more specific tags than the generic <p> for paragraph. I'll add some here as suggestions, but read more about profileDesc here: 
+   http://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD4   
+      -->
+      <profileDesc><abstract><!--2016-07-09 ebb: I'd move this up to the publicationStmt: RUSSIAN MOVIE THEATER PROJECT.--> <p>The Russian Movie Theater Project is an archive and a study of film exhibition in St. Petersburg during the twentieth century: a portrait of film exhibition and movie-going scene in Soviet Leningrad and Post-Soviet St. Petersburg. The project is inspired by Williamsburg Theater Project (led by Professor Arthur Knight) and the international initiative, the History of Moviegoing, Exhibition, and Reception (HOMER) Project. While many Western cinematic traditions are represented in the HOMER project, there is no online archive covering Russian cinema. The RMTP aims to fill that gap.</p>
+           <p>Most histories of Russian and Soviet cinema operate under the assumption that all films released were available to all citizens of Russia Soviet Union. When the films received a limited release for political reasons, researchers provide anecdotal evidence about how these films were distributed. The Russian Movie Theater Project would like to create an empirical portrait of Russians’ movie going habits and film exhibition patterns at different periods of Soviet and Russian history. For example, when and where Soviets were able to see Western films in Stalinist Russia? How did the availability of Italian, Indian, and American films changed after Stalin’s death? How does Soviet-era propaganda and post-Soviet promotion affect film distribution and film attendance? Using computational tools, this Project examines oral history interviews, in which interviewees reconstruct their moviegoing experiences in St. Petersburg, Russia.  To see the computational module of the project click here. Specifically, the Project analyzes</p>
            
-           what moviegoers remember (films, actors, directors),
-           how they evaluate films, actors, characters,
-           how they define themsleves as narrators (I or we), and
-           what they hesitate about when they recollect their moviegoing experiences.
-           how their cinematic experiences shape their identities as Soviets, Russians, and global citizens?
-           Project Developers: Elena Prokhorova and Sasha Prokhorov (College of William and Mary), Tom Elvins and Andrew Nitz (University of Pittsburgh).
-        </p></projectDesc>
-        <editorialDecl>
-           <p>EDITORIAL POLICY</p>
-<!--           In the Editorial Policy we have included a link to the web site of the PHS Committee.  We follow TEI Guidelines "16.2.1 Pointing Elsewhere." -->
-           <p>The project is approved by Protection of <ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/humansubjects/index.php">Human Subjects Committee (PHSC) of the College of William and Mary</ref>.
-           </p>      
-        </editorialDecl>
-       
-       
-       
-     </encodingDesc>
+          <list> <item>what moviegoers remember (films, actors, directors),</item>
+           <item>how they evaluate films, actors, characters,</item>
+           <item>how they define themsleves as narrators (I or we),</item> 
+             <item>what they hesitate about when they recollect their moviegoing experiences,</item>
+           <item>and how their cinematic experiences shape their identities as Soviets, Russians, and global citizens.</item></list></abstract>
+          <!--2016-07-09 ebb: The following information is redundant, because you have already indicated it up in the titleStmt. I would just remove it from here.        
+             Project Developers: Elena Prokhorova and Sasha Prokhorov (College of William and Mary), Tom Elvins and Andrew Nitz (University of Pittsburgh).-->
+         <creation>BACKGROUND OF INTERVIEW</creation> 
+         <langUsage>
+            <language ident="ru">RUSSIAN</language>
+         </langUsage>
+         
+         <particDesc>
+            <person role="interviewer">
+               <persName ref="roberts">MICHAEL ROBERTS</persName>
+            </person>
+            <person role="interviewee">
+               <persName ref="danilenko">LIUDMILA DANILENKO</persName>
+            </person>
+         </particDesc>
+         
+        </profileDesc>
+      <!--ebb: I removed this tag to replace with profileDesc instead. </projectDesc>-->
+        
+   <!--<encodingDesc>
+      <editorialDecl>-->
+         <!--<p>EDITORIAL POLICY</p>-->
+         <!--           In the Editorial Policy we have included a link to the web site of the PHS Committee.  We follow TEI Guidelines "16.2.1 Pointing Elsewhere." -->
+         
+         <!--2016-07-09 ebb: Hmmm...the following <p> doesn't really belong in the encodingDesc. An editorialDecl here is supposed to discuss information about your markup decisions, not general information about permissions. That belongs up in yoru publicationStmt, so I'll move it there: 
+            <p>The project is approved by Protection of <ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/humansubjects/index.php">Human Subjects Committee (PHSC) of the College of William and Mary</ref>.
+         </p> -->     
+      <!--</editorialDecl>
+     </encodingDesc>-->
      
-      <profileDesc>
-        <creation>BACKGROUND OF INTERVIEW</creation>
+     <!--2016-07-09 ebb: Since I've set up a profileDesc earlier in your header, I'm just going to move your information on creation, langUsage, and particDesc up into it. 
+        <profileDesc>
+        <creation>BACKGROUND OF INTERVIEW</creation> 
+     
+  
         <langUsage>
            <p>The entire document is in </p>
            <language ident="ru">RUSSIAN</language>
@@ -114,14 +184,9 @@
               <persName ref="danilenko">LIUDMILA DANILENKO</persName>
            </person>
         </particDesc>
-         
-      
-     
-     
-     
-     
-     
-     </profileDesc></teiHeader>
+     </profileDesc>-->
+   
+   </teiHeader>
    
    
    
