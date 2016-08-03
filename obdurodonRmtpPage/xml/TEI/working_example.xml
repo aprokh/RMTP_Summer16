@@ -5,21 +5,41 @@
       <fileDesc>
          <titleStmt>
             <title>Interview with voronin: electronic version</title>
+            <author>
+               <name ref="voronin">NAME</name>
+            </author>
+            <editor role="interviewer">
+               <name ref="parks">NAME</name>
+            </editor>
+            <editor role="interviewer">
+               <name ref="clark">NAME</name>
+            </editor>
+            <editor role="transcriber">
+               <name ref="clark">NAME</name>
+            </editor>
+            <editor role="transcriber">
+               <name ref="kitchen">NAME</name>
+            </editor>
+            <editor role="translator">
+               <name ref="clark">NAME</name>
+            </editor>
+            <editor role="translator">
+               <name ref="kitchen">NAME</name>
+            </editor>
+            <respStmt>
+               <resp>TEI Markup done by </resp>
+               <name ref="nitz">ANDREW NITZ</name>
+               <name ref="prokhorova">ELENA PROKHOROVA</name>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
+            <publisher>College of William and Mary</publisher>
+            <pubPlace>Williamsburg, Virginia</pubPlace>
+            <date type="interview"/>
             <p>To be published on the RMTP website at http://rmtp.obdurodon.org</p>
          </publicationStmt>
          <sourceDesc>
             <p>Original transcriptions gathered by {fill in}</p>
-            <ab>
-               <rs type="interviewee" key="voronin"/>
-               <rs type="interviewer" key="parks"/>
-               <rs type="interviewer" key="clark"/>
-               <rs type="transcriber" key="clark"/>
-               <rs type="transcriber" key="kitchen"/>
-               <rs type="translator" key="clark"/>
-               <rs type="translator" key="kitchen"/>
-            </ab>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>

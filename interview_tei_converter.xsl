@@ -37,16 +37,21 @@ conformant element.
 <!--        Note: Full name is not provided in original markup in English, so will need to be added after
                     running transformation to match rmpt_tei_header_TEST.xml template-->
                     <title>Interview with <xsl:value-of select="substring-before(substring-after(base-uri(), 'xml/'), '.')"/>: electronic version</title>
-                    
+                    <xsl:apply-templates select="persons/*"/>
+                    <respStmt>
+                        <resp>TEI Markup done by </resp>
+                        <name ref="nitz">ANDREW NITZ</name>
+                        <name ref="prokhorova">ELENA PROKHOROVA</name>
+                    </respStmt>
                 </titleStmt>
                 <publicationStmt>
+                    <publisher>College of William and Mary</publisher>
+                    <pubPlace>Williamsburg, Virginia</pubPlace>
+                    <date type="interview"></date>
                     <p>To be published on the RMTP website at http://rmtp.obdurodon.org</p>
                 </publicationStmt>
                 <sourceDesc>
                     <p>Original transcriptions gathered by {fill in}</p>
-                    <ab>
-                        <xsl:apply-templates select="persons/*"/>
-                    </ab>
                 </sourceDesc>
             </fileDesc>
             <!--<encodingDesc/>
@@ -57,8 +62,24 @@ conformant element.
             </revisionDesc>
         </teiHeader>
     </xsl:template>
+    
+    <!-- Rule to handle persons inside titleStmt tag. Note: full names are not
+    available in source .xml as they are specified in rmpt_tei_header_TEST.xml.
+    Will either need to be added post-transformation, or taken from index file.-->
+    
     <xsl:template match="persons/*">
-        <rs type="{node-name()}" key="{@ref}"/>
+        <xsl:choose>
+            <xsl:when test="name(.) = 'interviewee'">
+                <author>
+                    <name ref="{./@ref}">NAME</name>
+                </author>
+            </xsl:when>
+            <xsl:otherwise>
+                <editor role="{./node-name()}">
+                    <name ref="{./@ref}">NAME</name>
+                </editor>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 <!--  Structural tags: body to div, speech to something  -->
     <xsl:template match="body">
