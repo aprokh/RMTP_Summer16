@@ -46,8 +46,16 @@
                         <publisher>College of William and Mary</publisher>
                         <pubPlace>Williamsburg, Virginia</pubPlace>
 <!--      Needs filled in with Creative Commons information                  -->
+                        <date/>
                         <availability>
-                            <licence></licence>
+                            <p>EDITORIAL POLICY
+                                <!--We follow TEI Guidelines "16.2.1 Pointing Elsewhere." --></p>
+                            <p>The project is approved by Protection of Human Subjects Committee (PHSC) of the College of William and Mary.<ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/"></ref>
+                            </p> 
+                            <licence>
+                                Distributed via permission from interviewee (given in the Deed of Gift to the College of William and Mary)
+                                <!-- SASHA'S QUESTION Should I add Creative Commons attribution?  Ask Swem Library copyright specialist. -->
+                            </licence>
                         </availability>
                     </publicationStmt>
 <!--       More detailed description needed             -->

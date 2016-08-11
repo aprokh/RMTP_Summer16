@@ -47,8 +47,18 @@ conformant element.
                 <publicationStmt>
                     <publisher>College of William and Mary</publisher>
                     <pubPlace>Williamsburg, Virginia</pubPlace>
-                    <date type="interview"></date>
-                    <p>To be published on the RMTP website at http://rmtp.obdurodon.org</p>
+                    <!-- Date needs some expanding -->
+                    <xsl:apply-templates select="date"/>
+                    <availability>
+                        <p>EDITORIAL POLICY
+                            <!--We follow TEI Guidelines "16.2.1 Pointing Elsewhere." --></p>
+                        <p>The project is approved by Protection of Human Subjects Committee (PHSC) of the College of William and Mary.<ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/"></ref>
+                        </p> 
+                        <licence>
+                            Distributed via permission from interviewee (given in the Deed of Gift to the College of William and Mary)
+                            <!-- SASHA'S QUESTION Should I add Creative Commons attribution?  Ask Swem Library copyright specialist. -->
+                        </licence>
+                    </availability>
                 </publicationStmt>
                 <sourceDesc>
                     <p>Original transcriptions gathered by {fill in}</p>
@@ -61,6 +71,12 @@ conformant element.
                 <change>This will need much more elaborate description</change>
             </revisionDesc>
         </teiHeader>
+    </xsl:template>
+    
+    <xsl:template match="date">
+        <date type="{@milestone}">
+            <xsl:apply-templates/>
+        </date>
     </xsl:template>
     
     <!-- Rule to handle persons inside titleStmt tag. Note: full names are not
