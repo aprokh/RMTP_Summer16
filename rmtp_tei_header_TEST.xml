@@ -58,8 +58,8 @@
             <date type="translation">24 November, 2012</date>
             <availability>
                <p>EDITORIAL POLICY
-               In the Editorial Policy we have included a link to the web site of the PHS Committee.  We follow TEI Guidelines "16.2.1 Pointing Elsewhere."</p>
-               <p>The project is approved by Protection of <ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/humansubjects/index.php">Human Subjects Committee (PHSC) of the College of William and Mary</ref>.
+               <!--We follow TEI Guidelines "16.2.1 Pointing Elsewhere." --></p>
+               <p>The project is approved by Protection of Human Subjects Committee (PHSC) of the College of William and Mary.<ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/"></ref>
                </p> 
                <licence>
                   Distributed via permission from interviewee (given in the Deed of Gift to the College of William and Mary)
@@ -97,14 +97,14 @@ Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported License
 </publicationStmt>  
 
 Following that model, here's where I'd place the information on permissions you need to deliver:
-          FOR SASHA, WHEN DONE, remove this availablity section below because there is one up lines 59-68  -->
+          FOR SASHA, WHEN DONE, remove this availablity section below because there is one up lines 59-68  
             <availability>
                <p>EDITORIAL POLICY</p>
-               <!--           In the Editorial Policy we have included a link to the web site of the PHS Committee.  We follow TEI Guidelines "16.2.1 Pointing Elsewhere." -->
+               In the Editorial Policy we have included a link to the web site of the PHS Committee.  We follow TEI Guidelines "16.2.1 Pointing Elsewhere."
                <p>The project is approved by Protection of <ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/humansubjects/index.php">Human Subjects Committee (PHSC) of the College of William and Mary</ref>.
                </p>      
             </availability>          
-            
+            -->
          </publicationStmt>         
  <!--     Information about the source of the interview: an audio or video recording.--> 
          <sourceDesc>
@@ -117,7 +117,8 @@ Following that model, here's where I'd place the information on permissions you 
                <editor role="interviewer">
                   <name ref="roberts">MICHAEL ROBERTS</name>
                </editor></titleStmt>
-               <publicationStmt><publisher>College of William and Mary</publisher>
+            <!-- Sasha : we do not need publication statement here right?/-->   
+            <publicationStmt><publisher>College of William and Mary</publisher>
                <pubPlace>Williamsburg, VA</pubPlace>
 <!-- This is a date of the interview. -->
                <date>4 July, 2008</date></publicationStmt>
