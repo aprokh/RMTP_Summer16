@@ -51,8 +51,21 @@
 <!--            I put here the date of TEI  version.-->
  <!--2016-07-09 ebb: The element pubPlace needs to sit after the element publisher because the 
     TEI header is very strict about the order of these elements, so I just moved it.-->
-            <pubPlace>Williamsburg, Virginia</pubPlace>
-            <date type="interview">2 June, 2016</date>
+            <authority>Russian Movie Theater Project</authority>
+            <pubPlace>Williamsburg, VA, USA</pubPlace>
+            <date type="interview">4 July, 2008</date>
+            <date type="transcription">24 November, 2012</date>
+            <date type="translation">24 November, 2012</date>
+            <availability>
+               <p>EDITORIAL POLICY
+               In the Editorial Policy we have included a link to the web site of the PHS Committee.  We follow TEI Guidelines "16.2.1 Pointing Elsewhere."</p>
+               <p>The project is approved by Protection of <ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/humansubjects/index.php">Human Subjects Committee (PHSC) of the College of William and Mary</ref>.
+               </p> 
+               <licence>
+                  Distributed via permission from interviewee (given in the Deed of Gift to the College of William and Mary)
+                  <!-- SASHA'S QUESTION Should I add Creative Commons attribution?  Ask Swem Library copyright specialist. -->
+               </licence>
+            </availability>
 <!--            <date value="2012-07-04" milestone="interview">4 July, 2008</date> MILESTONE ELEMENT IS NOT ALLOWED BY TEI.  WHAT TO DO? -->  
 <!--            <date value="2012-11-24" milestone="translation">24 November, 2012</date> MILESTONE ELEMENT IS NOT ALLOWED BY TEI.  WHAT TO DO? -->
             <!--tei copy  ASK ELISA (ONE DATE?)-->
@@ -84,7 +97,7 @@ Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported License
 </publicationStmt>  
 
 Following that model, here's where I'd place the information on permissions you need to deliver:
-            -->
+          FOR SASHA, WHEN DONE, remove this availablity section below because there is one up lines 59-68  -->
             <availability>
                <p>EDITORIAL POLICY</p>
                <!--           In the Editorial Policy we have included a link to the web site of the PHS Committee.  We follow TEI Guidelines "16.2.1 Pointing Elsewhere." -->
