@@ -126,6 +126,11 @@
             </profileDesc>
         </teiHeader>
     </xsl:template>
+    <xsl:template match="date">
+        <date type="{@milestone}">
+            <xsl:apply-templates/>
+        </date>
+    </xsl:template>
     <xsl:template match="persons/*">
         <xsl:variable name="thisPersRef" select="@ref"/>
         <xsl:choose>
