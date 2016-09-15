@@ -80,7 +80,38 @@
                     </availability>
                 </publicationStmt>
                 <xsl:comment>Information about the source of the interview: an audio or video recording.</xsl:comment>
-                <sourceDesc> </sourceDesc>
+                <sourceDesc> 
+                    <biblFull>
+                        <xsl:variable name="intervieweeName" select="
+                            concat($indexFile//person[@xml:id = $intervieweeRef]/upper-case(forename), ' ', $indexFile//person[@xml:id = $intervieweeRef]/upper-case(surname), $indexFile//person[@xml:id = $intervieweeRef]/upper-case(surnameEng))"
+                        />
+                        <titleStmt><title>INTERVIEW WITH <xsl:value-of
+                            select="$intervieweeName"
+                        /></title>
+                            <author>
+                                <name ref="{$intervieweeRef}">
+                                    <xsl:value-of select="$intervieweeName"></xsl:value-of>
+                                </name>
+                            </author>
+                            <xsl:for-each select="//interviewer">
+                                <xsl:variable name="interviewerRef" select="./@ref"/>
+                                <editor role="interviewer">
+                                    <name ref="{$interviewerRef}">
+                                        <xsl:value-of
+                                            select="concat(upper-case($indexFile//person[@xml:id = $interviewerRef]/forename), ' ', upper-case($indexFile//person[@xml:id = $interviewerRef]/surname), upper-case($indexFile//person[@xml:id = $interviewerRef]/surnameEng))"
+                                        />
+                                    </name>
+                                </editor>
+                            </xsl:for-each>
+                        </titleStmt>
+                        <!-- Sasha : we do not need publication statement here right?/-->   
+                        <publicationStmt><publisher>College of William and Mary</publisher>
+                            <pubPlace>Williamsburg, VA</pubPlace>
+                            <!-- This is a date of the interview. -->
+                            <date>4 July, 2008</date></publicationStmt>
+                        <notesStmt><note>The interview with Liudmila Danilenko is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note></notesStmt>
+                    </biblFull>
+                </sourceDesc>
             </fileDesc>
             <profileDesc>
                 <abstract>
