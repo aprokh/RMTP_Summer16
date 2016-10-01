@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This comment describes parts that need editing post transformation:
+        1) String content of title element in titleStmt element. Full name not found in original file, so made approximation. Renders as lastname; should be full name
+        2) -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with levental-i:
+                        electronic version</title>
+            <author>
+               <name ref="leventalIrina">IRINA LEVENTAL</name>
+            </author>
+            <editor role="interviewer">
+               <name ref="faith">RACHEL FAITH</name>
+            </editor>
+            <editor role="interviewer">
+               <name ref="andell">ANDREW ANDELL</name>
+            </editor>
+            <editor role="transcriber">
+               <name ref="andell">ANDREW ANDELL</name>
+            </editor>
+            <editor role="transcriber">
+               <name ref="clark">EMILIE CLARK</name>
+            </editor>
+            <editor role="transcriber">
+               <name ref="kitchen">HANNAH KITCHEN</name>
+            </editor>
+            <editor role="transcriber">
+               <name ref="parks">JESSICA PARKS</name>
+            </editor>
+            <editor role="transcriber">
+               <name ref="mcgrath">ALEX MCGRATH</name>
+            </editor>
+            <editor role="translator">
+               <name ref="andell">ANDREW ANDELL</name>
+            </editor>
+            <editor role="translator">
+               <name ref="clark">EMILIE CLARK</name>
+            </editor>
+            <editor role="translator">
+               <name ref="kitchen">HANNAH KITCHEN</name>
+            </editor>
+            <editor role="translator">
+               <name ref="parks">JESSICA PARKS</name>
+            </editor>
+            <editor role="translator">
+               <name ref="mcgrath">ALEX MCGRATH</name>
+            </editor>
+            <respStmt>
+               <resp>TEI Markup done by </resp>
+               <name ref="nitz">ANDREW NITZ</name>
+               <name ref="prokhorova">ELENA PROKHOROVA</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>College of William and Mary</publisher>
+            <authority>Russian Movie Theater Project <bloc>The Russian Movie Theater Project
+                            is an archive and a study of film exhibition in St. Petersburg during
+                            the twentieth century: a portrait of film exhibition and movie-going
+                            scene in Soviet Leningrad and Post-Soviet St. Petersburg. The project is
+                            inspired by Williamsburg Theater Project (led by Professor Arthur
+                            Knight) and the international initiative, the History of Moviegoing,
+                            Exhibition, and Reception (HOMER) Project. While many Western cinematic
+                            traditions are represented in the HOMER project, there is no online
+                            archive covering Russian cinema. The RMTP aims to fill that gap. Most
+                            histories of Russian and Soviet cinema operate under the assumption that
+                            all films released were available to all citizens of Russia Soviet
+                            Union. When the films received a limited release for political reasons,
+                            researchers provide anecdotal evidence about how these films were
+                            distributed. The Russian Movie Theater Project would like to create an
+                            empirical portrait of Russians’ movie going habits and film exhibition
+                            patterns at different periods of Soviet and Russian history. For
+                            example, when and where Soviets were able to see Western films in
+                            Stalinist Russia? How did the availability of Italian, Indian, and
+                            American films changed after Stalin’s death? How does Soviet-era
+                            propaganda and post-Soviet promotion affect film distribution and film
+                            attendance? Using computational tools, this Project examines oral
+                            history interviews, in which interviewees reconstruct their moviegoing
+                            experiences in St. Petersburg, Russia. To see the computational module
+                            of the project click here. Specifically, the Project analyzes what
+                            moviegoers remember (films, actors, directors), how they evaluate films,
+                            actors, characters, how they define themsleves as narrators (I or we),
+                            what they hesitate about when they recollect their moviegoing
+                            experiences, and how their cinematic experiences shape their identities
+                            as Soviets, Russians, and global citizens. </bloc>
+            </authority>
+            <pubPlace>Williamsburg, Virginia</pubPlace>
+            <date type="interview">July 2013</date>
+            <date type="translation">Fall 2013</date>
+            <availability>
+               <p>EDITORIAL POLICY
+                            <!--We follow TEI Guidelines "16.2.1 Pointing Elsewhere."--></p>
+               <p>The project is approved by Protection of Human Subjects Committee (PHSC)
+                            of the College of William and Mary.<ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/"/>
+               </p>
+               <licence> Distributed via permission from interviewee (given in the Deed of
+                            Gift to the College of William and Mary) </licence>
+            </availability>
+         </publicationStmt>
+         <!--Information about the source of the interview: an audio or video recording.-->
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>INTERVIEW WITH IRINA LEVENTAL</title>
+                  <author>
+                     <name ref="leventalIrina">IRINA LEVENTAL</name>
+                  </author>
+                  <editor role="interviewer">
+                     <name ref="faith">RACHEL FAITH</name>
+                  </editor>
+                  <editor role="interviewer">
+                     <name ref="andell">ANDREW ANDELL</name>
+                  </editor>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>College of William and Mary</publisher>
+                  <pubPlace>Williamsburg, VA</pubPlace>
+                  <date>4 July, 2008</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The interview with Liudmila Danilenko is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>The interview with Irina Levental is part of the Russian Movie Theater Project, which examines history of
+                        moviegoing expereinces in the USSR and Russia. Rachel Faith and Andrew Andell conducted the interview on 4 July, 2008 in St. Petersburg,
+                        Russia.</p>
+         </abstract>
+         <creation>BACKGROUND OF INTERVIEW</creation>
+         <langUsage>
+            <language ident="ru">RUSSIAN</language>
+         </langUsage>
+         <particDesc>
+            <person role="interviewer">
+               <persName ref="roberts">MICHAEL ROBERTS</persName>
+            </person>
+            <person role="interviewer">
+               <persName ref="faith">RACHEL FAITH</persName>
+            </person>
+            <person role="interviewer">
+               <persName ref="andell">ANDREW ANDELL</persName>
+            </person>
+            <person role="interviewee">
+               <persName ref="leventalIrina">IRINA LEVENTAL</persName>
+            </person>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+
+	  <text>
+      <body>
+
+
+		       <u xml:id="sp1" who="faith"> Сегодня двадцать восьмоe июля 2012ого года. Мы
+			находимся в Санкт-Петербурге, в России. Меня зовут Рейчел. Moй коллега Андрю и я берём интервью у Ирины Валерьевны Левенталь. Мы берём у вас
+			интервью для кинопроекта, который изучает общественную, политическую, и культурную
+			историю России через фильмы. Мы хотели бы, чтобы вы рассказали нам о ваших воспоминаниях
+			о посещении кино. На основании обсудить детали. Ваших ответов мы напишем эссе, в котором
+			мы проанализируем результаты опроса и напишем о посещении кинотеатров в России. Цель
+			этого интервью для нас – узнать как можно больше о конкретных людях и месте кино в их
+			жизни. Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу
+			помощь нам. Это интервью будет доступно для прослушивания на интернет-сайте
+			кино-проекта. Если вы не против, давайте начнём. </u>
+		       <u xml:id="sp2" who="leventalIrina"> Конечно, давайте. </u>
+		       <u xml:id="sp3" who="faith"> Расскажите нам когда и где вы выросли? </u>
+		       <u xml:id="sp4" who="leventalIrina">
+			Я родилась в маленьком городе, который находится
+			в <rs type="place" key="pskovskayaOblast">Псковской области</rs> на границе с Белоруссией.
+			Примерно десять пятнадцать километров до границы. Это примерно четыре ста пятьдесят,
+			пятьсот километров от Санкт-Петербурга на юге от <rs type="place" key="stPetersburg">Петербурга</rs>.  Город маленький когда я родилась, в моем
+			детстве эта был стандартный провинциальный город, в котором была жизнь. Находились там
+			фабрики, заводы, предприятия, школы, училища и текникумы. Такой город. Там я жила до шестнадцати лет. </u>
+		       <u xml:id="sp5" who="faith"> Где работали ваши папа и мама? </u>
+		       <u xml:id="sp6" who="leventalIrina"> Моя мама работала инженером на обувной
+			фабрике - фабрика, где производят обувь. Папа работал - и до сих пор и сейчас ещё
+			работает электриком механиком на железной дороге, да? То-есть он обеспечивает нормальную
+			работу, нормальное функционирование систем связи, электричество, связь, телефоны, на
+			железной дороге. </u>
+		       <u xml:id="sp7" who="faith"> Какое у вас образование? </u>
+		       <u xml:id="sp8" who="leventalIrina">У меня
+			высшее образование. Сейчас я учусь в аспирантуре
+			В СПбГУ. Теперь уже на третьем курсе. </u>
+		       <u xml:id="sp9" who="faith"> В каких городах вы жили? </u>
+		       <u xml:id="sp10" who="leventalIrina">
+			Я жила вот в этом городе, где родилась до
+			шестнадцати лет. Там я училась в школе,
+				потом я переехала в <rs type="place" key="stPetersburg">Санкт-Петербург</rs>. Четырнадцать лет назад. Я жила в Санкт-Петербурге все это время. </u>
+		       <u xml:id="sp11" who="faith"> Вы помните первый раз, когда вы ходили в кино? </u>
+		       <u xml:id="sp12" who="leventalIrina">
+			Я
+			наверно не смогу сказать точно, когда это первый раз, но 
+			мои воспоминания конечно из детства. В детстве
+				я думаю, что я думаю чтоя
+			 еще не училась в школе. Я думаю, что я ходила детский сад и наверно
+			мне было лет пять. Может быть и раньше. Не помню. Я помню пять лет, наверно. </u>
+		       <u xml:id="sp13" who="faith"> Какие фильмы вы посмотрели? </u>
+		       <u xml:id="sp14" who="leventalIrina"> Эта была <rs type="genre" key="skazka">сказка</rs>.
+			Это был не <rs type="genre" key="animation">мультфильм</rs>, не <rs type="genre" key="animation">анимация</rs>. Это была сказка. В <rs type="place" key="sovietUnion">Советском
+				Союзе</rs> очень часто экранизировали разные сказки. В том числе русские сказки.
+			И это была сказка которая называлась. Я не помню
+			точно. <rs type="title" key="copperMountMistress">Хозяйка медной горы</rs>. Да, эта был <rs type="genre" key="skazka">фильм-сказка</rs>, да , такое кино для детей, <rs type="epit" key="childrens">детский</rs> конечно. </u>
+		       <u xml:id="sp15" who="faith"> С кем вы ходили в кино? </u>
+		       <u xml:id="sp16" who="leventalIrina"> С мамой - тогда? Первый раз? </u>
+		       <u xml:id="sp17" who="faith"> Да. </u>
+		       <u xml:id="sp18" who="leventalIrina"> Первый раз, с мамой и братом. Да, с мамой и
+			братом. Мы были втроём. </u>
+		       <u xml:id="sp19" who="faith"> Сколько стоил билет? </u>
+		       <u xml:id="sp20" who="leventalIrina"> Тогда? Я не знаю. Я совсем, совсем не помню,
+			сколько стоил билет. То есть, это, это  если мне было лет пять,
+			тогда это был 1987ой, 1988ой год, да, тогда ещё был <rs type="place" key="sovietUnion">Советский
+				Союз</rs>, и эти цены, конечно, я не знаю,
+			какие это были цены. Ну копейки или рубли, не знаю. </u>
+		       <u xml:id="sp21" who="faith"> Ладно. Как назывался <rs type="place" key="movieTheater">кинотеатр</rs>? </u>
+		       <u xml:id="sp22" who="leventalIrina">
+			         <rs type="place" key="kinoteatrRodina">Родина</rs>. </u>
+		       <u xml:id="sp23" who="faith"> Опишите Кинотеатр. </u>
+		       <u xml:id="sp24" who="leventalIrina">
+			         <rs type="place" key="kinoteatrRodina">Родина</rs>. А это <rs type="epit" key="kinoteatrRodina">такой
+				типовой</rs>
+			         <rs type="epit" key="kinoteatrRodina">Советский</rs> 
+            <rs type="place" key="movieTheater">кинотеатр</rs>, да? В этом городе был, и сейчас
+			ещё есть, только один <rs type="place" key="movieTheater">кинотеатр</rs>. Он называется <rs type="place" key="kinoteatrRodina">Родина</rs>, это <rs type="epit" key="kinoteatrRodina">такое тоже типовоe</rs>
+			         <rs type="epit" key="kinoteatrRodina">стандартное</rs> название для <rs type="place" key="movieTheater">кинотеатр</rs>ов было в <rs type="place" key="sovietUnion">Советском Союзе</rs>. Были такие типовые названия Такое здание - здание, да? Как вам объяснить? Дом. Да, такое здание,
+			в котором было 
+			<rs type="epit" key="kinoteatrRodina">огромный, огромный</rs> холл, очень <rs type="epit" key="kinoteatrRodina">светлый</rs>
+			 с большой стеной такой стеклянной, то есть окно во всю стену, <rs type="epit" key="kinoteatrRodina">огромный</rs> холл. Там  было очень
+			много цветов, растений. Да? Очень  очень много растений, да.
+			Различные комнатные растения, какие-то пальмы  и так далее. Было
+			очень много. На стенах висели портреты советских актёров. Фотографии. Да на стенах
+			висели. Целая стена. Там ещё сейчас они висят. Да, тогда висели, и сейчас висят. Там
+			ничего не изменилось, всё так же. Да портреты советских актёров, фотографии. И было кафе
+			- буфет. В этом холле был буфет. И был зал, зрительный зал, где ты можешь смотреть кино. </u>
+		       <u xml:id="sp25" who="faith"> Вы ходили пешком, или ездили? </u>
+		       <u xml:id="sp26" who="leventalIrina"> Пешком. Пешком, это маленький город. Там,
+			конечно, есть автобусы, но там везде можно ходить пешком, да. </u>
+		       <u xml:id="sp27" who="faith"> Сравните эти кинотеатры. </u>
+		       <u xml:id="sp28" who="leventalIrina">
+			Ну там был один, да?. Поэтому, я в детстве ходила только в этот <rs type="place" key="movieTheater">кинотеатр</rs>. Поэтому, я не могу сравнивать. </u>
+		       <u xml:id="sp29" who="faith"> Что вы чувствовали когда вы ходили в <rs type="place" key="movieTheater">кинотеатр</rs>? </u>
+		       <u xml:id="sp30" who="leventalIrina"> Что я
+			чувствовала? Мне было очень интересно. Я любила
+			ходить в кино, конечно.Ну это было событие, это было большое
+			событие для ребёнка, конечно. Когда я была
+			маленькая, мне нравилось. Это было большое событие. Необычно  Точные
+			чувства я не могу вспомнить. Мне ещё очень
+			нравилось что, вот, когда я была маленькая, мне
+			очень нравилось, что мы входили в <rs type="place" key="movieTheater">кинотеатр</rs> в
+			одном месте, а выходили - вход был с одной стороны, да и всё было понятно. Потом мы смотрели фильм или мультфильм, и выходили из
+			зрительного зала на другую сторону улицы. Да? То есть там были <rs type="epit" key="kinoteatrRodina">маленькие такие</rs> двери, и мы выходили сразу на улицу. То есть, зрительный зал, а “Оп”, и
+			уже улица. Да, вот это мне очень нравилось. </u>
+
+		       <u xml:id="sp31" who="faith"> Когда вы начали ходить в <rs type="place" key="movieTheater">кинотеатр</rs> одна? </u>
+		       <u xml:id="sp32" who="leventalIrina"> Одна? Я думаю в школе. Да в школе, но  то есть конечно в школе
+				мы ходили в <rs type="place" key="movieTheater">кинотеатр</rs> с учительницей, и всем
+			классом  а потом одна с друзьями  Знаете там был
+			перерыв, было время в девяностые годы, было время, когда люди
+			не ходили в <rs type="place" key="movieTheater">кинотеатр</rs>ы, почти. И потом мы стали
+			снова ходить в кино с друзьями. Я думаю мне было
+			14 лет. Да? Вместе с друзьями. </u>
+		       <u xml:id="sp33" who="faith"> Вам нравилось ходить в кино одна или сама? И почему? </u>
+		       <u xml:id="sp34" who="leventalIrina">
+			Ну, я ходила с друзьями.
+			Тогда я не ходила одна. Сейчас я хожу одна. </u>
+		       <u xml:id="sp35" who="faith"> С друзьями. </u>
+		       <u xml:id="sp36" who="leventalIrina"> Ах, с друзьями, да, было очень весело. </u>
+
+		       <u xml:id="sp37" who="faith"> Ну почему, это только весело? или есть ещё? </u>
+		       <u xml:id="sp38" who="leventalIrina"> Но, я
+			не могу сказать что, нам нравились фильмы, да, которые мы смотрели, нет. Нам было 14-15 лет и мы любили ходить в кино. Там был тёмный зал, там была <rs type="epit" key="kinoteatrRodina">громкая</rs> музыка, ну я не знаю  это было просто <rs type="epit" key="kinoteatrRodina">весело</rs>. Мы иногда играли в теннис, пинг-понг, да? На улице,
+			а иногда ходили в кино. Так, нас было много: 15 или 17 человек и мы вместе ходили в кино. Ну, да. </u>
+
+		       <u xml:id="sp39" who="faith"> Как часто вы ходили в кино? И какие сеансы -
+			утренние, дневные, вечерние? </u>
+		       <u xml:id="sp40" who="leventalIrina"> Тогда, да? Вечерние, конечно. Да? Сеансы
+			вечерние, я думаю, это примерно семь часов
+			вечерa, то eсть, там были  в этом <rs type="place" key="movieTheater">кинотеатр</rs>е. Сейчас скажу, какое
+			это было время  это был девяносто шестой, девяносто седьмой год  девяности восьмой, может быть. Да, и сеанса,
+			было два сеанса. Один начинался в шестнадцать сорок пять, а второй сеанс начинался
+			восемнадцать сорок пять. Мы ходили, конечно,
+			последние сеанса. Да, был вечерний. Как часто? Я
+			думаю, один раз в неделю, два раза в неделю. Но, один раз в неделю, точно. </u>
+		       <u xml:id="sp41" who="faith"> И ходить в кино—это было обычное дело или особое
+			событие? </u>
+		       <u xml:id="sp42" who="leventalIrina">
+			Ну, тогда это было обычное дело. Да, обычное. Но я должна сказать, что мы
+			ходили летом. Зимой мы не ходили в кино. Зимой?
+			Осенью? Весной? Нет, это было, когда было тепло. Когда мы, когда у нас были каникулы, когда мы были свободны, летом, да да тогда мы ходили. Тогда это было нормально. Зимой, зимой мы дома сидели  дома были. </u>
+		       <u xml:id="sp43" who="faith"> Как посещение кино изменилось, когда вы выросли,
+			закончили школу, вышли замуж? </u>
+
+		       <u xml:id="sp44" who="leventalIrina"> Ну, конечно, изменилось, потому что в <rs type="place" key="sovietUnion">Советском Союзе</rs>, в советское время
+				люди много и часто ходили в кино. Да? Потом в девяностыe
+			годы был кризис ну <rs type="place" key="movieTheater">кинотеатр</rs>ов и так далее.
+			Очень многие <rs type="place" key="movieTheater">кинотеатр</rs>ы закрывались. На сеансы никто не ходил. Например, тогда, да, в
+			маленьком городе <rs type="place" key="nevel">Невеле</rs>
+			мы ходили в кино нашeй кампаниeй друзей и кроме нас там никого не было. Мы были одни в зрительном зале.
+				Мы  всегда одни. Это нам нравилось, да? потому что мы приходили и весь зрительный зал наш, можно даже было бегать. И играть и так далее. Мы были одни. В девяностые годы был кризис
+			<rs type="place" key="movieTheater">кинотеатров</rs>, и в <rs type="place" key="movieTheater">кинотеатры</rs> почти никто не ходил, <rs type="place" key="movieTheater">кинотеатр</rs>ы закрывались. А потом  в конце девяностых годов, в начале двухтысячных годов снова стали
+			открываться <rs type="place" key="movieTheater">кинотеатры</rs>. И это были <rs type="place" key="movieTheater">кинотеатр</rs>ы уже немного другого типа; такого
+			международного, современные, удобные, красивые, да? И так далее. И в <rs type="place" key="stPetersburg">Петербурге</rs> тоже, да, в конце девяностых, в начале
+			двухтысячных да, стали открываться новые <rs type="place" key="movieTheater">кинотеатры</rs>, которые сейчас все работают. Люди
+			стали ходить в кино, больше больше больше, больше, много, много, и сейчас
+				люди ходят в кино.Ну вот. Вот. Но как
+			изменилось?  Я, честно говоря  всё изменилось.
+			Всё изменилось, всё изменилось. Фильмы, которые показывают сейчас в <rs type="place" key="movieTheater">кинотеатрах</rs>, да?
+				 В популярных <rs type="place" key="movieTheater">кинотеатрах</rs>, это в основном 
+			кассовое, массовое, такое популярное коммерческое кино, которое смотрят во всем мире,
+			да? Люди, смотрят. В основном, <rs type="nationalCinema" key="americanCinema">американское</rs>, конечно,кино, которое смотрят во всём мире. Люди
+			смотрят, в основном, эти фильмы.Ну да, Во-вторых  Ну, во-вторых, сейчас в большом городе, в <rs type="place" key="stPetersburg">Петербурге</rs>, например, это обычное дело ходить в кино. Да, то же самое что
+			ходить пить кофе, люди ходят в кино. </u>
+		       <u xml:id="sp45" who="faith"> Какие были ваши самые любимые жанры в детстве? И
+			какие были ваши самые любимые жанры, когда вы были студенткой? </u>
+
+		       <u xml:id="sp46" who="leventalIrina"> Ну, в детстве  Конечно,
+			в детстве я любила смотреть <rs type="genre" key="animation">мультфильмы</rs>. Да? Конечно, я любила в
+			детстве смотреть <rs type="genre" key="animation">мультфильмы</rs>. Да? И этo были
+				<rs type="nationalCinema" key="sovietCinema">советские мультфильмы.</rs> Да? Вот.
+			Потому что, советская мультипликация, она вообще  особенно, ну как, не особенно, но там было много, много, много всего. Да,
+				<rs type="nationalCinema" key="sovietCinema">советские мультфильмы</rs>. Потом
+				 в 90ые годы, у нас стали
+			появляться дома, в том числе, да? дома, в том числе, <rs type="genre" key="animation">мультфильмы
+				Диснея</rs>, и потом мы
+			все смотрели <rs type="genre" key="animation">мультфильмы Диснея</rs>.
+				<rs type="title" key="alladin">Алладин</rs>, <rs type="title" key="theLittleMermaid">Русалочка</rs>, <rs type="title" key="beautyBeast">Красавица и Чудовище</rs>, ну вы знаете всё это, да? Вот, эти <rs type="genre" key="animation">мультфильмы</rs> потом  А потом, уже в подростковом возрасте
+				
+			я любила смотреть советские <rs type="genre" key="comedy">комедии</rs>. Да, <rs type="nationalCinema" key="sovietCinema">советские
+				комедии</rs>, <rs type="nationalCinema" key="sovietCinema">советские</rs>, <rs type="epit" key="sovietCinema">весёлые</rs> фильмы. Вот,
+			да. Сейчас, или тогда? Вам сейчас интересно только тогда, да? </u>
+		       <u xml:id="sp47" who="faith"> Ну, тогда и сейчас. </u>
+
+		       <u xml:id="sp48" who="leventalIrina"> А что сейчас? </u>
+		       <u xml:id="sp49" who="faith"> Будет вопрос. </u>
+		       <u xml:id="sp50" who="leventalIrina"> Будет потом. </u>
+		       <u xml:id="sp51" who="faith"> Ммм, только, да. Этот вопрос. </u>
+		       <u xml:id="sp52" who="leventalIrina"> Хорошо, хорошо. Вот только тогда, в детстве?
+			Какие нравилoсь смотреть в детстве? </u>
+		       <u xml:id="sp53" who="faith"> И когда были в детстве и когда вы были студентами. </u>
+		       <u xml:id="sp54" who="leventalIrina"> Когда я была студенткой? А это всё изменилось, конечно. Потом всё изменилось.
+			Когда я переехала в <rs type="place" key="stPetersburg">Пeтербург</rs>, например, да? Я стала
+			смотреть другие фильмы. Да, конечно, другие фильмы. Какие жанры? Это <rs type="genre" key="drama">драмы</rs>, да? Это драмы. <rs type="genre" key="psychologicalThriller">Психологические
+				драмы</rs> или какие-то там <rs type="genre" key="comedy">комедии</rs>. Но 
+			я должна сказать, что в своей жизни я смотрела нeмного, не очень много массового
+			коммерческого кино, да? Не очень, я не люблю.
+				Я смотрю много фильмов, но 
+			я не хожу в <rs type="place" key="movieTheater">кинотеатр</rs>ы  ну, в
+			эти <rs type="place" key="movieTheater">кинотеатр</rs>ы, где идет, где идут фильмы, которые смотрит весь мир одновременно. Да?
+			Да, сейчас я смотрю другие 
+			Но в основном это <rs type="genre" key="drama">драмы</rs>, <rs type="genre" key="psychologicalThriller">психологические драмы</rs>. Иногда <rs type="genre" key="horror">триллеры</rs>, иногда
+				<rs type="genre" key="comedy">комедии</rs>, но, да. Зависит от  . </u>
+		       <u xml:id="sp55" who="faith"> У вас есть любимый фильм? </u>
+		       <u xml:id="sp56" who="leventalIrina"> Любимый? Один? Нет. Одного нет. Много. Много
+			любимых. Много любимых фильмов. Какие? Например? <rs type="nationalCinema" key="russianCinema">Из
+				русских</rs>? Или <rs type="nationalCinema" key="foreignCinema">из
+				зарубежных</rs>? Хорошо. Ну, из <rs type="nationalCinema" key="russianCinema">русских фильмов</rs>
+			я конечно люблю фильмы <rs type="person" key="arseniiTarkovskii">Арсения</rs>, <rs type="person" key="andreiTarkovskii">Андрея
+				Тарковского</rs>. Да? <rs type="person" key="arseniiTarkovskii">Арсений</rs> его отец.
+			Да? фильмы <rs type="person" key="andreiTarkovskii">Тарковского</rs>
+			я люблю, конечно 
+			<rs type="nationalCinema" key="russianCinema">Из русских</rs>
+			я люблю фильмы
+			<rs type="person" key="sokurov">Сокурова</rs>, но не все фильмы. Сейчас <rs type="nationalCinema" key="russianCinema">из русских</rs>
+			я люблю  из последних,
+			например, мне нравится  сейчас скажу 
+			<rs type="person" key="serebrennikov">Кирилл Серебренников</rs> снял фильм <rs type="title" key="playingVictim">Изображая жертву</rs>, это уже довольно не сейчас он снял, но несколько лет назад, но <rs type="epit" key="serebrennikov">хорошие</rs>
+			фильмы, мне нравятся. И последний фильм <rs type="person" key="popogrebskii">Алексея
+				Попогребского</rs>, Как я провел этим
+			летом. Мне это очень нравится  Так, а из зарубежных  Мне нравится <rs type="nationalCinema" key="europeanCinema">европейское
+				кино</rs>. Да? <rs type="nationalCinema" key="europeanCinema">европейское
+				кино</rs>. Ну, наверно это 
+			мне нравятся режиссёры 60ых годов. <rs type="nationalCinema" key="italianCinema">Итальянцы</rs>, например, да там? То, что они снимали в 60ые годы, там,
+				<rs type="person" key="visconti">Висконти</rs>, <rs type="person" key="antonioni">Антониони</rs>, <rs type="person" key="pasolini">Пазолини</rs>. Они ещё в 50ые снимали и
+			в 60ые. Мне нравится <rs type="person" key="godard">Годар</rs>, мне нравится Бергман, из
+			Швеции, <rs type="person" key="bergman">Ингмар Бергман</rs>. Мне нравится 
+			ну, там многие фильмы мне нравятся, да? Несколько фильмов <rs type="person" key="fellini">Феллини</rs>, но не все. Там ещё наверно Из американских мне нравится <rs type="person" key="lynch">Давид
+			Линч</rs>. Я очень люблю <rs type="title" key="straightStory">Простую Историю</rs>. Да? <rs type="title" key="straightStory">Straight
+				Story</rs>. И как там <rs type="title" key="wildHeart">Дикие Сердцем</rs> по-русски
+			называется  Как это называется по английски? <rs type="title" key="wildHeart">Wild at heart</rs>? Знаете такой фильм? </u>
+		       <u xml:id="sp57" who="faith"> Может быть </u>
+		       <u xml:id="sp58" who="leventalIrina">
+			Я
+			может быть плохо плохо по английски  не знаю.
+			Да, мне нравится <rs type="person" key="lynch">Давид Линч</rs>. Мне нравится <rs type="person" key="jarmusch">Джим Джармуш</rs>. Кто мне ещё нравится?
+				<rs type="person" key="aronofsky">Дарен Аранофски</rs>, да. Мне нравится его фильм <rs type="title" key="pi">Пи</rs>. Ну, вот. Ну и так.
+			Да? А, мне ещё нравится <rs type="person" key="vonTrier">Ларс фон Триер</rs>. Очень. Наверно, фильм <rs type="title" key="melancholy">Меланхолия</rs>,
+			смотрели? Фильм Меланхолия да? <rs type="person" key="vonTrier">Ларса фон Триера</rs> из
+			последних фильмов, это последний фильм, который мне очень понравился. Очень много,
+			много, много </u>
+
+		       <u xml:id="sp59" who="faith"> У вас были любимые актёры/актрисы в зарубежном кино? </u>
+		       <u xml:id="sp60" who="leventalIrina"> В <rs type="nationalCinema" key="foreignCinema">зарубежном кино</rs>? Вы знаете, с актерами трудно, мне трудно с
+			актером. Я вот обычно люблю фильмы, режисеры
+			фильма, да? Актеры  мне так трудно. Многие, многие 
+			Я очень люблю <rs type="person" key="binoche">Жюльет
+				Бинош</rs>. Она мне очень нравится. </u>
+		       <u xml:id="sp61" who="faith"> Почему? </u>
+
+		       <u xml:id="sp62" who="leventalIrina"> Почему? Ах, не знаю, не знаю. Это личное,
+			да? Это вот  этo что-то личное. Мне нравится <rs type="person" key="binoche">Жюльет Бинош</rs>. Кто мне еще нравится? Мне нравится один актер, который
+			играет в фильмах гонконгского режисера  Знаете режиссера <rs type="person" key="karwai">Вонг Карвай</rs>. У него есть фильм, самый известный фильм, <rs type="title" key="moodForLove">Любовное настроение</rs>., да? Вот  А не
+			знаю, что такое, как его зовут. Он из <rs type="place" key="china">Китая</rs>, из <rs type="place" key="hongKong">Гонконга</rs>. Вот мне очень нравится этот актер. Ну, конечно, мне
+			нравится <rs type="person" key="malkovich">Джон Малкович</rs>, это  да?
+				 Ну да просто, ну
+			нет. Но любимых актеров у меня нет. Я люблю <rs type="person" key="bellucci">Монику
+				Белуччи</rs>, потому что она очень красивая, да? Вот такая.
+				Нувот. </u>
+		       <u xml:id="sp63" who="faith"> Вы помните какой-нибудь фильм или посещение кино
+			особенно? </u>
+		       <u xml:id="sp64" who="leventalIrina"> Особенно? Да. Да да да, я, это 
+			я сейчас скажу  Я училась на  я думаю, это был 2002-ой год, я училась на первом курсе в университете, и мы с друзьями друзьями пошли в <rs type="place" key="movieTheater">кинотеатр</rs> на Петроградской стороне, в <rs type="place" key="movieTheater">кинотеатр</rs> Мираж, такой современный. Один из первых
+			современных <rs type="place" key="movieTheater">кинотеатр</rs>ов, который открылся в <rs type="place" key="stPetersburg">Петербурге</rs>. И мы пошли смотреть фильм
+			мне <rs type="title" key="irreversible">Необратимость</rs>. Это фильм французский режисер,
+				<rs type="person" key="noe">Гаспар Ноэ</rs>, знаете? <rs type="person" key="noe">Гаспар
+			Ноэ</rs>, у него есть фильм <rs type="title" key="irreversible">Необратимость</rs>. Там
+			играет <rs type="person" key="bellucci">Моника Белуччи</rs> и <rs type="person" key="cassel">Вeнсен
+				Кассель</rs>, как-то так.Ну вот. Очень тяжелый фильм,
+			ужасно тяжелый фильм. Там  ах.. там. Но, я не знаю почему но, вот этот поход, этот визит в кино, я помню до сих пор, вот еще сейчас, да? Вот фильм
+			был чень тяжелый, но мне нравится этот фильм, да, потому что после этого фильма 
+			я не знаю. Ну, вот это чувство, я его до сих пот помню, да не просто, потому что было страшно,
+			неприятно. Разные есть фильмы, есть неприятные фильмы, есть тяжелые фильмы  разные. Но вот почему-то мне нравится. После этого фильма много
+			думаешь. Да? Вот. </u>
+
+		       <u xml:id="sp65" who="faith"> Как вы проводили свободное время, кроме посещения
+			кино? </u>
+		       <u xml:id="sp66" who="leventalIrina"> Проводила или провожу? Сейчас или раньше? </u>
+		       <u xml:id="sp67" who="faith"> Раньше. </u>
+		       <u xml:id="sp68" who="leventalIrina"> Раньше. Когда раньше? </u>
+
+		       <u xml:id="sp69" who="faith"> Ну, может быть когда вы были студентка. </u>
+		       <u xml:id="sp70" who="leventalIrina"> Когда была студенткой. Как мы проводили свободное время  Читали книги,
+			встречались с друзьями, да, и путешествовали, ездили за город 
+			устраивали вечеринки, конечно. Ходили в музеи, на выставки, да, ходили на концерты 
+			 ну да, конечно, в клубы и на концерты мы ходили очень много. Мы
+			 не ходили на дискотеки, в общем понятно, ну вот понятно
+			да, в ночные клубы, на дискотеки. Ну почти нет, очень редко. Часто
+			ходили в клубы и на концерты, да? Встречались, гуляли. Как все. </u>
+
+		       <u xml:id="sp71" who="faith"> С кем вы обычно ходили в кино? </u>
+		       <u xml:id="sp72" who="leventalIrina">
+			 С подружками, с подругами, или с моим молодым человеком, с мужем потом. Вместе с друзьями или одна. Да, одна
+				я тоже ходила в кино, тоже когда я была студентка, да но. </u>
+		       <u xml:id="sp73" who="faith"> Да, сколько лет было в среднем людям, которые ходили
+			в кино утром / днём / вечером? </u>
+		       <u xml:id="sp74" who="leventalIrina">
+			Я не знаю, я редко ходила в кино утром и сейчас тоже, редко. Потому что утром, днем
+			всегда есть дела. Нет, сейчас я хожу утром иногда
+			с моим сыном. Да? В одиннадцать, в выходной день
+			в субботу, в воскресение в одинадцать часов, в час дня. Мы смотрели <rs type="genre" key="animation">мультфильм</rs>. Вот, и утром почти
+			никого нет, утром никто не ходит. Да, а вечером, когда раньше или сейчас? </u>
+		       <u xml:id="sp75" who="faith"> Раньше. </u>
+
+		       <u xml:id="sp76" who="leventalIrina"> Ну это молодежь,
+			конечно. Молодёжь, студенты. Молодёжь, студенты, я думаю это примерно  16, 30 от 16 до 35, и сейчас тоже.
+			Это в основном, да?. Хотя сейчас уже есть и взрослые люди. Но в основном, да? основая
+			масса это молодежь. </u>
+
+		       <u xml:id="sp77" who="faith"> А вечер? </u>
+		       <u xml:id="sp78" who="leventalIrina"> Вечером? Тоже. </u>
+		       <u xml:id="sp79" who="faith"> Больше мужчины или женщины? </u>
+		       <u xml:id="sp80" who="leventalIrina">
+			Я не могу сказать. Мне кажется это пополам. И
+			мужчины и женщины, да, я думаю что 
+			Я думаю что  нет, я не могу сказать кого больше. </u>
+		       <u xml:id="sp81" who="faith"> Люди чаще ходили в кино с друзьями или с семьями.? </u>
+		       <u xml:id="sp82" who="leventalIrina"> С друзьями. С друзьями. Конечно, с друзьями
+			и подругами. Или парочки. Знаете парочки, да? Мальчики и молодые девушки вместе. Ну и молодые семьи. Вот. </u>
+		       <u xml:id="sp83" who="faith"> В <rs type="place" key="movieTheater">кинотеатр</rs> были очереди? </u>
+		       <u xml:id="sp84" who="leventalIrina"> Очереди? Были раньше или сейчас? </u>
+		       <u xml:id="sp85" who="faith"> Раньше. </u>
+		       <u xml:id="sp86" who="leventalIrina"> Нет, я не помню. Я не помню очереди. Может
+			быть, если это был фестиваль, да вот если был какой-нибудь фестиваль. Особенно  в Пeтербурге любят <rs type="place" key="shortFestival">фестивали
+				короткометражных фильмов</rs>. Нормально, ну
+			короткометражный фильм, это фильм, да, <rs type="genre" key="shortFilm">короткий
+				метр</rs>. 10-15-20 минут. Если был популярный фестиваль, то, да, могли быть
+			очереди. </u>
+		       <u xml:id="sp87" who="faith"> Вы помните когда бы ждали в очереди? </u>
+		       <u xml:id="sp88" who="leventalIrina"> Когда, что? </u>
+		       <u xml:id="sp89" who="faith"> Когда, когда-то вы ждали в очереди? </u>
+		       <u xml:id="sp90" who="leventalIrina"> В очереди? В <rs type="place" key="movieTheater">кинотеатр</rs>е?  Да, да, ну на фестивале. А так нет. </u>
+		       <u xml:id="sp91" who="faith"> Разные группы людей сидели в разных частях кинозала? </u>
+		       <u xml:id="sp92" who="leventalIrina">
+			Ну, разные группы людей? </u>
+		       <u xml:id="sp93" who="faith"> Да </u>
+		       <u xml:id="sp94" who="leventalIrina"> Нет, я така не думаю. Я не обращала на это
+			внимание. Мне кажется, люди любят сидеть в центре. Да? И, если
+			есть свободные места, то люди садятся в центр. В центр зала,
+			чтобы видеть  прямо так. </u>
+		       <u xml:id="sp95" who="faith"> Люди шумели или вели себя тихо во время сеанса? </u>
+		       <u xml:id="sp96" who="leventalIrina"> Знаете, это зависит от <rs type="place" key="movieTheater">кинотеатр</rs>а, да?
+			Потому что есть эти <rs type="place" key="movieTheater">кинотеатр</rs>ы, которые показывают <rs type="genre" key="commercialCinema">коммерческое массовое кино</rs>, и там конечно люди
+			 да, люди там часто шумят. Они могут
+			разговаривать по телефону, или они могут разговаривать вслух, или есть, или пить, или
+			что-то комментировать. да. Но в Пeтербурге в том числе есть как минимум два <rs type="place" key="movieTheater">кинотеатр</rs>а,
+			где ситуация немного другая. Там люди смотрят кино тихо. Там просто показывают немного
+			другие фильмы. Да? То есть вот не мейнстрим, да? Понятно? То есть, современные да, но не
+				 как сказать, как же это называется? <rs type="genre" key="blockbuster">Блокбастеры</rs>, наверно. Ну
+			понятно, да? </u>
+
+		       <u xml:id="sp97" who="faith"> Как люди одевались в кино? Нарядно или обычно? </u>
+		       <u xml:id="sp98" who="leventalIrina"> Обычно. </u>
+		       <u xml:id="sp99" who="faith"> Вы знали люди, которые работали в <rs type="place" key="movieTheater">кинотеатр</rs>е? </u>
+		       <u xml:id="sp100" who="leventalIrina"> Нет, нет, нет, у меня нет знакомых, которые работали в <rs type="place" key="movieTheater">кинотеатр</rs>е. </u>
+		       <u xml:id="sp101" who="faith"> Какая была атмосфера в <rs type="place" key="movieTheater">кинотеатр</rs>е? </u>
+
+		       <u xml:id="sp102" who="leventalIrina">
+			 Ну, хорошая, весёлая, да. Нормальная, свободная, нормально было. </u>
+		       <u xml:id="sp103" who="faith"> Опишите <rs type="place" key="movieTheater">кинотеатр</rs>. Если можно, сравните с
+			<rs type="place" key="movieTheater">кинотеатр</rs>ами сейчас. </u>
+		       <u xml:id="sp104" who="leventalIrina"> Ну, так, теперь мне нужно понять, какой
+			<rs type="place" key="movieTheater">кинотеатр</rs> вам описывать. Какой Раньше или тогда? Если я говорю о студенческих годах, мои студенческие годы, это не так давно - последние десять  последние 12 лет. Мои студенческие годы это последние 12 лет, и
+				я ещё учусь в аспирантуре. Поэтому, за
+			последние 12 лет  что нибудь изменилось? Я думаю, что ничего особенно не изменилось в последние
+			двенадцать лет. То есть они тогда как тогда появились, то такие и сейчас и
+			есть.</u>
+		       <u xml:id="sp105" who="faith"> А в детстве и сейчас? </u>
+		       <u xml:id="sp106" who="leventalIrina"> В детстве и сейчас? Конечно, конечно. Совсем
+			другая история. Конечно, советские <rs type="place" key="movieTheater">кинотеатр</rs>ы и <rs type="place" key="movieTheater">кинотеатр</rs>ы сейчас. Ну во-первых, то как там всё устроено, обстановка. Да? Советские <rs type="place" key="movieTheater">кинотеатр</rs>ы
+			были не комфортные, конечно. То есть, кресла, стулья они были такие твёрдые, да? не
+			мягкие там, не удобные. Да? Конечно, там был другой звук. Сейчас звук совсем другой.
+			Звук понятно? Да? И, конечно, там всё по-другому было. Всё по-другому  да. </u>
+		       <u xml:id="sp107" who="faith"> Опишите звуки и запахи, которые вы вспоминаете,
+			когда вы думаете о <rs type="place" key="movieTheater">кинотеатр</rs>ах. </u>
+		       <u xml:id="sp108" who="leventalIrina"> В детстве? </u>
+
+		       <u xml:id="sp109" who="faith"> В детстве, не сейчас. Ну, раньше, когда вы были
+			маленькой или студентка. </u>
+		       <u xml:id="sp110" who="leventalIrina"> Если в детстве звуки?
+			Запахи? Я думала, что это были запах мебели,
+			материала, вы знаете такое? Там был такой материал на креслах, это как  такой искусственный его называли дермантин.
+			Такая искусственная кожа, даже не искусственная кожа. Потом у него был очень сильный
+			запах, химический такой. Вот, эти запахи например. Или  ну,это
+			вообще запахи такие советских помещений, старых. Может быть, это краска. Или  такие, как у мебели. Или, и, например запахи советского <rs type="place" key="movieTheater">кинотеатр</rs>а,
+			в том городе где я выросла, там был буфет и там
+			продавали пирожки, пирожки жарили в масле. И  это запах жареных
+			пирожков. Например, а сейчас, и в студенчестве, и сейчас, я думаю, что это одинаково. Чем пахнет? Кофе. Вот. Кинотеатры,
+			в которые я хожу, например, там нет попкорна, да?
+			Там не пахнет попкорном. В <rs type="place" key="movieTheater">кинотеатр</rs>е, в которые ходят все
+			люди, распространённые, да? Там пахнет попкорном, конечно. Ну вот  И звуки, ну,
+				люди едят, хрустят. </u>
+
+		       <u xml:id="sp111" who="faith"> Когда вы были студентами, кресла были удобные? </u>
+		       <u xml:id="sp112" who="leventalIrina"> Когда была студенткой? Ну, в этом <rs type="place" key="movieTheater">кинотеатр</rs>е нового типа, современного, да, конечно. Сейчас удобные,
+			и десять лет назад были тоже удобные. А, например, в <rs type="place" key="movieTheater">кинотеатр</rs>е, в который я хожу и сейчас, <rs type="place" key="movieTheater">кинотеатр</rs>ы, например, <rs type="place" key="domKino">Дом Кино,</rs>
+			         <rs type="place" key="kinoteatrRodina">Родина</rs>, тоже. Они находятся на Манежной площади.
+			Недалеко от Невского проспекта, Манежная площадь, и там находится, в одном здании два
+			<rs type="place" key="movieTheater">кинотеатр</rs>а. <rs type="place" key="kinoteatrRodina">Родина</rs> и <rs type="place" key="domKino">Дом
+				Кино.</rs> Вот, и ещё десять лет назад они были такие  как
+			сказать, неудобные залы. Они были не удобные. Там был не такой хороший звух. Там кресла
+			были ещё старые, да, обычные. Вот. Но сейчас уже там, наверно, у
+			них появились деньги и финансирование, и они сейчас удобные, красивые, хорошие, да. </u>
+		       <u xml:id="sp113" who="faith"> И в кино было холодно, тепло, жарко, душно? </u>
+		       <u xml:id="sp114" who="leventalIrina">
+			Ну,вот в Родине всегда холодно было. В детстве, например, в
+			детстве. Я не помню. Да? Скорее было прохладно.
+			Да? Например, здесь в Петербурге в театре <rs type="place" key="kinoteatrRodina">Родина</rs>
+			всегда было холодно. Сейчас нет. В Доме Кино, нет, не было холодно. Нормально. </u>
+		       <u xml:id="sp115" who="faith"> И <rs type="place" key="movieTheater">кинотеатр</rs> был большой? </u>
+
+		       <u xml:id="sp116" who="leventalIrina"> Ну, вот если в детстве, да, да, большой
+			<rs type="place" key="movieTheater">кинотеатр</rs>. Я не знаю сколько мест, сколько рядов
+				
+			может быть тридцать, сорок, но большой, большой такой, большой
+			зал. Сколько квадратных метров я не помню. Очень
+			большой зал и большой экран. Здесь в Петербурге, эти <rs type="place" key="movieTheater">кинотеатр</rs>ы, куда я хожу, <rs type="place" key="kinoteatrRodina">Родина</rs>, Дом Кино,
+			у них есть большие залы и есть малые залы. Большие залы, большие. Малые, маленькие. </u>
+
+		       <u xml:id="sp117" who="faith"> Сколько было залов? </u>
+		       <u xml:id="sp118" who="leventalIrina"> В <rs type="place" key="movieTheater">кинотеатр</rs>е в детстве, только один. В
+			<rs type="place" key="movieTheater">кинотеатр</rs>е здесь, куда я хожу, <rs type="place" key="kinoteatrRodina">Родину</rs> и <rs type="place" key="domKino">Дом Кино</rs>, в
+				<rs type="place" key="domKino">Доме Кино</rs> три зала. Один большой, два маленьких. В
+				<rs type="place" key="kinoteatrRodina">Родине</rs> тоже, три зала: один большой и два
+			маленьких. </u>
+		       <u xml:id="sp119" who="faith"> Кинотеатр был только для кино или для других
+			мероприятий? </u>
+		       <u xml:id="sp120" who="leventalIrina"> В детстве в этом <rs type="place" key="movieTheater">кинотеатр</rs>е, он тоже
+			назывался <rs type="place" key="kinoteatrRodina">Родина</rs>. Вы понимаете в детстве, и сейчас
+			здесь тоже <rs type="place" key="kinoteatrRodina">Родина</rs>. В детстве, да, в <rs type="place" key="movieTheater">кинотеатр</rs>е
+			проходили иногда концерты, потому что там была сцена. То есть вот был экран и тоже была
+			сцена, и там проходили концерты, разные. Иногда люди приходили
+			на концерты. Или там в <rs type="place" key="movieTheater">кинотеатр</rs>е проводили какие-нибудь мероприятие  Ну какие-нибудь фабрики могли снять зал <rs type="place" key="movieTheater">кинотеатр</rs>а для
+			проведения какого-нибудь собрания. </u>
+
+		       <u xml:id="sp121" who="faith"> Были ли в <rs type="place" key="movieTheater">кинотеатр</rs>е билетеры и сколько им обычно
+			было лет если да? </u>
+		       <u xml:id="sp122" who="leventalIrina"> Да, да, конечно. Это были женщины и они были
+			взрослые. Я не знаю, наверно им было примерно 50 лет. И сейчас в <rs type="place" key="movieTheater">кинотеатр</rs>ах тоже есть билетеры,
+			это обычно женщины.  Но это разное, сейчас это разный возраст.
+			Сейчас молодые люди тоже часто работают билетерами. </u>
+		       <u xml:id="sp123" who="faith"> И где вы любили сидеть, и почему? В зале. </u>
+		       <u xml:id="sp124" who="leventalIrina">
+			Я всегда любила сидеть на первом ряду. И сейчас
+			сижу на первом ряду. Да. Почему? Нет, конечно, когда я прихожу в <rs type="place" key="movieTheater">кинотеатр</rs>, в современные <rs type="place" key="movieTheater">кинотеатр</rs>ы там маленькые залы, первый
+			ряд, а вот здесь экран, да? и я не сажусь там,
+			потому что я не могу так смотреть. Но обычно, в
+			<rs type="place" key="movieTheater">кинотеатр</rs>ах в которые я хожу, первый ряд, он
+			далеко от экрана. Тоже он далеко, то есть он там Почему? Потому что
+			мне никто не мешает. Да. Потому что я не вижу
+			зала, да? Но мне удобно, я  смотрю кино и тут
+			фильм, и тут я, и больше никого нет! </u>
+		       <u xml:id="sp125" who="faith"> Фильмы были нeмые, или звуковые? Черные-белые или
+			цветные? </u>
+
+		       <u xml:id="sp126" who="leventalIrina"> Ну конечно, они были
+			звуковые, да? Мне не так много лет. Я думаю, что
+				
+			я один или два раза смотрела <rs type="genre" key="silent">нeмые фильмы</rs> в <rs type="place" key="movieTheater">кинотеатр</rs>е, но это даже не был <rs type="place" key="movieTheater">кинотеатр</rs>, такие были залы
+			для показа кино. Ну, как вечеринка, вы знаете, вечеринка с показом <rs type="genre" key="silent">немого кино</rs>. Нет, конечно это были звуковые фильмы, обычно цветные, да? Но,
+			в студенческие годы я очень часто любила ходить в
+			<rs type="place" key="movieTheater">кинотеатр</rs> 
+            <rs type="place" key="kinoteatrRodina">Родина</rs>, и там часто идут, и сейчас еще
+			иногда, идут ретроспективы, да  и показывают черно-белые фильмы,
+			60ые годы, 70ые годы. Но, я люблю их. Или
+			например, <rs type="title" key="casablanca">Касабланка</rs>, да? И тоже вот, пожалуйста. Но это
+			там, в <rs type="place" key="kinoteatrRodina">Родине</rs>. </u>
+		       <u xml:id="sp127" who="faith"> И какое было качество фильмов? </u>
+		       <u xml:id="sp128" who="leventalIrina"> Качество  ну, да, в
+			конце 90ых, двухтысячные годы, были фильмы еще не . ну, как сказать,
+			редакция? Нет, не редакция, ну когда это фильм, пленкa, потом
+			оцифровывают, делают версию да, цифровую, потом, как-то восстанавливают, да? Ну, то есть
+			делают качество, старыe фильмы делают хорошего качества, но уже как компьютерными, да,
+			технологиями, да? Ну вот, конечно тогда еще десять там, пятнадцать
+			лет назад были фильмы с, когда видно вы знаете, пленку, когда фильм идет, и вот эти
+			штуки да? Были такие фильмы, но сейчас уже обычно, да все фильмы, ну, как это сказать
+				 не редактированые, восстановленные, да? Такие.</u>
+		       <u xml:id="sp129" who="faith"> И какие фильмы были самыми популярными у зрителей? И
+			почему? </u>
+		       <u xml:id="sp130" who="leventalIrina"> У зрителeй в советское время, например? Ну,
+			конечно, все любили советские <rs type="genre" key="comedy">комедии</rs>, все смотрели <rs type="nationalCinema" key="sovietCinema">советские</rs> комедии, веселые, такие  и так далеe. <rs type="person" key="gaidai">Гайдай</rs>, <rs type="person" key="daneliia">Данелия</rs>, <rs type="person" key="riazanov">Рязанова</rs>
+			все смотрели, да? и любили. Почему? Но, они веселые  веселые и простые, да? Помогают, да? От них хорошее настроение! Вот,
+			а потом, в студенческие годы в 90ые годы, в двухтысячные годы, конечно когда Советского
+			Союза не стало, все стали смотреть<rs type="nationalCinema" key="americanCinema"> американские фильмы</rs>, да, популярные
+				<rs type="nationalCinema" key="americanCinema">американские фильмы</rs>. И сейчас,
+			еще смотрят, да и сейчас конечно, в основном, люди, массами,
+			ходят в <rs type="place" key="movieTheater">кинотеатр</rs>ы и смотрят популярные, да, <rs type="genre" key="commercialCinema">массовое,
+				комерческое</rs>, <rs type="nationalCinema" key="americanCinema">американское
+				кино</rs>. Почему? 
+			Я не знаю почему. Но, у меня есть ответ, но я
+			не скажу. Это невежливо. Я не знаю, мне кажется,
+				люди любят  простое кино, да? ну чтобы, но вот, у меня
+			есть друзья, есть знакомые, да? Многие из них любят ходит в кино, которое не приносит
+			негативных или неприятных ощущений или каких-то глубоких, таких чувств, да? Это
+			развлечение, как на дискотеку, люди идут, потанцевали, так и в
+				кино, ну вот среди моих
+			знакомых. То есть, они ищут легкого, легкого развлечения, простого такого,
+				времяпрепровождения. Ну вот и, очень часто, да? у меня есть лучшая подруга, например которая
+			никогда не ходит со мной, а я ее очень люблю, но
+			она не ходит со мной в кино. Вот, говорит, "Нет Ира, я не хочу смотреть фильмы, которые смотришь ты, да? мне и так тяжело жить,
+				я не хочу смотреть тяжелые фильмы, или
+			скучные фильмы, или фильмы где, например  да? там, нет какого-нибудь
+			острого, интересного сюжета да?" То есть фильмы, где можно, где нужно, например, там
+				 ну да, понимаете. Каких простых  да? какого-то легкого развлечения, да? люди
+			ходят и смотрят. Но есть некоторые люди, которые интересуются
+			кино, интересуются историей кино, да? режиссерами, техникой там, ну
+			как это снято, операторской работы, да, жанрами да? И поэтому они ходят, как книги
+			читают разные да? чтобы знаеть, есть люди которые смотрят чтобы
+			знать. </u>
+
+		       <u xml:id="sp131" who="faith"> И в <rs type="place" key="movieTheater">кинотеатр</rs>ах часто показывают иностранные фильмы?
+			И если да, фильмы из каких стран? И какие фильмы вам нравились больше всего? </u>
+		       <u xml:id="sp132" who="leventalIrina">
+			Ну, я уже, наверно, ответила на это вопрос, да? Да, в советское время
+				люди смотрели советские фильмы, и еще очень часто
+				<rs type="nationalCinema" key="indianCinema">индийские фильмы</rs>, из Индии. Да?
+			Смотрели <rs type="nationalCinema" key="indianCinema">индийские фильмы</rs>
+			 А потом, в 90ые годы появилось очень много а<rs type="nationalCinema" key="americanCinema">мериканских фильмов</rs>,
+				люди стали смотреть <rs type="nationalCinema" key="americanCinema">американские фильмы</rs>, и сейчас тоже, да. Основной процент фильмов
+			из Америки, ну из Европы, да? или <rs type="nationalCinema" key="coproduction">совместное производство</rs>, это там,
+				<rs type="nationalCinema" key="americanCinema">Америка</rs>, <rs type="nationalCinema" key="britishCinema">Англия</rs> там, <rs type="nationalCinema" key="americanCinema">США</rs>, <rs type="nationalCinema" key="britishCinema">Англия</rs> или <rs type="nationalCinema" key="coproduction">Франция и
+				Германия</rs>, или что-нибудь еще да? То есть, <rs type="nationalCinema" key="europeanCinema">европейское кино</rs>. Какие фильмы люблю смотреть
+			я? Я люблю смотреть <rs type="nationalCinema" key="europeanCinema">европейское кино</rs>, ну, я уже называла режиссеров или американские тоже. Я люблю смотреть фильм 
+			я люблю <rs type="person" key="lynch">Линча</rs>,
+				<rs type="person" key="jarmusch">Джармуша</rs> тоже. НуДа, это не
+			зависит от  нет, я, я
+			наверно смотрю мало <rs type="nationalCinema" key="asianCinema">фильмов из
+				Азии</rs>, да? Я не смотрю
+			китайские, почти, редко. Наверно, мало. Но я думаю что это еще впереди. <rs type="nationalCinema" key="russianCinema">Русское кино</rs> смотрю, да? Может быть меньше, да?
+			Может быть меньше, чем <rs type="nationalCinema" key="europeanCinema">европейское</rs>, но смотрю. </u>
+		       <u xml:id="sp133" who="faith"> Вы пробовали пройти на фильм, на который вам нельзя
+			было пройти? Ну, как, были фильмы, на которые нельзя было ходить детям? </u>
+		       <u xml:id="sp134" who="leventalIrina"> Конечно. Конечно, были. Да. </u>
+
+		       <u xml:id="sp135" who="faith"> Ну, почему? </u>
+		       <u xml:id="sp136" who="leventalIrina"> Почему? Ну, конечно это или  cцены сексуального характера, да? Или это насилие. Понятно? Или
+			cцена сексуального характера или насилие, что-то такое, да? Обычно детям нет, и сейчас
+			еще, да? Например, есть фильмы, где пишут что там, от 14и лет, от 16и лет, от 18и лет,
+			да? Сейчас еще тоже есть. И тогда были, конечно. Ну, вот. </u>
+
+		       <u xml:id="sp137" who="faith"> И вам не разрешали ваши родители или администрация
+			<rs type="place" key="movieTheater">кинотеатр</rs>а? </u>
+		       <u xml:id="sp138" who="leventalIrina">
+			Ну, конечно, да? Конечно, не разрешали, администрация тоже. Но,
+			да, мы, я помню мы хотели пойти на один фильм, который называется <rs type="title" key="nineAndHalfWeeks">Девять с половиной недель</rs>, да? Фильм <rs type="title" key="nineAndHalfWeeks">Девять с Половиной недель</rs>. Нам было, наверно, 14 лет, и так далее, мы
+			хотели. Но, у нас не получилось. Мы накрасились, знаете, косметику там на лицо, вот, но  нет. Был, это был маленький город, все друг друга знали, да? И
+			билетерши тоже знали уже что мы обычно  ну примерно. Так, "назад, назад" </u>
+		       <u xml:id="sp139" who="faith"> А, вы помните какой-нибудь фильм, у которого были
+			проблемы с выходом на экран? И расскажите об одном, о таком фильме, если есть. </u>
+
+		       <u xml:id="sp140" who="leventalIrina"> Ну, конечно, такие фильмы были и есть. Ну вот из последних, ну например, режиссер
+				<rs type="person" key="solovyov">Сергей Соловьев</rs> снял фильм <rs type="title" key="annaKarenina">Анна Каренина</rs>, а с главной ролью, у него любимая актриса, <rs type="person" key="drubich">Татьяна Друбич</rs>. Хороший фильм, отличный. Но вот он не вышел
+			на широкий экран. Его не показывали. Может быть его показали один, два раза,
+			какой-нибудь закрытый показ, я не знаю. Но, этот
+			фильм я  смотрела дома уже, дома мы его искали, нашли и он, и он не вышел. Но это не
+			так давно было, то есть я, мы не знали. </u>
+
+	     </body>
+   </text>
+</TEI>
