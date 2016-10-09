@@ -65,8 +65,8 @@
             <xsl:value-of
                 select="
                 'Interview with',
-                $index//person[1]/forename,
-                $index//person[@xml:id = $interviewee]/surnameEng"
+                $index//*:person[@xml:id = $interviewee]/*:forename,
+                $index//*:person[@xml:id = $interviewee]/*:surnameEng"
             />
         </h1>
         <ul>
@@ -82,7 +82,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
                 
-                <xsl:for-each select="//editor[@role='interviewer']">
+                <xsl:for-each select="(//titleStmt)[1]/editor[@role='interviewer']">
                     <xsl:if test="preceding-sibling::editor[@role]">
                         <xsl:value-of select="', '"/>
                     </xsl:if>
@@ -90,8 +90,8 @@
                     
                         <xsl:value-of
                             select="
-                            $index//person[@xml:id = $interviewer]/forename,
-                            $index//person[@xml:id = $interviewer]/surnameEng"
+                            $index//*:person[@xml:id = $interviewer]/*:forename,
+                            $index//*:person[@xml:id = $interviewer]/*:surnameEng"
                         />
                     
             </xsl:for-each>
@@ -127,8 +127,9 @@
     
     <!-- This is also not working-->
     <xsl:template match="u">
+        <xsl:variable name="this" select="."/>
         <h3>
-            <xsl:value-of select="$index//person[@xml:id = @who]/surnameEng"/>
+            <xsl:value-of select="$index//*:person[@xml:id = $this/@who]/*:surnameEng"/>
             <xsl:text>: </xsl:text>
         </h3>   
         <p>      
