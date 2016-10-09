@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="18.0">
     <meta>
-        <filters directoryPatterns="" filePatterns="old%20version%20interviews.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized version="18.0" xml:space="preserve">
                 <map>
@@ -10,26 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>pavlov.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>interviews to TEI</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>voronin.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -44,7 +29,22 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>pavlov.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -59,7 +59,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -74,7 +74,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -89,7 +89,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -104,7 +104,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -119,7 +119,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -134,22 +134,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>agureeva.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -164,7 +149,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -175,11 +160,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>old%20version%20interviews.xpr</String>
+                                    <String>agureeva.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>interviews to TEI</String>
+                                        <String>to tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -198,7 +183,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>interviews to TEI</String>
+                                    <String>to tei</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -237,10 +222,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>/Users/andrew/Desktop/Digital Humanities/RMTP_Summer16/obdurodonRmtp_TEI/xml/TEI/${cfne}_TEI.xml</File>
+                                    <File>/Users/andrew/Desktop/Digital Humanities/RMTP_Summer16/obdurodonRmtpWebPage/xml/${cfn}_TEI.xml</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>/Users/andrew/Desktop/Digital Humanities/RMTP_Summer16/obdurodonRmtp_TEI/xml/TEI/${cfne}_TEI.xml</String>
+                                    <String>/Users/andrew/Desktop/Digital Humanities/RMTP_Summer16/obdurodonRmtpWebPage/xml/${cfn}_TEI.xml</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -273,7 +258,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>Saxon-EE</String>
+                                    <String>Saxon-PE</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>
@@ -285,18 +270,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="old%20version%20interviews.xpr">
-        <file name="agureeva.xml"/>
-        <file name="alyrzaeva.xml"/>
-        <file name="chistiakova.xml"/>
-        <file name="danilenko.xml"/>
-        <file name="danilenkoEng.xml"/>
-        <file name="efimova.xml"/>
-        <file name="levental-i.xml"/>
-        <file name="levental-v.xml"/>
-        <file name="old%20version%20interviews.xpr"/>
-        <file name="pavlov.xml"/>
-        <file name="sorkina.xml"/>
-        <file name="voronin.xml"/>
+    <projectTree name="non-tei.xpr">
+        <folder path="."/>
     </projectTree>
 </project>

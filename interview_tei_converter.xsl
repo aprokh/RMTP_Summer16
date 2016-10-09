@@ -214,6 +214,17 @@
         <rs type="{node-name()}" key="{@ref}">
             <xsl:apply-templates/>
         </rs>
-        
+    </xsl:template>
+    <xsl:template match="hes">
+        <xsl:choose>
+            <xsl:when test="@type = 'lex'">
+                <span type="lex">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <span type="nonlex"/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>

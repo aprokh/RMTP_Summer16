@@ -7,7 +7,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Interview with danilenko:
+            <title>Interview with :
                         electronic version</title>
             <author>
                <name ref="danilenko">LIUDMILA DANILENKO</name>
@@ -142,7 +142,7 @@
         <u xml:id="sp3" who="roberts">Фамилия и отчество, пожалуйста.</u>
         <u xml:id="sp4" who="danilenko">Даниленко Людмила Васильевна. </u>
         <u xml:id="sp5" who="roberts">А где вы родились?</u>
-        <u xml:id="sp6" who="danilenko">Я родилась в <rs type="place" key="volgogradskayaOblast">Волгоградской области</rs>. И в восемьдесят втором  с тысяча
+        <u xml:id="sp6" who="danilenko">Я родилась в <rs type="place" key="volgogradskayaOblast">Волгоградской области</rs>. И в восемьдесят втором <span type="nonlex"/> с тысяча
             девятьсот восемдесят второго года я проживаю в
                 <rs type="place" key="stPetersburg">Санкт Петербурге</rs>
         </u>
@@ -156,22 +156,23 @@
         <u xml:id="sp12" who="danilenko">Впечатление о просмотренном фильме или
             сюжет?</u>
         <u xml:id="sp13" who="roberts">O посещениях.</u>
-        <u xml:id="sp14" who="danilenko">О посещениях. Ощущение.  Это
+        <u xml:id="sp14" who="danilenko">О посещениях. Ощущение. <span type="nonlex"/> Это
             было так давно, конечно. Первый большой экран в <rs type="place" key="movieTheater">кинотеатр</rs>е для меня было что-то необыкновенное. Как и сам <rs type="genre" key="skazka">фильм-сказка</rs>. Это такое представление у ребёнка, что жизнь вся
             сказка, такая красивая. Вот такие первые впечатления.</u>
         <u xml:id="sp15" who="roberts">С кем вы ходили?</u>
         <u xml:id="sp16" who="danilenko">С мамой.</u>
         <u xml:id="sp17" who="roberts">Как вам нравится <rs type="place" key="movieTheater">кинотеатр</rs>?</u>
-        <u xml:id="sp18" who="danilenko">Ну, в <rs type="epit" key="movieTheater">современном</rs>
+        <u xml:id="sp18" who="danilenko">
+            <span type="lex">Ну</span>, в <rs type="epit" key="movieTheater">современном</rs>
             <rs type="place" key="movieTheater">кинотеатре </rs> я 
             не была, потому что в связи с работой, с занятостью, нет времени посещать. А первое
-            впечатление 
+            впечатление <span type="nonlex"/>
             <rs type="epit" key="kino">такой огромный дом</rs>
             <rs type="epit" key="kino">с большими креслами</rs>, такое приятное что-то, что-то новое, это не
             собственный дом. Тогда ещё у нас телевизора не
-            было, мы не знали что, что такое. Ну, конечно очень, очень приятно было. </u>
+            было, мы не знали что, что такое. <span type="lex">Ну</span>, конечно очень, очень приятно было. </u>
         <u xml:id="sp19" who="roberts">Когда вы начали ходить в <rs type="place" key="movieTheater">кинотеатр</rs> сама?</u>
-        <u xml:id="sp20" who="danilenko">Это  ну как, одна я не ходила, только где-то лет в шестнадцать, когда
+        <u xml:id="sp20" who="danilenko">Это <span type="nonlex"/> ну как, одна я не ходила, только где-то лет в шестнадцать, когда
             мне было шестнадцать лет. Наверно, тогда только. А так мы посещали коллективно <rs type="place" key="movieTheater">кинотеатр</rs>. Со
             школой. Или у нас в школе был показ, у нас кинозал небольшой был. Нам там показывалиm
             или группой мы ходили в <rs type="place" key="movieTheater">кинотеатр</rs>. </u>
@@ -179,12 +180,12 @@
         <u xml:id="sp22" who="danilenko">Нравилось, конечно нравилось. </u>
         <u xml:id="sp23" who="roberts">Как часто вы ходили в кино?</u>
         <u xml:id="sp24" who="danilenko">Не очень часто. Может быть один раз в месяц или
-            один раз в два месяца. Потому что это тоже такое дорогое удовольствие было. 
+            один раз в два месяца. Потому что это тоже такое дорогое удовольствие было. <span type="nonlex"/>
         </u>
         <u xml:id="sp25" who="roberts">Κак посещениe кино изменилось, когда вы
             выросли?</u>
         <u xml:id="sp26" who="danilenko">Значительно изменилось. Когда я была ребёнком, и когда я, ну, стала подростком и потом уже
-            взрослым человеком  Раньше оно, такое было более доступное кино к
+            взрослым человеком <span type="nonlex"/> Раньше оно, такое было более доступное кино к
                 народу, народ тоже, для
                 народа было доступным. Такое оно более жизненное было,
             нежели сейчас. Сейчас такие фильмы как <rs type="genre" key="blockbuster">блокбастеры</rs>, всё
@@ -199,63 +200,66 @@
         <u xml:id="sp29" who="roberts">У вас есть любимый фильм?</u>
         <u xml:id="sp30" who="danilenko">Наша классика. Но не один, я думаю что, очень много, фильмы <rs type="person" key="gaidai">Гайдая</rs>,
                 <rs type="title" key="diamondArm">Брильянтовая Рука</rs>
-             и другие.</u>
+            <span type="nonlex"/> и другие.</u>
         <u xml:id="sp31" who="roberts">Опишите фильмы, пожалуйста.</u>
         <u xml:id="sp32" who="danilenko">Это <rs type="genre" key="comedy">кинокомедии</rs>. Они
             стали классикой. Или <rs type="title" key="ivanVasilevichChangesJobs">Иван Васильевич меняет
-                профессию</rs>. Вы тоже наверно знаете. Они очень <rs type="epit" key="diamondArm and ivanVasilevichChangesJobs">интересные</rs> и они <rs type="epit" key="diamondArm and ivanVasilevichChangesJobs">очень жизненные</rs>. </u>
+                профессию</rs>. Вы тоже <span type="lex">наверно</span> знаете. Они очень <rs type="epit" key="diamondArm and ivanVasilevichChangesJobs">интересные</rs> и они <rs type="epit" key="diamondArm and ivanVasilevichChangesJobs">очень жизненные</rs>. </u>
         <u xml:id="sp33" who="roberts">У вас были любимые актёры и актрисы?</u>
         <u xml:id="sp34" who="danilenko">Да, конечно. Они были и остались, хотя их уже нет
-            в живых. Ну
-            
+            в живых. <span type="lex">Ну</span>
+            <span type="nonlex"/>
             <rs type="person" key="leonov">Евгений Леонов</rs>. </u>
         <u xml:id="sp35" who="roberts">Почему они были ваши любимые актёры?</u>
-        <u xml:id="sp36" who="danilenko">Я не знаю как  глядя на них в
-            кино, ты, может быть, как переживал с ними вместе ту роль, которую
+        <u xml:id="sp36" who="danilenko">Я не знаю как <span type="nonlex"/> глядя на них в
+            кино, ты, <span type="lex">может быть</span>, как переживал с ними вместе ту роль, которую
             они исполняли. И очень интересно было, как они играли. </u>
         <u xml:id="sp37" who="roberts">Вы помните какой-нибудь фильм или посещение кино
             особенно?</u>
         <u xml:id="sp38" who="danilenko">Еще раз вопрос?</u>
         <u xml:id="sp39" who="roberts">Вы помните какой-нибудь фильм или посещение кино
             особенно?</u>
-        <u xml:id="sp40" who="danilenko">Посещение <rs type="place" key="movieTheater">кинотеатр</rs>а?  Это давно когда было. Ну, я не знаю. Много разных фильмов, и
+        <u xml:id="sp40" who="danilenko">Посещение <rs type="place" key="movieTheater">кинотеатр</rs>а? <span type="nonlex"/> Это давно когда было. <span type="lex">Ну</span>, я не знаю. Много разных фильмов, и
                 <rs type="genre" key="classics">классика</rs>, и <rs type="genre" key="warFilms">военные
                 фильмы</rs>. Очень нравились в детстве.У нас такие <rs type="title" key="elusiveAvengers">Неуловимые Мстители</rs>, это <rs type="epit" key="elusiveAvengers"> революционый
                 фильм</rs>. Там роли исполняли мальчики. Девочка и мальчики. Очень нравился мне. </u>
         <u xml:id="sp41" who="roberts">А почему?</u>
         <u xml:id="sp42" who="danilenko">Я не знаю. Может быть, такие там приключенческие
-            сюжеты у них  примерно одинокового возраста мы были. </u>
+            сюжеты у них <span type="nonlex"/> примерно одинокового возраста мы были. </u>
         <u xml:id="sp43" who="roberts">Вы помните какое-нибудь посещение по телевизору,
             кино по телевизору?</u>
-        <u xml:id="sp44" who="danilenko">Ну
-             первый фильм  нет Да.
-            Первый фильм, наверно, я не
+        <u xml:id="sp44" who="danilenko">
+            <span type="lex">Ну</span>
+            <span type="nonlex"/> первый фильм <span type="nonlex"/> нет<span type="nonlex"/> Да.
+            Первый фильм, <span type="lex">наверно</span>, я не
             помню, а помню балет по телевизору <rs type="title" key="swanLake">Лебединое Озеро</rs>, я смотрела. Это <rs type="epit" key="swanLake">что-то
                 необыкновенное</rs> было. <rs type="epit" key="swanLake">Очень, очень красиво</rs>. Музыка
             мне нравилась в этом спектакле. И очень нравились девушки, которые исполняли. Тогда
                 я очень маленькая была. Первый раз я увидела. Они в очень красивых платьях, в пачках
-                 все белые, необыкновенные. Вот это, наверно, такое яркое впечатление произвело на меня. Балет очень, очень
+                <span type="nonlex"/> все белые, необыкновенные. Вот это, <span type="lex">наверно</span>, такое яркое впечатление произвело на меня. Балет очень, очень
             понравился.</u>
         <u xml:id="sp45" who="roberts">А вы помните, когда вы посмотрели?</u>
-        <u xml:id="sp46" who="danilenko">Это было, наверно, 1959ый
+        <u xml:id="sp46" who="danilenko">Это было, <span type="lex">наверно</span>, 1959ый
             год. </u>
         <u xml:id="sp47" who="roberts">Как вы проводили свободное время, кроме посещения
             кино?</u>
-        <u xml:id="sp48" who="danilenko">Ну, у нас очень много. Я жила в как можно сказать  такой, маленький посёлок, как в деревне. У нас очень много было занятий по дому, работы было. Мы помогали родителям. У нас много животных было.
+        <u xml:id="sp48" who="danilenko">
+            <span type="lex">Ну</span>, у нас очень много. Я жила в<span type="nonlex"/> как можно сказать <span type="nonlex"/> такой, маленький посёлок, как в деревне. У нас очень много было занятий по дому, работы было. Мы помогали родителям. У нас много животных было.
                 Мы ухаживали за ними. Кормили. Книги читали.
             Вот, у нас летом были каникулы. После школы, три
-            месяца мы одыхали. Ну и нам
-            обязательно в школе давали большое задание, чтобы мы за лето прочитали много книг. Ну и так, мне очень
+            месяца мы одыхали. <span type="lex">Ну</span> и нам
+            обязательно в школе давали большое задание, чтобы мы за лето прочитали много книг. <span type="lex">Ну</span> и так, мне очень
             нравилось читать. </u>
         <u xml:id="sp49" who="roberts">С кем вы обычно ходили в кино?</u>
-        <u xml:id="sp50" who="danilenko">Ну, когда была маленькая, с
+        <u xml:id="sp50" who="danilenko">
+            <span type="lex">Ну</span>, когда была маленькая, с
             мамой или со старшей сестрой и с братом. А потом уже ходила с подругами. </u>
         <u xml:id="sp51" who="roberts">Было больше мужчин или женщин в <rs type="place" key="movieTheater">кинотеатр</rs>е?</u>
-        <u xml:id="sp52" who="danilenko">Нет, наверно, одинаково. </u>
+        <u xml:id="sp52" who="danilenko">Нет, <span type="lex">наверно</span>, одинаково. </u>
         <u xml:id="sp53" who="roberts">Люди часто ходили кино с семьями или с
             друзьями/подругами?</u>
-        <u xml:id="sp54" who="danilenko">Я не знаю. Как сказать  по
-            разному бывало, может быть один раз там с друзьями ходили, другой
+        <u xml:id="sp54" who="danilenko">Я не знаю. Как сказать <span type="nonlex"/> по
+            разному бывало, <span type="lex">может быть</span> один раз там с друзьями ходили, другой
             раз семьями ходили. Родители с детьми. </u>
         <u xml:id="sp55" who="roberts">B кинотеатр были очереди?</u>
         <u xml:id="sp56" who="danilenko">Да, были очереди. </u>
@@ -266,13 +270,14 @@
             <rs type="epit" key="pugacheva">знаменитая певица</rs>
             <rs type="person" key="pugacheva">Алла Борисовна Пугачёва</rs>.</u>
         <u xml:id="sp59" who="roberts">Почему вам понравилось?</u>
-        <u xml:id="sp60" who="danilenko">Ну, как. Она становилась
+        <u xml:id="sp60" who="danilenko">
+            <span type="lex">Ну</span>, как. Она становилась
             известной певицей и вышел новый фильм. Нам очень хотелось посмотреть и услышать новые
             песни и посмотреть ее не как певицу, а как актрису</u>
         <u xml:id="sp61" who="roberts">Вы знали людей, которые работали в
             кинотеатре?</u>
         <u xml:id="sp62" who="danilenko">В <rs type="place" key="movieTheater">кинотеатр</rs>е
-                 Наверное, нет. </u>
+                <span type="nonlex"/> Наверное, нет. </u>
         <u xml:id="sp63" who="roberts">Какая была атмосфера в кинотеатре?</u>
         <u xml:id="sp64" who="danilenko">Как в кинозале? Как себя вели дети, кто приходил
             в кино? Когда как, там смотря когда какой шел фильм, кричали, хлопали. Но когда
@@ -286,81 +291,89 @@
         <u xml:id="sp67" who="roberts">Но был буфет в кинотеатре?</u>
         <u xml:id="sp68" who="danilenko">Да. </u>
         <u xml:id="sp69" who="roberts">Другие люди ели?</u>
-        <u xml:id="sp70" who="danilenko">Ну, иногда. </u>
+        <u xml:id="sp70" who="danilenko">
+            <span type="lex">Ну</span>, иногда. </u>
         <u xml:id="sp71" who="roberts">Что они ели?</u>
-        <u xml:id="sp72" who="danilenko">Ну что там. Ну, пироги, бутерброды. Что продавалось. Лимонад, как у вас кока кола, пепси
+        <u xml:id="sp72" who="danilenko">
+            <span type="lex">Ну</span> что там. <span type="lex">Ну</span>, пироги, бутерброды. Что продавалось. Лимонад, как у вас кока кола, пепси
             кола, у нас лимонад. </u>
         <u xml:id="sp73" who="roberts">А мороженое?</u>
-        <u xml:id="sp74" who="danilenko">Ну, мороженое, у нас не было. Это так в городе только было,
+        <u xml:id="sp74" who="danilenko">
+            <span type="lex">Ну</span>, мороженое, у нас не было. Это так в городе только было,
                     у нас иногда
             только привозили мороженое. В магазин. </u>
         <u xml:id="sp75" who="roberts">Вы посмотрели иностранные фильмы?</u>
-        <u xml:id="sp76" who="danilenko">Иностранные? Да смотрела иностранные фильмы. Ну, и как сейчаснаши новые фильмы, мне очень мало нравятся иностранные
-            фильмы. Много каких-то там  насилия и убийств. Ну, может быть, такой, я не знаю. Мне как-то, близко старое наше кино. Мы воспитаны на <rs type="genre" key="patrioticFilms">патриотических фильмах</rs>,
-            на <rs type="genre" key="skazka">сказках</rs>, как-то. Ну, есть очень
+        <u xml:id="sp76" who="danilenko">Иностранные? Да смотрела иностранные фильмы. <span type="lex">Ну</span>, и как сейчаснаши новые фильмы, мне очень мало нравятся иностранные
+            фильмы. Много каких-то там <span type="nonlex"/> насилия и убийств. <span type="lex">Ну</span>, <span type="lex">может быть</span>, такой, я не знаю. Мне как-то, близко старое наше кино. Мы воспитаны на <rs type="genre" key="patrioticFilms">патриотических фильмах</rs>,
+            на <rs type="genre" key="skazka">сказках</rs>, как-то. <span type="lex">Ну</span>, есть очень
             хорошие <rs type="nationalCinema" key="foreignCinema">иностранные фильмы</rs>, я не говорю, что там всё полностью кино там
                 <rs type="nationalCinema" key="americanCinema">американское</rs>, <rs type="nationalCinema" key="frenchCinema">французское</rs>, нет. Есть очень хорошие фильмы.
                 Я с удовольствием смотрю их. </u>
         <u xml:id="sp77" who="roberts">Вы помните какой-нибудь фильм вы
             посмотрели?</u>
         <u xml:id="sp78" who="danilenko">Иностранные? Я могу сказать <rs type="title" key="spartacus">Спартак</rs>, <rs type="title" key="troy">Троя</rs>, но я не помню ни режиссеров,
-            ни актёров. <rs type="title" key="alexander">Александр</rs> есть. <rs type="title" key="troy">Tроя</rs>. Ну, может быть еще
+            ни актёров. <rs type="title" key="alexander">Александр</rs> есть. <rs type="title" key="troy">Tроя</rs>. <span type="lex">Ну</span>, <span type="lex">может быть</span> еще
             другие, ну так <rs type="epit" key="alexander and spartacus and troy">исторические</rs>,
             конечно, <rs type="epit" key="alexander and spartacus and troy">очень такие эффектные</rs>
             фильмы. </u>
         <u xml:id="sp79" who="roberts">Вам нравился исторический фильм?</u>
         <u xml:id="sp80" who="danilenko">Да. Очень хорошие. <rs type="title" key="gladiator">Гладиатор</rs>, хотя в этих фильмах, конечно, очень много тоже таких сюжетов
-            трагических. Ну, фильмы очень интересные. </u>
+            трагических. <span type="lex">Ну</span>, фильмы очень интересные. </u>
         <u xml:id="sp81" who="roberts">Когда вы посмотрели это фильм?</u>
         <u xml:id="sp82" who="danilenko">
-            Ну
-             Это в прошлом году я
+            <span type="lex">Ну</span>
+            <span type="nonlex"/> Это в прошлом году я
             смотрела. </u>
         <u xml:id="sp83" who="roberts">А <rs type="title" key="spartacus">Спартак</rs>
             тоже?</u>
         <u xml:id="sp84" who="danilenko">Да. </u>
         <u xml:id="sp85" who="roberts">А какие фильме вам нравились больше всего?</u>
         <u xml:id="sp86" who="danilenko">Есть и комедии иностранные. С <rs type="person" key="deFunes">Луи де Фюнесом</rs> мне очень нравятся. <rs type="nationalCinema" key="frenchCinema">Французские фильмы</rs>. Где <rs type="person" key="marais">Жан
-                Марэ</rs>. Его уже нет. И один, и другой, они умерли. Ну
-             фильмы <rs type="person" key="dalton">Тимоти Далтон</rs> снимается.
+                Марэ</rs>. Его уже нет. И один, и другой, они умерли. <span type="lex">Ну</span>
+            <span type="nonlex"/> фильмы <rs type="person" key="dalton">Тимоти Далтон</rs> снимается.
             Сейчас скажу, я смотрела <rs type="title" key="janeEyre">Джейн Эйр</rs>. Фильм называется <rs type="title" key="janeEyre">Джейн Эйр</rs>.
                 <rs type="person" key="dalton">Тимоти Далтон</rs> снимается в этом фильме. Очень нравится.
-            Он тоже  как история там есть небольшая. </u>
+            Он тоже <span type="nonlex"/> как история там есть небольшая. </u>
         <u xml:id="sp87" who="roberts">А вам нравится Тимоти Далтон?</u>
         <u xml:id="sp88" who="danilenko"> Да</u>
         <u xml:id="sp89" who="roberts">У вас есть любимый иностранный актёр?</u>
-        <u xml:id="sp90" who="danilenko">Ну
-             не знаю. С <rs type="person" key="rourke">Мики Рурком</rs> мне нравится.
+        <u xml:id="sp90" who="danilenko">
+            <span type="lex">Ну</span>
+            <span type="nonlex"/> не знаю. С <rs type="person" key="rourke">Мики Рурком</rs> мне нравится.
             Рукенхауэр? Правильно я называю? Тоже, ну, можно
             много, много называть, есть хорошие актёры.</u>
         <u xml:id="sp91" who="roberts">Были ли фильмы, на который вам нельзя было
             ходить?</u>
-        <u xml:id="sp92" who="danilenko">Ну, да.У нас было запрещено, до
+        <u xml:id="sp92" who="danilenko">
+            <span type="lex">Ну</span>, да.У нас было запрещено, до
             шестнадцати лет нам не разрешали посещать. Кинотеатр только до четырёх часов. И там
             показывали только <rs type="genre" key="childrens">детские фильмы</rs>. </u>
         <u xml:id="sp93" who="roberts">Вам не разрешали ваши родители или администрация
             кинотеатра?</u>
-        <u xml:id="sp94" who="danilenko">Ну, и администрация, и
-            школа, ну родители тоже, как бы  не разрешали. До девяти часов мы должны вернуться до были, если гуляли. </u>
+        <u xml:id="sp94" who="danilenko">
+            <span type="lex">Ну</span>, и администрация, и
+            школа, ну родители тоже, как бы <span type="nonlex"/> не разрешали. До девяти часов мы должны вернуться до были, если гуляли. </u>
         <u xml:id="sp95" who="roberts">Да. Вы попробовали ходить на пойти, на который вам
             нельзя было пойти?</u>
         <u xml:id="sp96" who="danilenko">Пробовали. Но, нас не пропускали. </u>
         <u xml:id="sp97" who="roberts">Вы помните какой-нибудь фильм, у которого были
             проблемы с выходом на экран?</u>
-        <u xml:id="sp98" who="danilenko">Ну, я не знаю, я не могу
-            этого сказать. 
-            Ну, может быть цензура какие фильмы
+        <u xml:id="sp98" who="danilenko">
+            <span type="lex">Ну</span>, я не знаю, я не могу
+            этого сказать. <span type="nonlex"/>
+            <span type="lex">Ну</span>, <span type="lex">может быть</span> цензура какие фильмы
             запрещала. </u>
         <u xml:id="sp99" who="roberts">Извините?</u>
         <u xml:id="sp100" who="danilenko">Раньше было такое, комиссия была. Они, когда
-            фильм был готов, он должен был выйти на широкий экран в <rs type="place" key="movieTheater">кинотеатрe</rs>, они смотрели и давали разрешения, что можно или нет. Ну я не знаю.</u>
+            фильм был готов, он должен был выйти на широкий экран в <rs type="place" key="movieTheater">кинотеатрe</rs>, они смотрели и давали разрешения, что можно или нет. <span type="lex">Ну</span> я не знаю.</u>
         <u xml:id="sp101" who="roberts">Ваши родители ходили в кино?</u>
         <u xml:id="sp102" who="danilenko">Ходили когда, ну, очень редко, когда было время. </u>
         <u xml:id="sp103" who="roberts">Что они смотрели, когда они ходили?</u>
-        <u xml:id="sp104" who="danilenko">Ну, разные фильмы, которые
+        <u xml:id="sp104" who="danilenko">
+            <span type="lex">Ну</span>, разные фильмы, которые
             были, также инашу
             <rs type="genre" key="classics">классику</rs>, и <rs type="genre" key="comedy">комедии</rs>, ну
-                <rs type="nationalCinema" key="foreignCinema">иностранные фильмы</rs>, я не могу сказать сейчас названия, потому что я была очень маленькая. Ну,
+                <rs type="nationalCinema" key="foreignCinema">иностранные фильмы</rs>, я не могу сказать сейчас названия, потому что я была очень маленькая. <span type="lex">Ну</span>,
             что было в <rs type="place" key="movieTheater">кинотеатр</rs>е, старались по возможности
             посещать <rs type="place" key="movieTheater">кинотеатр</rs> смотреть, интересовались тоже,
             чтобы узнать, как другая страна живёт.</u>
@@ -369,8 +382,9 @@
             возможность, конечно. Но сейчас, когда есть время, я смотрю по телевизору кино.</u>
         <u xml:id="sp107" who="roberts">Как ваши посещения кинотеатров изменились со
             временем почему?</u>
-        <u xml:id="sp108" who="danilenko">Ну, в современном
-            кинотеатре я не была. Как не знаю сейчас  что есть и стерео кино, другие залы. Которые раньше были в
+        <u xml:id="sp108" who="danilenko">
+            <span type="lex">Ну</span>, в современном
+            кинотеатре я не была. Как не знаю сейчас <span type="nonlex"/> что есть и стерео кино, другие залы. Которые раньше были в
             кинотеатре, просто обыкновенный зал с креслами, большой экран. Конечно, первое
             впечатление, когда мы приходили в зал, для нас
             было необыкновенно, очень приятно было. Я не могу
@@ -378,7 +392,7 @@
             была. Вы можете спросить у более молодого поколения. </u>
         <u xml:id="sp109" who="roberts">Когда был последний раз, когда вы ходили в
             кино?</u>
-        <u xml:id="sp110" who="danilenko">Ой, последний раз, да? Ну,
+        <u xml:id="sp110" who="danilenko">Ой, последний раз, да? <span type="lex">Ну</span>,
             лет десять назад. </u>
         <u xml:id="sp111" who="roberts">Это всё. Спасибо за интервью. Пожалуйста.</u>
 
