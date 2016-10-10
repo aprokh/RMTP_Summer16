@@ -195,7 +195,7 @@
                 Петербурге</rs>, кроме того в <rs type="place" key="philadelphia">Филадельфии</rs> и в
                 <rs type="place" key="seoul">Сеуле</rs>.</u>
         <u xml:id="sp10" who="wilkinson">Когда вы переехали в Санкт Петербург? </u>
-        <u xml:id="sp11" who="pavlov">Я не переезжал. Я здесь родился. </u>
+        <u xml:id="sp11" who="pavlov">Я не переезжал. <rs type="pron" subtype="persSing">Я</rs> здесь родился. </u>
         <u xml:id="sp12" who="wilkinson">Хорошо. Вы помните первый раз, когда вы ходили в
             кино?</u>
         <u xml:id="sp13" who="pavlov">Самый первый не могу сказать, но, вероятно, где-то
@@ -232,10 +232,10 @@
             <span type="lex">Ну</span>, как развлечение.
             Исключительно как досуг. Желание провести время хорошо.</u>
         <u xml:id="sp32" who="wilkinson">Когда вы начали ходить в <rs type="place" key="movieTheater">кинотеатр</rs> один?</u>
-        <u xml:id="sp33" who="pavlov">Один? Не я
+        <u xml:id="sp33" who="pavlov">Один? Не <rs type="pron" subtype="persSing">я</rs>
             никогда не ходил один.</u>
         <u xml:id="sp34" who="wilkinson">Хорошо. Как часто вы ходили в кино?</u>
-        <u xml:id="sp35" who="pavlov">А, когда я
+        <u xml:id="sp35" who="pavlov">А, когда <rs type="pron" subtype="persSing">я</rs>
             был студентом, <span type="lex">наверно</span> раза три-четыре в неделю. Но в настоящее
             время раз в месяц, <span type="lex">может быть</span>.</u>
         <u xml:id="sp36" who="wilkinson">Ходить в кино - это была обычное дело или особое
@@ -259,7 +259,7 @@
         <u xml:id="sp44" who="wilkinson">У вас есть любимый фильм? </u>
         <u xml:id="sp45" who="pavlov">
             <span type="lex">Ну</span>
-            , мой любимый <rs type="nationalCinema" key="americanCinema">фильм американский</rs>. Или нужно из <rs type="nationalCinema" key="russianCinema">российских</rs>, <rs type="nationalCinema" key="sovietCinema">советских</rs>? Из <rs type="nationalCinema" key="americanCinema">американских</rs> это <rs type="title" key="heat">Схватка</rs> с <rs type="person" key="deNiro">Робертом Де Ниро</rs> и <rs type="person" key="pacino">Аль
+            <rs type="pron" subtype="possSing">, мой</rs> любимый <rs type="nationalCinema" key="americanCinema">фильм американский</rs>. Или нужно из <rs type="nationalCinema" key="russianCinema">российских</rs>, <rs type="nationalCinema" key="sovietCinema">советских</rs>? Из <rs type="nationalCinema" key="americanCinema">американских</rs> это <rs type="title" key="heat">Схватка</rs> с <rs type="person" key="deNiro">Робертом Де Ниро</rs> и <rs type="person" key="pacino">Аль
             Пачино</rs>.</u>
         <u xml:id="sp46" who="wilkinson">У вас были любимые актеры, актрисы в зарубежном
             кино?</u>
@@ -268,7 +268,7 @@
         <u xml:id="sp48" who="wilkinson">Вы помните какой-нибудь фильм или посещение кино
             особенно?</u>
         <u xml:id="sp49" who="pavlov">Наверное, одно из первых посещений в бытность
-            студентом. Тогда мы ходили в <rs type="place" key="kinoteatrAurora">кинотеатр Аврора</rs>. В настоящее время он тоже
+            студентом. Тогда <rs type="pron" subtype="persPlur">мы</rs> ходили в <rs type="place" key="kinoteatrAurora">кинотеатр Аврора</rs>. В настоящее время он тоже
             существует. И, в основном, там показывают или <rs type="epit" key="sovietCinema">старое</rs>
             <rs type="nationalCinema" key="sovietCinema">советское кино</rs>, или какие-то новинки
                 <rs type="nationalCinema" key="russianCinema">российского кино</rs>. Это было
@@ -297,7 +297,7 @@
             костюм, а девушке платье. В кино джинсы, рубашка, свитер <span type="nonlex"/> это вполне
             нормально.</u>
         <u xml:id="sp60" who="wilkinson">Вы знали людей, которые работали в <rs type="place" key="movieTheater">кинотеатр</rs>ах?</u>
-        <u xml:id="sp61" who="pavlov">Да, конечно. Я знал человека, который был директором <rs type="place" key="movieTheater">кинотеатр</rs>а. <rs type="place" key="kinoteatrMaksim">Кинотеатра Максим</rs> (такой
+        <u xml:id="sp61" who="pavlov">Да, конечно. <rs type="pron" subtype="persSing">Я</rs> знал человека, который был директором <rs type="place" key="movieTheater">кинотеатр</rs>а. <rs type="place" key="kinoteatrMaksim">Кинотеатра Максим</rs> (такой
             был <rs type="place" key="movieTheater">кинотеатр</rs>).</u>
         <u xml:id="sp62" who="wilkinson">Какая была атмосфера в <rs type="place" key="movieTheater">кинотеатр</rs>е?</u>
         <u xml:id="sp63" who="pavlov">В советское время или в российское время? <span type="lex">Ну</span>, это большая разница, потому что в советское время это была одна
@@ -316,25 +316,25 @@
             зависимости от того, как удобней.</u>
         <u xml:id="sp70" who="wilkinson">Кинотеатр был большой? </u>
         <u xml:id="sp71" who="pavlov">Раньше, в советское время, все <rs type="place" key="movieTheater">кинотеатр</rs>ы были <rs type="epit" key="kino">однотипные</rs>.
-            Обычно это один зал и он достаточно большой. На пятьдесят зрителей. В наши дни это несколько маленьких залов. Где-то на семь рядов.
+            Обычно это один зал и он достаточно большой. На пятьдесят зрителей. В <rs type="pron" subtype="possPlur">наши</rs> дни это несколько маленьких залов. Где-то на семь рядов.
             Поэтому это другая тенденция, другая идея.</u>
         <u xml:id="sp72" who="wilkinson">Был буфет? </u>
         <u xml:id="sp73" who="pavlov">Буфет. Конечно. Конечно. Да. <span type="lex">Ну</span>, конечно, буфет не как в театре. Шампанское никто в перерыве не пил. Но в
             советское время да, был буфет, можно было сьесть пирожок.</u>
         <u xml:id="sp74" who="wilkinson">Были в <rs type="place" key="movieTheater">кинотеатр</rs>е билетёры? </u>
-        <u xml:id="sp75" who="pavlov">Да я думаю,
+        <u xml:id="sp75" who="pavlov">Да <rs type="pron" subtype="persSing">я</rs> думаю,
             всегда были. Обычно это женщины пожилого возраста, как в театре. И даже была у них
-            какая-то униформа, как я помню, в советское
+            какая-то униформа, как <rs type="pron" subtype="persSing">я</rs> помню, в советское
             время.</u>
         <u xml:id="sp76" who="wilkinson">Где вы любили сидеть и почему? </u>
         <u xml:id="sp77" who="pavlov">
-            <span type="lex">Ну</span>, поскольку я ходил с подругой,
-                я  предпочитал последний ряд. Самый удобный. И желательно боковые
+            <span type="lex">Ну</span>, поскольку <rs type="pron" subtype="persSing">я</rs> ходил с подругой,<rs type="pron" subtype="persSing">
+                я </rs> предпочитал последний ряд. Самый удобный. И желательно боковые
             места.</u>
         <u xml:id="sp78" who="wilkinson">Хорошо. Фильмы были немые или звуковые?</u>
         <u xml:id="sp79" who="pavlov">
             <span type="lex">Ну</span>, конечно, звуковые. Конечно
-            звуковые. Потому что я не припомню, чтобы фильмы,
+            звуковые. Потому что <rs type="pron" subtype="persSing">я</rs> не припомню, чтобы фильмы,
             например с <rs type="person" key="chaplin">Чарли Чаплиным</rs> показывали в советском
             прокате.</u>
         <u xml:id="sp80" who="wilkinson">Чёрно-белыe или цветные? </u>
@@ -346,7 +346,7 @@
         <u xml:id="sp84" who="wilkinson">Какие фильмы были самые популярные у зрителей, и
             почему?</u>
         <u xml:id="sp85" who="pavlov">Я думаю, что комедии, в основном, были популярные, и
-                я застал 80ые годы. Тогда, <span type="lex">наверно</span>, появились детективы, мода на <rs type="genre" key="detective">детективы</rs>, <rs type="person" key="christie">Агата Кристи</rs>, экранизация
+                <rs type="pron" subtype="persSing">я</rs> застал 80ые годы. Тогда, <span type="lex">наверно</span>, появились детективы, мода на <rs type="genre" key="detective">детективы</rs>, <rs type="person" key="christie">Агата Кристи</rs>, экранизация
             фильмов Агаты Кристи. Вот, например, <rs type="title" key="tenLittleIndians">Десять
                 негритят</rs> был очень популярный фильм.</u>
         <u xml:id="sp86" who="wilkinson">В <rs type="place" key="movieTheater">кинотеатр</rs>ах
@@ -360,8 +360,8 @@
             поцелуями, например.</u>
         <u xml:id="sp90" who="wilkinson">Вы помните какой-нибудь фильм, у которого были
             проблемы с выходом на экран?</u>
-        <u xml:id="sp91" who="pavlov">Была определённая история, насколько я помню, с фильмом <rs type="title" key="coldSummer">Холодное
-                лето</rs> пятьдесят третьего года, но, по-моему, когда я начал ходить в <rs type="place" key="movieTheater">кинотеатр</rs>
+        <u xml:id="sp91" who="pavlov">Была определённая история, насколько <rs type="pron" subtype="persSing">я</rs> помню, с фильмом <rs type="title" key="coldSummer">Холодное
+                лето</rs> пятьдесят третьего года, но, по-моему, когда <rs type="pron" subtype="persSing">я</rs> начал ходить в <rs type="place" key="movieTheater">кинотеатр</rs>
             уже такого не было, чтобы фильмы на полку клались.</u>
         <u xml:id="sp92" who="wilkinson">Как вы узнали о репертуарах <rs type="place" key="movieTheater">кинотеатр</rs>ов?</u>
         <u xml:id="sp93" who="pavlov">Репертуары? Не было никакой возможности узнавать,
@@ -369,20 +369,21 @@
             как пожилое население в настоящее время узнаёт о репертуарах театров. По
             афишам.</u>
         <u xml:id="sp94" who="wilkinson">Вы читали о фильмах в журналах?</u>
-        <u xml:id="sp95" who="pavlov">Был журнал, конечно, Советское кино. Но я думаю, что он был не популярен.</u>
+        <u xml:id="sp95" who="pavlov">Был журнал, конечно, Советское кино. Но <rs type="pron" subtype="persSing">я</rs> думаю, что он был не популярен.</u>
         <u xml:id="sp96" who="wilkinson">Ваши родители ходили в кино?</u>
-        <u xml:id="sp97" who="pavlov">Я не помню,
-            чтобы это было популярно в нашей семье.</u>
+        <u xml:id="sp97" who="pavlov">
+            <rs type="pron" subtype="persSing">Я</rs> не помню,
+            чтобы это было популярно в <rs type="pron" subtype="possPlur">нашей</rs> семье.</u>
         <u xml:id="sp98" who="wilkinson">Хорошо. У вас был телевизор?</u>
         <u xml:id="sp99" who="pavlov">Конечно. </u>
         <u xml:id="sp100" who="wilkinson">Когда вы купили его, вы ходили в кино больше или
             меньше?</u>
-        <u xml:id="sp101" who="pavlov">Честно говоря, у
-                меня и сейчас есть телевизор. Только я
-            его не смотрю. Но это<span type="nonlex"/> Нет, я
+        <u xml:id="sp101" who="pavlov">Честно говоря, <rs type="pron" subtype="possSing">у
+                меня</rs> и сейчас есть телевизор. Только <rs type="pron" subtype="persSing">я</rs>
+            его не смотрю. Но это<span type="nonlex"/> Нет, <rs type="pron" subtype="persSing">я</rs>
             думаю, нет прямой зависимости между телевизором и <rs type="place" key="movieTheater">кинотеатр</rs>ом, потому что в <rs type="place" key="movieTheater">кинотеатр</rs>
-            всё-таки я иду, когда хочу услышать качественный
-            звук. Или, например, фильм, если я хочу
+            всё-таки <rs type="pron" subtype="persSing">я</rs> иду, когда хочу услышать качественный
+            звук. Или, например, фильм, если <rs type="pron" subtype="persSing">я</rs> хочу
             посмотреть без перевода, если это иностранный фильм.</u>
         <u xml:id="sp102" who="wilkinson">Как ваше посещение кинотеатров изменилось со временем?</u>
         <u xml:id="sp103" who="pavlov">Их стало меньше, потому что меньше времени. Поэтому
@@ -398,7 +399,7 @@
             заключении?</u>
         <u xml:id="sp111" who="pavlov">Я думаю, что <rs type="place" key="movieTheater">кинотеатр</rs>, и само кино, оно, конечно, должно развиваться. Но мне не совсем
             нравится, когда фильмы исключительно развлекательные. Поэтому <rs type="genre" key="art">авторское кино</rs>, и <span type="lex">может быть</span> не мейстрим, то есть не
-            основное течение, <span type="lex">может быть</span> это должно быть больше. На мой взгляд.</u>
+            основное течение, <span type="lex">может быть</span> это должно быть больше. На <rs type="pron" subtype="possSing">мой</rs> взгляд.</u>
         <u xml:id="sp112" who="wilkinson"> У кого вы бы посоветовали нам взять интервью на
             эту же тему в будущем?</u>
         <u xml:id="sp113" who="pavlov">Я думаю, что есть <span type="nonlex"/> Для вашего

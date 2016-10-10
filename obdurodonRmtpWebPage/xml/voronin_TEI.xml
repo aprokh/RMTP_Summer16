@@ -151,40 +151,40 @@
         <u xml:id="sp3" who="parks">Расскажите нам, когда и где вы выросли. </u>
         <u xml:id="sp4" who="voronin">Я вырос на <rs type="place" key="urals">Урале</rs>, в
             городе <rs type="place" key="ufa">Уфа</rs>. Это один из городов милионников, довольно большой
-            город в <rs type="place" key="russia">России</rs>. Первыe 15 лет своей жизни я прожил именно там. </u>
+            город в <rs type="place" key="russia">России</rs>. Первыe 15 лет своей жизни <rs type="pron" subtype="persSing">я</rs> прожил именно там. </u>
         <u xml:id="sp5" who="parks">Где работали ваши папа и мама?</u>
-        <u xml:id="sp6" who="voronin">Мои родители развeлись, когда я был еще ребенком. Моя мама работала стюардессой, летала, в
+        <u xml:id="sp6" who="voronin">Мои родители развeлись, когда <rs type="pron" subtype="persSing">я</rs> был еще ребенком. Моя мама работала стюардессой, летала, в
             основном, по <rs type="place" key="russia">России</rs>. Иногда ближнее зарубежье. </u>
         <u xml:id="sp7" who="parks">Какоe у вас образование? </u>
-        <u xml:id="sp8" who="voronin">Сейчас у
-                меня высшее образование. В этом году я
+        <u xml:id="sp8" who="voronin">Сейчас <rs type="pron" subtype="possSing">у
+                меня</rs> высшее образование. В этом году <rs type="pron" subtype="persSing">я</rs>
             закончил Военный университет. </u>
         <u xml:id="sp9" who="parks">В каких городах вы жили? </u>
         <u xml:id="sp10" who="voronin">Я жил в <rs type="place" key="ufa">Уфе</rs>, столице
                 <rs type="place" key="republicBashkirtostan">республики Башкортостан</rs>. Также жил 3 года
             в <rs type="place" key="moscow">Москве</rs>, в столице <rs type="place" key="russia">России</rs>, и
-            последние 6 лет, я жил в <rs type="place" key="stPetersburg">Санкт Петербурге</rs>, <rs type="epit" key="stPetersburg">самом
-                красивом</rs> городе, наs мой взгляд. </u>
+            последние 6 лет, <rs type="pron" subtype="persSing">я</rs> жил в <rs type="place" key="stPetersburg">Санкт Петербурге</rs>, <rs type="epit" key="stPetersburg">самом
+                красивом</rs> городе, наs <rs type="pron" subtype="possSing">мой</rs> взгляд. </u>
         <u xml:id="sp11" who="parks">Вы помните первый раз когда вы ходили в кино? </u>
-        <u xml:id="sp12" who="voronin">Нет, я не
+        <u xml:id="sp12" who="voronin">Нет, <rs type="pron" subtype="persSing">я</rs> не
             помню первый раз. Плохо, очень плохо помню. </u>
         <u xml:id="sp13" who="parks">Какие фильмы вы посмотрели? </u>
-        <u xml:id="sp14" who="voronin">Так как я
+        <u xml:id="sp14" who="voronin">Так как <rs type="pron" subtype="persSing">я</rs>
             начал в кино ходить с детства, то все было в хронологическом порядке. Начиная с <rs type="title" key="rockyBullwinkle">Роки и Бульвинкля</rs>, <span type="lex">может быть</span> вы
             знаете, и заканчивая <rs type="genre" key="horror">ужастиками</rs>, <rs type="genre" key="comedy">комедиями</rs>. Сейчас, в принципе, сейчас редко очень хожу в кино. </u>
         <u xml:id="sp15" who="parks">Сколько вам было лет? </u>
         <u xml:id="sp16" who="voronin">Я не помню, <span type="lex">наверно</span>, это был
             первый класс, семь лет. Семь или восемь. </u>
         <u xml:id="sp17" who="parks">С кем вы ходили в кино? </u>
-        <u xml:id="sp18" who="voronin">С кем я
-            только не ходил в кино! Я первый раз с кем ходил?
-            Вообще? Я ходил в кино с мамой, с учительницeй
-                <span type="nonlex"/> почти со всеми девушками. С друзьями мы любили ходить в кино, большой компанией. Да, большой
-            компанией и также немножко, предварительно развеселившись. Я бы, я , просто, не
+        <u xml:id="sp18" who="voronin">С кем <rs type="pron" subtype="persSing">я</rs>
+            только не ходил в кино!<rs type="pron" subtype="persSing"> Я </rs>первый раз с кем ходил?
+            Вообще? <rs type="pron" subtype="persSing">Я</rs> ходил в кино с мамой, с учительницeй
+                <span type="nonlex"/> почти со всеми девушками. С друзьями <rs type="pron" subtype="persPlur">мы</rs> любили ходить в кино, большой компанией. Да, большой
+            компанией и также немножко, предварительно развеселившись. <rs type="pron" subtype="persSing">Я</rs> бы, <rs type="pron" subtype="persSing">я </rs>, просто, не
             могу сказать это на запись, чем обычно веселятся перед кино. Ваши ребята меня поймут. </u>
         <u xml:id="sp19" who="parks">Сколько стоил билет? </u>
-        <u xml:id="sp20" who="voronin">Билет стоил, я не помню, копейки. Поначалу <span type="nonlex"/>, поначалу, когда мы были детьми и у
-                нас было мало собственно денег в карманов, мы ходили на утренние сеансы, тогда было дешевле. А потом уже в любое време.
+        <u xml:id="sp20" who="voronin">Билет стоил, <rs type="pron" subtype="persSing">я</rs> не помню, копейки. Поначалу <span type="nonlex"/>, поначалу, когда <rs type="pron" subtype="persPlur">мы</rs> были детьми и <rs type="pron" subtype="possPlur">у
+                нас</rs> было мало собственно денег в карманов, <rs type="pron" subtype="persPlur">мы</rs> ходили на утренние сеансы, тогда было дешевле. А потом уже в любое време.
             Билет стоил от, от одного доларов, по вашему, до десяти или двадцати доларов. </u>
         <u xml:id="sp21" who="parks">Как назывался <rs type="place" key="movieTheater">кинотеатр</rs>? Опишите <rs type="place" key="movieTheater">кинотеатр</rs>. </u>
         <u xml:id="sp22" who="voronin">Кинотеатр назывался <rs type="place" key="kinoteatrIskra">Искра</rs>. Он был сначала в советском стиле оформлен, в старом стиле. “Old
@@ -193,30 +193,31 @@
             в последнее время странно популярно, и все премьеры сюда, и все звезды съезжаются,
             например. </u>
         <u xml:id="sp23" who="parks">Вы ходили пешком, или ездили? </u>
-        <u xml:id="sp24" who="voronin">Обычно я
-            ездил, это довольно далеко от дома было, ближайший <rs type="place" key="movieTheater">кинотеатр</rs> от моего дома был
+        <u xml:id="sp24" who="voronin">Обычно <rs type="pron" subtype="persSing">я</rs>
+            ездил, это довольно далеко от дома было, ближайший <rs type="place" key="movieTheater">кинотеатр</rs> от <rs type="pron" subtype="possSing">моего</rs> дома был
             километров двадцать. </u>
         <u xml:id="sp25" who="parks">На чем вы ездили? </u>
         <u xml:id="sp26" who="voronin">Обычно, сначала ездили на автобусах, после, уже
             когда выросли, ездили на машинах. </u>
         <u xml:id="sp27" who="parks">У вас был один кинотеатр или больше около дома? </u>
-        <u xml:id="sp28" who="voronin">Нет, около дома вообще <rs type="place" key="movieTheater">кинотеатр</rs>ов не было. Мы менялись
+        <u xml:id="sp28" who="voronin">Нет, около дома вообще <rs type="place" key="movieTheater">кинотеатр</rs>ов не было. <rs type="pron" subtype="persPlur">Мы</rs> менялись
             касетами VHS, этими, старыми. А <rs type="place" key="movieTheater">кинотеатр</rs> был далеко
-            от дома. Кинотеатров в городе было, штук 5, сначала. А сейчас их штук 10, я думаю. </u>
+            от дома. Кинотеатров в городе было, штук 5, сначала. А сейчас их штук 10, <rs type="pron" subtype="persSing">я</rs> думаю. </u>
         <u xml:id="sp29" who="parks">Сравните эти кинотеатры. </u>
         <u xml:id="sp30" who="voronin">Сравнить их немного трудно, потому что они все
             типовые, похожи друг на друга, все <rs type="place" key="movieTheater">кинотеатр</rs>ы. А
             разница есть так <span type="nonlex"/> такая: <rs type="place" key="movieTheater">кинотеатр</rs>
             <span type="lex">может быть</span> отдельным зданием стоять или <rs type="place" key="movieTheater">кинотеатр</rs>
-            <span type="lex">может быть</span> в торговом комплексе. А, как правило, сейчас все <rs type="place" key="movieTheater">кинотеатры</rs> у
-                    нас в торговoм комплексе. </u>
+            <span type="lex">может быть</span> в торговом комплексе. А, как правило, сейчас все <rs type="place" key="movieTheater">кинотеатры</rs> 
+            <rs type="pron" subtype="possPlur">у
+                    нас</rs> в торговoм комплексе. </u>
         <u xml:id="sp31" who="parks">Когда вы начали ходить в кинотеатр один? </u>
         <u xml:id="sp32" who="voronin">Я не помню лет, лет в 10. </u>
         <u xml:id="sp33" who="parks">Вам нравилось ходить в кино и почему? </u>
         <u xml:id="sp34" who="voronin">Мне нравилось ходить в кино только на опредленные
-            фильмы. Я очень редко хожу в кино просто так.
+            фильмы. <rs type="pron" subtype="persSing">Я</rs> очень редко хожу в кино просто так.
             Только на определенные <rs type="genre" key="blockbuster">блокбастеры</rs>, либо какие-то
-            знаменитые премьеры. Знаменитых режиссеров, либо актеров. Мы с друзьями больше любили гулять, играть в футбол, или в
+            знаменитые премьеры. Знаменитых режиссеров, либо актеров. <rs type="pron" subtype="persPlur">Мы</rs> с друзьями больше любили гулять, играть в футбол, или в
             хоккей. </u>
         <u xml:id="sp35" who="parks">Как часто вы ходили в кино? На какие сеансы?
             Утренние, дневные, вечерние? </u>
@@ -227,7 +228,7 @@
             событие? </u>
         <u xml:id="sp38" who="voronin">В детстве, <span type="lex">может быть</span> особое,
             а сейчас, пойти в кино это <span type="nonlex"/>
-            Мы считаем ходить в кино - это значит больше
+            <rs type="pron" subtype="persPlur">Мы</rs> считаем ходить в кино - это значит больше
             нечем заняться. Если тебе нечем с пользой провести, не знаешь, как с пользой провести
             время, можешь сходить в кино. </u>
         <u xml:id="sp39" who="parks">Как посещение кино изменилось, когда вы выросли или
@@ -238,7 +239,7 @@
         <u xml:id="sp41" who="parks">Какие были ваши самые любимые жанры в детстве? </u>
         <u xml:id="sp42" who="voronin">
             <rs type="genre" key="comedy">Комедия</rs>, с самого
-            детсва, мой любимый жанр <rs type="genre" key="comedy">,комедия</rs>, <rs type="genre" key="action">,боевики</rs> тоже любил, а сейчас больше
+            детсва, <rs type="pron" subtype="possSing">мой</rs> любимый жанр <rs type="genre" key="comedy">,комедия</rs>, <rs type="genre" key="action">,боевики</rs> тоже любил, а сейчас больше
             люблю какие-то <rs type="genre" key="melodrama">мелодрамы</rs>, либо основанные на реальных
             событиях. </u>
         <u xml:id="sp43" who="parks">Какие были ваши самые любимые жанры, когда вы были
@@ -247,9 +248,9 @@
                 <rs type="genre" key="adult">порно</rs>, это правда не нужно ничего менять, у
                 всех русских студентов, это так. А потом, <rs type="genre" key="action">боевики</rs>, и <rs type="genre" key="comedy">комедии</rs>. </u>
         <u xml:id="sp45" who="parks">У вас есть любимый фильм? </u>
-        <u xml:id="sp46" who="voronin">Да, я думаю,
-                у меня есть несколько любимых фильмов. Просто
-                я очень много фильмов посмотрел, последний
+        <u xml:id="sp46" who="voronin">Да, <rs type="pron" subtype="persSing">я</rs> думаю,
+                <rs type="pron" subtype="possSing">у меня</rs> есть несколько любимых фильмов. Просто
+                <rs type="pron" subtype="persSing">я</rs> очень много фильмов посмотрел, последний
             фильм, который произвел впечатление, называется “<rs type="title" key="mavericks">Mavericks</rs>” <span type="nonlex"/> либо, <rs type="title" key="mavericks">Укротители
                 волн 1</rs> на русском. Это плохой перевод, с <rs type="person" key="butler">Джеральдом
                 Батлером</rs>. Maybe, но <span type="lex">может быть</span> ты знаешь. Почему
@@ -263,25 +264,25 @@
                 <rs type="title" key="aceVentura">Эйс Вентура</rs>, самые лучшие его работы. <rs type="person" key="murphy">Мерфи, Эдди Мерфи</rs> красавчик. Тоже делал вещи. </u>
         <u xml:id="sp49" who="parks">Вы помните какой-нибудь фильм или посещение кино
             особенно? Расскажите об этом посещении. </u>
-        <u xml:id="sp50" who="voronin">Нет. Особенно я не помню именно посещения <rs type="place" key="movieTheater">кинотеатр</rs>ов. Я  больше помню фильмы,
+        <u xml:id="sp50" who="voronin">Нет. Особенно <rs type="pron" subtype="persSing">я</rs> не помню именно посещения <rs type="place" key="movieTheater">кинотеатр</rs>ов.<rs type="pron" subtype="persSing"> Я </rs> больше помню фильмы,
             которые на всю жизнь запомнились. <rs type="title" key="godfather">Крестный Отец</rs>,
             “Godfather”. Также русский сериал, может вы, смотрели, <rs type="title" key="brigade">Бригада</rs>. Русский сериал <rs type="title" key="brigade">Бригада</rs>, и русский
             фильм <rs type="title" key="brother">Брат</rs> и <rs type="title" key="brother2">Брат 2</rs>. “Brother
-            and Brother 2.” <span type="lex">Ну</span>, да, я
+            and Brother 2.” <span type="lex">Ну</span>, да, <rs type="pron" subtype="persSing">я</rs>
             думаю <span type="lex">может быть</span> еще некоторые фильмы, а да, <rs type="title" key="lifeIsBeautiful">Это Прeкрасная Жизнь</rs>. 2 “It’s A Beautiful Life.”
             Итальянский фильм. <span type="lex">Может быть</span>
-            я перепутал название. Итальянский фильм. Многие
-                наши взгляды с моими друзьями совпадают с рейтингом Интернет Муви Дейта Бейз. </u>
+            <rs type="pron" subtype="persSing">я</rs> перепутал название. Итальянский фильм. Многие
+                <rs type="pron" subtype="possPlur">наши</rs> взгляды с <rs type="pron" subtype="possSing">моими</rs> друзьями совпадают с рейтингом Интернет Муви Дейта Бейз. </u>
         <u xml:id="sp51" who="parks">Как вы проводили свободное время кроме посещения в
             кино? </u>
-        <u xml:id="sp52" who="voronin">Гуляли, играли в футбол, и в хоккей. Я думаю примерно так же, как и все подростки, у
+        <u xml:id="sp52" who="voronin">Гуляли, играли в футбол, и в хоккей. <rs type="pron" subtype="persSing">Я</rs> думаю примерно так же, как и все подростки, у
             которых есть свободное время и которые могут себе что-нибудь запрещенное купить. </u>
         <u xml:id="sp53" who="parks">С кем вы были обычно ходите в кино? </u>
         <u xml:id="sp54" who="voronin">Обычно с либо друзьями, либо с подругами. Очень
             редко ходим смешанной компанией. Как правило, только мальчики или только девочки. “Only
             boys or only girls.” </u>
         <u xml:id="sp55" who="parks">Больше мужчин или женщин? </u>
-        <u xml:id="sp56" who="voronin">В кино ходят? Даже не знаю, <span type="lex">наверно</span>, больше женщин. Но, скорее потому, что у нас вообще больше женщин живет. </u>
+        <u xml:id="sp56" who="voronin">В кино ходят? Даже не знаю, <span type="lex">наверно</span>, больше женщин. Но, скорее потому, что <rs type="pron" subtype="possPlur">у нас</rs> вообще больше женщин живет. </u>
         <u xml:id="sp57" who="parks">Вообще, люди чаще ходили в кино с семьями или с
             друзьями или с подругами? </u>
         <u xml:id="sp58" who="voronin">Да нет, больше девушки ходят в кино, потому что им
@@ -292,20 +293,20 @@
             очереди. Пять минут максимум. </u>
         <u xml:id="sp61" who="parks">Разные группы сидели в разных частях кинозала? </u>
         <u xml:id="sp62" who="voronin">Разные группы? <span type="lex">Ну</span>, когда как.
-            По-разному, бывало, мест не было, бывало, мы там
+            По-разному, бывало, мест не было, бывало, <rs type="pron" subtype="persPlur">мы</rs> там
             могли лечь и смотреть. </u>
         <u xml:id="sp63" who="parks">Люди шумели или вели себя тихо во время сеанса? </u>
         <u xml:id="sp64" who="voronin">Ах, не всегда. Это смотря какой сеанс, бывало, и
-                мы шумели. </u>
+                <rs type="pron" subtype="persPlur">мы</rs> шумели. </u>
         <u xml:id="sp65" who="parks">Как люди одевались в кино? Нарядно или обычно? </u>
         <u xml:id="sp66" who="voronin">По-разному. Для многих в кино выйти - это событие
-            какое-то. Особенно для девушек показать себя, я
+            какое-то. Особенно для девушек показать себя, <rs type="pron" subtype="persSing">я</rs>
             не знаю почему, могут и зимой одеть колготки, тонкие, одеть высокие шпильки, это
             неудобно, это глупо, но чтобы привлекательно выглядеть. Парни проще одевались. </u>
         <u xml:id="sp67" who="parks">Вы знали людей, которые работали в <rs type="place" key="movieTheater">кинотеатр</rs>е? </u>
         <u xml:id="sp68" who="voronin">Да, парочку знал. И, бывало, ходили бесплатно. </u>
         <u xml:id="sp69" who="parks">Какая была атмосфера в <rs type="place" key="movieTheater">кинотеатр</rs>е? </u>
-        <u xml:id="sp70" who="voronin">По-разному. На ужастиках обычно <rs type="epit" key="kino">весело</rs>, потому что мы на <rs type="genre" key="horror">ужастиках</rs> ходим с девушкой и самый напряженный момент, мы специально ее пугаем. <span type="lex">Ну</span>,
+        <u xml:id="sp70" who="voronin">По-разному. На ужастиках обычно <rs type="epit" key="kino">весело</rs>, потому что <rs type="pron" subtype="persPlur">мы</rs> на <rs type="genre" key="horror">ужастиках</rs> ходим с девушкой и самый напряженный момент,<rs type="pron" subtype="persPlur"> мы </rs>специально ее пугаем. <span type="lex">Ну</span>,
             чтобы посмеяться. </u>
         <u xml:id="sp71" who="parks">Опишите <rs type="place" key="movieTheater">кинотеатр</rs>.
             Если можно, сравните с <rs type="place" key="movieTheater">кинотеатр</rs>ами сейчас. </u>
@@ -313,7 +314,7 @@
                 <rs type="epit" key="kino">темно</rs> и <rs type="epit" key="kino">громко</rs>. </u>
         <u xml:id="sp73" who="parks">Опишите звуки и запахи, которые вы вспоминаете, когда
             вы думаете о кинотреатрах. </u>
-        <u xml:id="sp74" who="voronin">Запах попкорна. Я думаю звук, <rs type="epit" key="kino">сильный нарастающий</rs> звук. Сильными
+        <u xml:id="sp74" who="voronin">Запах попкорна. <rs type="pron" subtype="persSing">Я</rs> думаю звук, <rs type="epit" key="kino">сильный нарастающий</rs> звук. Сильными
             басами. </u>
         <u xml:id="sp75" who="parks">Кресла были удобные? </u>
         <u xml:id="sp76" who="voronin">Когда как, обычно да, <rs type="epit" key="kino">обычно
@@ -323,7 +324,7 @@
             иногда слишком сильно работал. </u>
         <u xml:id="sp79" who="parks">Кинотеатр был большой? Сколько было залов? </u>
         <u xml:id="sp80" who="voronin">Когда, бывает <span type="nonlex"/> Залов бывает от
-            двух до пятнадцати, я так думаю. А посадочных
+            двух до пятнадцати, <rs type="pron" subtype="persSing">я</rs> так думаю. А посадочных
             мест бывает от 50 до 300. До 300 посадочных мест. Разные. </u>
         <u xml:id="sp81" who="parks">Кинотеатр был только для кино, или для других
             мероприятий? </u>
@@ -345,26 +346,27 @@
         <u xml:id="sp90" who="voronin">Всегда были цветные, всегда были со звуком, за
             исключением специальных фильмов, не специальных, а когда по задумке режиссера. Если во
             всех <rs type="place" key="movieTheater">кинотеатр</rs>ах мира крутился черно-белый и без
-            звука, то у нас тоже. А
+            звука, то <rs type="pron" subtype="possPlur">у нас</rs> тоже. А
             все остальные цветные, со звуком </u>
         <u xml:id="sp91" who="parks">Какое былo качество?</u>
-        <u xml:id="sp92" who="voronin">Качество отличное было. Tакже много сейчас <rs type="place" key="movieTheater">кинотеатр</rs>ов в формате 3D, IMAX. Я просто не очень большой фанат кино в последное время, очень
+        <u xml:id="sp92" who="voronin">Качество отличное было. Tакже много сейчас <rs type="place" key="movieTheater">кинотеатр</rs>ов в формате 3D, IMAX. <rs type="pron" subtype="persSing">Я</rs> просто не очень большой фанат кино в последное время, очень
             редко бываю, нет времени. </u>
         <u xml:id="sp93" who="parks">Какие фильмы были самыми популярными у зрителей и
             почему? </u>
         <u xml:id="sp94" who="voronin">У зрителей? Были самые популярные фильмы <span type="nonlex"/>
-            я думаю, те которые хорошо рекламировались. У
+            <rs type="pron" subtype="persSing">я</rs> думаю, те которые хорошо рекламировались. У
             россиян привычка такая, популярная, попсовая ходить в кино, если хорошая реклама, то
             много людей ходят в кино. Если кино понравилось, то расскажут
-            друзьям, и друзья сходят. А я думаю, почти те же
+            друзьям, и друзья сходят. А <rs type="pron" subtype="persSing">я</rs> думаю, почти те же
             фильмы, что и в Америке, почти те же фильмы популярны и в России. Как вообще в мире, судя
             по рейтингaм. </u>
         <u xml:id="sp95" who="parks">В <rs type="place" key="movieTheater">кинотеатр</rs>ах часто
             показывали иностранные фильмы? И фильмы из каких стран? </u>
         <u xml:id="sp96" who="voronin">Почти всегда иностранные фильмы, потому что после
-            развала <rs type="place" key="sovietUnion">Советского Союза</rs> у нас мало кино снималось. Вот, но сейчас,
+            развала <rs type="place" key="sovietUnion">Советского Союза</rs>
+            <rs type="pron" subtype="possPlur"> у нас </rs>мало кино снималось. Вот, но сейчас,
             показывают и <rs type="nationalCinema" key="foreignCinema">иностранные</rs>, и
-                    наши фильмы,
+                    <rs type="pron" subtype="possPlur">наши</rs> фильмы,
             всех стран, абсолютно всех стран, в основном, конечно, это <rs type="nationalCinema" key="americanCinema">американские фильмы</rs>, в основном, потомучто они
                 <rs type="epit" key="americanCinema">самые прокатные</rs>. <rs type="epit" key="americanCinema">Самые
                 успешные</rs> в прокате. </u>
@@ -380,20 +382,20 @@
                 американским</rs>, но дети ходят, в основном. Если хотят. </u>
         <u xml:id="sp101" who="parks">Вам не разрешали ваши родители или администрация
                 <rs type="place" key="movieTheater">кинотеатр</rs>а? </u>
-        <u xml:id="sp102" who="voronin">Не разрешали, но мы все равно ходили. И администрация <rs type="place" key="movieTheater">кинотеатр</rs>а нам не запрещала, когда я
-            был маленький, а сейчас я не знаю, <span type="lex">может быть</span>, сейчас и запрещают. </u>
+        <u xml:id="sp102" who="voronin">Не разрешали, но <rs type="pron" subtype="persPlur">мы</rs> все равно ходили. И администрация <rs type="place" key="movieTheater">кинотеатр</rs>а нам не запрещала, когда <rs type="pron" subtype="persSing">я</rs>
+            был маленький, а сейчас <rs type="pron" subtype="persSing">я</rs> не знаю, <span type="lex">может быть</span>, сейчас и запрещают. </u>
         <u xml:id="sp103" who="parks">Вы пробовали пройти на фильм, на который вам нельзя
             было пройти? </u>
         <u xml:id="sp104" who="voronin">Конечно. В этом, и был интерес. </u>
         <u xml:id="sp105" who="parks">Расскажите о том, как это было. </u>
         <u xml:id="sp106" who="voronin">Это было легко, потому что, <span type="lex">ну,
-            </span>в <rs type="place" key="russia">России</rs>, когда я был маленький, не особо следили за возрастом и не особо соблюдали правила.
+            </span>в <rs type="place" key="russia">России</rs>, когда <rs type="pron" subtype="persSing">я</rs> был маленький, не особо следили за возрастом и не особо соблюдали правила.
             Да и сейчас, главное, денег заработать. И не важно что ребенок на пару лет моложе и
             пройдет на кино для взрослых. Ребенок сам же этого хочет. </u>
         <u xml:id="sp107" who="parks">Вы помните какой-нибудь фильм, у которого были
             проблемы с выходом на экран? Расскажите о таком фильме. </u>
-        <u xml:id="sp108" who="voronin">Если честно, не помню, потому что я не интересовался. Если бы у него были проблемы, он просто бы
-            на экран не вышел, и никто бы его не увидел. Поэтому я не помню таких фильмов. </u>
+        <u xml:id="sp108" who="voronin">Если честно, не помню, потому что <rs type="pron" subtype="persSing">я</rs> не интересовался. Если бы у него были проблемы, он просто бы
+            на экран не вышел, и никто бы его не увидел. Поэтому <rs type="pron" subtype="persSing">я</rs> не помню таких фильмов. </u>
         <u xml:id="sp109" who="parks">Как вы узнавали о репертуаре <rs type="place" key="movieTheater">кинотеатр</rs>а? </u>
         <u xml:id="sp110" who="voronin">О репертуаре <rs type="place" key="movieTheater">кинотеатр</rs>ов? Узнавал либо по рекламам, рекламным баннерам на улицах и
             вывескам, либо в интернете, на расписании <rs type="place" key="movieTheater">кинотеатр</rs>ов.
@@ -407,7 +409,7 @@
         <u xml:id="sp115" who="parks">Ваши родители ходили в кино? </u>
         <u xml:id="sp116" who="voronin">Конечно ходили, только в кино родители и ходили. </u>
         <u xml:id="sp117" who="parks">Что они смотрели? </u>
-        <u xml:id="sp118" who="voronin">Я не знаю, они мало рассказывали, я думаю то же самое, но раньше крутили почти все <rs type="place" key="movieTheater">кинотеатр</rs>ы только советские фильмы. </u>
+        <u xml:id="sp118" who="voronin">Я не знаю, они мало рассказывали, <rs type="pron" subtype="persSing">я</rs> думаю то же самое, но раньше крутили почти все <rs type="place" key="movieTheater">кинотеатр</rs>ы только советские фильмы. </u>
         <u xml:id="sp119" who="parks">Они ходили в кино вместе с вами, друг с другом, одни? </u>
         <u xml:id="sp120" who="voronin">Когда как, по-разному. Или вместе, и без меня, то
             есть, это ни от чего не зависело, от настроения, по желанию. </u>
@@ -422,8 +424,8 @@
             мировой уже появились и у нас, в <rs type="place" key="sovietUnion">СССР</rs>. </u>
         <u xml:id="sp127" who="parks">Вы помните фильмы во время войны? После войны? Во
             время перестройки? </u>
-        <u xml:id="sp128" who="voronin">Да, я
-            смотрел, естественно, нeмного позже. Я ходил на
+        <u xml:id="sp128" who="voronin">Да, <rs type="pron" subtype="persSing">я</rs>
+            смотрел, естественно, нeмного позже.<rs type="pron" subtype="persSing"> Я </rs>ходил на
             премьерные показы. Был немного занят. Вот, но потом смотрел много фильмов, да, есть
             довольно интересные. У них свой стиль, есть, кстати, много запрещенных фильмов, которые
             советское правительство запрещало показывать и только сейчас они вышли на экраны. Но,
@@ -432,16 +434,16 @@
         <u xml:id="sp130" who="voronin">Реже хожу, потому что меньше времени, и <rs type="place" key="movieTheater">кинотеатр</rs> уже немножко приелся. Раньше это было что-то
             удивительное и редкое, <span type="lex">может быть</span>. Редко, когда мало ходишь, это
             как захватывает дух. А сейчас хочется чего-то нового. Каких-то новых удовольствий, но
-                я знаю многих людей, многих моих друзей, у которых, есть такая привычка, ходить в кино, они
+                <rs type="pron" subtype="persSing">я</rs> знаю многих людей, многих <rs type="pron" subtype="possSing">моих</rs> друзей, у которых, есть такая привычка, ходить в кино, они
             просто не знают, куда еще пойти. Им хватает похода в кино. </u>
         <u xml:id="sp131" who="parks">Что бы вы хотели добавить в заключениe? </u>
-        <u xml:id="sp132" who="voronin">В заключение, я хочу добавить <span type="nonlex"/>что нужно сходить как-нибудь в кино.
-            Давно что-то я там не был, да, и что <rs type="title" key="ironman3">Железный Человек 3</rs>, <rs type="title" key="ironman3">Ironman 3</rs>,
+        <u xml:id="sp132" who="voronin">В заключение, <rs type="pron" subtype="persSing">я</rs> хочу добавить <span type="nonlex"/>что нужно сходить как-нибудь в кино.
+            Давно что-то <rs type="pron" subtype="persSing">я</rs> там не был, да, и что <rs type="title" key="ironman3">Железный Человек 3</rs>, <rs type="title" key="ironman3">Ironman 3</rs>,
             very good. </u>
         <u xml:id="sp133" who="parks">У кого бы вы посоветовали нам взять интервью на эту
             же тему в будущем? </u>
-        <u xml:id="sp134" who="voronin">Только не у
-                меня! У кого-нибудь другого. Потому что я мало чего могу сказать. Последнее время особенно. </u>
+        <u xml:id="sp134" who="voronin">Только не <rs type="pron" subtype="possSing">у
+                меня</rs>! У кого-нибудь другого. Потому что <rs type="pron" subtype="persSing">я</rs> мало чего могу сказать. Последнее время особенно. </u>
       </body>
    </text>
 </TEI>

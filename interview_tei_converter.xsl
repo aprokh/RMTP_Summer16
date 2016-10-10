@@ -215,6 +215,11 @@
             <xsl:apply-templates/>
         </rs>
     </xsl:template>
+    <xsl:template match="pron">
+        <rs type="pron" subtype="{@type}{upper-case(substring(@number, 1, 1))}{substring(@number, 2)}">
+            <xsl:apply-templates/>
+        </rs>
+    </xsl:template>
     <xsl:template match="hes">
         <xsl:choose>
             <xsl:when test="@type = 'lex'">

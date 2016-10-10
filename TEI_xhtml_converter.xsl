@@ -97,8 +97,6 @@
             </xsl:for-each>
             </li>
             
-            
-<!--      NOT EVEN REACHED HERE got some shit to do yet      -->
             <li>
                 <a href="http://mtp.blogs.wm.edu">
                     Russian Movie Theater Project (RMTP)
@@ -109,7 +107,6 @@
                     College of William and Mary
                 </a>
             </li>
-            <!--     We'll also want to link to the XML file       -->
             <li>
                 <xsl:text>Interview Date: </xsl:text>
                 <xsl:apply-templates select="//date[@type = 'interview']"/>
@@ -124,9 +121,7 @@
         <hr/>
     </xsl:template>
     
-    
-    <!-- This is also not working-->
-    <xsl:template match="u">
+        <xsl:template match="u">
         <xsl:variable name="this" select="."/>
         <h3>
             <xsl:value-of select="$index//*:person[@xml:id = $this/@who]/*:surnameEng"/>
@@ -139,7 +134,6 @@
         
     </xsl:template>
     
-    <!--    Below is a template for pronouns: personal and possessive, singular and plural.-->
     <xsl:template match="pron">
         <span class="{@type}{upper-case(substring(@number, 1,1))}{substring(@number, 2)}">
             
@@ -148,16 +142,7 @@
     </xsl:template>
     
     <!--   Need to deal with hesitation still   -->
-    <xsl:template match="hes">
-        <!--        <span class="lex">        
-            <xsl:apply-templates/>
-        </span>-->
-        
-        
-        
-        <!--<xsl:if test="@type='nonlex'">
-             <strong><xsl:value-of>...</xsl:value-of></strong>  
-            </xsl:if>-->
+    <xsl:template match="span">
         <xsl:choose>
             <xsl:when test="@type = 'nonlex'">
                 <span class="nonLex">
@@ -172,10 +157,18 @@
         </xsl:choose>
         
     </xsl:template>
-    
     <xsl:template match="rs">
-        <span class="{@type}">
-            <xsl:apply-templates/>
-        </span>
+        <xsl:choose>
+            <xsl:when test="@subtype">
+                <span class="{@subtype}">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <span class="{@type}">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:otherwise>
+        </xsl:choose> 
     </xsl:template>  
 </xsl:stylesheet>

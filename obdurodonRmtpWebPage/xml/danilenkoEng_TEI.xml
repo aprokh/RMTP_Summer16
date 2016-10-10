@@ -136,17 +136,19 @@
       <body> 
          <u xml:id="sp1" who="roberts">What’s your
             name? </u>
-        <u xml:id="sp2" who="danilenko">my name is
+        <u xml:id="sp2" who="danilenko">
+            <rs type="pron" subtype="possSing">my</rs> name is
             Liudmila. </u>
         <u xml:id="sp3" who="roberts">Last name and patronymic, please? </u>
         <u xml:id="sp4" who="danilenko">Liudmila Vasilievna Danilenko. </u>
         <u xml:id="sp5" who="roberts">And where were you born? </u>
-        <u xml:id="sp6" who="danilenko">I was born
+        <u xml:id="sp6" who="danilenko">
+            <rs type="pron" subtype="persSing">I</rs> was born
             in <rs type="place" key="volgogradskayaOblast">Volgograd province</rs>. And in 1982 <span type="nonlex"/>… and from
             1982 on I’ve been living in <rs type="place" key="stPetersburg">St.Petersburg</rs>. </u>
         <u xml:id="sp7" who="roberts">Do you remember the first time you went to the
             movies? </u>
-        <u xml:id="sp8" who="danilenko">It was a long time ago. <span type="lex">Maybe</span> when I was five. </u>
+        <u xml:id="sp8" who="danilenko">It was a long time ago. <span type="lex">Maybe</span> when <rs type="pron" subtype="persSing">I</rs> was five. </u>
         <u xml:id="sp9" who="roberts">Do you remember the movie you went to see? </u>
         <u xml:id="sp10" who="danilenko">It was a <rs type="genre" key="skazka">fairy tale</rs>. </u>
         <u xml:id="sp11" who="roberts">Could you please explain the movie? </u>
@@ -159,42 +161,45 @@
                 tale film</rs>. It was a version for kids, that all of life is a fairy tale, oh
             so beautiful. Those were the first impressions. </u>
         <u xml:id="sp15" who="roberts">Who did you go with? </u>
-        <u xml:id="sp16" who="danilenko">With my
+        <u xml:id="sp16" who="danilenko">With <rs type="pron" subtype="possSing">my</rs>
             mom. </u>
         <u xml:id="sp17" who="roberts">How did you like the movie theater? </u>
         <u xml:id="sp18" who="danilenko">
-            <span type="lex">Well</span> I
+            <span type="lex">Well</span> 
+            <rs type="pron" subtype="persSing">I</rs>
             haven’t been in a modern <rs type="place" key="movieTheater">movie theater</rs>, because in
-            connection with work, with my profession, there
-            just isn’t time to go. But my first
+            connection with work, with <rs type="pron" subtype="possSing">my</rs> profession, there
+            just isn’t time to go. But <rs type="pron" subtype="possSing">my</rs> first
             impression<span type="nonlex"/>…what <rs type="epit" key="kino">a huge building</rs> 
             <rs type="epit" key="kino">with big seats</rs>, something very enjoyable, something new,
-            it wasn’t quite a house. we didn’t have a TV set
-            then, we didn’t know what that was. But of course
+            it wasn’t quite a house. <rs type="pron" subtype="persPlur">we</rs> didn’t have a TV set
+            then, <rs type="pron" subtype="persPlur">we</rs> didn’t know what that was. But of course
             it was very, very enjoyable. </u>
         <u xml:id="sp19" who="roberts">When did you start going to the movies by yourself? </u>
-        <u xml:id="sp20" who="danilenko">It was<span type="nonlex"/>…<span type="lex">well</span>, I didn’t go alone, only sometime around sixteen, when I was sixteen years old. <span type="nonlex"/> only then. And even so we went together to the movie theater. With school.
-            Or there was a showing for us at school, we had a
-            not too big movie room. They showed them to us there or we went in a group to the <rs type="place" key="movieTheater">movie theater</rs>. </u>
+        <u xml:id="sp20" who="danilenko">It was<span type="nonlex"/>…<span type="lex">well</span>, <rs type="pron" subtype="persSing">I</rs> didn’t go alone, only sometime around sixteen, when <rs type="pron" subtype="persSing">I</rs> was sixteen years old. <span type="nonlex"/> only then. And even so <rs type="pron" subtype="persPlur">we</rs> went together to the movie theater. With school.
+            Or there was a showing for us at school, <rs type="pron" subtype="persPlur">we</rs> had a
+            not too big movie room. They showed them to us there or <rs type="pron" subtype="persPlur">we</rs> went in a group to the <rs type="place" key="movieTheater">movie theater</rs>. </u>
         <u xml:id="sp21" who="roberts">Did you like going to the movies? </u>
-        <u xml:id="sp22" who="danilenko">I liked
-            it, of course I liked it. </u>
+        <u xml:id="sp22" who="danilenko">
+            <rs type="pron" subtype="persSing">I</rs> liked
+            it, of course <rs type="pron" subtype="persSing">I</rs> liked it. </u>
         <u xml:id="sp23" who="roberts">How often did you go to the movies? </u>
         <u xml:id="sp24" who="danilenko">Not very often. <span type="lex">Maybe</span> once a month or once every
             two months. Because it was such an expensive treat <span type="nonlex"/>… </u>
         <u xml:id="sp25" who="roberts">How did your habit of going to the movies change
             when you grew up? </u>
-        <u xml:id="sp26" who="danilenko">It changed profoundly. When I was a kid, and when I, <span type="lex">well</span>, became a teenager and then
+        <u xml:id="sp26" who="danilenko">It changed profoundly. When <rs type="pron" subtype="persSing">I</rs> was a kid, and when I, <span type="lex">well</span>, became a teenager and then
             already a full-grown adult <span type="nonlex"/>… Earlier cinema was more accessible to the people, it was
             accessible for the people. It was just more full of life, not like today. Now these
             films like <rs type="genre" key="blockbuster">blockbusters</rs>, everything is very <rs type="epit" key="blockbuster">strange</rs> and
             <rs type="epit" key="blockbuster">a bit incomprehensible</rs>. </u>
         <u xml:id="sp27" who="roberts">What were your favorite genres in childhood? </u>
-        <u xml:id="sp28" who="danilenko">As a child, I think it was <rs type="genre" key="skazka">fairy tales</rs> and those educational
-            programs. <rs type="title" key="inTheAnimalWorld">In the World of Animals</rs>, we had a show like that, and many, many people
+        <u xml:id="sp28" who="danilenko">As a child, <rs type="pron" subtype="persSing">I</rs> think it was <rs type="genre" key="skazka">fairy tales</rs> and those educational
+            programs. <rs type="title" key="inTheAnimalWorld">In the World of Animals</rs>, <rs type="pron" subtype="persPlur">we</rs> had a show like that, and many, many people
             watched it. <rs type="genre" key="documentary">Documentaries</rs>. </u>
         <u xml:id="sp29" who="roberts">Do you have a favorite movie? </u>
-        <u xml:id="sp30" who="danilenko">Our classics. But not just one, I think there are
+        <u xml:id="sp30" who="danilenko">
+            <rs type="pron" subtype="possPlur">Our</rs> classics. But not just one, <rs type="pron" subtype="persSing">I</rs> think there are
             very many, the films of <rs type="person" key="gaidai">Gaidai</rs>, <rs type="title" key="diamondArm">The Diamond Arm</rs>
             <span type="nonlex"/>…and others. </u>
         <u xml:id="sp31" who="roberts">Explain the movies, please. </u>
@@ -207,69 +212,73 @@
             although they’re not still alive. <span type="lex">Well</span>
             <span type="nonlex"/>…<rs type="person" key="leonov">Eugene Leonov</rs>. </u>
         <u xml:id="sp35" who="roberts">Why were they your favorite actors? </u>
-        <u xml:id="sp36" who="danilenko">I don’t
+        <u xml:id="sp36" who="danilenko">
+            <rs type="pron" subtype="persSing">I</rs> don’t
             know why<span type="nonlex"/>… watching them at the movies, you, <span type="lex">maybe</span> how you experienced the role that they were playing together with them. And it was very interesting, how they acted. </u>
         <u xml:id="sp37" who="roberts">Do you remember any movie or outing concretely? </u>
         <u xml:id="sp38" who="danilenko">Could you repeat the question? </u>
         <u xml:id="sp39" who="roberts">Do you remember any movie or outing concretely? </u>
         <u xml:id="sp40" who="danilenko">Outing to the <rs type="place" key="movieTheater">movie
-                theater</rs>? That was a long time ago. <span type="lex">Well</span>, I don’t know. Many different films, and the <rs type="genre" key="classics">classics</rs>, and <rs type="genre" key="warFilms">war movies</rs>. I really liked them as a kid. We also had <rs type="title" key="elusiveAvengers">The Elusive Avengers</rs>, it
+                theater</rs>? That was a long time ago. <span type="lex">Well</span>, <rs type="pron" subtype="persSing">I</rs> don’t know. Many different films, and the <rs type="genre" key="classics">classics</rs>, and <rs type="genre" key="warFilms">war movies</rs>. <rs type="pron" subtype="persSing">I</rs> really liked them as a kid. <rs type="pron" subtype="persPlur">We</rs> also had <rs type="title" key="elusiveAvengers">The Elusive Avengers</rs>, it
             was a <rs type="epit" key="elusiveAvengers">revolutionary</rs> film. There young boys played the roles. A young girl and young
-            boys. I really liked that. </u>
+            boys. <rs type="pron" subtype="persSing">I</rs> really liked that. </u>
         <u xml:id="sp41" who="roberts">Why? </u>
-        <u xml:id="sp42" who="danilenko">I don’t
-            know. <span type="lex">Maybe</span> they had such adventurous topics, perhaps because we were about the same age. </u>
+        <u xml:id="sp42" who="danilenko">
+            <rs type="pron" subtype="persSing">I</rs> don’t
+            know. <span type="lex">Maybe</span> they had such adventurous topics, perhaps because <rs type="pron" subtype="persPlur">we</rs> were about the same age. </u>
         <u xml:id="sp43" who="roberts">Do you remember a screening on television, a movie
             on television? </u>
         <u xml:id="sp44" who="danilenko">
             <span type="lex">Well</span>
             <span type="nonlex"/>…the first movie, no<span type="nonlex"/>…Yes. The first movie,
-            probably, I don’t know, but I remember I saw the
+            probably, <rs type="pron" subtype="persSing">I</rs> don’t know, but <rs type="pron" subtype="persSing">I</rs> remember <rs type="pron" subtype="persSing">I</rs> saw the
             ballet <rs type="title" key="swanLake">Swan Lake</rs> on TV. But that was <rs type="epit" key="swanLake">something fabulous</rs>. It was
-            <rs type="epit" key="swanLake">really, really beautiful</rs>. I liked the music in
-            the show. And I really liked the girls, who were
-            acting. I was really little then. The first time
-                I saw it. There were in really pretty
+            <rs type="epit" key="swanLake">really, really beautiful</rs>. <rs type="pron" subtype="persSing">I</rs> liked the music in
+            the show. And <rs type="pron" subtype="persSing">I</rs> really liked the girls, who were
+            acting. <rs type="pron" subtype="persSing">I</rs> was really little then. The first time
+                <rs type="pron" subtype="persSing">I</rs> saw it. There were in really pretty
             dresses, in tutus<span type="nonlex"/>…they were all white, so unusual. It was that, probably, that left such
-            a strong impression on me. I really, really liked
+            a strong impression on me. <rs type="pron" subtype="persSing">I</rs> really, really liked
             ballet. </u>
         <u xml:id="sp45" who="roberts">Do you remember when you saw it? </u>
         <u xml:id="sp46" who="danilenko">It was probably 1959. </u>
         <u xml:id="sp47" who="roberts">How did you spend your free time, apart from going
             to the movies? </u>
         <u xml:id="sp48" who="danilenko">
-            <span type="lex">Well</span>, we had a lot. I lived in, how can one say this<span type="nonlex"/>…such
-            a little village, like in the countryside. we had
-            so many chores around the house, so much work. we
-            helped our parents. we had a lot of animals. we took care of them, fed them. we
-            read books. There, we had vacation in the
-            summertime. After school we were off for three
+            <span type="lex">Well</span>, <rs type="pron" subtype="persPlur">we</rs> had a lot. <rs type="pron" subtype="persSing">I</rs> lived in, how can one say this<span type="nonlex"/>…such
+            a little village, like in the countryside. <rs type="pron" subtype="persPlur">we</rs> had
+            so many chores around the house, so much work. <rs type="pron" subtype="persPlur">we</rs>
+            helped <rs type="pron" subtype="possPlur">our</rs> parents. <rs type="pron" subtype="persPlur">we</rs> had a lot of animals. <rs type="pron" subtype="persPlur">we</rs> took care of them, fed them. <rs type="pron" subtype="persPlur">we</rs>
+            read books. There, <rs type="pron" subtype="persPlur">we</rs> had vacation in the
+            summertime. After school <rs type="pron" subtype="persPlur">we</rs> were off for three
             months. <span type="lex">Well</span> and they absolutely gave us a big assignment in school, in order for us to
-            ready many books over the summer. <span type="lex">Well</span> whatever, I really like to read. </u>
+            ready many books over the summer. <span type="lex">Well</span> whatever, <rs type="pron" subtype="persSing">I</rs> really like to read. </u>
         <u xml:id="sp49" who="roberts">Who did you usually go to the movies with? </u>
         <u xml:id="sp50" who="danilenko">
-            <span type="lex">Well</span>, when I was little, with my mom or with
-                my older sister or my brother. And then I
-            would go with my friends. </u>
+            <span type="lex">Well</span>, when <rs type="pron" subtype="persSing">I</rs> was little, with <rs type="pron" subtype="possSing">my</rs> mom or with
+                <rs type="pron" subtype="possSing">my</rs> older sister or <rs type="pron" subtype="possSing">my</rs> brother. And then <rs type="pron" subtype="persSing">I</rs>
+            would go with <rs type="pron" subtype="possSing">my</rs> friends. </u>
         <u xml:id="sp51" who="roberts">Were there more men or women at the movie theater? </u>
         <u xml:id="sp52" who="danilenko">No, it was really equal. </u>
         <u xml:id="sp53" who="roberts">Did people often go to the movies with their
             families or with their friends/girlfriends? </u>
-        <u xml:id="sp54" who="danilenko">I don’t
+        <u xml:id="sp54" who="danilenko">
+            <rs type="pron" subtype="persSing">I</rs> don’t
             know. How to say<span type="nonlex"/>…it was generally different, <span type="lex">maybe</span> you went one tie with your friends,
             then another time with family. Parents with their kids. </u>
         <u xml:id="sp55" who="roberts">Were there lines at the movie theater? </u>
         <u xml:id="sp56" who="danilenko">Yes, there were lines. </u>
         <u xml:id="sp57" who="roberts">Do you remember waiting in line? </u>
-        <u xml:id="sp58" who="danilenko">What kind of movie? I remember I was
-            studying in <rs type="place" key="volgograd">Volgograd</rs>, and I went with my friend.
-            The film was called <rs type="title" key="womanWhoSings">The Woman Who Sings</rs>. our <rs type="epit" key="pugacheva">famous singer</rs> 
+        <u xml:id="sp58" who="danilenko">What kind of movie? <rs type="pron" subtype="persSing">I</rs> remember <rs type="pron" subtype="persSing">I</rs> was
+            studying in <rs type="place" key="volgograd">Volgograd</rs>, and <rs type="pron" subtype="persSing">I</rs> went with <rs type="pron" subtype="possSing">my</rs> friend.
+            The film was called <rs type="title" key="womanWhoSings">The Woman Who Sings</rs>. <rs type="pron" subtype="possPlur">our</rs> 
+            <rs type="epit" key="pugacheva">famous singer</rs> 
             <rs type="person" key="pugacheva">Alla
                 Borisovna Pugacheva</rs> starred in that movie. </u>
         <u xml:id="sp59" who="roberts">Why did you like it? </u>
         <u xml:id="sp60" who="danilenko">
             <span type="lex">Well</span>, how. She became a famous singer and a new
-            movie came out. we really like seeing and
+            movie came out. <rs type="pron" subtype="persPlur">we</rs> really like seeing and
             listening to her new songs and seeing her not like a singer, but like an actress. </u>
         <u xml:id="sp61" who="roberts">Did you know people who worked at the movie
             theater? </u>
@@ -282,7 +291,7 @@
             they shouted, clapped. But when it was quiet, someone cried. What a topic there was in
             the movie, if it was sad. When it was funny, everyone laughed. </u>
         <u xml:id="sp65" who="roberts">Did you eat anything at the movie theater? </u>
-        <u xml:id="sp66" who="danilenko">No. I
+        <u xml:id="sp66" who="danilenko">No. <rs type="pron" subtype="persSing">I</rs>
             think that wasn’t permitted. If a person came to watch a film, that meant that all his
             attention had to be turned to the screen, and he had to watch, and not snack. There was
             another place for that. </u>
@@ -294,21 +303,21 @@
         <u xml:id="sp71" who="roberts">What did they eat? </u>
         <u xml:id="sp72" who="danilenko">
             <span type="lex">Well</span>, something there. Pies, sandwiches. What
-            they sold. Lemonade – like you have Coca Cola, Pepsi Cola, we have lemonade. </u>
+            they sold. Lemonade – like you have Coca Cola, Pepsi Cola, <rs type="pron" subtype="persPlur">we</rs> have lemonade. </u>
         <u xml:id="sp73" who="roberts">And ice cream? </u>
         <u xml:id="sp74" who="danilenko">
-            <span type="lex">Well</span>, we
-            didn’t have ice cream. It was like that only in the city, they  only seldom brought us
+            <span type="lex">Well</span>, <rs type="pron" subtype="persPlur">we</rs>
+            didn’t have ice cream. It was like that only in the city, <rs type="pron" subtype="possPlur">they</rs>  only seldom brought us
             ice cream in the store. </u>
         <u xml:id="sp75" who="roberts">Did you watch foreign movies? </u>
-        <u xml:id="sp76" who="danilenko">Foreign ones? Yes I watched foreign movies. <span type="lex">Well</span>, and like today with our new movies , I don’t
+        <u xml:id="sp76" who="danilenko">Foreign ones? Yes <rs type="pron" subtype="persSing">I</rs> watched foreign movies. <span type="lex">Well</span>, and like today with <rs type="pron" subtype="possPlur">our</rs> new movies , <rs type="pron" subtype="persSing">I</rs> don’t
             really like <rs type="nationalCinema" key="foreignCinema">foreign movies</rs>. There’s
-            a lot of <span type="nonlex"/>… some sort of violence and murder there. <span type="lex">Well</span>, <span type="lex">maybe</span> it’s like that, I don’t know. I’m somehow closer to our old movies, our movies. . We’re brought up on <rs type="genre" key="patrioticFilms">patriotic movies</rs>, on <rs type="genre" key="skazka">fairy
+            a lot of <span type="nonlex"/>… some sort of violence and murder there. <span type="lex">Well</span>, <span type="lex">maybe</span> it’s like that, <rs type="pron" subtype="persSing">I</rs> don’t know. I’m somehow closer to <rs type="pron" subtype="possPlur">our</rs> old movies, <rs type="pron" subtype="possPlur">our</rs> movies. . We’re brought up on <rs type="genre" key="patrioticFilms">patriotic movies</rs>, on <rs type="genre" key="skazka">fairy
                 tales</rs>, something like that. <span type="lex">Well</span>, there are really good <rs type="nationalCinema" key="foreignCinema">foreign movies</rs>, I’m not saying that it’s all
             just <rs type="nationalCinema" key="americanCinema">American</rs>, <rs type="nationalCinema" key="frenchCinema">French cinema</rs> there, no. There are really good
-            movies. I watch them with enjoyment. </u>
+            movies. <rs type="pron" subtype="persSing">I</rs> watch them with enjoyment. </u>
         <u xml:id="sp77" who="roberts">Do you remember any films you’ve seen? </u>
-        <u xml:id="sp78" who="danilenko">Foreign ones? I can say <rs type="title" key="spartacus">Spartacus</rs>, yours, but I don’t remember the director or the actors.
+        <u xml:id="sp78" who="danilenko">Foreign ones? <rs type="pron" subtype="persSing">I</rs> can say <rs type="title" key="spartacus">Spartacus</rs>, yours, but <rs type="pron" subtype="persSing">I</rs> don’t remember the director or the actors.
             There’s <rs type="title" key="alexander">Alexander</rs>, yours, <rs type="title" key="troy">Troy</rs>
             and <span type="lex">maybe</span> there’s others, <rs type="epit" key="alexander and spartacus and troy">historical</rs> ones like this, of course, these very
             <rs type="epit" key="alexander and spartacus and troy">striking</rs> movies. </u>
@@ -318,74 +327,77 @@
         <u xml:id="sp81" who="roberts">When did you see this movie? </u>
         <u xml:id="sp82" who="danilenko">
             <span type="lex">Well</span>
-            <span type="nonlex"/>…it was last year I saw it. </u>
+            <span type="nonlex"/>…it was last year <rs type="pron" subtype="persSing">I</rs> saw it. </u>
         <u xml:id="sp83" who="roberts">And <rs type="title" key="spartacus">Spartacus</rs> also? </u>
         <u xml:id="sp84" who="danilenko">Yes. </u>
         <u xml:id="sp85" who="roberts">And what movies do you like most of all? </u>
-        <u xml:id="sp86" who="danilenko">There’s also foreign comedies. I really like ones with <rs type="person" key="deFunes">Louis de
+        <u xml:id="sp86" who="danilenko">There’s also foreign comedies. <rs type="pron" subtype="persSing">I</rs> really like ones with <rs type="person" key="deFunes">Louis de
                 Funes</rs>. French movies. Where <rs type="person" key="marais">Jean Marais</rs>
             plays. He’s already gone. One and the other, they died. <span type="lex">Well</span> Timothy Dalton is still
-            making movies. Now I’ll say, I saw <rs type="title" key="janeEyre">Jane Eyre</rs>. The film’s called <rs type="title" key="janeEyre">Jane
-                Eyre</rs>. <rs type="person" key="dalton">Timothy Dalton</rs> plays in the movie. I really like it. Him too<span type="nonlex"/>…like there’s a not too
+            making movies. Now I’ll say, <rs type="pron" subtype="persSing">I</rs> saw <rs type="title" key="janeEyre">Jane Eyre</rs>. The film’s called <rs type="title" key="janeEyre">Jane
+                Eyre</rs>. <rs type="person" key="dalton">Timothy Dalton</rs> plays in the movie. <rs type="pron" subtype="persSing">I</rs> really like it. Him too<span type="nonlex"/>…like there’s a not too
             big story there. </u>
         <u xml:id="sp87" who="roberts">And do you like Timothy Dalton? </u>
         <u xml:id="sp88" who="danilenko">Yes. </u>
         <u xml:id="sp89" who="roberts">Do you have a favorite foreign actor? </u>
         <u xml:id="sp90" who="danilenko">
             <span type="lex">Well</span>
-            <span type="nonlex"/>…I
-            don’t know. I like ones with <rs type="person" key="rourke">Mickey Rourke</rs>. Rukenhauer? Did I
-            get his name right? Also, <span type="lex">well</span>, I could name
+            <span type="nonlex"/>…<rs type="pron" subtype="persSing">I</rs>
+            don’t know. <rs type="pron" subtype="persSing">I</rs> like ones with <rs type="person" key="rourke">Mickey Rourke</rs>. Rukenhauer? Did <rs type="pron" subtype="persSing">I</rs>
+            get his name right? Also, <span type="lex">well</span>, <rs type="pron" subtype="persSing">I</rs> could name
             many, there are many good actors. </u>
         <u xml:id="sp91" who="roberts">Were there movies you weren’t allowed to go to? </u>
         <u xml:id="sp92" who="danilenko">
-            <span type="lex">Well</span>, yes. With us it was forbidden, they
+            <span type="lex">Well</span>, yes. With <rs type="pron" subtype="possPlur">us</rs> it was forbidden, they
             wouldn’t let you go up until sixteen. The movie theater only until four o’clock. And
             there they showed only <rs type="genre" key="childrens">children’s films</rs>.</u>
         <u xml:id="sp93" who="roberts">Your parents didn’t let you go or the movie
             theater’s administration? </u>
         <u xml:id="sp94" who="danilenko">
             <span type="lex">Well</span>, the administration, and the school, but
-                my parents too, how to say<span type="nonlex"/>…they didn’t forbid
-            it. At nine o’clock we had to come home if we were out. </u>
+                <rs type="pron" subtype="possSing">my</rs> parents too, how to say<span type="nonlex"/>…they didn’t forbid
+            it. At nine o’clock <rs type="pron" subtype="persPlur">we</rs> had to come home if <rs type="pron" subtype="persPlur">we</rs> were out. </u>
         <u xml:id="sp95" who="roberts">Yes. Did you try to go out, to a film you weren’t
             allowed to go to? </u>
-        <u xml:id="sp96" who="danilenko">We tried,
+        <u xml:id="sp96" who="danilenko">
+            <rs type="pron" subtype="persPlur">We</rs> tried,
             but they didn’t let us in. </u>
         <u xml:id="sp97" who="roberts">Do you remember any film that had problems coming
             to the screen? </u>
         <u xml:id="sp98" who="danilenko">
-            <span type="lex">Well</span>, I
-            don’t know, I can’t say that<span type="nonlex"/>…<span type="lex">Well</span>, <span type="lex">maybe</span> the
+            <span type="lex">Well</span>, <rs type="pron" subtype="persSing">I</rs>
+            don’t know, <rs type="pron" subtype="persSing">I</rs> can’t say that<span type="nonlex"/>…<span type="lex">Well</span>, <span type="lex">maybe</span> the
             censor forbade some films. </u>
         <u xml:id="sp99" who="roberts">Excuse me? </u>
         <u xml:id="sp100" who="danilenko">It was like that before, there was a commission.
             They, when a film was ready, it was supposed to come to the big screen at the <rs type="place" key="movieTheater">movie theater</rs>, they watched it and gave their decision,
-            whether it was okay or not. <span type="lex">Well</span> I don’t know. </u>
+            whether it was okay or not. <span type="lex">Well</span> 
+            <rs type="pron" subtype="persSing">I</rs> don’t know. </u>
         <u xml:id="sp101" who="roberts">Did your parents go to the movies? </u>
         <u xml:id="sp102" who="danilenko">They went, but very rarely, when there was time. </u>
         <u xml:id="sp103" who="roberts">What did they watch when they went? </u>
         <u xml:id="sp104" who="danilenko">
-            <span type="lex">Well</span>, different kinds of movies that were our
+            <span type="lex">Well</span>, different kinds of movies that were <rs type="pron" subtype="possPlur">our</rs>
             <rs type="genre" key="classics">classics</rs>, and <rs type="genre" key="comedy">comedies</rs>, <span type="lex">well</span>
-            foreign films, I can’t say their names now,
-            because I was very little. <span type="lex">Well</span>, whatever was at
+            foreign films, <rs type="pron" subtype="persSing">I</rs> can’t say their names now,
+            because <rs type="pron" subtype="persSing">I</rs> was very little. <span type="lex">Well</span>, whatever was at
             the <rs type="place" key="movieTheater">movie theater</rs>, they tried when they were able to
             go to the <rs type="place" key="movieTheater">movie theater</rs> to see, and they were
             interested in finding out how another country lived. </u>
         <u xml:id="sp105" who="roberts">Do you still go to the movies? </u>
-        <u xml:id="sp106" who="danilenko">I would
+        <u xml:id="sp106" who="danilenko">
+            <rs type="pron" subtype="persSing">I</rs> would
             like to, but only if there were time and the opportunity, of course. But now, when there
-            is time, I watch movies on television. </u>
+            is time, <rs type="pron" subtype="persSing">I</rs> watch movies on television. </u>
         <u xml:id="sp107" who="roberts">How and why did your experiences of movie theaters
             change? </u>
         <u xml:id="sp108" who="danilenko">
-            <span type="lex">Well</span>, I
-            haven’t been in a contemporary movie theater. Like I don’t know now<span type="nonlex"/>…what there is and stereo movies, different screening halls.
+            <span type="lex">Well</span>, <rs type="pron" subtype="persSing">I</rs>
+            haven’t been in a contemporary movie theater. Like <rs type="pron" subtype="persSing">I</rs> don’t know now<span type="nonlex"/>…what there is and stereo movies, different screening halls.
             Before there was just a typical screening hall with chairs and a big screen. Of course,
-            the first impression was atypical for us when we
-            went to the movies, but it was very enjoyable. I
-            can’t compare today, because I haven’t been in a
+            the first impression was atypical for us when <rs type="pron" subtype="persPlur">we</rs>
+            went to the movies, but it was very enjoyable. <rs type="pron" subtype="persSing">I</rs>
+            can’t compare today, because <rs type="pron" subtype="persSing">I</rs> haven’t been in a
             new theater. You could ask the younger generation though. </u>
         <u xml:id="sp109" who="roberts">When was the last time when you went to the movies? </u>
         <u xml:id="sp110" who="danilenko">Oy, the last time, huh? <span type="lex">Well</span>, ten years ago.
