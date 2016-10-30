@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-
 <!-- Mostly finished but need to deal with pronouns and also with references from index
  (namespace issue)  -->
 
@@ -8,9 +5,11 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs"
     xmlns="http://www.w3.org/1999/xhtml" version="3.0"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0">
-    <xsl:output method="xml" indent="yes"/>
+    <xsl:output method="html" indent="yes"/>
     <xsl:variable name="index" select="document('developmentFiles/Index/index.xml')"/>
-    <xsl:template match="/">        
+    <xsl:template match="/">  
+        <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
+        
         <html>
             <head>
                 <title>Cinema and Memory</title>
