@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>Cinema and Memory</title>
-        <link rel="stylesheet" type="text/css" href="/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css"></link>
         <script type="text/javascript" src="/javascript/javascriptFilename.js"></script>
     </head>
     <body>
-        <!--#include virtual="inc/menuSSI.xhtml"-->
+        <!--#include virtual="inc/menuSSI.html"-->
         <div id="description">
             <h1>CINEMA and MEMORY in St. Petersburg</h1>
             <h2>About</h2>
@@ -15,11 +14,11 @@
                 interviewees reconstruct their moviegoing experiences in St. Petersburg, Russia.</p>
             <p>Specifically, the Project analyzes</p>
             <ul id="indexList">
-            <li>what moviegoers remember (films, actors, directors),</li>
-            <li>how they evaluate films, actors, characters,</li>
-            <li>how they define themsleves as narrators (I or we), and</li>
-            <li>what they hesitate about when they recollect their moviegoing experiences.</li>
-            <li>how  their cinematic experiences shape their identities as Soviets, Russians, and global citizens?</li>  
+                <li>what moviegoers remember (films, actors, directors),</li>
+                <li>how they evaluate films, actors, characters,</li>
+                <li>how they define themsleves as narrators (I or we), and</li>
+                <li>what they hesitate about when they recollect their moviegoing experiences.</li>
+                <li>how  their cinematic experiences shape their identities as Soviets, Russians, and global citizens?</li>  
             </ul>
             <h2>Project Scope</h2>
             <p>For this pilot project we use nine oral history interviews.</p>

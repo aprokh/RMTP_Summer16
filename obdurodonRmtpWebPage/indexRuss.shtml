@@ -5,11 +5,11 @@
  
         <title>Cinema and Memory</title>
         <link rel="stylesheet" type="text/css" href="/css/style.css" />
-        <script type="text/javascript" src="/javascript/javascriptFilename.js"/>
+        <script type="text/javascript" src="/javascript/javascriptFilename.js"></script>
         
     </head>
     <body>
-        <!--#include virtual="inc/menuSSIRuss.xhtml"-->
+        <!--#include virtual="inc/menuSSIRuss.html"-->
         <div id="description">
             <h1>КИНО и ПАМЯТЬ в Санкт Петербурге</h1>
             <h2>О Проекте</h2>
