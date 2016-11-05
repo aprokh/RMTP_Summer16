@@ -3,6 +3,31 @@
 <?xml-model href="schema_index.rnc" type="application/relax-ng-compact-syntax"?>
 <index>
     <metaPersons>
+        
+        <person xml:id="lebedevaEkaterina">
+            <surnameEng>Lebedeva</surnameEng>
+            <surnameRus>Лебедева</surnameRus>
+            <forename>Ekaterina</forename>
+            <gender>f</gender>
+            <viewerAge>sov</viewerAge>
+        </person>
+        
+        <person xml:id="astaikinaTatiana">
+            <surnameEng>Astaikina</surnameEng>
+            <surnameRus>Астайкина</surnameRus>
+            <forename>Tatiana</forename>
+            <gender>f</gender>
+            <viewerAge>sov</viewerAge>
+        </person>
+        
+        <person xml:id="agureevaMarina">
+            <surnameEng>Agureeva</surnameEng>
+            <surnameRus>Агуреева</surnameRus>
+            <forename>Marina</forename>
+            <gender>f</gender>
+            <viewerAge>sov</viewerAge>
+        </person>
+        
         <person xml:id="leventalVadim">
             <surnameEng>Levental</surnameEng>
             <surnameRus>Левенталь</surnameRus>
@@ -75,6 +100,36 @@
             <viewerAge>sov</viewerAge>
         </person>
 
+        <person xml:id="charles">
+            <surnameEng>Charles</surnameEng>
+            <forename>Molly</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="carney">
+            <surnameEng>Carney</surnameEng>
+            <forename>Gabriella</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="swift">
+        <surnameEng>Swift</surnameEng>
+            <forename>Margaret</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="orr">
+            <surnameEng>Orr</surnameEng>
+            <forename>Bailey</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="bernotas">
+            <surnameEng>Bernotas</surnameEng>
+            <forename>Monika</forename>
+            <gender>f</gender>
+        </person>
+        
         <person xml:id="faith">
             <surnameEng>Faith</surnameEng>
             <forename>Rachel</forename>
