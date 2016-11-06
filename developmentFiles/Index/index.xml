@@ -260,6 +260,14 @@
 
     <persons>
        
+        <person xml:id="vian">
+            <role>writer</role>
+            <surname>Vian</surname>
+            <forename>Boris</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+        
         <person xml:id="andreiTarkovskii">
             <role>director</role>
             <surname>Tarkovskii</surname>
@@ -409,7 +417,7 @@
             <surname>Butler</surname>
             <forename>Gerard</forename>
             <gender>m</gender>
-            <nationality>Britain</nationality>
+            <nationality>UK</nationality>
         </person>
 
         <person xml:id="theron">
@@ -523,6 +531,14 @@
             <gender>m</gender>
             <nationality>USA</nationality>
         </person>
+        
+        <person xml:id="brando">
+            <role>actor</role>
+            <surname>Brando</surname>
+            <forename>Marlon</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
 
         <person xml:id="chaplin">
             <role>director</role>
@@ -537,7 +553,7 @@
             <surname>Christie</surname>
             <forename>Agatha</forename>
             <gender>f</gender>
-            <nationality>Britain</nationality>
+            <nationality>UK</nationality>
         </person>
 
         <person xml:id="rubinchik">
@@ -596,6 +612,22 @@
             <nationality>Russia</nationality>
         </person>
 
+        <person xml:id="diCaprio">
+            <role>actor</role>
+            <surname>DiCaprio</surname>
+            <forename>Leonardo</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+        
+        <person xml:id="kormakur">
+            <role>actor</role>
+            <surname>Kormakur</surname>
+            <forename>Baltasar</forename>
+            <gender>m</gender>
+            <nationality>Iceland</nationality>
+        </person>
+        
         <person xml:id="chuviliaev">
             <role>critic</role>
             <surname>Chuviliaev</surname>
@@ -633,7 +665,7 @@
             <surname>Dalton</surname>
             <forename>Timothy</forename>
             <gender>m</gender>
-            <nationality>Britain</nationality>
+            <nationality>UK</nationality>
         </person>
 
         <person xml:id="deFunes">
@@ -723,7 +755,7 @@
             <surname>Greenaway</surname>
             <forename>Peter</forename>
             <gender>m</gender>
-            <nationality>Britain</nationality>
+            <nationality>UK</nationality>
         </person>
 
 
@@ -771,6 +803,14 @@
             <forename>Richard</forename>
             <gender>m</gender>
             <nationality>USA</nationality>
+        </person>
+        
+        <person xml:id="cumberbatch">
+            <role>actor</role>
+            <surname>Cumberbatch</surname>
+            <forename>Benedict</forename>
+            <gender>m</gender>
+            <nationality>UK</nationality>
         </person>
      
          <person xml:id="robertsJ">
@@ -1149,6 +1189,61 @@
 
     <titles>
 
+        <title xml:id="aliceInWonderland">
+            <fullTitleEng>Alice in Wonderland</fullTitleEng>
+            <fullTitleRus>Алиса в стране чудес</fullTitleRus>
+            <director>Тim Burton</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>fantasy</genre>
+            <year>2010</year>
+            <imdb>http://www.imdb.com/title/tt1014759/</imdb>
+        </title>
+        
+        <title xml:id="cafeSociety">
+            <fullTitleEng>Cafe Society</fullTitleEng>
+            <fullTitleRus>Светская жизнь</fullTitleRus>
+            <director>Woody Allen</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>comedy</genre>
+            <year>2016</year>
+            <imdb>http://www.imdb.com/title/tt4513674/</imdb>
+        </title>
+        
+        <title xml:id="littleVera">
+            <fullTitleEng>Little Vera</fullTitleEng>
+            <fullTitleRus>Маленькая Вера</fullTitleRus>
+            <director>Vasilii Pichul</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>melodrama</genre>
+            <year>1988</year>
+            <imdb>http://www.imdb.com/title/tt0095574/</imdb>
+        </title>
+        
+        <title xml:id="whiteBim">
+            <fullTitleEng>White Bim Black Ear</fullTitleEng>
+            <fullTitleRus>Белый Бим, Черное Ухо</fullTitleRus>
+            <director>Stanislav Rostotskii</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>melodrama</genre>
+            <year>1977</year>
+            <imdb>http://www.imdb.com/title/tt0077222/</imdb>
+        </title>
+        
+        <title xml:id="matchPoint">
+            <fullTitleEng>Match Point</fullTitleEng>
+            <fullTitleRus>Матч-пойнт</fullTitleRus>
+            <director>Woody Allen</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>comedy</genre>
+            <year>2005</year>
+            <imdb>http://www.imdb.com/title/tt0416320/</imdb>
+        </title>
+        
         <title xml:id="alladin">
             <fullTitleEng>Alladin</fullTitleEng>
             <fullTitleRus>Алладин</fullTitleRus>
@@ -1160,6 +1255,17 @@
             <imdb>http://www.imdb.com/title/tt0103639/</imdb>
         </title>
 
+        <title xml:id="reinaChantecler">
+            <fullTitleEng>Queen of the Chantecler</fullTitleEng>
+            <fullTitleRus>Королева Шантеклера</fullTitleRus>
+            <director>Rafael Gil</director>
+            <medium>film</medium>
+            <country>Spain</country>
+            <genre>musical</genre>
+            <year>1962</year>
+            <imdb>http://www.imdb.com/title/tt0056402/</imdb>
+        </title>
+        
         <title xml:id="theLittleMermaid">
             <fullTitleEng>The Little Mermaid</fullTitleEng>
             <fullTitleRus>Русалочка</fullTitleRus>
@@ -1290,6 +1396,39 @@
             <genre>crime drama</genre>
             <year>1972</year>
             <imdb>http://www.imdb.com/title/tt0068646/</imdb>
+        </title>
+        
+        <title xml:id="dundee">
+            <fullTitleEng>Crocodile Dundee</fullTitleEng>
+            <fullTitleRus>Крокодил Данди</fullTitleRus>
+            <director>Peter Faiman</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>comedy</genre>
+            <year>1986</year>
+            <imdb>http://www.imdb.com/title/tt0090555/</imdb>
+        </title>
+        
+        <title xml:id="outOfAfrica">
+            <fullTitleEng>Out of Africa</fullTitleEng>
+            <fullTitleRus>Из Африки</fullTitleRus>
+            <director>Sydney Pollack</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>melodrama</genre>
+            <year>1985</year>
+            <imdb>http://www.imdb.com/title/tt0089755/</imdb>
+        </title>
+        
+        <title xml:id="august">
+            <fullTitleEng>August: Osage County</fullTitleEng>
+            <fullTitleRus>Август: Графство Осейдж</fullTitleRus>
+            <director>John Wells</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>drama</genre>
+            <year>2013</year>
+            <imdb>http://www.imdb.com/title/tt1322269/</imdb>
         </title>
 
         <title xml:id="brigade">
@@ -1687,7 +1826,7 @@
             <fullTitleRus>Джейн Эйр</fullTitleRus>
             <director>Julian Amyes</director>
             <medium>television</medium>
-            <country>Britain</country>
+            <country>UK</country>
             <genre>adaptation</genre>
             <year>1983</year>
             <imdb>http://www.imdb.com/title/tt0085037/</imdb>
@@ -2146,6 +2285,28 @@
             <imdb>http://www.imdb.com/title/tt0360717/</imdb>
         </title>
         
+        <title xml:id="trialRoad">
+            <fullTitleEng>Trial on the Road</fullTitleEng>
+            <fullTitleRus>Проверка на дорогах</fullTitleRus>
+            <director>Aleksei German</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>war film</genre>
+            <year>1977</year>
+            <imdb>http://www.imdb.com/title/tt0067625/</imdb>
+        </title>
+        
+        <title xml:id="masterMargarita">
+            <fullTitleEng>Master and Margarita</fullTitleEng>
+            <fullTitleRus>Мастер и Маргарита</fullTitleRus>
+            <director>Iurii Kara</director>
+            <medium>film</medium>
+            <country>Russia</country>
+            <genre>adaptation</genre>
+            <year>1994</year>
+            <imdb>http://www.imdb.com/title/tt0110476/</imdb>
+        </title>
+        
         <title xml:id="officeRomance">
             <fullTitleEng>Office Romance</fullTitleEng>
             <fullTitleRus>Служебный роман</fullTitleRus>
@@ -2214,6 +2375,36 @@
     </genres>
 
     <places>
+        <place xml:id="riga">
+            <fullName>Riga</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="donetsk">
+            <fullName>Donetsk</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="kiev">
+            <fullName>Kiev</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="magadan">
+            <fullName>Magadan</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="amderma">
+            <fullName>Amderma</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="vladivostok">
+            <fullName>Vladivostok</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
         <place xml:id="stPetersburg">
             <fullName>St. Petersburg</fullName>
             <placeType>geo</placeType>
@@ -2354,9 +2545,9 @@
             <placeType>geo</placeType>
         </place>
         
-        <place xml:id="hotelAngleter">
-            <fullName>Hotel Angleterre</fullName>
-            <placeType>geo</placeType>
+        <place xml:id="angleter">
+            <fullName>Angleterre</fullName>
+            <placeType>exhibition</placeType>
         </place>
         
         <place xml:id="isaacsSquare">
@@ -2553,7 +2744,7 @@
         <nationalCinema xml:id="britishCinema"/>
         <nationalCinema xml:id="coproduction"/>
         <nationalCinema xml:id="asianCinema"/>
-        <nationalCinema xml:id="indianCinema"/>
+        
         
     </nationalCinemas>
 </index>
