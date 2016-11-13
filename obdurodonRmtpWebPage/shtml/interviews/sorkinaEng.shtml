@@ -1,0 +1,691 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   
+   <head>
+      
+      <title>Cinema and Memory</title>
+      
+      <link rel="stylesheet" type="text/css" href="/css/interview.css"></link>
+      
+      <link rel="stylesheet" type="text/css" href="/css/style.css"></link>
+      <script type="text/javascript" src="/javascript/interview.js"></script>
+      </head>
+   
+   <body>
+      <!--#include virtual="/inc/menuSSI.html"-->
+      
+      <div id="boxes"><label for="person">Person<input type="radio" id="person" name="selector"></input></label><label for="title">Title<input type="radio" id="title" name="selector"></input></label><label for="genre">Genre<input type="radio" id="genre" name="selector"></input></label><label for="nationalCinema">National Cinema<input type="radio" id="nationalCinema" name="selector"></input></label><label for="place">Place<input type="radio" id="place" name="selector"></input></label><label for="epit">Epithet<input type="radio" id="epit" name="selector"></input></label><label for="persSing">Personal Singular<input type="radio" id="persSing" name="selector"></input></label><label for="persPlur">Personal Plural<input type="radio" id="persPlur" name="selector"></input></label><label for="possSing">Possessive Singular<input type="radio" id="possSing" name="selector"></input></label><label for="possPlur">Possessive Plural<input type="radio" id="possPlur" name="selector"></input></label><label for="collective">Collective <input type="radio" id="collective" name="selector"></input></label><label for="lex">Lexical Hesitation<input type="radio" id="lex" name="selector"></input></label><label for="nonLex">Nonlexical Hesitation<input type="radio" id="nonLex" name="selector"></input></label></div>
+      
+      <div id="rightPanel"></div>
+      
+      <div id="centerPanel">
+         
+         <h1>Interview with Viktoria Sorkina</h1>
+         
+         <ul>
+            
+            <li>Interviewer: Maggie Burke</li>
+            
+            <li>
+               <a href="http://mtp.blogs.wm.edu">Russian Movie Theater Project (RMTP)</a>
+               
+            </li>
+            
+            <li>
+               <a href="https://www.wm.edu">College of William and Mary</a>
+               
+            </li>
+            
+            <li>Interview Date: July 2010</li>
+            
+            <li>Transcription and Translation Date: Fall 2010</li>
+            
+         </ul>
+         
+         <hr></hr>
+         
+         <h3>Burke: </h3>
+         
+         <p> This is a deed of gift for the transcript of the interview. If you sign this you
+            will give us the right to use the interview in our research. This document also
+            protects your rights in how we use your interview. 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Yes </p>
+         
+         <h3>Burke: </h3>
+         
+         <p> We will be conducting an interview with you for a film project that is studying the
+            social, political, and cultural history of Russia through film. We would like it if
+            you could talk with us about your memories of going to the movies. We are especially
+            interested in the details. In accordance with your answers we will write an essay,
+            in which we will analyze the results of the questionnaire and write about the
+            experience of going to the movies in Russia. The goal of this interview for us is
+            to
+            discover more about concrete people and the place of the movies in their lives.
+            Thank you very much for your help and for your readiness to share your memories with
+            us. This interview will be included for future listening on the film project’s
+            website. If you’re not against it, let’s get started. 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p> Let’s. </p>
+         
+         <h3>Burke: </h3>
+         
+         <p> For the project, please tell us your first name, patronymic, and last name, and the
+            year you were born. 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p> My name is Victoria Mikhailovna Sorkina. <span class="persSing">I</span> was born in
+            1975. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p> Thank you. Tell me about your first memories <span class="place">at the
+               movies</span>. 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p> Do you mean the <span class="place">movie theater</span> itself, or just the movies
+            in general? 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p> Either. </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p> Either. (A black cat enters the room.) We don’t have any food. That’s interesting.
+            Ok, a black cat. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p> Well, anything you’d like. The buildings or the films. </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p> My very first memories. <span class="persSing">I</span> think that<span class="nonLex">...</span>my very first memories about the movies are connected
+            of course with my childhood.
+            
+            <!-- "My" is not used in the Russian original.  Therefore not tagged in English. -->
+            But as a child, when <span class="persSing">I</span> was really very little, <span class="possSing">my</span> family wasn’t used to it, there wasn’t a tradition of
+            going to the movies<span class="nonLex">...</span>and therefore <span class="persSing">I</span> usually watched cartoons at home. And in Russia
+            there’s also that popular show <span class="title">“Good Night, Little
+               Ones!”</span>, that is, the program that kids watch. And it’s still on even now,
+            this show. And <span class="possSing">my</span> first memory about the movies, as you
+            say, were of course <span class="genre">cartoons</span>. But what kinds were there
+            earlier in Russia<span class="nonLex">...</span><span class="persPlur">we</span>
+            didn’t watch <span class="nationalCinema">American</span>
+            <span class="genre">cartoons</span> or any other kind. Therefore <span class="persPlur">we</span> watched those typical <span class="nationalCinema">Soviet</span>, <span class="epit">really good</span>
+            <span class="genre">cartoons</span>, which <span class="persSing">I</span> love even
+            to this day. That is, they were my first memory. And then, then, for sure, the movie
+            theater started already in my school-age years. That is, when<span class="persSing">I</span> was a student, <span class="possSing">my</span> parents took me to the
+            movies, and we also went to the movies with school. Perhaps when<span class="persSing">I</span> was on vacation with <span class="persSing">my</span>
+            grandmother and grandfather, that is, in <span class="place">Sverdlovsk</span>, but
+            now that city is called <span class="place">Ekaterinburg</span>. There was also a
+            <span class="place">movie theater</span> there. And<span class="persSing">I</span> went to see only <span class="genre">children’s films</span>. This
+            was <span class="possSing">my</span>
+            <span class="lex">perhaps</span> first memory about the movies. And the first film
+            <span class="persSing">I</span> probably saw was <span class="title">A First
+               Grade Student</span>. Then it was really well known, and the book was also
+            really well known. That’s what it’s called, <span class="title">A First Grade
+               Student</span>. And this was, let’s say, probably in<span class="possSing">my</span> first years at school. Then, maybe I’ve already said, then <span class="persSing">I</span> remember already another such big impression from the
+            movies, when <span class="persSing">I</span> went to the movie theater and saw the
+            film <span class="title">Roman Holiday</span>. You’ve probably seen this movie too? 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>I haven’t seen it, but Iknow it. </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Yes, with the <span class="epit">famous</span> and <span class="epit">magnificent</span>
+            <span class="epit">Gregory Peck</span>, right? And <span class="epit">Audrey
+               Hepburn</span>. And this was a big impression on me, the big screen and a <span class="epit">wonderful</span> film, right, which <span class="persSing">I</span>
+            also saw on vacation. It was somehow fitting. That sounds about right. In school
+            <span class="persSing">I</span> didn’t go to the movies very often. But it’s
+            possible this only strikes me because <span class="lex">maybe</span> the other
+            children went more often. <span class="persSing">I</span> don’t know. What else? 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Well, when did you go to the movies? Was it with your parents or your friends? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>When <span class="persSing">I</span> was in school? Well of course<span class="persSing">I</span> went with <span class="possSing">my</span> parents.
+            There were also some sort of these school events, trips<span class="nonLex">...</span>trips to the movies with <span class="collective">everyone</span>
+            from school together. But this<span class="nonLex">...</span> this <span class="persSing">I</span> don’t remember very well. Then when <span class="persSing">I</span> was already in high school, in the upper grades at
+            school, when<span class="persSing">I</span> was almost finishing school, <span class="persSing">I</span> went to the movies with<span class="possSing">my</span> friends. Yes. Well, it was probably just like that for everyone.
+            <span class="persSing">I</span> don’t know. <span class="persSing">I</span> also
+            remember a really big impact from the film <span class="nonLex">...</span>
+            <span class="title">Gone with the Wind</span>. Do you know that film or not? <span class="title">Gone with the Wind</span>? <span class="title">Gone with the
+               Wind</span>? It was a really, really big impression. I’m sorry. It’s not
+            important. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Excellent! </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>(phone rings) Yes? Yes. Can <span class="persSing">I</span> call you back later? Yes.
+            Sorry. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Did you watch many Soviet movies or only cartoons? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>As a child, as a child<span class="nonLex">...</span>I just watched <span class="genre">cartoons</span>. Because <span class="colelctive">all</span> kids
+            love ‘<span class="epit">kids films</span>,’ as we call them, <span class="genre">cartoons</span>. And there were also some sort of <span class="genre">kids
+               films</span>, <span class="epit">feature-length</span> ones. Yes, but what<span class="persSing">I</span> watched as a child, these <span class="genre">children’s movies</span>, <span class="persSing">I</span> don’t remember them
+            well. <span class="persSing">I</span> remember that<span class="persSing">I</span>
+            saw the film The <span class="title">Adventures of Captain Grant</span> based on
+            <span class="title">Jules Verne</span>. Yes, that<span class="persSing">I</span>
+            remember well. There was also something. Yes, right.<span class="persSing">I</span>
+            cannot quite recall though what it was. Practically everything’s gone. Yes. <span class="persSing">I</span> watched <span class="nationalCinema">Soviet
+               movies</span> too. But for these at any rate, <span class="persSing">I</span>
+            think, <span class="persSing">I</span> didn’t go to the <span class="place">movie
+               theater</span>. <span class="persSing">I</span> saw them on television. But
+            <span class="persSing">I</span> know that, for example,<span class="possSing">my</span> parents often went to the movies. They watched those movies that came
+            out every time. Yes, a new film. For example those movies by <span class="person">Eldar Ryazanov</span> and all other Soviet directors, who did something then,
+            filmed something. But in order to watch <span class="nationalCinema">Soviet
+               films</span>
+            <span class="persSing">I</span> don’t think<span class="persSing">I</span> went to
+            the movies. In any case,<span class="persSing">I</span> don’t remember it. <span class="persSing">I</span> remember when the movie <span class="title">Moscow
+               does not Believe in Tears</span> came out. <span class="persSing">I</span> was
+            just a young girl. And <span class="possSing">my</span> parents went to the late
+            showing of the film. When they came back, <span class="persSing">I</span> was really
+            interested in what it was about. And <span class="possSing">my</span> mom told me the
+            plot of the movie, just as well as she was able, because in general it’s hard for
+            a
+            little girl to understand what the movie’s about. As <span class="persSing">I</span>
+            understood it, there was a prince, as <span class="possSing">my</span> mom explained
+            to me then, and that the film’s about a princess. How a woman can become a princess.
+            Right? Well, it was something like that. Later I watched that film when<span class="persSing">I</span> was already a university student, <span class="persSing">I</span> think. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>When you saw that film was it on television? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>
+            <span class="persSing">I</span> watched it on television, yes. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Well then, do you remember the movie theater buildings? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>The buildings? Of course <span class="persSing">I</span> remember the buildings.<span class="persSing">I</span> don’t think that those <span class="place">movie
+               theaters</span> were really <span class="epit">comfortable</span>, like today.
+            They were those <span class="epit">really typical</span> ones, all of them just like
+            to others. But then <span class="persSing">I</span> didn’t think about that. <span class="persSing">I</span> remember that then there was a tradition, when<span class="persSing">I</span> went to the <span class="place">movie theater</span>
+            <span class="persSing">I</span> always ate ice cream. Yes, in <span class="place">America</span> it’s popcorn, right? For example, now they also sell popcorn in
+            the <span class="place">movie theater</span>. But<span class="persSing">I</span>
+            remember, that then they sold ice cream. It was, as we say, part of the show. That
+            is, a part of the whole experience. And it’s possible that for me, when <span class="persSing">I</span> was young, it was actually even in general the main
+            part. Because I don’t know what was more interesting, the ice cream or the movies.
+            But in any case, of course, when you go and see the big screen, for you it’s like
+            a
+            miracle, magic. And in general you forget about everything.<span class="persSing">I</span> remember, that yes there is still another memory.<span class="persSing">I</span> remembered, that <span class="">we</span> went to the
+            movies once with school, once a month. It was a that subscription, <span class="genre">children’s film</span>. <span class="persSing">I</span> really
+            loved that. But what precisely we watched, <span class="persSing">I</span> remember
+            that they were some sort of <span class="genre">fairy tales</span>. Maybe it was a
+            film about <span class="title">Vasilisa the Wise</span>. Yes? Well anyway,<span class="persSing">I</span> don’t remember. That is, then there was just the
+            impression, that it was the movies. But for some reason no one film has stuck
+            in <span class="possSing">my</span> memory <span class="nonLex">...</span> from
+            that time. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>In your youth, when you went to the movies with your friends and didn’t watch
+            cartoons? What types of movies do you like? 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p><span class="lex">Well</span>, <span class="persSing">I</span> liked and still like
+            <span class="genre">dramas</span>, <span class="persSing">I</span> like a good
+            <span class="genre">romantic comedy</span>, <span class="persSing">I</span> like
+            <span class="genre">thrillers</span>. But for a <span class="genre">thriller</span>
+            <span class="persSing">I</span> don’t go the movies.<span class="persSing">I</span>
+            like <span class="genre">alternative cinema</span>. What is that? Well done <span class="genre">art cinema</span> with an alterative outlook, with the director’s
+            own outlook on things. There, just like that. That is in<span class="possSing">my</span> taste the films of <span class="person">Ingmar Bergman</span>, and
+            <span class="person">Woody Allen</span>, and something of the type, <span class="persSing">I</span> don’t know, of that Forman, <span class="person">Milos
+               Forman</span>. Yes? That is<span class="persSing">I</span> like that <span class="epit">classic</span>, <span class="epit">untraditional</span>, <span class="epit">good</span> cinema.
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Woody Allen and Ingmar Bergman that’s foreign art cinema. Did you also watch Russian
+            art cinema? 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Do you mean some <span class="nationalCinema">Russian</span>
+            <span class="genre">art cinema</span>? Yes, of course, naturally, of course I’ve
+            seen it. Or do you have in mind that <span class="persSing">I</span> prefer to watch
+            <span class="nationalCinema">Russian cinema</span>? 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Do you remember? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Of course. <span class="persSing">I</span> like <span class="person">Tarkovsky</span>. <span class="lex">Well</span>, <span class="nonLex">...</span>
+            and went to see him at the movies. And now <span class="persSing">I</span> also like
+            to just watch <span class="person">Tarkovsky</span>’s films wherever, even on<span class="possSing">my</span> own laptop. Yes? That is, what else from Russian
+            classics? Now <span class="persSing">I</span> can’t say. <span class="lex">Probably</span> I’m more engrossed by <span class="nationalCinema">foreign
+               cinema</span>. But that’s me. <span class="lex">Maybe</span> other Russians
+            would say something completely different. That is,<span class="persSing">I</span>
+            prefer, <span class="lex">probably</span>, as it turned out, that<span class="possSing">my</span> tastes congealed more around foreign directors. It
+            seems that way to me. But there’s still one more name<span class="persSing">I</span>
+            can’t at all remember. Maybe you can kindle <span class="possSing">my</span> memory –
+            <span class="title">The Taste of Pomegranate</span>.
+            
+            <!-- SYNTAX FOR ERRONEOUS, NEED TO CHANGE RELAX-NG, 
+                    for CLASS WE NEED TO MAKE CHANGES in XML coding: @ana="circumlocution" or "misattribution"  -->
+            
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Pomegranate? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Yes. The <span class="title">Taste of Pomegranate</span>. 
+         </p>
+         
+         <!-- SYNTAX FOR ERRONEOUS, NEED TO CHANGE RELAX-NG, 
+                for CLASS WE NEED TO MAKE CHANGES in XML coding: @ana="circumlocution" or "erroneouse reference"  -->
+         
+         <h3>Burke: </h3>
+         
+         <p>I don’t know. </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>It’s also a Russian director, but he, as we say, is of Armenian descent.
+            
+            <!-- SYNTAX FOR ERRONEOUS, NEED TO CHANGE RELAX-NG, 
+                    for CLASS WE NEED TO MAKE CHANGES in XML coding: @ana="circumlocution" or "erroneouse reference"  -->If
+            I remember I’ll tell you a bit later. Yeah<span class="nonLex">...</span>there’s no
+            way, now way it’ll come to me. Of course <span class="persSing">I</span> love
+            Fellini’s films, and everything, for example, written by <span class="person">Tonino
+               Guerra</span>. There, probably something like that.<span class="persSing">I</span> also like <span class="nationalCinema">Chinese cinema</span>. Now,
+            this last time the very famous director <span class="title">Wong Kar-wai</span>
+            almost mesmerized me. And I’ve seen almost everything that he’s done. And that’s how
+            it is. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>And now, have you seen international art films like at Cannes, or festivals? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>I follow them. <span class="persSing">I</span> follow the festivals, and let’s say,
+            those they invite there. And once not long ago <span class="persSing">I</span> saw
+            how the <span class="place">festival in Cannes</span> was, and a director from <span class="place">Vietnam</span> won there. And it was the first time for <span class="place">Vietnam</span>, and the film is called <span class="title">Uncle
+               Boonmee</span>. There’s a long name for the film. It seems it’s something like
+            <span class="title">Uncle Boonmee and who he was in a Previous Life</span>.
+            Something like that. <span class="persSing">I</span> don’t exactly remember the
+            title. But of course <span class="persSing">I</span> really wanted to see this film,
+            but it still hasn’t gone into Russian distribution. Let’s say. Also, of course<span class="persSing">I</span> follow the festival in <span class="place">Berlin</span>, at <span class="place">Cannes</span>,<span class="persSing">I</span> often watch the Oscar ceremonies. And<span class="persSing">I</span>
+            remember, that last time at Cannes, <span class="persSing">I</span> think <span class="person">Pedro Almodovar</span> won. Well,<span class="persSing">I</span>
+            don’t remember exactly. The time before<span class="nonLex">...</span>yes, <span class="persSing">I</span> think it was the time before. I’m also interested in
+            what happens, what the outcomes are at the <span class="place">Moscow
+               festivals</span>, but <span class="persSing">I</span> can’t say that now <span class="nationalCinema">Russian cinema</span> is very successful. One can name
+            very few directors, whom they would actually like to see. That’s how it is. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Do you know in St. Petersburg or, maybe, do you know movie theaters in which they,
+            in
+            which one can see international art films? 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Actually international films about art, right? Yes, there are, do you have in mind
+            art, like something, that there is, wasn’t let’s say like a <span class="genre">blockbuster</span>, right? 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Not a blockbuster, like... </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>That is cinema like <span class="genre">art cinema</span>. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Yes. </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>
+            <span class="persSing">I</span> think that there aren’t any <span class="place">movie theaters</span> of precisely this kind. It does happen, that a film is
+            playing, a film is showing in the theaters. For example, a director’s entire corpus.
+            Yes, for example, in a <span class="place">movie theater</span> of <span class="collective"><span class="possPlur">ours</span></span> all of <span class="person">Ingmar Bergman</span> is showing, yes, the whole month. Yes. Of
+            course, there’s also that <span class="place">movie theater</span>, the <span class="place">Dom Kino</span>. At the <span class="place">Dom Kino</span> the
+            classics are often showing. One can always watch something good. There are also
+            festivals around the city. For example, the <span class="nationalCinema">Polish
+               film</span> festival, <span class="nationalCinema">Japanese film</span>
+            festival, <span class="nationalCinema">American</span> and so on. Or just a showing
+            of a certain director. And there, yes, probably at the <span class="place">Dom
+               Kino</span> in <span class="place">St. Petersburg</span>, most often of all
+            you’ll see something <span class="epit">serious</span>. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Did you like to go to the festival? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>I go often, yes. <span class="persSing">I</span> happens that<span class="persSing">I</span> go and often even watch some sort of classic, but it also happens that
+            <span class="persSing">I</span> watch something new. There, there it’s somehow
+            like that. But when <span class="possSing">my</span> friends really say to me, that
+            there’s a good film and it’s worth seeing it, then<span class="persSing">I</span> go
+            too. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>How else would you watch new films, if you didn’t want to watch blockbusters or
+            popular films? 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>How else, what do <span class="persSing">I</span> usually watch? 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Yes. </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Well, when it concerns blockbusters? Yes, that<span class="nonLex">...</span>I very
+            rarely watch them. But if I watch, that’s most of all over the internet. Yes. And
+            probably more than any other way. As far as this <span class="epit">serious</span>
+            cinema is concerned, like <span class="persSing">I</span> already said
+            generally<span class="persSing">I</span> go to the <span class="place">movie
+               theaters</span>. Or again <span class="persSing">I</span> watch something at
+            home. That’s more often, of course, at home. But also at the <span class="place">movie theater</span>. But for <span class="genre">blockbusters</span>
+            <span class="persSing">I</span> really don’t go. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Now you didn’t go to the movie theater because you don’t like new films or movie
+            theaters as they are now, or is it something else? 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>It’s hard to say. <span class="persSing">I</span> go, but not very often, probably
+            because there just isn’t time. Generally, you remember, that you can watch a given
+            film at home and in general you’re lazy to get up and go. Generally<span class="nonLex">...</span>generally it’s like that, that you go and you can take
+            some sort of little piece of your time and devote it anyway to going to the movie
+            theater. <span class="persSing">I</span> think that because of that now it’s more
+            comfortable to watch everything at home. There’s no time for going there. But it
+            happens that <span class="persSing">I</span> do go. Yes, that is,<span class="persSing">I</span> would probably say, possibly, 50% or 70% of the time
+            <span class="persSing">I</span> watch at home and the remaining 30%<span class="persSing">I</span> watch at the movie theater.<span class="persSing">I</span> go to the movie theater, when it’s that sort of mood and when<span class="persSing">I</span> know that there’s a film that<span class="persSing">I</span> would really like to watch on the big screen, let’s say. Because there
+            are films that are just hard to watch on the little screen. For example, there was
+            that, <span class="persSing">I</span> think two or three years ago, was that film
+            out <span class="title">The Island</span>. The well made movie, <span class="title">The Island</span>, maybe you’ve heard about it. With <span class="person">Peter
+               Mamonov</span>. There, and <span class="persSing">I</span> went to the movies.
+            Because it’s not always good to watch a movie on television or over the internet,
+            for some you need a big screen for it. That’s from these considerations. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Do you think, that you prefer to watch the same genres now as<span class="nonLex">...</span>
+            
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Just the same. <span class="persSing">I</span> think that there’s a tendency in that,
+            <span class="persSing">I</span> think. Well, of course as a child you watch
+            everything that interests you, and it interests you with what it ends. That is
+            you’re interested in the ending. Therefore you can watch <span class="genre">adventure films</span> – you’re always interested in a <span class="genre">fairy tale</span>. When young maybe <span class="persSing">I</span> watched
+            <span class="genre">romantic films</span> more often. Like <span class="colelctive">all</span> young girls, right? Who love romantic stories. But
+            now that I’m already, let’s say, in <span class="possSing">my</span> grown-up
+            years,<span class="persSing">I</span> watch more for the quality of the film.
+            And the director is even more important to me, rather than that. That is it’s
+            important to me how it’s done. Of course genre, of course, one might even say not
+            genre, but rather say simply that it’s for the topic of the movie. Let’s say, it’s
+            more about how the film speaks to me. But it seems to me, that the great directors,
+            they always explore, talk about the timeless. About timeless themes, timeless
+            questions for which they don’t have answers. And since, most of all it’s generally
+            never important what genre it’s made as. But it is important how it’s done, and
+            about what, let’s say, and that’s that. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Do you like directors more than genres? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Than genres, of course. <span class="persSing">I</span> select a director regardless
+            of the genre because it might be a really good genre, but the film turns out to be
+            completely uninteresting. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>But what films don’t you like? </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Actively don’t like, actively? </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Yes </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>I don’t like movies that are made for, how to say<span class="nonLex">...</span>the
+            general audience of people. Movies that<span class="nonLex">...</span>when the
+            director plays with the audience. And when we know that they’ll be here everyone
+            cries, and when they’ll be here everyone laughs. And this<span class="persSing">I</span> don’t like, because the last time <span class="person">Mikhalkov</span> works on this, let’s say, on these tropes<span class="nonLex">...</span>such patterns, right? That means they use this trope. And<span class="persSing">I</span> don’t like this, when everything is all, let’s say,
+            painfully mundane. Yes, and when it’s all made for the <span class="colelctive">general populace</span>, for the common people and so on, that is, <span class="persSing">I</span> don’t like that right now, the popular Russian theme,
+            let’s say, of who we are, that is what sort of people <span class="collective">all</span> Russians are, right? That is,<span class="persSing">I</span> don’t
+            like these techniques. And yes, there<span class="persSing">I</span> don’t like
+            films that are made for everyone, let’s say. <span class="persSing">I</span> don’t
+            like movies where you don’t have to think. And in general, where you know that here
+            you have to cry a little and here you have to laugh a little. And overall, it just
+            doesn’t interest me. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Well, okay, have you seen new movies, like Burnt by the Sun 2 or Admiral? New Russian
+            films? 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>I saw <span class="title">Admiral</span>, but <span class="persSing">I</span> didn’t
+            see <span class="title">Burnt by the Sun 2</span> because it didn’t interest me,
+            what <span class="person">Mikhalkov</span> did, because<span class="persSing">I</span> know that it’s not <span class="epit">high art</span> cinema,<span class="persSing">I</span> know, that earlier <span class="person">Mikhalkov</span> made <span class="epit">outstanding</span> films, he’s an
+            outstanding actor, and a very good director, but now it’s not so simple, and he’s
+            completely concentrated on this Russian Orthodox idea, and it’s all very rough.
+            There, and <span class="persSing">I</span> don’t like <span class="epit">these
+               tendentious, false</span> films. There it apropos of<span class="nonLex">...</span>apropos of <span class="person">Mikhalkov</span>. Apropos of <span class="title">The Admiral</span>, <span class="persSing">I</span> saw it, but in
+            general <span class="persSing">I</span> also think that it’s completely done, let’s
+            say, like black and white, somehow completely for <span class="collective">the
+               masses</span>. <span class="persSing">I</span> think that it isn’t Kolchak’s
+            story. <span class="persSing">I</span> think that it has practically nothing in
+            common with what happened then. Because it’s like so, and the tendency, earlier old
+            films were against the whites, against the white guards, right? For the reds. Now
+            they’re making films against the reds, right? Against the communists, for the white
+            guards, right? <span class="lex">Well</span>, in any case it’s all very narrow. And
+            you can never confine it into some sort of formula. Kolchak was too complex of a
+            person for such a simplistic film. Besides, the film deals with lives of female
+            characters and for me it looked ridiculous how the film handled that aspect of the
+            plot. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>And what do you think about the difference between new movies like The Admiral and
+            old movies, like Moscow Does Not Believe in Tears or The Irony of Fate. 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p><span class="lex">Well</span>, the entire thing is in the director, let’s say, since
+            because <span class="title">The Irony of Fate</span> was made by <span class="person">Vladimir Menshov</span>, it seems to me that it’s an <span class="epit">excellent</span> film and made very well. And the entire matter, on
+            the first level, is in the screenplay, and secondly, in the actors, and of course
+            in
+            the entire story. And it seems to me that <span class="genre">Moscow Does Not
+               Believe in Tears</span> is an <span class="epit">excellent</span>
+            <span class="epit">Soviet</span> film, where, in general it’s half <span class="genre">comedy</span>, sure, and half <span class="genre">drama</span>,
+            <span class="persSing">I</span> don’t really know but in any case, there’s no
+            kitchiness there, and <span class="persSing">I</span> would say that. And in general
+            in <span class="nationalCinema">Soviet cinema</span>, in <span class="epit">good</span>
+            <span class="nationalCinema">Soviet cinema</span>, it was different from this, and
+            it’s possible, yes possible, that now it seems a little funny, but it seems to me
+            that even now, if some, even a foreigner were to see this cinema, that they would
+            like it because these were films <span class="epit">of high quality</span>. Good
+            directors who are able to deliver now and were able to then too. As far as new
+            cinema is concerned now, it has in general no relation at all to good artistic
+            cinema. Unfortunately. That’s <span class="possSing">my</span> opinion, because now
+            everything is done quickly, in order to please, let’s say, <span class="nonLex">...</span> it’s necessary that it be film <span class="epit">in favor of the
+               government</span>, in order to please first of all the government, there, and
+            this tendency is outlined by this very <span class="epit">strange</span>, <span class="epit">simplistic</span> cinema, which anyone in general can understand.
+            Right? And in general<span class="persSing">I</span> don’t think that, how to say,
+            that this is cinema on which<span class="persSing">I</span> need to spend time <span class="nonLex">...</span> to see. Although now there’s also good cinema,
+            probably, but possibly not in this large scope, like it was before, but really it
+            can’t be like that, since there just weren’t good directors. That is, there is
+            something, but mostly, let’s say, in small portions. <span class="lex">Probably</span> because there exists the tendency, that cinema always exists,
+            just like any form of art, it’s just like some sort of flow, right, and ebb, like
+            when sometime there was that period in Italy, right, of good cinema, when <span class="person">Antonioni</span>, <span class="person">Fellini</span>, etc. were
+            working. Today when watching <span class="nationalCinema">Italian cinema</span>
+            there’s practically nothing <span class="epit">interesting</span>. And it’s just the
+            same in <span class="place">Russia</span>, there was such a time, now, <span class="lex">probably</span>, we’re on a break. That’s what <span class="persSing">I</span> think. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Well,I think that that’s everything I can ask, but do you have something you would
+            like to ask me, or something you’d like to say? 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Ask, yes, <span class="persSing">I</span> would like to ask whether there exists now
+            in America <span class="genre">alternative cinema</span>, for example, like you’re
+            thinking of? 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>I often watch alternative movies, in America, <span class="persSing">I</span> know
+            that we have those kind of directors, who make movies for the festivals, like <span class="place">Cannes</span>, or <span class="place">Sundance</span>, but <span class="persSing">I</span> rarely watch these movies<span class="nonLex">...</span>
+            
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>What do you like? </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>I don’t remember something, but <span class="persSing">I</span> think, that that
+            aspect of culture in America is called “Indie,” it’s alternative culture, which now
+            exists as popular and new movies like <span class="title">Juno</span>. That was two
+            or three years ago. It’s a really popular movie, but anyway, <span class="persSing">I</span> don’t know how to say this in Russian, but it (shows) aspects from
+            this culture. 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Understood. <span class="persSing">I</span> would also like to ask, what do Americans
+            like from our movies? 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>I think that, unfortunately, it’s really just <span class="genre">blockbusters</span>, like <span class="nationalCinema">American movies</span>,
+            which in Russia, it’s like big <span class="nationalCinema">American movies</span>
+            and<span class="nonLex">...</span>
+            
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>No, no, <span class="persSing">I</span> would like to know, what do Americans like in
+            <span class="nationalCinema">Russian cinema</span>? 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>In <span class="nationalCinema">Russian cinema</span>! Sure, it’s rare that Americans
+            watched <span class="nationalCinema">Russian cinema</span> before 1990 and then,
+            <span class="persSing">I</span> think that if<span class="nonLex">...</span>if
+            someone already knows something about Russia, they might watch <span class="person">Mikhalkov</span>’s films, or old movies like <span class="title">Moscow Does
+               Not Believe in Tears</span> or <span class="title">Irony of Fate</span>
+            would<span class="nonLex">...</span> would be more rare than <span class="title">Moscow Does Not Believe in Tears</span>, but <span class="persSing">I</span>
+            think that many Americans have never seen <span class="nationalCinema">Russian
+               movies</span>. 
+         </p>
+         
+         <h3>Sorkina: </h3>
+         
+         <p>Yes, certainly, but it’s really hard to find Russian who’ve not seen <span class="nationalCinema">American movies</span>, because with <span class="possPlur">us</span> now <span class="nationalCinema">American
+               cinema</span> has such a draw, <span class="persSing">I</span> would say, of the
+            <span class="epit">American</span>
+            <span class="title">blockbuster</span> in Probably because in Russia now they are
+            making so few movies. They’re only making a few new Russian films, and it’s these
+            that are shown over and over again on television. <span class="lex">Well</span>
+            anyway, <span class="lex">most likely</span> something like that. 
+         </p>
+         
+         <h3>Burke: </h3>
+         
+         <p>Well, you know <span class="persSing">I</span> think that directors like <span class="person">Mikhalkov</span> want to make <span class="nationalCinema">Russian films</span> like <span class="epit">American</span>
+            <span class="genre">blockbusters</span>. 
+         </p>
+         
+      </div>
+      
+   </body>
+   
+</html>
