@@ -7,13 +7,13 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Interview with :
+            <title>Interview with  :
                         electronic version</title>
             <author>
                <name ref="agureeva"> </name>
             </author>
             <editor role="interviewer">
-               <name ref="bernotas"> </name>
+               <name ref="bernotas">MONIKA BERNOTAS</name>
             </editor>
             <editor role="interviewer">
                <name ref="mcgrath">ALEX MCGRATH</name>
@@ -28,10 +28,10 @@
                <name ref="small"> </name>
             </editor>
             <editor role="translator">
-               <name ref="orr"> </name>
+               <name ref="orr">BAILEY ORR</name>
             </editor>
             <editor role="translator">
-               <name ref="swift"> </name>
+               <name ref="swift">MARGARET SWIFT</name>
             </editor>
             <respStmt>
                <resp>TEI Markup done by </resp>
@@ -93,7 +93,7 @@
                      <name ref="agureeva"> </name>
                   </author>
                   <editor role="interviewer">
-                     <name ref="bernotas"> </name>
+                     <name ref="bernotas">MONIKA BERNOTAS</name>
                   </editor>
                   <editor role="interviewer">
                      <name ref="mcgrath">ALEX MCGRATH</name>
@@ -102,10 +102,11 @@
                <publicationStmt>
                   <publisher>College of William and Mary</publisher>
                   <pubPlace>Williamsburg, VA</pubPlace>
-                  <date>4 July, 2008</date>
+                  <date type="interview">July 2011</date>
+                  <date type="translation">Spring 2016</date>
                </publicationStmt>
                <notesStmt>
-                  <note>The interview with Liudmila Danilenko is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note>
+                  <note>The interview is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note>
                </notesStmt>
             </biblFull>
          </sourceDesc>
@@ -113,7 +114,7 @@
       <profileDesc>
          <abstract>
             <p>The interview with   is part of the Russian Movie Theater Project, which examines history of
-                        moviegoing expereinces in the USSR and Russia.   and Alex McGrath conducted the interview on 4 July, 2008 in St. Petersburg,
+                        moviegoing expereinces in the USSR and Russia. Monika Bernotas and Alex McGrath conducted the interview on 4 July, 2008 in St. Petersburg,
                         Russia.</p>
          </abstract>
          <creation>BACKGROUND OF INTERVIEW</creation>
@@ -122,10 +123,7 @@
          </langUsage>
          <particDesc>
             <person role="interviewer">
-               <persName ref="roberts">MICHAEL ROBERTS</persName>
-            </person>
-            <person role="interviewer">
-               <persName ref="bernotas"> </persName>
+               <persName ref="bernotas">MONIKA BERNOTAS</persName>
             </person>
             <person role="interviewer">
                <persName ref="mcgrath">ALEX MCGRATH</persName>
@@ -273,31 +271,8 @@
     в основном это был лёгкий жанр.  Когда <rs type="pron" subtype="persSing">я</rs> закончила школу,
     я училась в университете, <rs type="pron" subtype="persPlur">мы</rs> уже увлекались конечно
      <rs type="person" key="andreiTarkovskii">Тарковским</rs>, то есть ходили на конкретных режиссёров,
-    которых знали и любили. </u>   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-   <u xml:id="sp37" who="bernotas"> Когда вы начали изучать другие языки? </u>
+    которых знали и любили. </u>
+         <u xml:id="sp37" who="bernotas"> Когда вы начали изучать другие языки? </u>
 
          <u xml:id="sp38" who="agureeva"> Когда? во втором классе. </u>
 

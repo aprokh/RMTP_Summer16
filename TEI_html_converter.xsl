@@ -15,9 +15,10 @@
                 <link rel="stylesheet" type="text/css" href="/css/interview.css"/>
                 <link rel="stylesheet" type="text/css" href="/css/style.css"/>
                 <script type="text/javascript" src="/javascript/interview.js"/>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
             </head>
             <body>
-                <xsl:comment>#include virtual="/inc/menuSSIInterview.xhtml"</xsl:comment>
+                <xsl:comment>#include virtual="/inc/menuSSIInterview.html"</xsl:comment>
                 <div id="boxes">
                     
                     <label for="person">Person<input type="radio" id="person" name="selector"

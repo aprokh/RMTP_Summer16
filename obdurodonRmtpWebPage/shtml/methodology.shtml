@@ -14,7 +14,7 @@
    
    <body>
       
-      <!--#include virtual="../inc/menuSSI.xhtml" -->
+      <!--#include virtual="../inc/menuSSI.html" -->
       
       <div id="description">
          <h1>Methodology</h1>

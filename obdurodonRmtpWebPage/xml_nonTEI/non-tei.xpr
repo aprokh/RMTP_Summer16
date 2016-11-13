@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>pavlov.xml</String>
+                                    <String>voronin.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -25,7 +25,22 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>danilenko.xml</String>
+                                    <String>sorkina.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>to tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>pavlov.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -70,7 +85,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>agureeva.xml</String>
+                                    <String>efimova.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -100,7 +115,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>chistiakova.xml</String>
+                                    <String>danilenko.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -115,7 +130,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>voronin.xml</String>
+                                    <String>chistiakova.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -145,22 +160,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sorkina.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>to tei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>efimova.xml</String>
+                                    <String>agureeva.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -271,6 +271,16 @@
         </options>
     </meta>
     <projectTree name="non-tei.xpr">
-        <folder path="."/>
+        <file name="agureeva.xml"/>
+        <file name="alyrzaeva.xml"/>
+        <file name="chistiakova.xml"/>
+        <file name="danilenko.xml"/>
+        <file name="danilenkoEng.xml"/>
+        <file name="efimova.xml"/>
+        <file name="levental-i.xml"/>
+        <file name="levental-v.xml"/>
+        <file name="pavlov.xml"/>
+        <file name="sorkina.xml"/>
+        <file name="voronin.xml"/>
     </projectTree>
 </project>

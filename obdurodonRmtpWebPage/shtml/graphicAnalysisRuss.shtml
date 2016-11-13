@@ -12,7 +12,7 @@
    
    <body>
       
-      <!--#include virtual="../inc/menuSSIRuss.xhtml" -->
+      <!--#include virtual="../inc/menuSSIRuss.html" -->
       
       
       <div id="description">

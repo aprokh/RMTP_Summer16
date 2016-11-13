@@ -7,6 +7,9 @@
     <!--   NOTE! the index file is used for name outputs int he titleStmt. If the index is moved, variable declaration must be edited -->
     <xsl:variable name="indexFile" select="doc('developmentFiles/Index/index.xml')"/>
     <xsl:variable name="intervieweeRef" select="//interviewee/@ref"/>
+    <xsl:variable name="intervieweeName" select="
+        concat($indexFile//person[@xml:id = $intervieweeRef]/upper-case(forename), ' ', $indexFile//person[@xml:id = $intervieweeRef]/upper-case(surname), $indexFile//person[@xml:id = $intervieweeRef]/upper-case(surnameEng))"
+    />
     <xsl:template match="/">
         <xsl:comment>This comment describes parts that need editing post transformation:
         1) String content of title element in titleStmt element. Full name not found in original file, so made approximation. Renders as lastname; should be full name
@@ -23,7 +26,7 @@
                     <!--        Note: Full name is not provided in original markup in English, so will need to be added after
                     running transformation to match rmpt_tei_header_TEST.xml template-->
                     <title>Interview with <xsl:value-of
-                            select="substring-before(substring-after(base-uri(), 'xml/'), '.')"/>:
+                            select="$intervieweeName"/>:
                         electronic version</title>
                     <xsl:apply-templates select="persons/*"/>
                     <respStmt>
@@ -82,9 +85,6 @@
                 <xsl:comment>Information about the source of the interview: an audio or video recording.</xsl:comment>
                 <sourceDesc> 
                     <biblFull>
-                        <xsl:variable name="intervieweeName" select="
-                            concat($indexFile//person[@xml:id = $intervieweeRef]/upper-case(forename), ' ', $indexFile//person[@xml:id = $intervieweeRef]/upper-case(surname), $indexFile//person[@xml:id = $intervieweeRef]/upper-case(surnameEng))"
-                        />
                         <titleStmt><title>INTERVIEW WITH <xsl:value-of
                             select="$intervieweeName"
                         /></title>
@@ -108,7 +108,7 @@
                         <publicationStmt><publisher>College of William and Mary</publisher>
                             <pubPlace>Williamsburg, VA</pubPlace>
                             <!-- This is a date of the interview. -->
-                            <date>4 July, 2008</date></publicationStmt>
+                            <xsl:apply-templates select="date"/></publicationStmt>
                         <notesStmt><note>The interview is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note></notesStmt>
                     </biblFull>
                 </sourceDesc>
@@ -133,9 +133,6 @@
                     <language ident="ru">RUSSIAN</language>
                 </langUsage>
                 <particDesc>
-                    <person role="interviewer">
-                        <persName ref="roberts">MICHAEL ROBERTS</persName>
-                    </person>
                     <xsl:for-each select="//interviewer">
                         <xsl:variable name="interviewerRef" select="./@ref"/>
                         <person role="interviewer">

@@ -1,0 +1,589 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>Cinema and Memory</title>
+      <link rel="stylesheet" type="text/css" href="/css/interview.css"></link>
+      <link rel="stylesheet" type="text/css" href="/css/style.css"></link><script type="text/javascript" src="/javascript/interview.js"></script><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+   </head>
+   <body>
+      <!--#include virtual="/inc/menuSSIInterview.html"-->
+      <div id="boxes"><label for="person">Person<input type="radio" id="person" name="selector"></input></label><label for="title">Title<input type="radio" id="title" name="selector"></input></label><label for="genre">Genre<input type="radio" id="genre" name="selector"></input></label><label for="nationalCinema">National Cinema<input type="radio" id="nationalCinema" name="selector"></input></label><label for="place">Place<input type="radio" id="place" name="selector"></input></label><label for="epit">Epithet<input type="radio" id="epit" name="selector"></input></label><label for="persSing">Personal Singular<input type="radio" id="persSing" name="selector"></input></label><label for="persPlur">Personal Plural<input type="radio" id="persPlur" name="selector"></input></label><label for="possSing">Possessive Singular<input type="radio" id="possSing" name="selector"></input></label><label for="possPlur">Possessive Plural<input type="radio" id="possPlur" name="selector"></input></label><label for="collective">Collective <input type="radio" id="collective" name="selector"></input></label><label for="lex">Lexical Hesitation<input type="radio" id="lex" name="selector"></input></label><label for="nonLex">Nonlexical Hesitation<input type="radio" id="nonLex" name="selector"></input></label></div>
+      <div id="rightPanel"></div>
+      <div id="centerPanel">
+         
+         
+         <h1>Interview with Liudmila Danilenko</h1>
+         <ul>
+            <li>Interviewers: Michael Roberts</li>
+            <li><a href="http://mtp.blogs.wm.edu">
+                  Russian Movie Theater Project (RMTP)
+                  </a></li>
+            <li><a href="https://www.wm.edu">
+                  College of William and Mary
+                  </a></li>
+            <li>Interview Date: July 2008July 2008</li>
+            <li>Transcription and Translation Date: Fall 2012Fall 2012</li>
+         </ul>
+         <hr></hr>
+         
+         
+         
+         
+         
+         
+         
+         
+         <h3>Roberts: </h3>
+         <p>Как вас зовут?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Меня зовут Людмила. </p>
+         
+         <h3>Roberts: </h3>
+         <p>Фамилия и отчество, пожалуйста.</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Даниленко Людмила Васильевна. </p>
+         
+         <h3>Roberts: </h3>
+         <p>А где вы родились?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Я родилась в <span class="place">Волгоградской области</span>. И в восемьдесят втором <span class="nonLex">...</span> с тысяча
+            девятьсот восемдесят второго года <span class="persSing">я</span> проживаю в
+            <span class="place">Санкт Петербурге</span>
+            
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы помните первый раз, когда вы ходили в
+            кино?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Это было очень давно. Может быть, мне было лет
+            пять. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы помните фильм, на который вы ходили?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Эта была <span class="genre">сказка</span>. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Опишите фильм, пожалуйста.</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Впечатление о просмотренном фильме или
+            сюжет?
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>O посещениях.</p>
+         
+         <h3>Danilenko: </h3>
+         <p>О посещениях. Ощущение. <span class="nonLex">...</span> Это
+            было так давно, конечно. Первый большой экран в <span class="place">кинотеатр</span>е для меня было что-то необыкновенное. Как и сам <span class="genre">фильм-сказка</span>. Это такое представление у ребёнка, что жизнь вся
+            сказка, такая красивая. Вот такие первые впечатления.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>С кем вы ходили?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>С мамой.</p>
+         
+         <h3>Roberts: </h3>
+         <p>Как вам нравится <span class="place">кинотеатр</span>?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, в <span class="epit">современном</span>
+            <span class="place">кинотеатре </span> 
+            <span class="persSing">я</span> 
+            не была, потому что в связи с работой, с занятостью, нет времени посещать. А первое
+            впечатление <span class="nonLex">...</span>
+            <span class="epit">такой огромный дом</span>
+            <span class="epit">с большими креслами</span>, такое приятное что-то, что-то новое, это не
+            собственный дом. Тогда ещё <span class="possPlur">у нас</span> телевизора не
+            было, <span class="persPlur">мы</span> не знали что, что такое. <span class="lex">Ну</span>, конечно очень, очень приятно было. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Когда вы начали ходить в <span class="place">кинотеатр</span> сама?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Это <span class="nonLex">...</span> ну как, одна <span class="persSing">я</span> не ходила, только где-то лет в шестнадцать, когда
+            мне было шестнадцать лет. Наверно, тогда только. А так <span class="persPlur">мы</span> посещали коллективно <span class="place">кинотеатр</span>. Со
+            школой. Или <span class="possPlur">у нас</span> в школе был показ, <span class="possPlur">у нас</span> кинозал небольшой был. Нам там показывалиm
+            или группой <span class="persPlur">мы</span> ходили в <span class="place">кинотеатр</span>. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вам нравилось ходить в кино?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Нравилось, конечно нравилось. </p>
+         
+         <h3>Roberts: </h3>
+         <p>Как часто вы ходили в кино?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Не очень часто. Может быть один раз в месяц или
+            один раз в два месяца. Потому что это тоже такое дорогое удовольствие было. <span class="nonLex">...</span>
+            
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Κак посещениe кино изменилось, когда вы
+            выросли?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Значительно изменилось. Когда <span class="persSing">я</span> была ребёнком, и когда я, ну, стала подростком и потом уже
+            взрослым человеком <span class="nonLex">...</span> Раньше оно, такое было более доступное кино к
+            народу, народ тоже, для
+            народа было доступным. Такое оно более жизненное было,
+            нежели сейчас. Сейчас такие фильмы как <span class="genre">блокбастеры</span>, всё
+            <span class="epit">очень странное</span> и <span class="epit">немного
+               непонятное</span>. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Какие были ваши самые любимые жанры в
+            детстве?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>В детстве, <span class="persSing">я</span> думаю это вот <span class="genre">сказки</span> и такие познавательные.
+            <span class="title">В мире животных</span> мне нравилось, такая
+            <span class="possPlur">у нас</span> передача
+            была, и много много показывали. <span class="genre">Документальные фильмы</span>. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>У вас есть любимый фильм?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="possPlur">Наша</span> классика. Но не один, <span class="persSing">я</span> думаю что, очень много, фильмы <span class="person">Гайдая</span>,
+            <span class="title">Брильянтовая Рука</span>
+            <span class="nonLex">...</span> и другие.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Опишите фильмы, пожалуйста.</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Это <span class="genre">кинокомедии</span>. Они
+            стали классикой. Или <span class="title">Иван Васильевич меняет
+               профессию</span>. Вы тоже <span class="lex">наверно</span> знаете. Они очень <span class="epit">интересные</span> и они <span class="epit">очень жизненные</span>. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>У вас были любимые актёры и актрисы?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Да, конечно. Они были и остались, хотя их уже нет
+            в живых. <span class="lex">Ну</span>
+            <span class="nonLex">...</span>
+            <span class="person">Евгений Леонов</span>. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Почему они были ваши любимые актёры?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Я не знаю как <span class="nonLex">...</span> глядя на них в
+            кино, ты, <span class="lex">может быть</span>, как переживал с ними вместе ту роль, которую
+            они исполняли. И очень интересно было, как они играли. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы помните какой-нибудь фильм или посещение кино
+            особенно?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Еще раз вопрос?</p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы помните какой-нибудь фильм или посещение кино
+            особенно?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Посещение <span class="place">кинотеатр</span>а? <span class="nonLex">...</span> Это давно когда было. <span class="lex">Ну</span>, <span class="persSing">я</span> не знаю. Много разных фильмов, и
+            <span class="genre">классика</span>, и <span class="genre">военные
+               фильмы</span>. Очень нравились в детстве.<span class="possPlur">У нас</span> такие <span class="title">Неуловимые Мстители</span>, это <span class="epit"> революционый
+               фильм</span>. Там роли исполняли мальчики. Девочка и мальчики. Очень нравился мне. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>А почему?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Я не знаю. Может быть, такие там приключенческие
+            сюжеты у них <span class="nonLex">...</span> примерно одинокового возраста <span class="persPlur">мы</span> были. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы помните какое-нибудь посещение по телевизору,
+            кино по телевизору?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>
+            <span class="nonLex">...</span> первый фильм <span class="nonLex">...</span> нет<span class="nonLex">...</span> Да.
+            Первый фильм, <span class="lex">наверно</span>, <span class="persSing">я</span> не
+            помню, а помню балет по телевизору <span class="title">Лебединое Озеро</span>, <span class="persSing">я</span> смотрела. Это <span class="epit">что-то
+               необыкновенное</span> было. <span class="epit">Очень, очень красиво</span>. Музыка
+            мне нравилась в этом спектакле. И очень нравились девушки, которые исполняли. Тогда
+            <span class="persSing">я</span> очень маленькая была. Первый раз<span class="persSing"> я </span>увидела. Они в очень красивых платьях, в пачках
+            <span class="nonLex">...</span> все белые, необыкновенные. Вот это, <span class="lex">наверно</span>, такое яркое впечатление произвело на меня. Балет очень, очень
+            понравился.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>А вы помните, когда вы посмотрели?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Это было, <span class="lex">наверно</span>, 1959ый
+            год. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Как вы проводили свободное время, кроме посещения
+            кино?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, <span class="possPlur">у нас</span> очень много. <span class="persSing">Я</span> жила в<span class="nonLex">...</span> как можно сказать <span class="nonLex">...</span> такой, маленький посёлок, как в деревне. <span class="possPlur">У нас</span> очень много было занятий по дому, работы было. <span class="persPlur">Мы</span> помогали родителям. У нас много животных было.
+            <span class="persPlur">Мы</span> ухаживали за ними. Кормили. Книги читали.
+            Вот, <span class="possPlur">у нас</span> летом были каникулы. После школы, три
+            месяца <span class="persPlur">мы</span> одыхали. <span class="lex">Ну</span> и нам
+            обязательно в школе давали большое задание, чтобы <span class="persPlur">мы</span> за лето прочитали много книг. <span class="lex">Ну</span> и так, мне очень
+            нравилось читать. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>С кем вы обычно ходили в кино?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, когда была маленькая, с
+            мамой или со старшей сестрой и с братом. А потом уже ходила с подругами. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Было больше мужчин или женщин в <span class="place">кинотеатр</span>е?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Нет, <span class="lex">наверно</span>, одинаково. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Люди часто ходили кино с семьями или с
+            друзьями/подругами?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Я не знаю. Как сказать <span class="nonLex">...</span> по
+            разному бывало, <span class="lex">может быть</span> один раз там с друзьями ходили, другой
+            раз семьями ходили. Родители с детьми. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>B кинотеатр были очереди?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Да, были очереди. </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы помните, когда вы ждали в очереди?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Какое кино? <span class="persSing">Я</span> помню в <span class="place">Волгограде</span>
+            <span class="persSing">я</span>училась, и <span class="persPlur">мы</span> ходили с подругой. Кино называлось <span class="title">Женщина,
+               которая поёт</span>. В этом фильме снималась <span class="possPlur">наша</span>
+            <span class="epit">знаменитая певица</span>
+            <span class="person">Алла Борисовна Пугачёва</span>.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Почему вам понравилось?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, как. Она становилась
+            известной певицей и вышел новый фильм. Нам очень хотелось посмотреть и услышать новые
+            песни и посмотреть ее не как певицу, а как актрису
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы знали людей, которые работали в
+            кинотеатре?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>В <span class="place">кинотеатр</span>е
+            <span class="nonLex">...</span> Наверное, нет. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Какая была атмосфера в кинотеатре?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Как в кинозале? Как себя вели дети, кто приходил
+            в кино? Когда как, там смотря когда какой шел фильм, кричали, хлопали. Но когда
+            спокойно. Кто-то плакал. Какой сюжет в кино был. Если, там, грустный. Когда смешно,
+            все
+            смеялись.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы ели что-нибудь в кинотеатре?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Нет. <span class="persSing">Я</span>
+            считаю, что это неприлично. Если человек пришел смотреть фильм, значит все внимание
+            его
+            должно быть приковано только к экрану, и он должен смотреть, а не кушать. Для этого
+            есть
+            другое место.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Но был буфет в кинотеатре?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Да. </p>
+         
+         <h3>Roberts: </h3>
+         <p>Другие люди ели?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, иногда. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Что они ели?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span> что там. <span class="lex">Ну</span>, пироги, бутерброды. Что продавалось. Лимонад, как у вас кока кола, пепси
+            кола, <span class="possPlur">у нас</span> лимонад. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>А мороженое?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, мороженое, <span class="possPlur">у нас</span> не было. Это так в городе только было,
+            <span class="possPlur">у нас</span> иногда
+            только привозили мороженое. В магазин. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы посмотрели иностранные фильмы?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Иностранные? Да смотрела иностранные фильмы. <span class="lex">Ну</span>, и как сейчас<span class="possPlur">наши</span> новые фильмы, мне очень мало нравятся иностранные
+            фильмы. Много каких-то там <span class="nonLex">...</span> насилия и убийств. <span class="lex">Ну</span>, <span class="lex">может быть</span>, такой, <span class="persSing">я</span> не знаю. Мне как-то, близко старое <span class="possPlur">наше</span> кино. <span class="persPlur">Мы</span> воспитаны на <span class="genre">патриотических фильмах</span>,
+            на <span class="genre">сказках</span>, как-то. <span class="lex">Ну</span>, есть очень
+            хорошие <span class="nationalCinema">иностранные фильмы</span>, <span class="persSing">я</span> не говорю, что там всё полностью кино там
+            <span class="nationalCinema">американское</span>, <span class="nationalCinema">французское</span>, нет. Есть очень хорошие фильмы.
+            <span class="persSing">Я</span> с удовольствием смотрю их. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы помните какой-нибудь фильм вы
+            посмотрели?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Иностранные? <span class="persSing">Я</span> могу сказать <span class="title">Спартак</span>, <span class="title">Троя</span>, но <span class="persSing">я</span> не помню ни режиссеров,
+            ни актёров. <span class="title">Александр</span> есть. <span class="title">Tроя</span>. <span class="lex">Ну</span>, <span class="lex">может быть</span> еще
+            другие, ну так <span class="epit">исторические</span>,
+            конечно, <span class="epit">очень такие эффектные</span>
+            фильмы. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вам нравился исторический фильм?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Да. Очень хорошие. <span class="title">Гладиатор</span>, хотя в этих фильмах, конечно, очень много тоже таких сюжетов
+            трагических. <span class="lex">Ну</span>, фильмы очень интересные. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Когда вы посмотрели это фильм?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>
+            <span class="nonLex">...</span> Это в прошлом году <span class="persSing">я</span>
+            смотрела. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>А <span class="title">Спартак</span>
+            тоже?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Да. </p>
+         
+         <h3>Roberts: </h3>
+         <p>А какие фильме вам нравились больше всего?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Есть и комедии иностранные. С <span class="person">Луи де Фюнесом</span> мне очень нравятся. <span class="nationalCinema">Французские фильмы</span>. Где <span class="person">Жан
+               Марэ</span>. Его уже нет. И один, и другой, они умерли. <span class="lex">Ну</span>
+            <span class="nonLex">...</span> фильмы <span class="person">Тимоти Далтон</span> снимается.
+            Сейчас скажу, <span class="persSing">я</span> смотрела <span class="title">Джейн Эйр</span>. Фильм называется <span class="title">Джейн Эйр</span>.
+            <span class="person">Тимоти Далтон</span> снимается в этом фильме. Очень нравится.
+            Он тоже <span class="nonLex">...</span> как история там есть небольшая. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>А вам нравится Тимоти Далтон?</p>
+         
+         <h3>Danilenko: </h3>
+         <p> Да</p>
+         
+         <h3>Roberts: </h3>
+         <p>У вас есть любимый иностранный актёр?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>
+            <span class="nonLex">...</span> не знаю. С <span class="person">Мики Рурком</span> мне нравится.
+            Рукенхауэр? Правильно <span class="persSing">я</span> называю? Тоже, ну, можно
+            много, много называть, есть хорошие актёры.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Были ли фильмы, на который вам нельзя было
+            ходить?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, да.<span class="possPlur">У нас</span> было запрещено, до
+            шестнадцати лет нам не разрешали посещать. Кинотеатр только до четырёх часов. И там
+            показывали только <span class="genre">детские фильмы</span>. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вам не разрешали ваши родители или администрация
+            кинотеатра?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, и администрация, и
+            школа, ну родители тоже, как бы <span class="nonLex">...</span> не разрешали. До девяти часов <span class="persPlur">мы</span> должны вернуться до были, если гуляли. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Да. Вы попробовали ходить на пойти, на который вам
+            нельзя было пойти?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Пробовали. Но, нас не пропускали. </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы помните какой-нибудь фильм, у которого были
+            проблемы с выходом на экран?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, <span class="persSing">я</span> не знаю,<span class="persSing"> я </span>не могу
+            этого сказать. <span class="nonLex">...</span>
+            <span class="lex">Ну</span>, <span class="lex">может быть</span> цензура какие фильмы
+            запрещала. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Извините?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Раньше было такое, комиссия была. Они, когда
+            фильм был готов, он должен был выйти на широкий экран в <span class="place">кинотеатрe</span>, они смотрели и давали разрешения, что можно или нет. <span class="lex">Ну</span> я не знаю.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Ваши родители ходили в кино?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Ходили когда, ну, очень редко, когда было время. </p>
+         
+         <h3>Roberts: </h3>
+         <p>Что они смотрели, когда они ходили?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, разные фильмы, которые
+            были, также и<span class="possPlur">нашу</span>
+            <span class="genre">классику</span>, и <span class="genre">комедии</span>, ну
+            <span class="nationalCinema">иностранные фильмы</span>, <span class="persSing">я</span> не могу сказать сейчас названия, потому что<span class="persSing"> я </span>была очень маленькая. <span class="lex">Ну</span>,
+            что было в <span class="place">кинотеатр</span>е, старались по возможности
+            посещать <span class="place">кинотеатр</span> смотреть, интересовались тоже,
+            чтобы узнать, как другая страна живёт.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Вы ещё ходите в кино?</p>
+         
+         <h3>Danilenko: </h3>
+         <p>Мне бы хотелась. Но если будет время и
+            возможность, конечно. Но сейчас, когда есть время, <span class="persSing">я</span> смотрю по телевизору кино.
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Как ваши посещения кинотеатров изменились со
+            временем почему?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>
+            <span class="lex">Ну</span>, в современном
+            кинотеатре <span class="persSing">я</span> не была. Как не знаю сейчас <span class="nonLex">...</span> что есть и стерео кино, другие залы. Которые раньше были в
+            кинотеатре, просто обыкновенный зал с креслами, большой экран. Конечно, первое
+            впечатление, когда <span class="persPlur">мы</span> приходили в зал, для нас
+            было необыкновенно, очень приятно было. <span class="persSing">Я</span> не могу
+            сейчас сравнить, потому что в новом зале<span class="persSing"> я </span>не
+            была. Вы можете спросить у более молодого поколения. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Когда был последний раз, когда вы ходили в
+            кино?
+         </p>
+         
+         <h3>Danilenko: </h3>
+         <p>Ой, последний раз, да? <span class="lex">Ну</span>,
+            лет десять назад. 
+         </p>
+         
+         <h3>Roberts: </h3>
+         <p>Это всё. Спасибо за интервью. Пожалуйста.</p>
+         
+         
+         
+         
+      </div>
+   </body>
+</html>

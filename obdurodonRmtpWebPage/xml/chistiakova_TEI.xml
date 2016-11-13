@@ -7,7 +7,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Interview with :
+            <title>Interview with GALINA CHISTIAKOVA:
                         electronic version</title>
             <author>
                <name ref="chistiakova">GALINA CHISTIAKOVA</name>
@@ -93,10 +93,11 @@
                <publicationStmt>
                   <publisher>College of William and Mary</publisher>
                   <pubPlace>Williamsburg, VA</pubPlace>
-                  <date>4 July, 2008</date>
+                  <date type="interview">July 2009</date>
+                  <date type="translation">Fall 2009</date>
                </publicationStmt>
                <notesStmt>
-                  <note>The interview with Liudmila Danilenko is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note>
+                  <note>The interview is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note>
                </notesStmt>
             </biblFull>
          </sourceDesc>
@@ -112,9 +113,6 @@
             <language ident="ru">RUSSIAN</language>
          </langUsage>
          <particDesc>
-            <person role="interviewer">
-               <persName ref="roberts">MICHAEL ROBERTS</persName>
-            </person>
             <person role="interviewer">
                <persName ref="derevyannykh">ZHENIA DEREVYANNYKH</persName>
             </person>

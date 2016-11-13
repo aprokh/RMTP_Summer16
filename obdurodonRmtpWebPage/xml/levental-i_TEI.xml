@@ -7,7 +7,7 @@
 	  <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Interview with :
+            <title>Interview with IRINA LEVENTAL:
                         electronic version</title>
             <author>
                <name ref="leventalIrina">IRINA LEVENTAL</name>
@@ -117,10 +117,11 @@
                <publicationStmt>
                   <publisher>College of William and Mary</publisher>
                   <pubPlace>Williamsburg, VA</pubPlace>
-                  <date>4 July, 2008</date>
+                  <date type="interview">July 2013</date>
+                  <date type="translation">Fall 2013</date>
                </publicationStmt>
                <notesStmt>
-                  <note>The interview with Liudmila Danilenko is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note>
+                  <note>The interview is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note>
                </notesStmt>
             </biblFull>
          </sourceDesc>
@@ -136,9 +137,6 @@
             <language ident="ru">RUSSIAN</language>
          </langUsage>
          <particDesc>
-            <person role="interviewer">
-               <persName ref="roberts">MICHAEL ROBERTS</persName>
-            </person>
             <person role="interviewer">
                <persName ref="faith">RACHEL FAITH</persName>
             </person>
