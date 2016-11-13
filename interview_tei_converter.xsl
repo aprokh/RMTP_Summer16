@@ -109,7 +109,7 @@
                             <pubPlace>Williamsburg, VA</pubPlace>
                             <!-- This is a date of the interview. -->
                             <date>4 July, 2008</date></publicationStmt>
-                        <notesStmt><note>The interview with Liudmila Danilenko is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note></notesStmt>
+                        <notesStmt><note>The interview is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note></notesStmt>
                     </biblFull>
                 </sourceDesc>
             </fileDesc>

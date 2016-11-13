@@ -9,7 +9,6 @@
     <xsl:variable name="index" select="document('developmentFiles/Index/index.xml')"/>
     <xsl:template match="/">  
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
-        
         <html>
             <head>
                 <title>Cinema and Memory</title>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="18.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="xml-shtml.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="xml-shtml.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>

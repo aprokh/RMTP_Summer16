@@ -1,0 +1,101 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   
+   <head>
+      
+      <title>Cinema and Memory</title>
+      
+      <link rel="stylesheet" type="text/css" href="../css/style.css"></link>
+      
+   </head>
+   
+   <body>
+      
+      <!--#include virtual="../inc/menuSSI.xhtml" -->
+      
+      <div id="description">
+         <h1>Analysis</h1>
+         
+         <hr></hr>
+         
+         <h2>Qualitative Analysis and Conclusions</h2>
+         
+         <p> Computational methods allowed us to discover patterns in research questions of this
+            particular corpus of interviews For example, 88 distinct titles were mentioned in
+            the
+            interviews. However, there is an interesting disconnect between genres and specific
+            titles. Several interviewees mention European art cinema and specific directors, such
+            as
+            Fellini, Antonioni, Bertolucci, yet they do not mention any specific film titles.
+            Rather, these names appear as repeated lists. One conclusion we draw from this finding
+            is that these names serve as an affirmation of cultural taste and a shared “cultured”
+            identity, not a memorable individual experience of watching a film. The same
+            interviewees list specific titles of popular culture films. 
+         </p>
+         
+         <p> We chose to tag references to “Foreign Cinema” (зарубежное или иностранное кино)
+            as a
+            separate category. These references occur mostly in the speech of older interviewees.
+            Likewise, in addition to references to specific European national cinemas (French,
+            Italian, German, etc.) some interviewees mention “European cinema” as a category
+            distinct from Russo-Soviet or American. Our hypothesis, based on the frequency of
+            references to particular directors and actors, is that “European cinema” most likely
+            refers to the New Wave and art cinema of the 1950s-60s, especially French and Italian.
+            The interviews contain very few references to Eastern European cinemas and usually
+            in
+            the context of not having watched too many films from the socialist block countries.
+            
+         </p>
+         
+         <p>Data mining allowed us to see larger patterns, especially in network analysis
+            where co-occurences and paths are impossible for humans to calculate. Likewise, the
+            data
+            on the uses of pronouns and hesitation support our hypothesis but also modifies it.
+            (1)
+            Collective and plural pronouns are used more often by Soviet generation interviewees.
+            It
+            is important to note that currently we have interviews only by female interviewees
+            who
+            grew up during the Soviet era. The addition of interviews by male interviewees who
+            grew
+            up during the Soviet era might change our conclusions. (2) Hesitation marks are also
+            more prominent in the interviews by female interviewees who grew up during the Soviet
+            era, but are also contingent on age and remoteness of memories. (3) Their use also
+            depends on how extensive the answer is; male responses are usually shorter in our
+            sample
+            of interviews. 
+         </p>
+         
+         <p>Finally, there are some conclusions concerning the nature of oral history data analysis,
+            prompting us to go back and look at the context. The results of the pronoun and
+            hesitation analyses in particular need to take into account such additional factors
+            as
+            the topic of conversation (childhood memories vs. recent experiences) and the type
+            of
+            discourse produced. The latter might include a variety of modes: on-the spot attempts
+            to
+            remember; shared narratives of the past; stories that the interviewees told many times
+            and that sound “rehearsed”; answers that are produced for a particular audience /
+            interviewers (young Americans), etc. What kind of stories do the interviewees tell
+            influences the language they use? For example, one of the male interviewees, Vadim
+            Leventhal, tells a story of taking his friends to a film festival and their shock
+            at the
+            Taiwanese film which turned out to be “an art porno.” He does not hesitate a single
+            time. The conclusion is that we all have ready-made stories we told many times vs.
+            on-the-spot memories that use a very different discourse and more hesitation, connective
+            words or pauses. See for example, Irina Leventhal’s interview. 
+         </p>
+         
+         <hr></hr>
+         
+         <h2>Future Development of the Project.</h2>
+         
+         <p>The future of the project is contingent on adding more texts to the corpus of
+            interviews. We have 17 interviews to tag, validate and add to our collection for
+            computational analysis. We might also want to use linguistic statistical and topic
+            modeling tools to analyze the interviews. 
+         </p>
+      </div>
+      
+   </body>
+   
+</html>

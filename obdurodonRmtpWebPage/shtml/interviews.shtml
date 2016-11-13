@@ -1,0 +1,128 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   
+   <head>
+      
+      
+      <title>Cinema and Memory</title>
+      
+      <link rel="stylesheet" type="text/css" href="../css/style.css"></link>
+      <script type="text/javascript" src="/javascript/javascriptFilename.js"></script>
+      </head>
+   
+   <body>
+      
+      <!--#include virtual="../inc/menuSSI.xhtml" -->
+      
+      <div id="description">
+         <h1>Interviews</h1>
+         
+         <p>Listed below are the xslt versions of the interview transcripts. As the Russian Movie
+            Theater Project continues to unfold, the authors intend to continue adding interviews
+            to
+            this repository to support further scholarly study. 
+         </p>
+         
+         <table border="1" style="width:100%">
+            
+            <th>Interviewee</th>
+            
+            <th>XHTML</th>
+            
+            <th>TEI compliant XML Files</th>
+            
+            <tr>
+               
+               <td>Danilenko (2008)</td>
+               
+               <td><a href="interviews/danilenkoEng.shtml">SHTML File</a></td>
+               
+               <td><a href="/xml/danilenkoEng_TEI.xml">XML File</a></td>
+            </tr>
+            
+            <tr>
+               
+               <td>Chistiakova (2009)</td>
+               
+               <td><a href="interviews/chistiakova.shtml">SHTML File</a></td>
+               
+               <td><a href="/xml/chistiakova.xml">XML File</a></td>
+               
+            </tr>
+            
+            <tr>
+               
+               <td>Efimova (2010)</td>
+               
+               <td><a href="interviews/efimovaEng.shtml">SHTML File</a></td>
+               
+               <td><a href="/xml/efimovaEng_TEI.xml">XML File</a></td>
+               
+            </tr>
+            
+            <tr>
+               
+               <td>Sorkina (2010)</td>
+               
+               <td><a href="interviews/sorkina.shtml">SHTML File</a></td>
+               
+               <td><a href="/xml/sorkina.xml">XML File</a></td>
+               
+            </tr>
+            
+            <tr>
+               
+               <td>Alyrzaeva (2012)</td>
+               
+               <td><a href="interviews/alyrzaeva.shtml">SHTML File</a></td>
+               
+               <td><a href="/xml/alyrzaeva.xml">XML File</a></td>
+               
+            </tr>
+            
+            <tr>
+               
+               <td>Leventhal, I. (2012)</td>
+               
+               <td><a href="interviews/levental-i.shtml">SHTML File</a></td>
+               
+               <td><a href="/xml/leventhal-i.xml">XML File</a></td>
+               
+            </tr>
+            
+            <tr>
+               
+               <td>Voronin (2013)</td>
+               
+               <td><a href="interviews/voronin.shtml">SHTML File</a></td>
+               
+               <td><a href="/xml/voronin.xml">XML File</a></td>
+               
+            </tr>
+            
+            <tr>
+               
+               <td>Leventhal, V. (2014)</td>
+               
+               <td><a href="interviews/levental-v.shtml">SHTML File</a></td>
+               
+               <td><a href="/xml/leventhal-v.xml">XML File</a></td>
+               
+            </tr>
+            
+            <tr>
+               
+               <td>Pavlov (2014)</td>
+               
+               <td><a href="interviews/pavlov.shtml">SHTML File</a></td>
+               
+               <td><a href="/xml/pavlov.xml">XML File</a></td>
+               
+            </tr>
+            
+         </table>
+         
+      </div>
+      
+   </body>
+   
+</html>
