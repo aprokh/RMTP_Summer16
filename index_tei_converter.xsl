@@ -31,7 +31,7 @@
                     </titleStmt>
 <!--       Needed: description as you'd like it to appear             -->
                     <editionStmt>
-                        <edition>Desired description of edition</edition>
+                        <edition>TEI version of original XML index file of the Russian Movie Theater Project.</edition>
                     </editionStmt>
                     <publicationStmt>
                         <publisher>College of William and Mary</publisher>
@@ -50,7 +50,8 @@
                     </publicationStmt>
 <!--       More detailed description needed             -->
                     <sourceDesc>
-                        <p>Original transcriptions gathered by {fill in}</p>
+                        <p>This index stands as a compilation of people, places, titles, genres, and national cinemas referenced
+                        in the interviews.</p>
                     </sourceDesc>
 
                 </fileDesc>
@@ -183,9 +184,9 @@
             <country>
                 <xsl:apply-templates select="country"/>
             </country>
-            <person type="director">
+            <listPerson><person type="director">
                 <xsl:apply-templates select="director"/>
-            </person>
+            </person></listPerson>
             <date>
                 <xsl:apply-templates select="year"/>
             </date>
