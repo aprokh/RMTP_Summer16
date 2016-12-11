@@ -16,7 +16,7 @@
             <principal>Alexander Prokhorova</principal>
          </titleStmt>
          <editionStmt>
-            <edition>Desired description of edition</edition>
+            <edition>TEI version of original XML index file of the Russian Movie Theater Project.</edition>
          </editionStmt>
          <publicationStmt>
             <publisher>College of William and Mary</publisher>
@@ -33,7 +33,8 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Original transcriptions gathered by {fill in}</p>
+            <p>This index stands as a compilation of people, places, titles, genres, and national cinemas referenced
+                        in the interviews.</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -1245,10 +1246,12 @@
                   <title type="russ">Алладин</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Ron Clements and John Musker</person>
+                     <person role="director">
+                        <persName>Ron Clements and John Musker</persName>
+                     </person>
                   </listPerson>
                   <date>1992</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0103639/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0103639/"/>
                   <trait>
                      <label>genre</label>
                      <desc>disney</desc>
@@ -1264,10 +1267,12 @@
                   <title type="russ">Русалочка</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Ron Clements and John Musker</person>
+                     <person role="director">
+                        <persName>Ron Clements and John Musker</persName>
+                     </person>
                   </listPerson>
                   <date>1989</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0097757/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0097757/"/>
                   <trait>
                      <label>genre</label>
                      <desc>disney</desc>
@@ -1283,10 +1288,12 @@
                   <title type="russ">Красавица и чудовище</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Gary Trousdale and Kirk Wise</person>
+                     <person role="director">
+                        <persName>Gary Trousdale and Kirk Wise</persName>
+                     </person>
                   </listPerson>
                   <date>1991</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0101414/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0101414/"/>
                   <trait>
                      <label>genre</label>
                      <desc>disney</desc>
@@ -1302,10 +1309,12 @@
                   <title type="russ">Схватка</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Michael Mann</person>
+                     <person role="director">
+                        <persName>Michael Mann</persName>
+                     </person>
                   </listPerson>
                   <date>1995</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0113277/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0113277/"/>
                   <trait>
                      <label>genre</label>
                      <desc>crime</desc>
@@ -1321,10 +1330,12 @@
                   <title type="russ">Изображая жертву</title>
                   <country>Russia</country>
                   <listPerson>
-                     <person type="director">Kirill Serebrennikov</person>
+                     <person role="director">
+                        <persName>Kirill Serebrennikov</persName>
+                     </person>
                   </listPerson>
                   <date>2006</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0820096/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0820096/"/>
                   <trait>
                      <label>genre</label>
                      <desc>black comedy</desc>
@@ -1340,10 +1351,12 @@
                   <title type="russ">Простая история</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">David Lynch</person>
+                     <person role="director">
+                        <persName>David Lynch</persName>
+                     </person>
                   </listPerson>
                   <date>1999</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0166896/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0166896/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -1359,10 +1372,12 @@
                   <title type="russ">Дикие сердцем</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">David Lynch</person>
+                     <person role="director">
+                        <persName>David Lynch</persName>
+                     </person>
                   </listPerson>
                   <date>1990</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0100935/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0100935/"/>
                   <trait>
                      <label>genre</label>
                      <desc>crime thriller</desc>
@@ -1378,10 +1393,12 @@
                   <title type="russ">Меланхолия</title>
                   <country>Denmark</country>
                   <listPerson>
-                     <person type="director">Lars von Trier</person>
+                     <person role="director">
+                        <persName>Lars von Trier</persName>
+                     </person>
                   </listPerson>
                   <date>2011</date>
-                  <link type="imdb">http://www.imdb.com/title/tt1527186/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt1527186/"/>
                   <trait>
                      <label>genre</label>
                      <desc>artistic</desc>
@@ -1397,10 +1414,12 @@
                   <title type="russ">Любовное настроение</title>
                   <country>China</country>
                   <listPerson>
-                     <person type="director">Wong Kar-wai</person>
+                     <person role="director">
+                        <persName>Wong Kar-wai</persName>
+                     </person>
                   </listPerson>
                   <date>2000</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0118694/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0118694/"/>
                   <trait>
                      <label>genre</label>
                      <desc>artistic</desc>
@@ -1416,10 +1435,12 @@
                   <title type="russ">Покорители волн</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Curtis Hanson and Michael Apted</person>
+                     <person role="director">
+                        <persName>Curtis Hanson and Michael Apted</persName>
+                     </person>
                   </listPerson>
                   <date>2012</date>
-                  <link type="imdb">http://www.imdb.com/title/tt1629757/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt1629757/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -1435,10 +1456,12 @@
                   <title type="russ">Пираты Карибского моря</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Gore Verbinski</person>
+                     <person role="director">
+                        <persName>Gore Verbinski</persName>
+                     </person>
                   </listPerson>
                   <date>2006</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0383574/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0383574/"/>
                   <trait>
                      <label>genre</label>
                      <desc>fantasy</desc>
@@ -1454,10 +1477,12 @@
                   <title type="russ">Эйс Вентура: Розыск домашних животных</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Tom Shadyac</person>
+                     <person role="director">
+                        <persName>Tom Shadyac</persName>
+                     </person>
                   </listPerson>
                   <date>1994</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0109040/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0109040/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -1473,10 +1498,12 @@
                   <title type="russ">Крестный отец</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Francis Ford Coppola</person>
+                     <person role="director">
+                        <persName>Francis Ford Coppola</persName>
+                     </person>
                   </listPerson>
                   <date>1972</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0068646/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0068646/"/>
                   <trait>
                      <label>genre</label>
                      <desc>crime drama</desc>
@@ -1492,10 +1519,12 @@
                   <title type="russ">Бригада</title>
                   <country>Russia</country>
                   <listPerson>
-                     <person type="director">Aleksei Sidorov</person>
+                     <person role="director">
+                        <persName>Aleksei Sidorov</persName>
+                     </person>
                   </listPerson>
                   <date>2002</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0337898/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0337898/"/>
                   <trait>
                      <label>genre</label>
                      <desc>crime drama</desc>
@@ -1512,10 +1541,12 @@
                   <title type="russ">Брат</title>
                   <country>Russia</country>
                   <listPerson>
-                     <person type="director">Aleksei Balabanov</person>
+                     <person role="director">
+                        <persName>Aleksei Balabanov</persName>
+                     </person>
                   </listPerson>
                   <date>1997</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0118767/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0118767/"/>
                   <trait>
                      <label>genre</label>
                      <desc>crime drama</desc>
@@ -1531,10 +1562,12 @@
                   <title type="russ">Брат 2</title>
                   <country>Russia</country>
                   <listPerson>
-                     <person type="director">Aleksei Balabanov</person>
+                     <person role="director">
+                        <persName>Aleksei Balabanov</persName>
+                     </person>
                   </listPerson>
                   <date>2000</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0238883/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0238883/"/>
                   <trait>
                      <label>genre</label>
                      <desc>crime drama</desc>
@@ -1550,10 +1583,12 @@
                   <title type="russ">Жизнь прекрасна</title>
                   <country>Italy</country>
                   <listPerson>
-                     <person type="director">Roberto Benigni</person>
+                     <person role="director">
+                        <persName>Roberto Benigni</persName>
+                     </person>
                   </listPerson>
                   <date>1997</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0118799/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0118799/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -1569,10 +1604,12 @@
                   <title type="russ">Маска</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Chuck Russell</person>
+                     <person role="director">
+                        <persName>Chuck Russell</persName>
+                     </person>
                   </listPerson>
                   <date>1994</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0110475/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0110475/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -1588,10 +1625,12 @@
                   <title type="russ">Железный человек 3</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Shane Black</person>
+                     <person role="director">
+                        <persName>Shane Black</persName>
+                     </person>
                   </listPerson>
                   <date>2013</date>
-                  <link type="imdb">http://www.imdb.com/title/tt1300854/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt1300854/"/>
                   <trait>
                      <label>genre</label>
                      <desc>superhero</desc>
@@ -1607,10 +1646,12 @@
                   <title type="russ">Первоклассница</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Il'ia Frez</person>
+                     <person role="director">
+                        <persName>Il'ia Frez</persName>
+                     </person>
                   </listPerson>
                   <date>1948</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0040689/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0040689/"/>
                   <trait>
                      <label>genre</label>
                      <desc>children's</desc>
@@ -1626,10 +1667,12 @@
                   <title type="russ">Римские каникулы</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">William Wyler</person>
+                     <person role="director">
+                        <persName>William Wyler</persName>
+                     </person>
                   </listPerson>
                   <date>1953</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0046250/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0046250/"/>
                   <trait>
                      <label>genre</label>
                      <desc>romantic comedy</desc>
@@ -1645,10 +1688,12 @@
                   <title type="russ">Унесенные ветром</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Victor Fleming</person>
+                     <person role="director">
+                        <persName>Victor Fleming</persName>
+                     </person>
                   </listPerson>
                   <date>1953</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0031381/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0031381/"/>
                   <trait>
                      <label>genre</label>
                      <desc>melodrama</desc>
@@ -1664,10 +1709,12 @@
                   <title type="russ">Москва слезам не верит</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Vladimir Men'shov</person>
+                     <person role="director">
+                        <persName>Vladimir Men'shov</persName>
+                     </person>
                   </listPerson>
                   <date>1979</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0079579/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0079579/"/>
                   <trait>
                      <label>genre</label>
                      <desc>melodrama</desc>
@@ -1684,10 +1731,12 @@
                   <title type="russ">Василиса Прекрасная</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Aleksandr Rou</person>
+                     <person role="director">
+                        <persName>Aleksandr Rou</persName>
+                     </person>
                   </listPerson>
                   <date>1939</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0167474/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0167474/"/>
                   <trait>
                      <label>genre</label>
                      <desc>fairy tale</desc>
@@ -1704,10 +1753,12 @@
                   <title type="russ">Цвет граната</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Sergei Paradzhanov</person>
+                     <person role="director">
+                        <persName>Sergei Paradzhanov</persName>
+                     </person>
                   </listPerson>
                   <date>1969</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0063555/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0063555/"/>
                   <trait>
                      <label>genre</label>
                      <desc>art cinema</desc>
@@ -1723,10 +1774,12 @@
                   <title type="russ">Остров</title>
                   <country>Russia</country>
                   <listPerson>
-                     <person type="director">Pavel Lungin</person>
+                     <person role="director">
+                        <persName>Pavel Lungin</persName>
+                     </person>
                   </listPerson>
                   <date>2006</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0851577/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0851577/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -1742,10 +1795,12 @@
                   <title type="russ">Адмирал</title>
                   <country>Russia</country>
                   <listPerson>
-                     <person type="director">Andrei Kravchuk</person>
+                     <person role="director">
+                        <persName>Andrei Kravchuk</persName>
+                     </person>
                   </listPerson>
                   <date>2008</date>
-                  <link type="imdb">http://www.imdb.com/title/tt1101026/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt1101026/"/>
                   <trait>
                      <label>genre</label>
                      <desc>melodrama</desc>
@@ -1761,10 +1816,12 @@
                   <title type="russ">Утомленные солнцем 2: Предстояние и Цитадель</title>
                   <country>Russia</country>
                   <listPerson>
-                     <person type="director">Nikita Mikhalkov</person>
+                     <person role="director">
+                        <persName>Nikita Mikhalkov</persName>
+                     </person>
                   </listPerson>
                   <date>2010</date>
-                  <link type="imdb">http://www.imdb.com/title/tt1912518/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt1912518/"/>
                   <trait>
                      <label>genre</label>
                      <desc>war epic</desc>
@@ -1780,10 +1837,12 @@
                   <title type="russ">Ирония судьбы</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Eldar Riazanov</person>
+                     <person role="director">
+                        <persName>Eldar Riazanov</persName>
+                     </person>
                   </listPerson>
                   <date>1976</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0073179/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0073179/"/>
                   <trait>
                      <label>genre</label>
                      <desc>romantic comedy</desc>
@@ -1799,10 +1858,12 @@
                   <title type="russ">Пираты ХХ века</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Boris Durov</person>
+                     <person role="director">
+                        <persName>Boris Durov</persName>
+                     </person>
                   </listPerson>
                   <date>1979</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0151987/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0151987/"/>
                   <trait>
                      <label>genre</label>
                      <desc>action</desc>
@@ -1818,10 +1879,12 @@
                   <title type="russ">Десять негритят</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Stanislav Govorukhin</person>
+                     <person role="director">
+                        <persName>Stanislav Govorukhin</persName>
+                     </person>
                   </listPerson>
                   <date>1987</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0092879/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0092879/"/>
                   <trait>
                      <label>genre</label>
                      <desc>murder mystery</desc>
@@ -1837,10 +1900,12 @@
                   <title type="russ">Холодное лето пятьдесят третьего...</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Aleksandr Proshkin</person>
+                     <person role="director">
+                        <persName>Aleksandr Proshkin</persName>
+                     </person>
                   </listPerson>
                   <date>1988</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0095441/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0095441/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -1856,10 +1921,12 @@
                   <title type="russ">Девять с половиной недель</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Adrian Lyne</person>
+                     <person role="director">
+                        <persName>Adrian Lyne</persName>
+                     </person>
                   </listPerson>
                   <date>1986</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0091635/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0091635/"/>
                   <trait>
                      <label>genre</label>
                      <desc>erotic</desc>
@@ -1875,10 +1942,12 @@
                   <title type="russ">Окное в Парию</title>
                   <country>Russia</country>
                   <listPerson>
-                     <person type="director">Iurii Mamin</person>
+                     <person role="director">
+                        <persName>Iurii Mamin</persName>
+                     </person>
                   </listPerson>
                   <date>1993</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0110719/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0110719/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -1894,10 +1963,12 @@
                   <title type="russ">Дикая охота короля Стаха</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Valerii Rubinchik</person>
+                     <person role="director">
+                        <persName>Valerii Rubinchik</persName>
+                     </person>
                   </listPerson>
                   <date>1979</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0128164/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0128164/"/>
                   <trait>
                      <label>genre</label>
                      <desc>thriller</desc>
@@ -1913,10 +1984,12 @@
                   <title type="russ">Капризное облако</title>
                   <country>China</country>
                   <listPerson>
-                     <person type="director">Tsai Ming-liang</person>
+                     <person role="director">
+                        <persName>Tsai Ming-liang</persName>
+                     </person>
                   </listPerson>
                   <date>2005</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0445760/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0445760/"/>
                   <trait>
                      <label>genre</label>
                      <desc>erotic</desc>
@@ -1932,10 +2005,12 @@
                   <title type="russ">Трансформеры</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Michael Bay</person>
+                     <person role="director">
+                        <persName>Michael Bay</persName>
+                     </person>
                   </listPerson>
                   <date>2007</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0418279/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0418279/"/>
                   <trait>
                      <label>genre</label>
                      <desc>science fiction</desc>
@@ -1951,10 +2026,12 @@
                   <title type="russ">Война миров Z</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Marc Forster</person>
+                     <person role="director">
+                        <persName>Marc Forster</persName>
+                     </person>
                   </listPerson>
                   <date>2013</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0816711/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0816711/"/>
                   <trait>
                      <label>genre</label>
                      <desc>action thriller</desc>
@@ -1970,10 +2047,12 @@
                   <title type="russ">Хоббит</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Peter Jackson</person>
+                     <person role="director">
+                        <persName>Peter Jackson</persName>
+                     </person>
                   </listPerson>
                   <date>2012</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0903624/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0903624/"/>
                   <trait>
                      <label>genre</label>
                      <desc>fantasy</desc>
@@ -1989,10 +2068,12 @@
                   <title type="russ">Жизнь Адель</title>
                   <country>France</country>
                   <listPerson>
-                     <person type="director">Abdellatif Kechiche</person>
+                     <person role="director">
+                        <persName>Abdellatif Kechiche</persName>
+                     </person>
                   </listPerson>
                   <date>2013</date>
-                  <link type="imdb">http://www.imdb.com/title/tt2278871/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt2278871/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -2008,10 +2089,12 @@
                   <title type="russ">В мире животных</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">n/a</person>
+                     <person role="director">
+                        <persName>n/a</persName>
+                     </person>
                   </listPerson>
                   <date>1968</date>
-                  <link type="imdb"/>
+                  <link type="imdb" target=""/>
                   <trait>
                      <label>genre</label>
                      <desc>TV show</desc>
@@ -2028,10 +2111,12 @@
                   <title type="russ">Бриллиантовая рука</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Leonid Gaidai</person>
+                     <person role="director">
+                        <persName>Leonid Gaidai</persName>
+                     </person>
                   </listPerson>
                   <date>1968</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0062759/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0062759/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2047,10 +2132,12 @@
                   <title type="russ">Неуловимые мстители</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Edmond Keosaian</person>
+                     <person role="director">
+                        <persName>Edmond Keosaian</persName>
+                     </person>
                   </listPerson>
                   <date>1966</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0060747/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0060747/"/>
                   <trait>
                      <label>genre</label>
                      <desc>adventure</desc>
@@ -2066,10 +2153,12 @@
                   <title type="russ">Лебединое озеро</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Appolinarii Dudko and Konstantin Sergeev</person>
+                     <person role="director">
+                        <persName>Appolinarii Dudko and Konstantin Sergeev</persName>
+                     </person>
                   </listPerson>
                   <date>1958</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0165855/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0165855/"/>
                   <trait>
                      <label>genre</label>
                      <desc>film-ballet</desc>
@@ -2085,10 +2174,12 @@
                   <title type="russ">Женщина, которая поет</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Aleksandr Orlov</person>
+                     <person role="director">
+                        <persName>Aleksandr Orlov</persName>
+                     </person>
                   </listPerson>
                   <date>1979</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0169403/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0169403/"/>
                   <trait>
                      <label>genre</label>
                      <desc>musical</desc>
@@ -2104,10 +2195,12 @@
                   <title type="russ">Троя</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Wolfgang Petersen</person>
+                     <person role="director">
+                        <persName>Wolfgang Petersen</persName>
+                     </person>
                   </listPerson>
                   <date>2004</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0332452/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0332452/"/>
                   <trait>
                      <label>genre</label>
                      <desc>epic</desc>
@@ -2123,10 +2216,12 @@
                   <title type="russ">Спартак</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Stanley Kubrick</person>
+                     <person role="director">
+                        <persName>Stanley Kubrick</persName>
+                     </person>
                   </listPerson>
                   <date>1960</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0054331/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0054331/"/>
                   <trait>
                      <label>genre</label>
                      <desc>epic</desc>
@@ -2142,10 +2237,12 @@
                   <title type="russ">Александр</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Oliver Stone</person>
+                     <person role="director">
+                        <persName>Oliver Stone</persName>
+                     </person>
                   </listPerson>
                   <date>2004</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0346491/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0346491/"/>
                   <trait>
                      <label>genre</label>
                      <desc>epic</desc>
@@ -2162,10 +2259,12 @@
                   <title type="russ">Джейн Эйр</title>
                   <country>Britain</country>
                   <listPerson>
-                     <person type="director">Julian Amyes</person>
+                     <person role="director">
+                        <persName>Julian Amyes</persName>
+                     </person>
                   </listPerson>
                   <date>1983</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0085037/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0085037/"/>
                   <trait>
                      <label>genre</label>
                      <desc>adaptation</desc>
@@ -2181,10 +2280,12 @@
                   <title type="russ">Тупой и еще тупее</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Peter Farrelly</person>
+                     <person role="director">
+                        <persName>Peter Farrelly</persName>
+                     </person>
                   </listPerson>
                   <date>1994</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0109686/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0109686/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2200,10 +2301,12 @@
                   <title type="russ">Пи</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Darren Aronofsky</person>
+                     <person role="director">
+                        <persName>Darren Aronofsky</persName>
+                     </person>
                   </listPerson>
                   <date>1998</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0138704/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0138704/"/>
                   <trait>
                      <label>genre</label>
                      <desc>thriller</desc>
@@ -2219,10 +2322,12 @@
                   <title type="russ">Спокойной ночи, малыши!</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">n/a</person>
+                     <person role="director">
+                        <persName>n/a</persName>
+                     </person>
                   </listPerson>
                   <date>1998</date>
-                  <link type="imdb">http://www.imdb.com/title/tt3994982/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt3994982/"/>
                   <trait>
                      <label>genre</label>
                      <desc>TV show</desc>
@@ -2238,10 +2343,12 @@
                   <title type="russ">Дети капитана Гранта</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Vladimir Vainshtok and David Gutman</person>
+                     <person role="director">
+                        <persName>Vladimir Vainshtok and David Gutman</persName>
+                     </person>
                   </listPerson>
                   <date>1936</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0027516/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0027516/"/>
                   <trait>
                      <label>genre</label>
                      <desc>adventure</desc>
@@ -2257,10 +2364,12 @@
                   <title type="russ">Дядюшка Бунми, который помнит свои прошлые жизни</title>
                   <country>Thailand</country>
                   <listPerson>
-                     <person type="director">Apichatpong Weerasethakul</person>
+                     <person role="director">
+                        <persName>Apichatpong Weerasethakul</persName>
+                     </person>
                   </listPerson>
                   <date>2010</date>
-                  <link type="imdb">http://www.imdb.com/title/tt1588895/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt1588895/"/>
                   <trait>
                      <label>genre</label>
                      <desc>art cinema</desc>
@@ -2276,10 +2385,12 @@
                   <title type="russ">Иван Васильевич меняет профессию</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Leonid Gaidai</person>
+                     <person role="director">
+                        <persName>Leonid Gaidai</persName>
+                     </person>
                   </listPerson>
                   <date>1973</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0070233/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0070233/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2295,10 +2406,12 @@
                   <title type="russ">Война и мир</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Sergei Bondarchuk</person>
+                     <person role="director">
+                        <persName>Sergei Bondarchuk</persName>
+                     </person>
                   </listPerson>
                   <date>1967</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0062456/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0062456/"/>
                   <trait>
                      <label>genre</label>
                      <desc>epic</desc>
@@ -2314,10 +2427,12 @@
                   <title type="russ">Джуно</title>
                   <country>Canada/USA</country>
                   <listPerson>
-                     <person type="director">Jason Reitman</person>
+                     <person role="director">
+                        <persName>Jason Reitman</persName>
+                     </person>
                   </listPerson>
                   <date>2007</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0467406/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0467406/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2333,10 +2448,12 @@
                   <title type="russ">Шоу Рокки и Буллвинкля</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Jay Ward</person>
+                     <person role="director">
+                        <persName>Jay Ward</persName>
+                     </person>
                   </listPerson>
                   <date>1960</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0054524/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0054524/"/>
                   <trait>
                      <label>genre</label>
                      <desc>cartoon</desc>
@@ -2352,10 +2469,12 @@
                   <title type="russ">Необратимость</title>
                   <country>France</country>
                   <listPerson>
-                     <person type="director">Gaspar Noe</person>
+                     <person role="director">
+                        <persName>Gaspar Noe</persName>
+                     </person>
                   </listPerson>
                   <date>2002</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0290673/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0290673/"/>
                   <trait>
                      <label>genre</label>
                      <desc>thriller</desc>
@@ -2371,10 +2490,12 @@
                   <title type="russ">Молодая гвардия</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Sergei Gerasimov</person>
+                     <person role="director">
+                        <persName>Sergei Gerasimov</persName>
+                     </person>
                   </listPerson>
                   <date>1948</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0040601/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0040601/"/>
                   <trait>
                      <label>genre</label>
                      <desc>war film</desc>
@@ -2390,10 +2511,12 @@
                   <title type="russ">Семнадцать мгновений весны</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Tat'ana Lioznova</person>
+                     <person role="director">
+                        <persName>Tat'ana Lioznova</persName>
+                     </person>
                   </listPerson>
                   <date>1973</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0069628/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0069628/"/>
                   <trait>
                      <label>genre</label>
                      <desc>spy thriller</desc>
@@ -2410,10 +2533,12 @@
                   <title type="russ">Морозко</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Aleksandr Rou</person>
+                     <person role="director">
+                        <persName>Aleksandr Rou</persName>
+                     </person>
                   </listPerson>
                   <date>1964</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0058374/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0058374/"/>
                   <trait>
                      <label>genre</label>
                      <desc>skazka</desc>
@@ -2429,10 +2554,12 @@
                   <title type="russ">Иван Бровкин на целине</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Ivan Lukinskii</person>
+                     <person role="director">
+                        <persName>Ivan Lukinskii</persName>
+                     </person>
                   </listPerson>
                   <date>1959</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0051789/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0051789/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2448,10 +2575,12 @@
                   <title type="russ">Чапаев</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Georgii Vasil'ev and Sergei Vasil'ev</person>
+                     <person role="director">
+                        <persName>Georgii Vasil'ev and Sergei Vasil'ev</persName>
+                     </person>
                   </listPerson>
                   <date>1934</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0024966/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0024966/"/>
                   <trait>
                      <label>genre</label>
                      <desc>biopic</desc>
@@ -2467,10 +2596,12 @@
                   <title type="russ">Золушка</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Nadezhda Kosheverova and Mikhail Shapiro</person>
+                     <person role="director">
+                        <persName>Nadezhda Kosheverova and Mikhail Shapiro</persName>
+                     </person>
                   </listPerson>
                   <date>1947</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0168269/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0168269/"/>
                   <trait>
                      <label>genre</label>
                      <desc>skazka</desc>
@@ -2486,10 +2617,12 @@
                   <title type="russ">Большой вальс</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Julien Duvivier</person>
+                     <person role="director">
+                        <persName>Julien Duvivier</persName>
+                     </person>
                   </listPerson>
                   <date>1938</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0030202/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0030202/"/>
                   <trait>
                      <label>genre</label>
                      <desc>biopic</desc>
@@ -2505,10 +2638,12 @@
                   <title type="russ">Праздник святого Йоргена</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Iakov Protazanov</person>
+                     <person role="director">
+                        <persName>Iakov Protazanov</persName>
+                     </person>
                   </listPerson>
                   <date>1930</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0021268/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0021268/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2524,10 +2659,12 @@
                   <title type="russ">Война и мир</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">King Vidor</person>
+                     <person role="director">
+                        <persName>King Vidor</persName>
+                     </person>
                   </listPerson>
                   <date>1956</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0049934/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0049934/"/>
                   <trait>
                      <label>genre</label>
                      <desc>adaptation</desc>
@@ -2543,10 +2680,12 @@
                   <title type="russ">Адмирал Ушаков</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Mikhail Romm</person>
+                     <person role="director">
+                        <persName>Mikhail Romm</persName>
+                     </person>
                   </listPerson>
                   <date>1953</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0045473/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0045473/"/>
                   <trait>
                      <label>genre</label>
                      <desc>biopic</desc>
@@ -2562,10 +2701,12 @@
                   <title type="russ">Гладиатор</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">ridley Scott</person>
+                     <person role="director">
+                        <persName>ridley Scott</persName>
+                     </person>
                   </listPerson>
                   <date>2000</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0172495/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0172495/"/>
                   <trait>
                      <label>genre</label>
                      <desc>epic</desc>
@@ -2581,10 +2722,12 @@
                   <title type="russ">Муму</title>
                   <country>Russia</country>
                   <listPerson>
-                     <person type="director">Iurii Grymov</person>
+                     <person role="director">
+                        <persName>Iurii Grymov</persName>
+                     </person>
                   </listPerson>
                   <date>1998</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0129243/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0129243/"/>
                   <trait>
                      <label>genre</label>
                      <desc>adaptation</desc>
@@ -2600,10 +2743,12 @@
                   <title type="russ">Ледниковый период</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Chris Wedge and Carlos Saldanha</person>
+                     <person role="director">
+                        <persName>Chris Wedge and Carlos Saldanha</persName>
+                     </person>
                   </listPerson>
                   <date>2002</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0268380/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0268380/"/>
                   <trait>
                      <label>genre</label>
                      <desc>cartoon</desc>
@@ -2619,10 +2764,12 @@
                   <title type="russ">Белое солнце пустыни</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Vladimir Motyl'</person>
+                     <person role="director">
+                        <persName>Vladimir Motyl'</persName>
+                     </person>
                   </listPerson>
                   <date>1970</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0066565/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0066565/"/>
                   <trait>
                      <label>genre</label>
                      <desc>western</desc>
@@ -2638,10 +2785,12 @@
                   <title type="russ">Дама с собачкой</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Iosif Kheifits</person>
+                     <person role="director">
+                        <persName>Iosif Kheifits</persName>
+                     </person>
                   </listPerson>
                   <date>1960</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0053746/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0053746/"/>
                   <trait>
                      <label>genre</label>
                      <desc>melodrama</desc>
@@ -2657,10 +2806,12 @@
                   <title type="russ">Три мушкетера</title>
                   <country>France</country>
                   <listPerson>
-                     <person type="director">Andre Hunebelle</person>
+                     <person role="director">
+                        <persName>Andre Hunebelle</persName>
+                     </person>
                   </listPerson>
                   <date>1953</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0046461/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0046461/"/>
                   <trait>
                      <label>genre</label>
                      <desc>adaptation</desc>
@@ -2676,10 +2827,12 @@
                   <title type="russ">И дождь смывает все следы</title>
                   <country>Germany/France</country>
                   <listPerson>
-                     <person type="director">Alfred Vohrer</person>
+                     <person role="director">
+                        <persName>Alfred Vohrer</persName>
+                     </person>
                   </listPerson>
                   <date>1972</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0069441/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0069441/"/>
                   <trait>
                      <label>genre</label>
                      <desc>melodrama</desc>
@@ -2695,10 +2848,12 @@
                   <title type="russ">Фантомас</title>
                   <country>France</country>
                   <listPerson>
-                     <person type="director">Andre Hunebelle</person>
+                     <person role="director">
+                        <persName>Andre Hunebelle</persName>
+                     </person>
                   </listPerson>
                   <date>1964</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0058089/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0058089/"/>
                   <trait>
                      <label>genre</label>
                      <desc>crime thriller / comedy</desc>
@@ -2714,10 +2869,12 @@
                   <title type="russ">Подранки</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Nikolai Gubenko</person>
+                     <person role="director">
+                        <persName>Nikolai Gubenko</persName>
+                     </person>
                   </listPerson>
                   <date>1977</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0075079/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0075079/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -2733,10 +2890,12 @@
                   <title type="russ">И жизнь, и следы, и любовь</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Nikolai Gubenko</person>
+                     <person role="director">
+                        <persName>Nikolai Gubenko</persName>
+                     </person>
                   </listPerson>
                   <date>1973</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0167204/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0167204/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -2752,10 +2911,12 @@
                   <title type="russ">Из жизни отдыхающих</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Nikolai Gubenko</person>
+                     <person role="director">
+                        <persName>Nikolai Gubenko</persName>
+                     </person>
                   </listPerson>
                   <date>1980</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0080939/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0080939/"/>
                   <trait>
                      <label>genre</label>
                      <desc>romantic comedy</desc>
@@ -2771,10 +2932,12 @@
                   <title type="russ">Бег</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Aleksandr Alov and Vladimir Naumov</person>
+                     <person role="director">
+                        <persName>Aleksandr Alov and Vladimir Naumov</persName>
+                     </person>
                   </listPerson>
                   <date>1970</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0065457/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0065457/"/>
                   <trait>
                      <label>genre</label>
                      <desc>adaptation</desc>
@@ -2790,10 +2953,12 @@
                   <title type="russ">Однажды в Америке</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Sergio Leone</person>
+                     <person role="director">
+                        <persName>Sergio Leone</persName>
+                     </person>
                   </listPerson>
                   <date>1984</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0087843/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0087843/"/>
                   <trait>
                      <label>genre</label>
                      <desc>crime drama</desc>
@@ -2809,10 +2974,12 @@
                   <title type="russ">Полет над гнездом кукушки</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Milos Forman</person>
+                     <person role="director">
+                        <persName>Milos Forman</persName>
+                     </person>
                   </listPerson>
                   <date>1975</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0073486/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0073486/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -2828,10 +2995,12 @@
                   <title type="russ">Джентельмены удачи</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Aleksandr Seryi</person>
+                     <person role="director">
+                        <persName>Aleksandr Seryi</persName>
+                     </person>
                   </listPerson>
                   <date>1971</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0068519/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0068519/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2847,10 +3016,12 @@
                   <title type="russ">Ну, погоди!</title>
                   <country>USSR </country>
                   <listPerson>
-                     <person type="director">Viacheslav Kotenochkin</person>
+                     <person role="director">
+                        <persName>Viacheslav Kotenochkin</persName>
+                     </person>
                   </listPerson>
                   <date>1969</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0234355/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0234355/"/>
                   <trait>
                      <label>genre</label>
                      <desc>cartoon series</desc>
@@ -2866,10 +3037,12 @@
                   <title type="russ">Мимино</title>
                   <country>USSR </country>
                   <listPerson>
-                     <person type="director">Georgii Daneliia</person>
+                     <person role="director">
+                        <persName>Georgii Daneliia</persName>
+                     </person>
                   </listPerson>
                   <date>1977</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0076391/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0076391/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2885,10 +3058,12 @@
                   <title type="russ">Касабланка</title>
                   <country>USA </country>
                   <listPerson>
-                     <person type="director">Michael Curtiz</person>
+                     <person role="director">
+                        <persName>Michael Curtiz</persName>
+                     </person>
                   </listPerson>
                   <date>1942</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0034583/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0034583/"/>
                   <trait>
                      <label>genre</label>
                      <desc>melodrama</desc>
@@ -2904,10 +3079,12 @@
                   <title type="russ">Анна Каренина</title>
                   <country>Russia </country>
                   <listPerson>
-                     <person type="director">Sergei Solovyov</person>
+                     <person role="director">
+                        <persName>Sergei Solovyov</persName>
+                     </person>
                   </listPerson>
                   <date>2009</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0403726/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0403726/"/>
                   <trait>
                      <label>genre</label>
                      <desc>melodrama</desc>
@@ -2923,10 +3100,12 @@
                   <title type="russ">Хозяйка медной горы</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Alexander Ptushko</person>
+                     <person role="director">
+                        <persName>Alexander Ptushko</persName>
+                     </person>
                   </listPerson>
                   <date>1946</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0038666/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0038666/"/>
                   <trait>
                      <label>genre</label>
                      <desc>skazka</desc>
@@ -2942,10 +3121,12 @@
                   <title type="russ">Кинг Конг</title>
                   <country>USA</country>
                   <listPerson>
-                     <person type="director">Peter Jackson</person>
+                     <person role="director">
+                        <persName>Peter Jackson</persName>
+                     </person>
                   </listPerson>
                   <date>2005</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0360717/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0360717/"/>
                   <trait>
                      <label>genre</label>
                      <desc>monster film</desc>
@@ -2961,10 +3142,12 @@
                   <title type="russ">Служебный роман</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Eldar Riazanov</person>
+                     <person role="director">
+                        <persName>Eldar Riazanov</persName>
+                     </person>
                   </listPerson>
                   <date>1977</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0076727/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0076727/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2980,10 +3163,12 @@
                   <title type="russ">Покровские ворота</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Mikhail Kozakov</person>
+                     <person role="director">
+                        <persName>Mikhail Kozakov</persName>
+                     </person>
                   </listPerson>
                   <date>1983</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0083465/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0083465/"/>
                   <trait>
                      <label>genre</label>
                      <desc>comedy</desc>
@@ -2999,10 +3184,12 @@
                   <title type="russ">Зеркало</title>
                   <country>USSR</country>
                   <listPerson>
-                     <person type="director">Andrei Tarkovskii</person>
+                     <person role="director">
+                        <persName>Andrei Tarkovskii</persName>
+                     </person>
                   </listPerson>
                   <date>1975</date>
-                  <link type="imdb">http://www.imdb.com/title/tt0072443/</link>
+                  <link type="imdb" target="http://www.imdb.com/title/tt0072443/"/>
                   <trait>
                      <label>genre</label>
                      <desc>drama</desc>
@@ -3016,37 +3203,39 @@
             </list>
          </div>
 
-         <list type="genres">
-            <item xml:id="animation"/>
-            <item xml:id="childrens"/>
-            <item xml:id="comedy"/>
-            <item xml:id="drama"/>
-            <item xml:id="melodrama"/>
-            <item xml:id="psychologicalThriller"/>
-            <item xml:id="horror"/>
-            <item xml:id="blockbuster"/>
-            <item xml:id="warFilms"/>
-            <item xml:id="adult"/>
-            <item xml:id="skazka"/>
-            <item xml:id="romanticComedy"/>
-            <item xml:id="art"/>
-            <item xml:id="romance"/>
-            <item xml:id="action"/>
-            <item xml:id="documentary"/>
-            <item xml:id="classics"/>
-            <item xml:id="patrioticFilms"/>
-            <item xml:id="fantasy"/>
-            <item xml:id="crimeDrama"/>
-            <item xml:id="thriller"/>
-            <item xml:id="retro"/>
-            <item xml:id="trophy"/>
-            <item xml:id="silent"/>
-            <item xml:id="detective"/>
-            <item xml:id="western"/>
-            <item xml:id="shortFilm"/>
-            <item xml:id="commercialCinema"/>
-            <item xml:id="historyFilm"/>
-         </list>
+         <div type="genres">
+            <list type="genres">
+               <item xml:id="animation"/>
+               <item xml:id="childrens"/>
+               <item xml:id="comedy"/>
+               <item xml:id="drama"/>
+               <item xml:id="melodrama"/>
+               <item xml:id="psychologicalThriller"/>
+               <item xml:id="horror"/>
+               <item xml:id="blockbuster"/>
+               <item xml:id="warFilms"/>
+               <item xml:id="adult"/>
+               <item xml:id="skazka"/>
+               <item xml:id="romanticComedy"/>
+               <item xml:id="art"/>
+               <item xml:id="romance"/>
+               <item xml:id="action"/>
+               <item xml:id="documentary"/>
+               <item xml:id="classics"/>
+               <item xml:id="patrioticFilms"/>
+               <item xml:id="fantasy"/>
+               <item xml:id="crimeDrama"/>
+               <item xml:id="thriller"/>
+               <item xml:id="retro"/>
+               <item xml:id="trophy"/>
+               <item xml:id="silent"/>
+               <item xml:id="detective"/>
+               <item xml:id="western"/>
+               <item xml:id="shortFilm"/>
+               <item xml:id="commercialCinema"/>
+               <item xml:id="historyFilm"/>
+            </list>
+         </div>
 
          <div type="places">
             <listPlace>
@@ -3304,33 +3493,35 @@
          </div>
 
 
-         <list type="nationalCinemas">
-            <item xml:id="americanCinema"/>
-            <item xml:id="sovietCinema"/>
-            <item xml:id="russianCinema"/>
-            <item xml:id="foreignCinema"/>
-            <item xml:id="europeanCinema"/>
-            <item xml:id="italianCinema"/>
-            <item xml:id="ourCinema"/>
-            <item xml:id="chineseCinema"/>
-            <item xml:id="japaneseCinema"/>
-            <item xml:id="polishCinema"/>
-            <item xml:id="indianCinema"/>
-            <item xml:id="koreanCinema"/>
-            <item xml:id="germanCinema"/>
-            <item xml:id="frenchCinema"/>
-            <item xml:id="swedishCinema"/>
-            <item xml:id="taiwaneseCinema"/>
-            <item xml:id="australianCinema"/>
-            <item xml:id="hungarianCinema"/>
-            <item xml:id="czechoslovakCinema"/>
-            <item xml:id="austrianCinema"/>
-            <item xml:id="britishCinema"/>
-            <item xml:id="coproduction"/>
-            <item xml:id="asianCinema"/>
-            <item xml:id="indianCinema"/>
+         <div type="nationalCinemas">
+            <list type="nationalCinemas">
+               <item xml:id="americanCinema"/>
+               <item xml:id="sovietCinema"/>
+               <item xml:id="russianCinema"/>
+               <item xml:id="foreignCinema"/>
+               <item xml:id="europeanCinema"/>
+               <item xml:id="italianCinema"/>
+               <item xml:id="ourCinema"/>
+               <item xml:id="chineseCinema"/>
+               <item xml:id="japaneseCinema"/>
+               <item xml:id="polishCinema"/>
+               <item xml:id="indianCinema"/>
+               <item xml:id="koreanCinema"/>
+               <item xml:id="germanCinema"/>
+               <item xml:id="frenchCinema"/>
+               <item xml:id="swedishCinema"/>
+               <item xml:id="taiwaneseCinema"/>
+               <item xml:id="australianCinema"/>
+               <item xml:id="hungarianCinema"/>
+               <item xml:id="czechoslovakCinema"/>
+               <item xml:id="austrianCinema"/>
+               <item xml:id="britishCinema"/>
+               <item xml:id="coproduction"/>
+               <item xml:id="asianCinema"/>
+               <item xml:id="indianCinema"/>
         
-         </list>
+            </list>
+         </div>
       </body>
    </text>
 </TEI>

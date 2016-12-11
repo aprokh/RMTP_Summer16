@@ -90,9 +90,10 @@
     </xsl:template>
     
     <xsl:template match="genres">
-        <list type="genres">
+        <div type="genres">
+            <list type="genres">
             <xsl:apply-templates/>
-        </list>
+        </list></div>
     </xsl:template>
     
     <xsl:template match="places">
@@ -102,9 +103,11 @@
     </xsl:template>
     
     <xsl:template match="nationalCinemas">
-        <list type="nationalCinemas">
+        <div type="nationalCinemas">
+            <list type="nationalCinemas">
             <xsl:apply-templates/>
         </list>
+        </div>
     </xsl:template>
 <!--  Modal template for converting meta persons
       Note: gender and viewerAge fit as attributes in the TEI schema, whereas they were tags in our previous 
@@ -184,15 +187,14 @@
             <country>
                 <xsl:apply-templates select="country"/>
             </country>
-            <listPerson><person type="director">
-                <xsl:apply-templates select="director"/>
+            <listPerson><person role="director">
+                <persName><xsl:apply-templates select="director"/></persName>
             </person></listPerson>
             <date>
                 <xsl:apply-templates select="year"/>
             </date>
-            <link type="imdb">
-                <xsl:apply-templates select="imdb"/>
-            </link>
+            <link type="imdb" target="{imdb}"/>
+            
             <trait>
                 <label>genre</label>
                 <desc><xsl:apply-templates select="genre" mode="title"/></desc>
