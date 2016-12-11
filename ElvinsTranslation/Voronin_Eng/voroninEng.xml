@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Interview with voronin: electronic version </title>
+                <author>
+                    <name ref="voronin">MIKHAIL VORONIN</name>
+                </author>
+                <editor role="interviewer">
+                    <name ref="parks">JESSICA PARKS</name>
+                </editor>
+                <editor role="interviewer">
+                    <name ref="clark">EMILIE CLARK</name>
+                </editor>
+                <editor role="transcriber">
+                    <name ref="clark">EMILIE CLARK</name>
+                </editor>
+                <editor role="transcriber">
+                    <name ref="kitchen">HANNAH KITCHEN</name>
+                </editor>
+                <editor role="translator">
+                    <name ref="clark">EMILIE CLARK</name>
+                </editor>
+                <editor role="translator">
+                    <name ref="kitchen">HANNAH KITCHEN</name>
+                </editor>
+                <respStmt>
+                    <resp>TEI Markup done by</resp>
+                    <name ref="nitz">ANDREW NITZ</name>
+                    <name ref="prokhorova">ELENA PROKHOROVA</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>College of William and Mary</publisher>
+                <authority> Russian Movie Theater Project <bloc> The Russian Movie Theater Project
+                        is an archive and a study of film exhibition in St. Petersburg during the
+                        twentieth century: a portrait of film exhibition and movie-going scene in
+                        Soviet Leningrad and Post-Soviet St. Petersburg. The project is inspired by
+                        Williamsburg Theater Project (led by Professor Arthur Knight) and the
+                        international initiative, the History of Moviegoing, Exhibition, and
+                        Reception (HOMER) Project. While many Western cinematic traditions are
+                        represented in the HOMER project, there is no online archive covering
+                        Russian cinema. The RMTP aims to fill that gap. Most histories of Russian
+                        and Soviet cinema operate under the assumption that all films released were
+                        available to all citizens of Russia Soviet Union. When the films received a
+                        limited release for political reasons, researchers provide anecdotal
+                        evidence about how these films were distributed. The Russian Movie Theater
+                        Project would like to create an empirical portrait of Russians’ movie going
+                        habits and film exhibition patterns at different periods of Soviet and
+                        Russian history. For example, when and where Soviets were able to see
+                        Western films in Stalinist Russia? How did the availability of Italian,
+                        Indian, and American films changed after Stalin’s death? How does Soviet-era
+                        propaganda and post-Soviet promotion affect film distribution and film
+                        attendance? Using computational tools, this Project examines oral history
+                        interviews, in which interviewees reconstruct their moviegoing experiences
+                        in St. Petersburg, Russia. To see the computational module of the project
+                        click here. Specifically, the Project analyzes what moviegoers remember
+                        (films, actors, directors), how they evaluate films, actors, characters, how
+                        they define themsleves as narrators (I or we), what they hesitate about when
+                        they recollect their moviegoing experiences, and how their cinematic
+                        experiences shape their identities as Soviets, Russians, and global
+                        citizens. </bloc>
+                </authority>
+                <pubPlace>Williamsburg, Virginia</pubPlace>
+                <date type="interview">July 2013</date>
+                <date type="translation">Fall 2013</date>
+                <availability>
+                    <p> EDITORIAL POLICY
+                        <!--
+We follow TEI Guidelines "16.2.1 Pointing Elsewhere."
+-->
+                    </p>
+                    <p> The project is approved by Protection of Human Subjects Committee (PHSC) of
+                        the College of William and Mary. <ref
+                            target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/"
+                        />
+                    </p>
+                    <licence> Distributed via permission from interviewee (given in the Deed of Gift
+                        to the College of William and Mary) </licence>
+                </availability>
+            </publicationStmt>
+            <!--
+Information about the source of the interview: an audio or video recording.
+-->
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>INTERVIEW WITH MIKHAIL VORONIN</title>
+                        <author>
+                            <name ref="voronin">MIKHAIL VORONIN</name>
+                        </author>
+                        <editor role="interviewer">
+                            <name ref="parks">JESSICA PARKS</name>
+                        </editor>
+                        <editor role="interviewer">
+                            <name ref="clark">EMILIE CLARK</name>
+                        </editor>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>College of William and Mary</publisher>
+                        <pubPlace>Williamsburg, VA</pubPlace>
+                        <date>4 July, 2008</date>
+                    </publicationStmt>
+                    <notesStmt>
+                        <note> The interview with Liudmila Danilenko is part of the Russian Movie
+                            Theater Project, which examines history of moviegoing expereinces in the
+                            USSR and Russia. Michael Roberts has conducted the interview on 4 July,
+                            2008 in St. Petersburg, Russia. </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p> The interview with Mikhail Voronin is part of the Russian Movie Theater Project,
+                    which examines history of moviegoing expereinces in the USSR and Russia. Jessica
+                    Parks and Emilie Clark conducted the interview on 4 July, 2008 in St.
+                    Petersburg, Russia. </p>
+            </abstract>
+            <creation>BACKGROUND OF INTERVIEW</creation>
+            <langUsage>
+                <language ident="ru">RUSSIAN</language>
+            </langUsage>
+            <particDesc>
+                <person role="interviewer">
+                    <persName ref="roberts">MICHAEL ROBERTS</persName>
+                </person>
+                <person role="interviewer">
+                    <persName ref="parks">JESSICA PARKS</persName>
+                </person>
+                <person role="interviewer">
+                    <persName ref="clark">EMILIE CLARK</persName>
+                </person>
+                <person role="interviewee">
+                    <persName ref="voronin">MIKHAIL VORONIN</persName>
+                </person>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <u xml:id="sp1" who="parks">Today is the 29th of July, 2013. We’re in Saint Petersburg,
+                Russia. My name is Jessica Parks, and my colleague is Emily Clark. Emilay and I are
+                conducting an interview with Mikhail Voronin. We’re conducting an interview with you
+                for a film project that analyzes the general, political, and cultural history of
+                Russia through film. We would like for you to tell us about your memories of going
+                to the movies and we’re particularly interested in the details. On the basis of your
+                answers we will write an essay, in which we will analyze the results of the
+                questionnaire and write about moviegoing in Russia. The goal of this interview for
+                us is to learn as much as we are able about individual people and the place of the
+                movies in their lives. Thank you very much for your readiness do share your memories
+                with us and also for helping us. This interview will be added for listening on the
+                film project’s website. If you’re not against it, then let’s begin.</u>
+            <u xml:id="sp2" who="voronin">Very good!</u>
+            <u xml:id="sp3" who="parks">Tell us, where and when were you born?</u>
+            <u xml:id="sp4" who="voronin">I was born in <rs type="place" key="urals">the Urals</rs>,
+                in the city of <rs type="place" key="ufa">Ufa</rs>. It’s one of the cities with a
+                million or more people, a sufficiently large city in <rs type="place" key="russia"
+                    >Russia</rs>. I spent the first fifteen years of my life there.</u>
+            <u xml:id="sp5" who="parks">Where did your mom and dad work?</u>
+            <u xml:id="sp6" who="voronin">My parents divorced when I was still a child. My mom
+                worked as a stewardess, flew, in general around <rs type="place" key="russia"
+                    >Russia</rs>. Sometimes close by abroad.</u>
+            <u xml:id="sp7" who="parks">What sort of education do you have?</u>
+            <u xml:id="sp8" who="voronin">Now I have a university degree. I finished the War College
+                this year.</u>
+            <u xml:id="sp9" who="parks">What cities have you lived in?</u>
+            <u xml:id="sp10" who="voronin">I lived in <rs type="place" key="ufa">Ufa</rs>, the
+                capital of the <rs type="place" key="republicBashkirtostan">Republic of
+                    Bashkirtostan</rs>. I also lived in <rs type="place" key="moscow">Moscow</rs>
+                for three years, in the capital of <rs type="place" key="russia">Russia</rs>, and
+                the last six I’ve lived in <rs type="place" key="stPetersburg">Saint
+                Petersburg</rs>, the <rs type="epit" key="stPetersburg">prettiest</rs> city in my
+                view.</u>
+            <u xml:id="sp11" who="parks">Do you remember the first time you went to the movies?</u>
+            <u xml:id="sp12" who="voronin">No, I don’t remember the first time. Poorly, I remember
+                it poorly.</u>
+            <u xml:id="sp13" who="parks">What kinds of movies did you watch?</u>
+            <u xml:id="sp14" who="voronin">Just as I started to go to the movies from childhood,
+                everything was in chronological order. Starting with <rs type="title"
+                    key="rockyBullwinkle">Rocky and Bullwinkel</rs>, maybe you know, and ending with
+                    <rs type="genre" key="horror">horror movies</rs>, <rs type="genre" key="comedy"
+                    >comedies</rs>. Now, in principal, now I only rarely go to the movies.</u>
+            <u xml:id="sp15" who="parks">How old were you?</u>
+            <u xml:id="sp16" who="voronin">I don’t remember, probably, it was first grade, seven
+                years old. Seven or eight.</u>
+            <u xml:id="sp17" who="parks">Who did you go to the movies with?</u>
+            <u xml:id="sp18" who="voronin">Who didn’t I go to the movies with! Who did I go with the
+                first time? In general? I went to the movies with my mom, teacher, with almost all
+                my girlfriends. I loved to go to the movies with friends, with a big group. Yes, in
+                a big group and then after we’d loosened up a bit. I would, well, I can’t say this
+                on the record what they usually loosen up with before going to the movies. Your
+                people will understand.</u>
+            <u xml:id="sp19" who="parks">How much did a ticket cost?</u>
+            <u xml:id="sp20" who="voronin">A ticket cost, I don’t remember, a couple copecks. At the
+                beginning…at the beginning when we were kids and had very little money of our own in
+                our pockets, we went to the morning screenings, then it was cheaper. And afterwards
+                at anytime. A ticket cost from, from one dollar, in your system, up to ten or twenty
+                dollars.</u>
+            <u xml:id="sp21" who="parks">What was the name of the movie theater. Describe the
+                theater.</u>
+            <u xml:id="sp22" who="voronin">The movie theater was called <rs type="place"
+                    key="kinoteatrIskra">Iskra</rs>. It designed at first in the Soviet style, in
+                the old style. “Old School.” But then they renovated it, they did a great job, and
+                now it’s a <rs type="epit" key="kinoteatrIskra">modern</rs> screening room, a whole
+                lot of people go there, cinema is strangely popular in <rs type="place" key="russia"
+                    >Russia</rs> recently, and all the premieres are there, and all the stars go
+                there, for example.</u>
+            <u xml:id="sp23" who="parks">Did you walk or take transport?</u>
+            <u xml:id="sp24" who="voronin">Normally I drove, it was far enough from home, the
+                nearest <rs type="place" key="movieTheater">movie theater</rs> from my house was
+                twenty kilometers away.</u>
+            <u xml:id="sp25" who="parks">How did you get there?</u>
+            <u xml:id="sp26" who="voronin">Normally, at the beginning we took the bus, and later,
+                when we were already grown up, we drove.</u>
+            <u xml:id="sp27" who="parks">Did you have one or more movie theaters near home?</u>
+            <u xml:id="sp28" who="voronin">No, near home there weren’t any <rs type="place"
+                    key="movieTheater">movie theaters</rs>. We exchanged VHS tapes, those old ones.
+                But the movie theater was far from home. There were some theaters in the city, five
+                of them at first. But now ten of them, I think.</u>
+            <u xml:id="sp29" who="parks">Compare the movie theaters.</u>
+            <u xml:id="sp30" who="voronin">It’s a bit hard to compare them, because they’re all
+                typical, similar to one another, all the <rs type="place" key="movieTheater">movie
+                    theaters</rs>. But there is a difference, in that...the <rs type="place"
+                    key="movieTheater">movie theater</rs> could be a freestanding building or in a
+                shopping complex. But, as a rule, now all the <rs type="place" key="movieTheater"
+                    >movie theaters</rs> we have are in shopping complexes.</u>
+            <u xml:id="sp31" who="parks">When did you start going to the movies alone?</u>
+            <u xml:id="sp32" who="voronin">I don’t remember how old, about 10.</u>
+            <u xml:id="sp33" who="parks">Did you like going to the movies, and why?</u>
+            <u xml:id="sp34" who="voronin">I only liked going to the movies for <rs type="genre"
+                    key="blockbuster">specific films</rs>. I go only rarely just for that reason.
+                Only for specific blockbusters, or some sort of well known premieres. Of well known
+                directors or actors. My friends and I preferred to go out, to play soccer or
+                hockey.</u>
+            <u xml:id="sp35" who="parks">How often did you go to the movies? To which showings? The
+                morning ones, afternoons, evenings?</u>
+            <u xml:id="sp36" who="voronin">Yes, to different ones. When we wanted, then we went. As
+                children we went to the morning ones, and then when we grew up, it’s cold in <rs
+                    type="place" key="russia">Russia</rs> and in order not to freeze we went to the
+                movies.</u>
+            <u xml:id="sp37" who="parks">Going to the movies, was it a special occurrence or a
+                regular one?</u>
+            <u xml:id="sp38" who="voronin">As a child maybe it was something special, but now, to go
+                to the movies…we think that going to the movies is better than doing something. If
+                you have nothing better to do, you know, right, no better way to spend your time,
+                you can go to the movies.</u>
+            <u xml:id="sp39" who="parks">How did going to the movies change when you grew up or
+                finished school?</u>
+            <u xml:id="sp40" who="voronin">Well it became less interesting, less captivating. They
+                simply started being downloaded on the internet.</u>
+            <u xml:id="sp41" who="parks">What were your favorite genres as a child?</u>
+            <u xml:id="sp42" who="voronin"><rs type="place" key="russia">Comedy</rs>, from early
+                childhood, is my favorite genre, <rs type="place" key="russia">comedy</rs>, I also
+                liked <rs type="genre" key="action">war movies</rs>, and now I prefer some sort of
+                    <rs type="genre" key="melodrama">melodramas</rs>, or ones based on real
+                events.</u>
+            <u xml:id="sp43" who="parks">What were your favorite genres when you were in
+                college?</u>
+            <u xml:id="sp44" who="voronin"><rs type="genre" key="adult">Porno</rs>, of course. Of
+                course <rs type="genre" key="adult">porno</rs>, it's true you don’t need to change
+                anything, it’s that way for all Russian students. And then <rs type="genre"
+                    key="action">war movies</rs> and <rs type="genre" key="comedy"
+                >comedies</rs>.</u>
+            <u xml:id="sp45" who="parks">Do you have a favorite movie?</u>
+            <u xml:id="sp46" who="voronin">Yes, I think I have a few favorite movies. I’ve simply
+                watched a lot of movies, the last movie, that left an impression is called <rs
+                    type="title" key="mavericks">Mavericks</rs>…or <rs type="title" key="mavericks"
+                    >Укротители волн 1</rs> in Russian. It’s a bad translation, with <rs
+                    type="person" key="butler">Gerald Butler</rs>. “Maybe,” but maybe you know it.
+                Why did I like it? It’s based on true events.</u>
+            <u xml:id="sp47" who="parks">Did you have favorite actors or actresses in from foreign
+                cinema? Who and why?</u>
+            <u xml:id="sp48" who="voronin">Yes. Sure favorite actors. Why? Why, I don’t know. <rs
+                    type="person" key="theron">Charlize Theron</rs>, for example. Yes, <rs
+                    type="person" key="theron">Charlize Theron</rs>, and, well <rs type="person"
+                    key="depp">Johnny Depp</rs>, he’s good, particularly in <rs type="title"
+                    key="piratesCaribbean">Pirates</rs>. Secondly, maybe <rs type="person"
+                    key="carrey">Jim Carrey</rs>, yes, <rs type="person" key="carrey">Jim
+                    Carrey</rs>. Particularly in <rs type="title" key="mask">The Mask</rs> and <rs
+                    type="title" key="aceVentura">Ace Ventura</rs>, the best of his work. <rs
+                    type="person" key="murphy">Murphy, Eddie Murphy’s</rs> a smart alec. But he also
+                did stuff.</u>
+            <u xml:id="sp49" who="parks">Do you remember any movie or outing to the movies
+                particularly? Talk about that visit.</u>
+            <u xml:id="sp50" who="voronin">No. I don’t remember specific outings to the <rs
+                    type="place" key="movieTheater">movies</rs> in particular. I remember movies
+                better, which you remember your whole life. The <rs type="title" key="godfather"
+                    >Godfather</rs>, “Godfather.” And also a Russian serial, maybe you’ve seen it,
+                    <rs type="title" key="brigade">The Brigade</rs>. The Russian serial <rs
+                    type="title" key="brigade">Brigade</rs>, and the Russian movie <rs type="title"
+                    key="brother">Brother</rs> and <rs type="title" key="brother2">Brother 2</rs>.
+                “Brother and Brother 2.” Well, yes, I think there’s a few more movies, but yes, <rs
+                    type="title" key="lifeIsBeautiful">Life is Beautiful</rs>. “It’s a Beautiful
+                Life.” The Italian movie. Maybe I messed up the tile. The Italian movie. Many of the
+                films watched with my friends come highly recommended by Internet Movie Data
+                Base.</u>
+            <u xml:id="sp51" who="parks">How did you spend your free time apart from going to the
+                movies?</u>
+            <u xml:id="sp52" who="voronin">Went out, played soccer and hockey. I think very
+                typically, just like all teenagers, who have free time and who are able to buy
+                something forbidden for themselves.</u>
+            <u xml:id="sp53" who="parks">Who did you normally go to the movies with?</u>
+            <u xml:id="sp54" who="voronin">Normally either with guys or with girls. We go very
+                rarely in a mixed group. As a rule, it’s either only boys or girls. “Only boys or
+                only girls.”</u>
+            <u xml:id="sp55" who="parks">More men or women?</u>
+            <u xml:id="sp56" who="voronin">Who go to the movies? Oh I don’t know, probably more
+                women But most likely since we have more women in general.</u>
+            <u xml:id="sp57" who="parks">In general, did people go to the movies more often with
+                family or with friends or girlfriends?</u>
+            <u xml:id="sp58" who="voronin">Yes, no more girls go to the movies, because it gives
+                them something to do. There, families go rarely, on the weekends, families go to the
+                movies.</u>
+            <u xml:id="sp59" who="parks">Were there lines in the <rs type="place" key="movieTheater"
+                    >movie theaters</rs>? Do you remember waiting in line?</u>
+            <u xml:id="sp60" who="voronin">Yes, but very rarely. There were very rarely lines. Five
+                minutes maximum.</u>
+            <u xml:id="sp61" who="parks">Did different groups sit in different parts of the movie
+                theater?</u>
+            <u xml:id="sp62" who="voronin">Different groups? Well, when, how. In different places,
+                there were, there weren’t places, some there were, <rs type="pron"
+                    subtype="persPlur">we</rs> were able to lay down there and watch.</u>
+            <u xml:id="sp63" who="parks">Did people make noise, or were they quiet during the
+                showing?</u>
+            <u xml:id="sp64" who="voronin">Ah, not always. That is while watching some showing, <rs
+                    type="pron" subtype="persPlur">we</rs> would make noise.</u>
+            <u xml:id="sp65" who="parks">How did people dress for the movies? Atypically or like
+                normal?</u>
+            <u xml:id="sp66" who="voronin">In different ways. For many going to the movies, it’s a
+                special event. Particularly for girls looking to show off, and <rs type="pron"
+                    subtype="persSing">I</rs> don’t know how, they’re able to dress in stockings,
+                thin ones, to wear high heels, it’s not comfortable, it’s stupid, but in order to be
+                especially good looking. The guys dressed normally.</u>
+            <u xml:id="sp67" who="parks">Did you know people who worked at the movie theater?</u>
+            <u xml:id="sp68" who="voronin">Yes, I know a couple. And as it was they could go for
+                free.</u>
+            <u xml:id="sp69" who="parks">What was the atmosphere like in the theater?</u>
+            <u xml:id="sp70" who="voronin">It depends. At <rs type="genre" key="horror">horror
+                    movies</rs> it’s usually <rs type="epit" key="kino">fun</rs>, because <rs
+                    type="pron" subtype="persPlur">we</rs> go to <rs type="genre" key="horror"
+                    >horror movies</rs> with our girlfriends and at the most grueling moment, we
+                scare them but good. <span type="lex">Well</span>, just to laugh.</u>
+            <u xml:id="sp71" who="parks">Describe the movie theater, and if possible, compare it
+                with movie theaters today.</u>
+            <u xml:id="sp72" who="voronin">I really don’t know how to describe it. There’s a big
+                screen there, it’s dark and loud.</u>
+            <u xml:id="sp73" who="parks">Describe the sounds and smells that you remember when you
+                think about the movie theaters.</u>
+            <u xml:id="sp74" who="voronin">The smell of popcorn. <rs type="pron" subtype="persSing"
+                    >I</rs> think sound, a <rs type="epit" key="kino">strong growing sound</rs>.
+                With a strong base.</u>
+            <u xml:id="sp75" who="parks">Were the chairs comfortable?</u>
+            <u xml:id="sp76" who="voronin">Then how, usually yes, <rs type="epit" key="kino">usually
+                    comfortable</rs>.</u>
+            <u xml:id="sp77" who="parks">Was it cold at the movies, warm, hot, stuffy?</u>
+            <u xml:id="sp78" who="voronin">That also depends, sometimes the air conditioning didn’t
+                work, and sometimes it worked too well.</u>
+            <u xml:id="sp79" who="parks">Was the movie theater big? How many screening rooms were
+                there?</u>
+            <u xml:id="sp80" who="voronin">When, it was<span type="nonlex"/>There were from two to
+                fifteen screening rooms, <rs type="pron" subtype="persSing">I</rs> think that sounds
+                right. But individual seats from 50 to 300. Up to 300 individual seats, they were
+                different.</u>
+            <u xml:id="sp81" who="parks">Was the theater only for movies, or for other events
+                too?</u>
+            <u xml:id="sp82" who="voronin">Sometimes for other events, but generally only for
+                movies.</u>
+            <u xml:id="sp83" who="parks">Was there a snack bar? What did they sell at the snack
+                bar?</u>
+            <u xml:id="sp84" who="voronin">They always sold popcorn, Pepsi, and soda at the
+                snackbars, and beer too. And there was something to eat. Ice cream. “Ice cream.”</u>
+            <u xml:id="sp85" who="parks">Were there ticket collectors in the theater and how old
+                were they usually?</u>
+            <u xml:id="sp86" who="voronin">Well there were always ticket collectors, generally it
+                was young people. Generally it was young girls, up to thirty.</u>
+            <u xml:id="sp87" who="parks">Where did you usually like to sit and why?</u>
+            <u xml:id="sp88" who="voronin">That depends on who you go to the movies with. With
+                friends we normally sat in the middle, in order to see better, but with girls
+                normally off to the side. Places for kissing.</u>
+            <u xml:id="sp89" who="parks">Were the movies silent or talkies? Black and white or
+                color?</u>
+            <u xml:id="sp90" who="voronin">They were always color, always had sound, with the
+                exception of special films, not special ones, but when it was the desire of the
+                director. If in all the <rs type="place" key="movieTheater">movie theaters</rs> of
+                the world it black and white and silent ones cropped up, then <rs type="pron"
+                    subtype="possPlur">we had</rs> it too. But all the others were color, with
+                sound.</u>
+            <u xml:id="sp91" who="parks">What was the quality?</u>
+            <u xml:id="sp92" who="voronin">The quality was excellent. And many <rs type="place"
+                    key="movieTheater">theaters</rs> now are in 3D, IMAX format. <rs type="pron"
+                    subtype="persSing">I’m</rs> just not a huge fan of recent cinema, I’m only there
+                rarely, there’s no time.</u>
+            <u xml:id="sp93" who="parks">Which movies were the most popular among viewers and
+                why?</u>
+            <u xml:id="sp94" who="voronin">Among viewers, the most popular films were, <rs
+                    type="pron" subtype="persSing">I</rs> think<span type="nonlex"/> those that were
+                advertised well. Russians have this habit, to go to popular, cheesy movies, if the
+                advertising is good, then a lot of people go to the movies. If they like the movie,
+                then they tell friends, and their friends go. And <rs type="pron" subtype="persSing"
+                    >I</rs> think, almost all the movies, and that are popular in America, are also
+                popular in America. How it generally is in the world, it’s decided by ratings.</u>
+            <u xml:id="sp95" who="parks">Did the often show foreign films in the movie theaters?
+                Films from which countries?</u>
+            <u xml:id="sp96" who="voronin">They’re almost always foreign films, because after the
+                collapse of the <rs type="place" key="sovietUnion">Soviet Union</rs>
+                <rs type="pron" subtype="possPlur">we</rs> didn’t make many movies. There, but now,
+                they show both <rs type="nationalCinema" key="foreignCinema">foreign movies</rs> and
+                    <rs type="pron" subtype="possPlur">ours</rs>, from all countries, from
+                absolutely all counties, but in general, of course, it’s <rs type="nationalCinema"
+                    key="americanCinema">American movies</rs>, in general, because they’re <rs
+                    type="epit" key="americanCinema">the most abundant</rs>. <rs type="epit"
+                    key="americanCinema">Most easy</rs> to get ahold of.</u>
+            <u xml:id="sp97" who="parks">Which movies did you like most of all?</u>
+            <u xml:id="sp98" who="voronin">Most of all, I liked, “well,” while I was growing up, as
+                a child <rs type="genre" key="skazka">fairy tale movies</rs>, and then <rs
+                    type="genre" key="action">war movies</rs>, and then more <rs type="genre"
+                    key="melodrama">melodramas</rs>. Depends. As I feel like. That’s it.</u>
+            <u xml:id="sp99" who="parks">Were there movies that children couldn’t go to and why?</u>
+            <u xml:id="sp100" who="voronin">Yes, there were quite a lot of those kinds of movies,
+                and now they’re restricted. Why? It’s important to everyone why. Because they
+                contain scenes for adults. With the R rating, <rs type="nationalCinema"
+                    key="americanCinema">your American one</rs>, but the kids go in general. If they
+                want.</u>
+            <u xml:id="sp101" who="parks">Your parents didn’t let you go or the movie theater
+                management?</u>
+            <u xml:id="sp102" who="voronin">They didn’t let us, but <rs type="pron"
+                    subtype="persPlur">we</rs> went anyway. And the <rs type="place"
+                    key="movieTheater">theater</rs> management didn’t prohibit us when <rs
+                    type="pron" subtype="persSing">I</rs> was young, and now <rs type="pron"
+                    subtype="persSing">I</rs> don’t now, <span type="lex">maybe, maybe</span> now
+                they prohibit it.</u>
+            <u xml:id="sp103" who="parks">Did you try to go to a movie that you weren’t allowed to
+                go to?</u>
+            <u xml:id="sp104" who="voronin">Of course. And there, there was interest.</u>
+            <u xml:id="sp105" who="parks">Talk about it, how it was.</u>
+            <u xml:id="sp106" who="voronin">It was easy because, <span type="lex">well</span>, in <rs type="place" key="russia">Russia</rs>, when <rs type="pron" subtype="persSing">I</rs> was little,
+                they didn’t pay especial attention to age and didn’t follow the rules especially.
+                Yes, and now, the main thing is to earn money. And it’s not important if a kid a few
+                years younger goes into a movie for adults. The kid himself wants that.</u>
+            <u xml:id="sp107" who="parks">Do you remember any film that had problems coming to the
+                screen? Talk about that film.</u>
+            <u xml:id="sp108" who="voronin">To be honest, <rs type="pron" subtype="persSing">I</rs> don’t remember, because I wasn’t
+                interested. If there had been problems, it simply wouldn’t have come to the screen,
+                and no one would have seen it. Therefore <rs type="pron" subtype="persSing">I</rs> don’t remember these movies.</u>
+            <u xml:id="sp109" who="parks">How did you find out about the theater’s schedule of
+                screenings?</u>
+            <u xml:id="sp110" who="voronin">About the <rs type="place" key="movieTheater">theaters’</rs> schedules? I found out either by
+                advertising, by advertisement banners in the streets and on signs, or on the
+                internet, on the <rs type="place" key="movieTheater">theaters’</rs> schedule. Or from friends, who had like some movie.</u>
+            <u xml:id="sp111" who="parks">Did you read about movies in magazines or in the
+                papers?</u>
+            <u xml:id="sp112" who="voronin">Yes, but by accident, if it cropped up by accident. In
+                Playboy, for example.</u>
+            <u xml:id="sp113" who="parks">How did movie advertising change from the Soviet
+                times?</u>
+            <u xml:id="sp114" who="voronin">Hardly at all, the advertising just got better and
+                better looking. It got bigger.</u>
+            <u xml:id="sp115" who="parks">Did your parents go to the movies?</u>
+            <u xml:id="sp116" who="voronin">Of course they went, my parents only went to the
+                movies.</u>
+            <u xml:id="sp117" who="parks">What did they watch?</u>
+            <u xml:id="sp118" who="voronin"><rs type="pron" subtype="persSing">I</rs> don’t know, they didn’t talk about it much, <rs type="pron" subtype="persSing">I</rs> think
+                the same thing, but earlier almost all <rs type="place" key="movieTheater">movie theaters</rs> showed only Soviet movies.</u>
+            <u xml:id="sp119" who="parks">They went to the movies together with you, with one
+                another, alone?</u>
+            <u xml:id="sp120" who="voronin">Well then, it depends. Either together and without me,
+                that is, it didn’t depend on anything, on their mood, per their desire.</u>
+            <u xml:id="sp121" who="parks">Did you have a television set?</u>
+            <u xml:id="sp122" who="voronin">Yes.</u>
+            <u xml:id="sp123" who="parks">When you bought it, did you go to the movies more or
+                less?</u>
+            <u xml:id="sp124" who="voronin">Just the same.</u>
+            <u xml:id="sp125" who="parks">Do you know when talkies first came out?</u>
+            <u xml:id="sp126" who="voronin">No, I don’t know, I don’t remember, but long ago. Long
+                ago, <span type="nonlex"/>after, <span type="nonlex"/> somewhere, the first sound films existed before the Second World War, I
+                think, in <rs type="place" key="america">America</rs>. And after the Second World War we already had them in the
+                <rs type="place" key="sovietUnion">USSR</rs>.</u>
+            <u xml:id="sp127" who="parks">Do you remember movies from during the war? After the war?
+                During Perestroika?</u>
+            <u xml:id="sp128" who="voronin">Yes, <rs type="pron" subtype="persSing">I</rs> saw them, naturally, a bit later. <rs type="pron" subtype="persSing">I</rs> went to the
+                premieres. I wasn’t that busy. There, but then I saw a lot of movies, yes, they’re
+                interesting enough. They all have their own style, that is, despite that there were
+                many censored films, which the Soviet government prohibited to be shown and only now
+                have they come to the screen. But, to be honest, I don’t really care for them.</u>
+            <u xml:id="sp129" who="parks">How did your going to the movies change with time and
+                why?</u>
+            <u xml:id="sp130" who="voronin">I rarely want to because there’s little time, and <rs type="place" key="movieTheater">the
+                movies</rs> have already gotten old. Earlier it was something amazing and rare, <span type="lex">maybe</span>.
+                Rarely, when you go only a little, does it capture your sprit. And now I feel like
+                something new. Some kind of new enjoyments, but <rs type="pron" subtype="persSing">I</rs> know many people, many of <rs type="pron" subtype="possSing">my</rs>
+                friends, who are in the habit of going to the movies, they just don’t know where
+                else to go. For them it’s enough to go to the movies.</u>
+            <u xml:id="sp131" who="parks">Would you like to add anything in conclusion?</u>
+            <u xml:id="sp132" who="voronin">In conclusion <rs type="pron" subtype="persSing">I</rs> want to add<span type="nonlex"/>that I have to go to the
+                movies somehow. <rs type="pron" subtype="persSing">I</rs> haven’t been there in a while, and for <rs type="title" key="ironman3">Ironman 3</rs>, “<rs type="title" key="ironman3">Ironman 3</rs>, very
+                good.”</u>
+            <u xml:id="sp133" who="parks">Do you have a suggestion for us regarding what theme to
+                ask about in an interview in the future?</u>
+            <u xml:id="sp133" who="voronin">Yes, just not <rs type="pron" subtype="possSing">with me</rs>!  With someone else.  Because <rs type="pron" subtype="persSing">I</rs> can only say very little</u>
+
+        </body>
+    </text>
+</TEI>
