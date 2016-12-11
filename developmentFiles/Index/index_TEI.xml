@@ -2094,7 +2094,7 @@
                      </person>
                   </listPerson>
                   <date>1968</date>
-                  <link type="imdb" target=""/>
+                  <link type="imdb"/>
                   <trait>
                      <label>genre</label>
                      <desc>TV show</desc>
@@ -3518,8 +3518,6 @@
                <item xml:id="britishCinema"/>
                <item xml:id="coproduction"/>
                <item xml:id="asianCinema"/>
-               <item xml:id="indianCinema"/>
-        
             </list>
          </div>
       </body>
