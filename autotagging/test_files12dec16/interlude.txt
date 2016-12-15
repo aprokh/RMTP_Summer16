@@ -1,0 +1,30 @@
+<document>
+<meta>
+RMTP (Russian Movie Theater Project)
+College of WIlliam and Mary Interview with Ekaterina Lebedeva https://vimeo.com/180984724
+Interview conducted in St. Petersburg, Russia in July, 2016 by Margaret Swift (interviewer) and Bailey Orr (camera and sound).
+Transcribed and translated by Bailey Orr, Maggie Swift, Gabriella Carney, and Molly Charles in Fall 2016.
+<\meta>
+
+<text>
+<body>
+
+<u xml:id="sp1" who="interviewer">This line doesn’t matter. </u>
+
+<u xml:id="sp2" who="interviewee">Служебный роман </u>
+
+<u xml:id="sp3" who="interviewer">This line doesn’t matter. </u>
+
+<u xml:id="sp4" who="interviewee"><rstype="pron"subtype=“persSing”>Я</rs> <rstype="pron"subtype=“persSing”>Я</rs> <rstype="pron"subtype=“persSing”>я</rs> <rstype="pron"subtype=“persSing”>я</rs> <rstype="pron"subtype=“persPlur">мы</rs> </u>
+
+<u xml:id="sp5" who="interviewer">Изображая жертву </u>
+
+<u xml:id="sp6" who="interviewee">Изображая жертву </u>
+
+<u xml:id="sp7" who="interviewer">Русалочка </u>
+
+<u xml:id="sp8" who="interviewee">русалочка русалочка русалочка </u>
+
+</body>
+</text>
+</document>

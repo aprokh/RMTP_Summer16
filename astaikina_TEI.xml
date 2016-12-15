@@ -10,6 +10,9 @@
     Nitz, Prokhorova, and Prokhorov are not in the Index.  We need to add these metapersons   -->
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   <!-- TEI schema is described on TEI web site http://www.tei-c.org/release/doc/tei-p5-doc/de/html/ST.html 
+   The namespace above refers to it. -->
 
     <teiHeader>
       <fileDesc>
