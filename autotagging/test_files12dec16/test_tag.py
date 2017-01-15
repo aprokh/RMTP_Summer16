@@ -1,4 +1,6 @@
 # Russian Tagging Program
+# The program tags persons, places, and pronouns:
+# (personal and possessive, singular and plural).
 # Created By Maggie Swift 
 # 12 December 2016
 # Word class created by John Hoskins
@@ -112,10 +114,13 @@ def tag_text(text, tags, writefile, interviewer, interviewee):
 #======================================================
 
 if __name__ == '__main__':
-    
-    text = 'tester.txt'
+
+    # After text = write the name of the file you need to input.
+    text = 'Danilenko2008plaintext.txt'
     tags = 'tag_list.txt'
-    writefile = 'tester_output.txt'
+
+    # After writefile = write the name of the file you need to output.
+    writefile = 'danilenko1.txt'
     interviewer = 'interviewer'
     interviewee = 'interviewee'
     
