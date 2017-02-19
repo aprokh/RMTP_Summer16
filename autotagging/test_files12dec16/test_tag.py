@@ -23,7 +23,7 @@ def tag_word(word, tags):
     # with tagged word.
     with codecs.open(tags, "r", "utf-8") as tags:   
         for tagline in tags:
-            tagline = tagline.strip().split(', ')
+            tagline = tagline.strip().split(', ') 
             if word.clean().lower() == tagline[0]:
                 replacement = tagline[1] + word.__str__() + tagline[2]
                 return replacement
@@ -38,13 +38,13 @@ def tag_text(text, tags, writefile, interviewer, interviewee):
     
     # Initialize paragraph counter and open an interlude text as the writing file.
     i = 0
-    with codecs.open("interlude.txt", "w", "utf-8") as interlude: 
+    with codecs.open("interlude.txt", "w", "utf-8") as interlude:  #Q what is interlude.txt?
             
         # Write meta tags into the document.
         interlude.write("<document>\n")
         interlude.write("<meta>\n")
         interlude.write("RMTP (Russian Movie Theater Project)\n")
-        interlude.write("College of WIlliam and Mary Interview with Ekaterina Lebedeva https://vimeo.com/180984724\n")
+        interlude.write("College of William and Mary Interview with Ekaterina Lebedeva https://vimeo.com/180984724\n")
         interlude.write("Interview conducted in St. Petersburg, Russia in July, 2016 by Margaret Swift (interviewer) and Bailey Orr (camera and sound).\n")
         interlude.write("Transcribed and translated by Bailey Orr, Maggie Swift, Gabriella Carney, and Molly Charles in Fall 2016.")
         interlude.write('\n')
