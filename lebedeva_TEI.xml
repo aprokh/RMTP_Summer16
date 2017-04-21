@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This comment describes parts that need editing post transformation:
+        1) String content of title element in titleStmt element. Full name not found in original file, so made approximation. Renders as lastname; should be full name
+        2) -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Interview with MIKHAIL VORONIN:
+     electronic version</title>
+    <author>
+     <name ref="voronin">MIKHAIL VORONIN</name>
+    </author>
+    <editor role="interviewer">
+     <name ref="parks">JESSICA PARKS</name>
+    </editor>
+    <editor role="interviewer">
+     <name ref="clark">EMILIE CLARK</name>
+    </editor>
+    <editor role="transcriber">
+     <name ref="clark">EMILIE CLARK</name>
+    </editor>
+    <editor role="transcriber">
+     <name ref="kitchen">HANNAH KITCHEN</name>
+    </editor>
+    <editor role="translator">
+     <name ref="clark">EMILIE CLARK</name>
+    </editor>
+    <editor role="translator">
+     <name ref="kitchen">HANNAH KITCHEN</name>
+    </editor>
+    <respStmt>
+     <resp>TEI Markup done by </resp>
+     <name ref="nitz">ANDREW NITZ</name>
+     <name ref="prokhorova">ELENA PROKHOROVA</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>College of William and Mary</publisher>
+    <authority>Russian Movie Theater Project <bloc>The Russian Movie Theater Project
+     is an archive and a study of film exhibition in St. Petersburg during
+     the twentieth century: a portrait of film exhibition and movie-going
+     scene in Soviet Leningrad and Post-Soviet St. Petersburg. The project is
+     inspired by Williamsburg Theater Project (led by Professor Arthur
+     Knight) and the international initiative, the History of Moviegoing,
+     Exhibition, and Reception (HOMER) Project. While many Western cinematic
+     traditions are represented in the HOMER project, there is no online
+     archive covering Russian cinema. The RMTP aims to fill that gap. Most
+     histories of Russian and Soviet cinema operate under the assumption that
+     all films released were available to all citizens of Russia Soviet
+     Union. When the films received a limited release for political reasons,
+     researchers provide anecdotal evidence about how these films were
+     distributed. The Russian Movie Theater Project would like to create an
+     empirical portrait of Russians’ movie going habits and film exhibition
+     patterns at different periods of Soviet and Russian history. For
+     example, when and where Soviets were able to see Western films in
+     Stalinist Russia? How did the availability of Italian, Indian, and
+     American films changed after Stalin’s death? How does Soviet-era
+     propaganda and post-Soviet promotion affect film distribution and film
+     attendance? Using computational tools, this Project examines oral
+     history interviews, in which interviewees reconstruct their moviegoing
+     experiences in St. Petersburg, Russia. To see the computational module
+     of the project click here. Specifically, the Project analyzes what
+     moviegoers remember (films, actors, directors), how they evaluate films,
+     actors, characters, how they define themsleves as narrators (I or we),
+     what they hesitate about when they recollect their moviegoing
+     experiences, and how their cinematic experiences shape their identities
+     as Soviets, Russians, and global citizens. </bloc>
+    </authority>
+    <pubPlace>Williamsburg, Virginia</pubPlace>
+    <date type="interview">July 2013</date>
+    <date type="translation">Fall 2013</date>
+    <availability>
+     <p>EDITORIAL POLICY
+      <!--We follow TEI Guidelines "16.2.1 Pointing Elsewhere."--></p>
+     <p>The project is approved by Protection of Human Subjects Committee (PHSC)
+      of the College of William and Mary.<ref target="http://www.wm.edu/offices/sponsoredprograms/researchcompliance/guidanceandprocedures/"/>
+     </p>
+     <licence> Distributed via permission from interviewee (given in the Deed of
+      Gift to the College of William and Mary) </licence>
+    </availability>
+   </publicationStmt>
+   <!--Information about the source of the interview: an audio or video recording.-->
+   <sourceDesc>
+    <biblFull>
+     <titleStmt>
+      <title>INTERVIEW WITH MIKHAIL VORONIN</title>
+      <author>
+       <name ref="voronin">MIKHAIL VORONIN</name>
+      </author>
+      <editor role="interviewer">
+       <name ref="parks">JESSICA PARKS</name>
+      </editor>
+      <editor role="interviewer">
+       <name ref="clark">EMILIE CLARK</name>
+      </editor>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>College of William and Mary</publisher>
+      <pubPlace>Williamsburg, VA</pubPlace>
+      <date type="interview">July 2013</date>
+      <date type="translation">Fall 2013</date>
+     </publicationStmt>
+     <notesStmt>
+      <note>The interview is part of the Russian Movie Theater Project, which examines history of moviegoing expereinces in the USSR and Russia. Michael Roberts has conducted the interview on 4 July, 2008 in St. Petersburg, Russia.</note>
+     </notesStmt>
+    </biblFull>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <abstract>
+    <p>The interview with Mikhail Voronin is part of the Russian Movie Theater Project, which examines history of
+     moviegoing expereinces in the USSR and Russia. Jessica Parks and Emilie Clark conducted the interview on 4 July, 2008 in St. Petersburg,
+     Russia.</p>
+   </abstract>
+   <creation>BACKGROUND OF INTERVIEW</creation>
+   <langUsage>
+    <language ident="ru">RUSSIAN</language>
+   </langUsage>
+   <particDesc>
+    <person role="interviewer">
+     <persName ref="parks">JESSICA PARKS</persName>
+    </person>
+    <person role="interviewer">
+     <persName ref="clark">EMILIE CLARK</persName>
+    </person>
+    <person role="interviewee">
+     <persName ref="voronin">MIKHAIL VORONIN</persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ 
+ <text>
+  <body>
+<!-- Gabri: sp1-sp20 -->
+
+<u xml:id="sp1" who="swift">Сегодня 29ое июля 2016ого года. Мы находимся в Санкт-Петербурге, в России. Меня зовут Maргарита Свифт. Моя коллега Бейли Орр и я берём интервью у вас. Мы берём у Вас интервью для кино-проекта, который изучает историю России через фильмы. Мы хотели бы, чтобы Вы рассказали нам о Ваших воспоминаниях от посещения кино; нас особенно интересуют детали. На основании Ваших ответов мы напишем эссе, в котором мы проанализируем результаты опроса и напишем о посещении кинотеатров в России. Цель этого интервью для нас – узнать как можно больше о конкретных людях и месте кино в их жизни. Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу помощь нам. Это интервью будет доступно для прослушивания на интернет-сайте кинопроекта. Если вы не против, давайте начнём. </u>
+
+<u xml:id="sp2" who="lebedeva">Хорошо. </u>
+
+<u xml:id="sp3" who="swift">Расскажите нам, когда и где вы выросли. </u>
+
+<u xml:id="sp4" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> выросла в селе Судае, Костромской области. </u>
+
+<u xml:id="sp5" who="swift">И где работали ваши мама и папа? </u>
+
+
+<u xml:id="sp6" who="lebedeva"><rs type="pron" subtype="possSing">Моя</rs> мама работала педагогом. Была завучем в школе. <rs type="pron" subtype="possSing">Мой</rs> папа работал строителем. </u>
+
+<u xml:id="sp7" who="swift">И какоe у вас образование? </u>
+ 
+<u xml:id="sp8" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> закончила Санкт-Петербургский Государственный Университет, химический факультет, в 1984 году. </u>
+
+<u xml:id="sp9" who="swift">В каких городах вы жили? </u>
+
+<u xml:id="sp10" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> жила в Костромской области, в городе Судае, и потом, вот, в семьдесят восьмом году после окончания школы <rs type="pron" subtype="persSing">я</rs> приехала в Санкт <rs type="place" key="stPetersburg">Петербург</rs> поступать в университет. С той поры <rs type="pron" subtype="persSing">я</rs> живу в Санкт <rs type="place" key="stPetersburg">Петербурге.</rs> </u>
+
+<u xml:id="sp11" who="swift">А когда вы приехали в Санкт Петербург? </u>
+
+<u xml:id="sp12" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> приехала в <rs type="place" key="stPetersburg">Петербург</rs> в семьдесят восьмом году. В семнадцать лет. </u>
+
+<u xml:id="sp13" who="swift">Ах, в семнадцать лет. Вы помните первый раз, когда вы ходили в кино? </u>
+
+<u xml:id="sp14" who="lebedeva">Первый раз скорее всего не помню, да? Но помню именно по воспоминаниям- <rs type="pron" subtype="persSing">я</rs> думаю что это не был первый раз, что <rs type="pron" subtype="persPlur">мы</rs> смотрели фильм Морозко, <rs type="pron" subtype="persSing">я</rs> думала, что <rs type="pron" subtype="persSing">мне</rs> было, наверное, лет семь. </u>
+
+<u xml:id="sp15" who="swift">Какие фильмы вы посмотрели (в детстве)? </u>
+
+<u xml:id="sp16" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> запомнила фильм Морозко. <rs type="pron" subtype="persPlur">Мы</rs> смотрели Сказку о царе салтане и в таком юном возрасте <rs type="pron" subtype="persPlur">мы</rs> очень любили сборники мультфильмов. Были сборники мультфильмов такие как Ну, погоди!, Каникулы в Простоквашино, и очень любили именно тогда, вот, <rs type="pron" subtype="persSing">я</rs> не знаю в какое время появился киножурнал Eралаш, вот, дети очень любили тоже его смотреть. Он до сих пор у <rs type="pron" subtype="persPlur">нас</rs> есть на российском телевидении. </u>
+
+<u xml:id="sp17" who="swift">Сколько вам было лет…? </u>
+
+<u xml:id="sp18" who="lebedeva">Вот, воспоминания у <rs type="pron" subtype="persPlur">нас</rs> шесть, семь лет. Фильм Морозко. </u>
+
+<u xml:id="sp19" who="swift">Сколько стоил билет в кино? </u>
+
+<u xml:id="sp20" who="lebedeva">Вот этого <rs type="pron" subtype="persSing">я</rs> не помню. Сколько стоил билет тогда <rs type="pron" subtype="persSing">я</rs> совершенно не помню. <rs type="pron" subtype="persSing">Мне</rs> кажется, что это было очень дешево. <rs type="pron" subtype="persSing">Мне</rs> кажется. </u>
+
+<!--Hannah: sp21-sp40-->
+
+<u xml:id="sp21" who="swift">Все хорошо. Как назывался кинотеатр? </u>
+
+<u xml:id="sp22" who="lebedeva"><rs type="place" key="movieTheater">Кинотеатр</rs> никак не назывался, потому что это был маленький город. Вот, поселкового типа. Вам, наверное, не понятно, что это такое. И там был единственный дом культуры. Вот, в этом доме культуры, был <rs type="place" key="movieTheater">кинотеатр.</rs> Там был танцпол, там был непосредственный концертный зал, и в этом же концертном зале опускался экран, и был <rs type="place" key="movieTheater">кинотеатр.</rs> </u>
+
+<u xml:id="sp23" who="swift">Опишите кинотеатр больше. </u>
+
+<u xml:id="sp24" who="lebedeva">Он находился в большом здании, которое раньше принадлежало церкви. Там до этого был храм. В <rs type="place" key="russia">России</rs> это очень модно было в те времена, когда в зданиях храмов, именно в церковных зданиях, какие-то размещались вот такие увеселительные, можно сказать, заведения, в хорошем смысле этого слова. Назывались они клубы, или дома культуры. То есть, это было здание-- <rs type="pron" subtype="persSing">я</rs> покажу потом, значит, у <rs type="pron" subtype="persSing">меня</rs> есть магнит на холодильнике, да? Вот этот <rs type="place" key="club">клуб.</rs> Вот. Входили, там было фойе, танцпол, тут же билетная касса, <rs type="pron" subtype="persPlur">мы</rs> проходили, значит, через танцпол-- это большой зал-- вот, заходили в зал <rs type="place" key="movieTheater">кинотеатра,</rs> либо на второй этаж, на галёрку, вот. И соответственно, сцена в концертном зале превращалась в экран, опускалась полотно, и <rs type="pron" subtype="persPlur">мы</rs> смотрели там <rs type="place" key="kino">кино.</rs> </u>
+    
+<u xml:id="sp25" who="swift">У вас был один кинотеатр? </u>
+    
+<u xml:id="sp26" who="lebedeva">Один <rs type="place" key="movieTheater">кинотеатр,</rs> да. Один. Сравнить нечего, <rs type="place" key="movieTheater">кинотеатр</rs> был один. </u>
+    
+<u xml:id="sp27" who="swift">Что вы чувствовали, когда вы ходили в кинотеатр? </u>
+    
+<u xml:id="sp28" who="lebedeva">По детству, и даже по юношеству, это была большая радость. Когда <rs type="pron" subtype="persPlur">мы</rs> шли в <rs type="place" key="movieTheater">кинотеатр,</rs> это был праздник. </u>
+        
+<u xml:id="sp29" who="swift">Когда вы начали ходить в кинотеатр одна? </u>
+        
+<u xml:id="sp30" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> думаю что одна <rs type="pron" subtype="persSing">я</rs> вряд <rs type="person" key="lee">ли</rs> даже ходила, потому что это было не принято. Ходили с подругами, ходили с одноклассниками, ходили с родителями, сестрами, братьями. Чтобы <rs type="pron" subtype="persSing">я</rs> ходила в <rs type="place" key="movieTheater">кинотеатр</rs> одна, <rs type="pron" subtype="persSing">я</rs> этого не помню совсем. </u>
+            
+ <u xml:id="sp31" who="swift">Как часто вы ходили в кино, и на какие сеансы-- утренние, дневные, вечерные? </u>
+            
+<u xml:id="sp32" who="lebedeva">Когда <rs type="pron" subtype="persSing">я</rs> была маленькая, <rs type="pron" subtype="persSing">я</rs> ходила на дневные сеансы. Дело в том, что сеансов было всего-- вот, в нашем <rs type="place" key="movieTheater">кинотеатр,</rs> <rs type="pron" subtype="possSing">моего</rs> детства-- их всего было три. Первый сеанс был утренний, он был очень редко, в одиннадцать часов утра, дети на него ходили. А потом было два сеанса, на девятнадцать часов и на двадцать один час. То есть, ходили и утром, и вечером, в зависимости от ситуации. Естественно, в детстве ходили на ранние сеансы, то есть, на одиннадцать и на девятнадцать. </u>
+                
+<u xml:id="sp33" who="swift">Сходить в кино--это было обычное дело, или особое событие? </u>
+                
+<u xml:id="sp34" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> не могу даже сказать, что было особое событие, потому что в <rs type="place" key="kino">кино</rs> ходили часто. То есть, два раза в неделю, три раза в неделю-- ходили часто в <rs type="place" key="kino">кино.</rs> Вот. Но иногда, когда, особенно, приходили новые фильмы, потому что привозили фильмы из города <rs type="place" key="Kostrom">Костромы</rs>, из областного центра-- это был праздник, то есть, особое событие, как угодно интерпретируйте. </u>
+                    
+<u xml:id="sp35" who="swift">Как посещение кино изменилось когда вы выросли, закончили школу, и вышла замуж? </u>
+                    
+<u xml:id="sp36" who="lebedeva">Когда <rs type="pron" subtype="persSing">я</rs> приехала в <rs type="place" key="stPetersburg">Санкт-Петербург</rs>, да, в <rs type="place" key="stPetersburg">Санкт-Петербурге</rs> <rs type="pron" subtype="persPlur">мы</rs> часто тоже ходили с друзьями в <rs type="place" key="kino">кино.</rs> До перестройки, это было такое модное среди молодежи развлечение. После перестройки в девяностые годы начался кризис кинопроката и стали ходить в <rs type="place" key="kino">кино</rs> мало, редко. Когда дети подросли, стали ходить тоже на детские сеансы, на мультсборники, на фильмы уже зарубежные. Например, <rs type="pron" subtype="persSing">я</rs> помню, <rs type="pron" subtype="persPlur">мы</rs> ходили с Аленой и Левой ходили на Астерикса и Обеликса. Приключения Астерикса и Обеликса. Это фильм, значит, иностранный. <rs type="pron" subtype="persSing">Я</rs> прекрасно помню, что <rs type="pron" subtype="persPlur">мы</rs> ходили в <rs type="place" key="movieTheater">кинотеатр</rs> <rs type="place" key="kinoteatrAurora">Аврора</rs> в рамках кинофестиваля. А сейчас <rs type="pron" subtype="persPlur">мы</rs> ходим с мужем достаточно часто, раз в две недели. Раз в месяц обязательно, на премьеры. </u>
+                        
+<u xml:id="sp37" who="swift">Какие были ваши самые любимые жанры в детстве, и какие были ваши самые любимые жанры, когда вы были студентами? </u>
+                        
+<u xml:id="sp38" who="lebedeva">В детстве больше всего <rs type="pron" subtype="persSing">мне</rs> нравились сказки, и <rs type="pron" subtype="persPlur">мы</rs> очень любили фильмы про индейцев. Вот. Это Чингачгук, Большой Змей, Маргарет, наверное тебе это не о чем не говорит. Был такой югославский актер, Гойко Митич, и он играл потрясающих совершенно индейцев, и <rs type="pron" subtype="persPlur">мы</rs> очень любили ходить на эти фильмы про индейцев. Естественно, ходили, значит, на какие-то любовные фильмы-- например, фильм был <rs type="title" key=tabor">Табор</rs> уходит в небо. Вот, это <rs type="pron" subtype="persSing">я</rs> училась в старших классах, когда это было событие просто, вот, для <rs type="pron" subtype="persPlur">нас.</rs> </u>
+                            
+<u xml:id="sp39" who="swift">И когда вы были студентами? </u>
+                            
+<u xml:id="sp40" who="lebedeva">Когда <rs type="pron" subtype="persSing">я</rs> была студентка, это нужно уже, как бы, это самое, значит, соображать, потому что тогда уже <rs type="pron" subtype="persPlur">мы</rs> ходили и на <rs type="pron" subtype="possPlur"">наши,</rs> <rs type="nationalCinema"key=sovietCinema">соответственно</rs>, фильмы, как бы, <rs type="nationalCinema"key=russianCinema>российские</rs>. Как <rs type="person"key="sherlockholmes">Шерлок Холмс</rs> и <rs type="person"key="doctorwatson">Доктор Ватсон</rs>, вот был фильм, он в восьмидесятом году вышел. Вот он шел и в <rs type="place" key="kino">кинотеатрах</rs> тоже. <rs type="pron" subtype="persPlur">Мы</rs> ходили на Служебный роман, на Иронию судьбы, или с легким паром-- это <rs type="genre" key="melodrama">мелодрама</rs>. Потом вышел <rs type="nationaCinema"key=americanCinema">американский фильм</rs> <rs type="title" key="Terminator">Терминатор,</rs>. То есть, <rs type="pron" subtype="persPlur">мы</rs> ходили и на первый, и на второй, с большим удовольствием. То есть, ходили достаточно часто, и фильмов любимых много. То есть, все фильмы Эльдара <rs type="person"key="riazanov">Рязанова</rs> <rs type="pron" subtype="persSing">я</rs> очень люблю, если вам это о чем-то говорит. </u>
+
+<!-- Daniel:sp41-sp60 -->
+ 
+ <u xml:id="sp41" who="swift">Извините, еще раз. </u>
+ 
+ <u xml:id="sp42" who="lebedeva">Фильмы Эльдара <rs type="person"key="riazanov">Рязанова.</rs> <rs type="pron" subtype="persSing">Я</rs> рассказываю, что фильмы Эльдара <rs type="person"key="riazanov">Рязанова,</rs> да, у <rs type="pron" subtype="persPlur">нас</rs> вообще в стране очень любят. <rs type="pron" subtype="persSing">Я</rs> и все смотрела, например, фильм <rs type="title" key="Without a Dowry">Бесприданница</rs> <rs type="pron" subtype="persSing">я</rs> несколько раз смотрела в <rs type="place" key="kino">кино,</rs> с Ларисой <rs type="person"key="Guzeeva">Гузеевой</rs> в главной роли. Это Лариса, которая ведет Давай поженимся. Вот. Она была тогда девятнадцатилетняя девушка и играла по <rs type="person"key="Ostrovsky">Островскому</rs> в этом фильме <rs type="title" key="Without a Dowry">Бесприданница</rs>. Вот. И <rs type="pron" subtype="possPlur"">наш</rs> любимый всеми россиянами фильм <rs type="title" key="The Irony of Fate">Ирония</rs> судьбы, или с легким паром. То есть, <rs type="genre" key"melodrama">мелодрамы</rs> уже больше нравились. Ну и плюс вот такие боевики, американизированные. Со <rs type="person" key="Stalone">Сталлоне</rs>, с <rs type="person" key="Schwarzenegger">Шварценеггером</rs>. </u>
+  
+  <u xml:id="sp43" who="swift">У вас были любимые актеры, или актрисы? </u>
+  
+  <u xml:id="sp44" who="lebedeva">Ну, что касается-- <rs type="pron" subtype="persSing">я</rs> вижу, что написано в зарубежном <rs type="place" key="kino">кино--</rs> <rs type="pron" subtype="possSing">мой</rs> любимый фильм-- это <rs type="title" key="Junior">Джуниор</rs>. <rs type="pron" subtype="possSing">Мой</rs> любимый актер-- это Арнольд <rs type="person" key="Schwarzenegger">Шварценеггер</rs>. <rs type="pron" subtype="persSing">Я</rs> его обожаю, потому что он передал эмоции, именно в <rs type="title" key="Junior">Джуниоре</rs>, мужчина, который находится в интересном положении, гораздо лучше, чем передают многие женщины. Поэтому, <rs type="person" key="Schwarzenegger">Шварценеггера</rs> <rs type="pron" subtype="persSing">я</rs> обожаю до сих пор, смотрела все фильмы с его участием. Вот, и до сих пор им восхищаюсь. </u>
+   
+   <u xml:id="sp45" who="swift">Вы помните какой-нибудь фильм или посещение кино особенное? Расскажите об этом посещении. </u>
+   
+   <u xml:id="sp46" who="lebedeva">Ну, если из последних, да, из последних, <rs type="pron" subtype="persPlur">мы</rs> смотрели-- не знаю, будет дальше про последние фильмы вопросы, или сейчас рассказать? </u>
+    
+    <u xml:id="sp47" who="swift">Сейчас. </u>
+    
+    <u xml:id="sp48" who="lebedeva">Сейчас, да? У <rs type="pron" subtype="persPlur">нас</rs> в <rs type="place" key="russia">России</rs> есть такой фильм <rs type="title" key="Flight Crew">Экипаж</rs>. Вот. Его сняли давно, и сейчас сняли ремейк. И вот <rs type="pron" subtype="persPlur">мы</rs> ходили на этот фильм, на Экипаж, с Данилой Козловским в главной роли. Вот, очень он произвел впечатление необыкновенное. Фантастический такой фильм, советую посмотреть. Удивительное впечатление, потому что на грани фантастики, но тем не менее, тонкие психологические отношения между героями. Вот, производит впечатление. Ну и Терминатор, Терминатор Третий впечатление. <rs type="pron" subtype="persSing">Я</rs> очень переживала, как Шварценеггер справится с этой ролью. Потому что возраст у него уже не маленький, а он все в боевиках играет. Но это было давно. </u>
+     
+     <u xml:id="sp49" who="swift">Как вы проводили свободное время, кроме посещения кино? </u>
+     
+     <u xml:id="sp50" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> очень люблю читать. <rs type="pron" subtype="persSing">Я</rs> постоянно читаю. Также <rs type="pron" subtype="persPlur">мы</rs> ходим в театр, то есть у <rs type="pron" subtype="persPlur">нас</rs> есть абонемент на зимний период. Значит, в Мариинский театр, вот, <rs type="pron" subtype="persPlur">мы</rs> ходим соответственно в концертный зал в театр. Вот. Сейчас, вот, <rs type="pron" subtype="persPlur">мы</rs> ходили на балеты <rs type="person"key="Eifman">Эйфмана</rs>, вот, то что, значит, <rs type="pron" subtype="persPlur">мы</rs> с тобой как раз обсуждали. Вот. На <rs type="title" key="Eugene Onegin">Евгения Онегина</rs>. Так вот, также <rs type="pron" subtype="persSing">я</rs> люблю гулять по городу, наслаждаться природой, ездить на дачу. Более того, опять же, проводить время с детьми. </u>
+      
+      <u xml:id="sp51" who="swift">С кем вы обычно ходили в кино? </u>
+      
+      <u xml:id="sp52" who="lebedeva">Когда была маленькой, ходила в <rs type="place" key="kino">кино</rs> с подругами, да? С одноклассниками. Потом соответственно уже ходила с одногруппниками когда училась в университете. Когда дети появились, с детьми, теперь <rs type="pron" subtype="persSing">я</rs> хожу с мужем. Иногда хожу с Алёной, дочерью. Но теперь уже редко. </u>
+       
+       <u xml:id="sp53" who="swift">И сколько лет было в среднем людям которые ходили в кино утром, днем, вечером? </u>
+       
+       <u xml:id="sp54" who="lebedeva">Утром как правило ходили раньше дети, а вечером ходят взрослые потому что, понятно, что с утра, как правило, все работают. Хотя сейчас <rs type="pron" subtype="persSing">я</rs> знаю, что много пенсионеров ходят в <rs type="place" key="kino">кино</rs> с утра. </u>
+        
+        <u xml:id="sp55" who="swift">И больше мужчин или женщин? </u>
+        
+        <u xml:id="sp56" who="lebedeva">В <rs type="place" key="movieTheater">кинотеатре</rs> больше женщин. Мужчин меньше. </u>
+        
+        <u xml:id="sp57" who="swift">Люди чаще ходили в кино с семьями или с друзьями и подругами? </u>
+        
+        <u xml:id="sp58" who="lebedeva">Маргарет, это по-разному, потому что как семьи. Вот, Лева с Катей ходят семьёй. Да, <rs type="pron" subtype="possSing">мой</rs> сын с невесткой. Да, <rs type="pron" subtype="persPlur">мы</rs> ходим с мужем и с <rs type="pron" subtype="possSing">моей,</rs> предположим, золовкой. То есть, бывает, наверное, с семьёй чаще. Да, и сейчас, кстати, с семьей чаще, проанализировала, да. </u>
+         
+         <u xml:id="sp59" who="swift">В кинотеатре в детстве были очереди? Вы помните, когда вы ждали в очереди? </u>
+         
+         <u xml:id="sp60" who="lebedeva">Это в детстве или сейчас? </u>
+ 
+<!-- Josh: sp61-sp80 -->
+ 
+ <u xml:id="sp61" who="swift">Я думаю, что в детстве. </u>
+ 
+ <u xml:id="sp62" who="lebedeva">В детстве очереди были, особенно когда приходил новый фильм, тогда были очереди, действительные билеты было не достать. Сейчас очереди очень маленькие, потому что билеты заказывалась онлайн. Приезжаем выкупаем, то есть без проблем. </u>
+ 
+ <u xml:id="sp63" who="swift">И разные группы сидели в разных частях кинозала раньше? </u>
+ 
+ <u xml:id="sp64" who="lebedeva">Ну, дело в том, что конечно приходят и сидят группками, соответственно, берут билеты чтобы по интересам, но так, чтобы разделялись как-то. Кто-то любит сидеть на первом ряду. <rs type="pron" subtype="persSing">Я,</rs> например, люблю сидеть на первом ряду. Сейчас <rs type="pron" subtype="persSing">я</rs> люблю сидеть на седьмом, восьмом. Кто-то любит на последнем ряду сидеть. Молодежь, как правило. Они у <rs type="pron" subtype="persPlur">нас</rs> даже в <rs type="place" key="russia">России</rs> называются места для поцелуев. </u>
+  
+  <u xml:id="sp65" who="swift">Люди шумели или вели себя тихо во время сеанса? </u>
+  
+  <u xml:id="sp66" who="lebedeva">Вообще, сейчас достаточно культурный народ. И ведут себя тихо, потому что если кто-то будет шумeть, тут же сделают замечание. Поэтому сейчас, более-менее, тихо в <rs type="place" key="movieTheater">кинотеатре.</rs> Не шумят. Хотя когда, например, вот, в Экипаже, когда самолет падал, когда, вот эти, вот сцены, то народ: "Ах!!! Ах!!!!!!" </u>
+  
+  <u xml:id="sp67" who="swift">Это сейчас или … ? </u>
+  
+  <u xml:id="sp68" who="lebedeva">Сейчас, сейчас. Сейчас. Ну, и тогда тоже, и тогда тоже, когда какие-то. <rs type="pron" subtype="persSing">Я</rs> смотрела фильм <rs type="title" key="whitebimb">Белый Бим Черное Ухо</rs>, вот, <rs type="pron" subtype="persSing">я</rs> рыдала так, что у <rs type="pron" subtype="persSing">меня,</rs> по <rs type="pron" subtype="possSing">моему,</rs> слёзы текли, колени были мокрые. Еще раз смотрела фильм Слоны <rs type="pron" subtype="possSing">мои</rs> друзья, тоже помню, это в детстве в индийское <rs type="place" key="kino">кино.</rs> Вот, вспомнила. <rs type="pron" subtype="persPlur">Мы</rs> очень любили ходить на индийские фильмы, тогда. Зита и Гита, Рам и Шиам, Слоны <rs type="pron" subtype="possSing">мои</rs> друзья, Когда Слоны <rs type="pron" subtype="possSing">мои</rs> друзья, это <rs type="pron" subtype="persSing">я</rs> не на вопрос уже отвечаю, а скажем так, возвращаюсь к прежним вопросам. То же самое, <rs type="pron" subtype="persSing">я</rs> стучала ногами, когда ребенок этот полз и упал в бассейн и слон его спасал. <rs type="pron" subtype="persSing">Я</rs> сама кричала и рыдала, и весь зал точно так же себя вел, потому что очень эмоциональное индийское <rs type="place" key="kino">кино</rs> отклик находило во всех сердцах. </u>
+   
+   <u xml:id="sp69" who="swift">Как люди одевались в кино? Нарядно или обычно? </u>
+   
+   <u xml:id="sp70" who="lebedeva">В <rs type="pron" key="possSing">моем</rs> детстве и люди в <rs type="place" key="kino">кино</rs> одевались нарядно. То есть, все, значит, наводили марафет и шли, соответственно, как на праздник. Сейчас люди ходят в <rs type="place" key="kino">кино</rs> как обычно. </u>
+   
+   <u xml:id="sp71" who="swift">Вы знали людей, которые работали в кинотеатре? </u>
+   
+   <u xml:id="sp72" who="lebedeva">Когда <rs type="pron" subtype="persSing">я</rs> жила в Костромской области, да. Естественно, <rs type="pron" subtype="persPlur">мы</rs> знали билетеров, <rs type="pron" subtype="persPlur">мы</rs> знали тех, кто в кассе работает, тех, кто дежурит в зале, <rs type="pron" subtype="persPlur">мы</rs> всех знали, потому что это небольшой был, населенный пункт. Теперь, естественно, <rs type="pron" subtype="persPlur">мы</rs> никого не знаем. </u>
+    
+    <u xml:id="sp73" who="swift">Так …а какая была атмосфера в кинотеатре? </u>
+    
+    <u xml:id="sp74" who="lebedeva">Праздничная. То есть, в любом случае, атмосфера была … ну, на подъеме, Люди приходили с хорошим настроением, в ожидании приятных эмоций, поэтому в любом случае она была будоражащая и радостная. </u>
+    
+    <u xml:id="sp75" who="swift">Опишите кинотеатр. Если можно, сравните с кинотеатрами сейчас. </u>
+    
+    <u xml:id="sp76" who="lebedeva">Тот <rs type="place" key="movieTheater">кинотеатр</rs> из <rs type="pron" subtype="possSing">моего</rs> детства, да? Он был, скажем, так старенький, он был обычный, несмотря на то, что там были два этажа. <rs type="pron" subtype="persPlur">Мы</rs> знали каждый ряд, каждое место, где как видно. Сейчас <rs type="pron" subtype="persPlur">мы</rs> ходим в разные кинотеатры и они все типовые , да? Есть одна сеть кинотеатров, есть другая сеть кинотеатров. Вот, в основном, <rs type="pron" subtype="persPlur">мы</rs> ходим в <rs type="place" key="movieTheater">кинотеатр</rs> Пик. Вот, ну то, что близко. Потом вот это сеть кинотеатров <rs type="place" key="kinoteatrMirazh">Мираж.</rs> Они все похожи один на другой, только в зависимости от зала. Бывает зальчик маленький, бывает зальчик побольше. Единственное, конечно есть кинотеатры которые повышенной комфортности. Вот, буквально с диванами и с обслуживанием. Естественно, они разительно отличаются от тех кинотеатров, которые были в детстве. </u>
+     
+     <u xml:id="sp77" who="swift">Опишите звуки и запахи, которые вы вспоминаете, когда вы думаете о кинотеатрах. </u>
+     
+     <u xml:id="sp78" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> из детства не помню, да? Из детства, потому что наверняка был какой-то специфический запах, потому что, представляете, это старое здание. Вот, а что касается сейчас, запах попкорна, который <rs type="pron" subtype="persSing">я</rs> терпеть не могу и <rs type="pron" subtype="persSing">меня</rs> выбешивает, что с этим попкорном все сидят и извините, пахнет очень плохо, на <rs type="pron" subtype="possSing">мой</rs> взгляд. Поэтому запах кинотеатров теперь в <rs type="pron" subtype="possSing">моей,</rs> в <rs type="pron" subtype="possSing">моей</rs> голове ассоциируется с запахом попкорна. </u>
+      
+      <u xml:id="sp79" who="swift">Креслa были удобные? </u>
+      
+      <u xml:id="sp80" who="lebedeva">В детстве всё было удобно. </u>
+      
+<!-- John: sp81-sp100 -->
+ 
+ <u xml:id="sp81" who="swift">А в кино было холодно, тепло, или жарко, обычно? </u>
+ 
+ <u xml:id="sp82" who="lebedeva">Если в детстве, то <rs type="pron" subtype="persSing">я</rs> вот этого не помню. <rs type="pron" subtype="persSing">Я</rs> помню, что <rs type="pron" subtype="persSing">мне</rs> было комфортно. То есть, <rs type="pron" subtype="persSing">я</rs> не знаю, были <rs type="person"key="lee">ли</rs> там кондиционеры, было <rs type="person"key="lee">ли</rs> там проветривание. <rs type="pron" subtype="persSing">Мне</rs> было комфортно, <rs type="pron" subtype="persSing">я</rs> не помню никаких негативных эмоции. Сейчас во всех <rs type="place" key="movieTheater">кинотеатрах</rs> кондиционеры, поэтому скорее холодно, чем жарко. </u>
+  
+  <u xml:id="sp83" who="swift">Кинотеатр был большой? Сколько было залов? </u>
+  
+  <u xml:id="sp84" who="lebedeva">Да, зал был один. <rs type="place" key="movieTheater">Кинотеатр</rs> был небольшой, зал был один. Зал был двухэтажный. </u>
+  
+  <u xml:id="sp85" who="swift">И кинотеатр был только для кино, или для других мероприятий? </u>
+  
+  <u xml:id="sp86" who="lebedeva">Вот, Маргарет, <rs type="pron" subtype="persSing">я</rs> в свободном полете рассказываю, в свободном режиме, значит, там был <rs type="place" key="concertHall">концертный зал</rs>, значит, в этом же зале, да? Была сцена, опускалось, соответственно, полотно, и шло <rs type="place" key="kino">кино.</rs> На этой сцене <rs type="pron" subtype="persSing">я</rs> сама и танцевала, потому что занималась в танцевальных кружках, и читала стихи. То есть, там проходили и концерты художественной самодеятельности, и приезжали вокально-инструментальные ансамбли, сборные концерты приезжали по различным праздникам. И также по детству <rs type="pron" subtype="persSing">я</rs> помню, там же проводились кукольные спектакли. </u>
+   
+   <u xml:id="sp87" who="swift">Был буфет? И что продавали в буфете? </u>
+   
+   <u xml:id="sp88" who="lebedeva">Так. Значит, вот, когда был киносеанс, да? Буфет не работал, там ничего не продавали. Но когда был какой-то праздник, например, концерт к восьмому марта, 23-ему февраля, там, дню победы, тогда, соответственно, был буфет, и продавали пирожки, кексики, конфетки, морс, квас, шоколадки-- то есть, продавали. Продавали всякие леденцы на палочке. Вот. Но не тогда, когда <rs type="place" key="movieTheater">кинотеатр</rs> работал. </u>
+   
+   <u xml:id="sp89" who="swift">Были в кинотеатре билетеры? </u>
+   
+   <u xml:id="sp90" who="lebedeva">Билетеры были, да, в <rs type="place" key="movieTheater">кинотеатре.</rs> Вот, <rs type="pron" subtype="persSing">я</rs> уже говорю, что <rs type="pron" subtype="persPlur">мы</rs> всех знали. Им было наверное лет тридцать пять, сорок. Это были взрослые женщины. Сейчас, в основном, в <rs type="place" key="movieTheater">кинотеатрах</rs> молодые девушки, да? Билетеры. А тогда это были взрослые женщины. </u>
+    
+    <u xml:id="sp91" who="swift">А где вы любили сидеть? Почему? </u>
+    
+    <u xml:id="sp92" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> любила сидеть на четвертом ряду, потому что у <rs type="pron" subtype="persPlur">нас</rs> … после трех рядов, да, Раз, два, три, это в детстве ты спрашиваешь, да? Был перед… промежуток. И перед четвертый ряд, никто передо...передо мной не сидел, да? Любила сидеть на четвертом ряду, и еще <rs type="pron" subtype="persSing">я</rs> любила сидеть на галерке. Так называлась, ну, бельэтаж, да? Своего рода бельетаж. На первом ряду, бельэтажа. Тоже очень хорошо видно и нет голов перед тобой. </u>
+     
+     <u xml:id="sp93" who="swift">А фильмы были немые или звуковые? </u>
+     
+     <u xml:id="sp94" who="lebedeva">В моем время, уже фильмы были звуковые. Да. </u>
+     
+     <u xml:id="sp95" who="swift">А черно-белые или цветные? </u>
+     
+     <u xml:id="sp96" who="lebedeva">Черно-белые еще были, да? Еще были, но иx было уже мало, поэтому в основном фильмы были цветные. </u>
+     
+     <u xml:id="sp97" who="swift">А какие фильмы были самыми популярными у зрителей и почему? </u>
+     
+     <u xml:id="sp98" who="lebedeva">У разных зрителей были разные фильмы, ну, вот, <rs type="pron" subtype="persSing">я</rs> говорю, что очень популярные были <genre xml:id="melodrama">мелодрамы</genre>, <genre xml:id="melodrama">мелодрамы</genre>. Вот, очень популярные были <nationalCinema xml:id="foreignCinema"/>индийские фильмы</nationalCinema>, потому что они чувствительные очень. Очень популярные были фильмы <rs type="person"key="riazanov">Эльдара Рязанова,</rs> очень такой у <rs type="pron" subtype="persPlur">нас</rs> известный режиссер. Потому что <nationalCinema xml:id="foreignCinema">иностранных фильмов</nationalCinema>, да?, в моем детстве их еще не было. Только начинали появляться. Вот. Был такой фильм, <rs type="pron" subtype="persSing">я</rs> его очень хорошо помню, в старшем классе. Он назывался <title xml:id="tearsOfBlood">И дождь смывает все следы</title>, <genre xml:id="melodrama">мелодрама</genre>, то есть у <rs type="pron" subtype="persPlur">нас</rs> народ просто ломился на этот фильм. Все хотели попасть. Потом был фильм Генералы песчаных карьеров, тоже это самое, вот, только, только начинали появляться, по крайней мере, нашем городе, да?, <nationalCinema xml:id="foreignCinema">иностранные фильмы</nationalCinema>. Вот, а поскольку развлечений было мало, то в принципе, народ ходил с удовольствием на всех предложенные фильмы. </u>
+      
+      <u xml:id="sp99" who="swift">И кинотеатры часто показывали иностранные фильмы? Фильмы каких стран? Какие фильмы вам нравились больше всего? </u>
+      
+      <u xml:id="sp100" who="lebedeva">Вот, видишь, Маргарет, <rs type="pron" subtype="persSing">я</rs> уже все это рассказала, да? Что значит, вот, то что <rs type="pron" subtype="persSing">я</rs> помню, да? <nationalCinema xml:id="foreignCinema"/>Индийские фильмы</nationalCinema>, плюс вот эти, вот, фильмы, которых <rs type="pron" subtype="persSing">я</rs> помню, значит, два, да? Из детства. А Генералы песчаных карьеров очень популярный у <rs type="pron" subtype="persPlur">нас</rs> песня в <rs type="place" key="russia">России,</rs> можешь тоже послушать, потому что она это вот фильм, скажем, так, уже стала по концертным площадкам гастролировать у <rs type="pron" subtype="persPlur">нас</rs> в <rs type="place" key="russia">России.</rs> </u>
+       
+<!-- Vitaliy: sp101-sp120 -->
+ 
+<!-- The txt file sent to me by Vitaliy was unreadable due to its encoding. -->
+      
+<!-- Molly: sp121-sp138 -->
+      
+      <u xml:id="sp121" who="swift">И вы знаете, когда звуковые фильмы пришли на экраны? </u>
+      
+      <u xml:id="sp122" who="lebedeva"><rs type="pron" subtype="persSing">Я</rs> знаю, что изобрели еще в позапрошлом столетии. Да. В 
+       девятнадцатом… звуковые фильмы. Придумали. Но, вообще, в <rs type="place" key="russia">России</rs> они только в двадцатых годах 
+       после революции Великой октябрьской появились. А вообще первый фильм, первый звуковой фильм, он вообще почти в тридцатых, к 
+       концу двадцатых годов он только вышел на экраны. </u>
+      
+      <u xml:id="sp123" who="swift">Koгда это случилось? </u>
+      
+      <u xml:id="sp124" who="lebedeva">Да. <rs type="pron" subtype="persSing">Я</rs> сказала, что это первые фильмы были к 
+       концу двадцатых, началу тридцатых годов. Это было событие. </u>
+       
+       <u xml:id="sp125" who="swift">Вы помните фильмы во время войны, после войны, в семидесятые годы, или во время 
+        перестройки? </u>
+       
+       <u xml:id="sp126" who="lebedeva">Во время войны <rs type="pron" subtype="persSing">меня</rs> еще не было, потому что 
+        <rs type="pron" subtype="persSing">я</rs> родилась в шестьдесят первом году. После войны фильмы выходили позитивные 
+         типа <rs type="title" key="cossacksOfTheKuban">Кубанских казаков</rs>. <rs type="title" key="volgaVolga">Волга-Волга</rs>. Черно белые. 
+         Они были очень бодрые, позитивные. Фильм <rs type="title" key="theGirls">Девчата</rs> советую тебе посмотреть, совершенно потрясающий. 
+         <rs type="pron" subtype="persSing">Я</rs> их конечно все смотрела и очень их люблю. А вот семидесятые годы. 
+          <rs type="pron" subtype="possSing">Мой</rs> любимый фильм, который вышел в семьдесят первом году, это фильм <rs type="title" key="officers">Офицеры</rs>. 
+           Он очень известный, совершенно классный фильм. <rs type="pron" subtype="persSing">Мне</rs> кажется, что каждый российский 
+           человек не один и не два, а может быть десятки раз. Что касается перестройки, то какое-то время 
+           <rs type="place" key="kino">кино</rs> не было. Потом постепенно стали снимать все те фильмы, которые … А во время перестройки 
+            нет. Во время перестройки, чтобы вспомнить какой то фильм конкретно в девяностые годы. <rs type="pron" subtype="persSing">Я</rs> 
+             даже не очень могу. </u>
+       
+       <u xml:id="sp127" who="swift">Как ваше посещение кинотеатров изменилось со временем и почему? </u>
+       
+       <u xml:id="sp128" who="lebedeva">Если в детстве <rs type="pron" subtype="persPlur">мы</rs> ходили в 
+        <rs type="place" key="movieTheater">кинотеатр</rs> один, два раза в неделю, обязательно ходили в выходные, потому что 
+         не было развлечений других, то теперь <rs type="pron" subtype="persPlur">мы</rs> ходим в <rs type="place" key="movieTheater">кинотеатр</rs> 
+          раз в месяц. В среднем. И как раз идем на премьеру. Например, последний фильм <rs type="title" key="flightCrew">Экипаж</rs>, то 
+          что <rs type="pron" subtype="persPlur">мы</rs> посмотрели. Да. <rs type="pron" subtype="persSing">Я</rs> сначала узнала, 
+           соответственно, что этот фильм будет. <rs type="pron" subtype="persSing">Я</rs> знала актеров. <rs type="pron" subtype="persPlur">Мы,</rs> 
+           как только он вышел. Это было 24ого апреля. <rs type="pron" subtype="persPlur">Мы</rs> сразу же пошли на этот фильм с мужем. Да. Предположим 
+            до этого был фильм, который <rs type="pron" subtype="persSing">мне</rs> очень понравился. Это значит <rs type="person" key="diCaprio">Леонардо ДиКаприо</rs>. 
+            И вылетело из головы. Исчезнувшая Это не то. С <rs type="person" key="diCaprio">Леонардо ДиКаприо</rs type>, последний фильм, за который он Оскар получил. 
+           <rs type="title" key="theRevenant">Выживший</rs>. Выживший, да. <rs type="pron" subtype="persSing">Я</rs> очень переживала, у 
+            <rs type="pron" subtype="persPlur">нас</rs> вся <rs type="place" key="russia">Россия</rs> переживала за <rs type="person" key="diCaprio">Леонардо ДиКаприо</rs>. 
+             Как только вышел <rs type="title" key="theRevenant">Выживший</rs>, <rs type="pron" subtype="persPlur">мы</rs> сразу пошли его 
+              смотреть. Тоже почему-- потому что была реклама, естественно, что хотелось посмотреть непосредственно, вот именно эту картину 
+              потому что изначально она была хорошо продвинута. </u>
+       
+       <u xml:id="sp129" who="swift">А что вы думаете об этих изменениях? </u>
+       
+       <u xml:id="sp130" who="lebedeva">Ну, они закономерны эти изменения. Потому что очень много концертных площадок, очень 
+        много, соответственно, театров в <rs type="place" key="stPetersburg">Санкт-Петербурге</rs>. Очень много музеев, очень много 
+        исторических памятников. Очень много развлечений. Поэтому то, что сейчас кинотеатры, скажем, все-таки стали заполняться, стали 
+        ходить люди, это большое достижение для киноиндустрии. <rs type="pron" subtype="persSing">Я</rs> думаю что сейчас стабильность некая 
+         наступила и в нашем российском кинопрокате. Но и опять же, очень хорошие <rs type="nationalCinema" key="foreignCinema">зарубежные фильмы</rs> 
+         сейчас покупают. </u>
+       
+       <u xml:id="sp131" who="swift">Вы сейчас ходите в кино? Почему да, или почему нет? </u>
+       
+       <u xml:id="sp132" who="lebedeva">Вот <rs type="pron" subtype="persSing">я</rs> уже впереди планеты всей забегаю, да? 
+        Что, вот, хожу в <rs type="place" key="kino">кино</rs> потому что, значит, люблю каких-то актеров, соответственно, 
+        смотрю рекламу и хочу устроить себе праздник. Это, скажем, так, выход поучаствовать в чужих эмоциях, потому что 
+        какие-то фильмы-- вот, <rs type="pron" subtype="persSing">я</rs> сейчас, например, это <rs type="pron" subtype="persSing">я</rs> 
+        уже к тебе говорю, да? Что, думаю, <rs type="pron" subtype="persSing">я</rs> забыла фильм <rs type="title" key="titanic">Титаник</rs>? 
+        <rs type="pron" subtype="persSing">Я</rs> же обожаю, просто, фильм <rs type="title" key="titanic">Титаник</rs>. С 
+         <rs type="person" key="diCaprio">ДиКаприо</rs>. И все у <rs type="pron" subtype="persPlur">нас,</rs> скажем так, все 
+          <rs type="pron" subtype="possSing">мои</rs> знакомые тоже его очень любят. Не знаю даже в каком он году, потому что он 
+           достаточно давно уже вышел. Вот. И ходим в <rs type="place" key="kino">кино,</rs> но далеко не на всё. </u>
+       
+       <u xml:id="sp133" who="swift">Что вам нравится в фильмах, которые идут сейчас больше всего? </u>
+       
+       <u xml:id="sp134" who="lebedeva">Тоже все зависит от жанра. Все зависит от жанра. В зависимости от того какой фильм. Больше всего, 
+        <rs type="pron" subtype="persSing">мне</rs> кажется, <rs type="pron" subtype="persSing">мне</rs> нравится игра актеров, потому что, 
+         что касается спецэффектов, очень много компьютерной графики. Она не всегда на должном уровне. И естественно, 
+         <rs type="pron" subtype="persSing">меня</rs> больше всего прельщают какие-то внутренние переживания, которые актеры до 
+          <rs type="pron" subtype="persPlur">нас</rs> доносят через экран. Маргарет, у всех по-разному. У <rs type="pron" subtype="persSing">меня,</rs>
+           например, Лева с Катей, Данины родители, они очень любят <rs type="genre" key="horror">ужастики</rs>. 
+           <rs type="pron" subtype="persSing">Я,</rs> например, не могу <rs type="title" key="theTexasChainsawMassacre">Техасская резня бензопилой</rs>, 
+            если ты знаешь этот фильм. <rs type="pron" subtype="persSing">Я</rs> не могу посмотреть ни одного эпизода из этого фильма, 
+             поэтому все люди имеют разные предпочтения. </u>
+       
+       <u xml:id="sp135" who="swift">Если это все, спасибо за помощь и за внимание. </u>
+       
+       <u xml:id="sp136" who="lebedeva">Если у тебя есть какие-то вопросы от себя дополнительно, задавай, потому что, скажем так, 
+        достаточно сумбурный получился вариант <rs type="pron" subtype="possPlur"">нашего</rs> интервью. Тем не менее, 
+         <rs type="pron" subtype="persSing">я</rs> вспомнила то, о чем <rs type="pron" subtype="persSing">я</rs> давно не вспоминала. </u>
+          
+          <u xml:id="sp137" who="swift">Thank you. </u>
+          
+          <u xml:id="sp138" who="lebedeva">Пожалуйста. </u>
+
+  </body>
+   </text>
+</TEI>

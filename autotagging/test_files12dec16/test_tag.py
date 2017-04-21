@@ -1,4 +1,4 @@
-# Russian Tagging Program
+# Russian Tagging Program for RMTP Project Oral History Interviews
 # The program tags persons, places, and pronouns:
 # (personal and possessive, singular and plural).
 # Created By Maggie Swift 
@@ -116,11 +116,11 @@ def tag_text(text, tags, writefile, interviewer, interviewee):
 if __name__ == '__main__':
 
     # After text = write the name of the file you need to input.
-    text = 'Danilenko2008plaintext.txt'
+    text = 'voroninEng.txt'
     tags = 'tag_list.txt'
 
     # After writefile = write the name of the file you need to output.
-    writefile = 'danilenko1.txt'
+    writefile = 'voroninOutput1.txt'
     interviewer = 'interviewer'
     interviewee = 'interviewee'
     

@@ -1,0 +1,6 @@
+ <footer> &#xa9; 2017 W&amp;M Russian Music Ensemble
+ <br /> 
+ Web Design by Bailey Orr and John Hoskins 
+ <a href="https://www.facebook.com/WMRussianMusic/?fref=ts">
+ <img src="http://rmtp.wm.edu/gmcarney/images/facebookIcon.png" /></a>
+ </footer>

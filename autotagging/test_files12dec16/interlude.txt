@@ -1,7 +1,7 @@
 <document>
 <meta>
 RMTP (Russian Movie Theater Project)
-College of WIlliam and Mary Interview with Ekaterina Lebedeva https://vimeo.com/180984724
+College of William and Mary Interview with Ekaterina Lebedeva https://vimeo.com/180984724
 Interview conducted in St. Petersburg, Russia in July, 2016 by Margaret Swift (interviewer) and Bailey Orr (camera and sound).
 Transcribed and translated by Bailey Orr, Maggie Swift, Gabriella Carney, and Molly Charles in Fall 2016.
 <\meta>
@@ -9,63 +9,365 @@ Transcribed and translated by Bailey Orr, Maggie Swift, Gabriella Carney, and Mo
 <text>
 <body>
 
-<u xml:id="sp1" who="interviewer"></u>
+<u xml:id="sp1" who="interviewer">Today is the 29th of July, 2013. We’re in Saint Petersburg, Russia. My name is Jessica Parks, and my colleague is Emily Clark. Emilay and I are conducting an interview with Mikhail Voronin. We’re conducting an interview with you for a film project that analyzes the general, political, and cultural history of Russia through film. We would like for you to tell us about your memories of going to the movies and we’re particularly interested in the details. On the basis of your answers we will write an essay, in which we will analyze the results of the questionnaire and write about moviegoing in Russia. The goal of this interview for us is to learn as much as we are able about individual people and the place of the movies in their lives. Thank you very much for your readiness do share your memories with us and also for helping us. This interview will be added for listening on the film project’s website. If you’re not against it, then let’s begin. </u>
 
-<u xml:id="sp2" who="interviewee"></u>
+<u xml:id="sp2" who="interviewee">Very good! </u>
 
-<u xml:id="sp3" who="interviewer">Фамилия и отчество, пожалуйста. Даниленко Людмила Васильевна. </u>
+<u xml:id="sp3" who="interviewer">Tell us, where and when were you born? </u>
 
-<u xml:id="sp4" who="interviewee">Вы помните первый раз когда вы ходили в <rstype="place"key="kino">кино?</rs> Это было очень давно. Может быть, <rstype="pron"subtype=“persSing”>мне</rs> было лет пять. </u>
+<u xml:id="sp4" who="interviewee">I was born in the Urals, in the city of Ufa. It’s one of the cities with a million or more people, a sufficiently large city in Russia. I spent the first fifteen years of my life there. </u>
 
-<u xml:id="sp5" who="interviewer">Опишите фильм, пожалуйста. Впечатление о просмотренном фильме или сюжет? </u>
+<u xml:id="sp5" who="interviewer">Where did your mom and dad work? </u>
 
-<u xml:id="sp6" who="interviewee">С кем вы ходили? С мамой </u>
+<u xml:id="sp6" who="interviewee">My parents divorced when I was still a child. My mom worked as a stewardess, flew, in general around Russia. Sometimes to neighboring countries. </u>
 
-<u xml:id="sp7" who="interviewer">Когда вы начали ходить в кинотеатр сама? Это, ну как, одна я не ходила, только где-то лет в шестнадцать, когда мне было шестнадцать лет. Наверно. Тогда, только. А так мы посещали коллективно кинотеатр. Со школой. Или у нас в школе был показ у нас кинозал небольшой был. Нам там показывали или с группой мы ходили в кинотеатр. </u>
+<u xml:id="sp7" who="interviewer">What sort of education do you have? </u>
 
-<u xml:id="sp8" who="interviewee">Как часто вы ходили в <rstype="place"key="kino">кино?</rs> Не очень часто. Может быть один раз в месяц или один раз в два месяца...потому что это тоже такое дорогое удовольствие было. … </u>
+<u xml:id="sp8" who="interviewee">Now I have a university degree. I finished the War College this year. </u>
 
-<u xml:id="sp9" who="interviewer">Какие были ваши самые любимые жанры в детстве? В дестве, я думаю это вот сказки и такие познавательные. "В мире животных" мне нравилось, а такая у нас передача была, и много много показывали документальные фильмы. </u>
+<u xml:id="sp9" who="interviewer">What cities have you lived in? </u>
 
-<u xml:id="sp10" who="interviewee">Опишите о фильме, пожалуйста. Это кинокомедии. Они стали классикой или "Иван Васильевич Меняет Профессию". Вы тоже наверное знаете. Они очень интересные и они очень жизненные. </u>
+<u xml:id="sp10" who="interviewee">I lived in Ufa, the capital of the Republic of Bashkorostan. I also lived in Moscow for three years, in the capital of Russia, and the last six I’ve lived in Saint Petersburg, the pretties city in my view. </u>
 
-<u xml:id="sp11" who="interviewer">Почему они были ваши любимые актёры? Я не знаю как, глядя на них в кино, ты, может быть, как переживал с ними вместе ту роль, которую они исполняли очень интересным было, как они играли. </u>
+<u xml:id="sp11" who="interviewer">Do you remember the first time you went to the movies? </u>
 
-<u xml:id="sp12" who="interviewee">А Почему? <rstype="pron"subtype=“persSing”>Я</rs> не знаю. Может быть такие там приключенческие сюжеты у них...примерно одинокового возраста <rstype="pron"subtype=“persPlur">мы</rs> были. </u>
+<u xml:id="sp12" who="interviewee">No, I don’t remember the first time. Poorly, I remember it poorly. </u>
 
-<u xml:id="sp13" who="interviewer">Вы помните, когда вы посмотрели? Это было, наверно, 1959ый год. </u>
+<u xml:id="sp13" who="interviewer">What kinds of movies did you watch? </u>
 
-<u xml:id="sp14" who="interviewee">С кем вы обычно ходили в <rstype="place"key="kino">кино?</rs> Ну, когда была маленькая с мамой или со старшей сестрой и с братом. А потом уже ходила с подругами. </u>
+<u xml:id="sp14" who="interviewee">Just as I started to go to the movies from childhood, everything was in chronological order. Starting with The Adventures of Rocky and Bullwinkle, maybe you know, and ending with horror movies, comedies. Now, in principal, now I only rarely go to the movies. </u>
 
-<u xml:id="sp15" who="interviewer">Люди часто ходили кино с семьёй или с друзьями/подругами? Я не знаю. Как сказать, по разному бывало, может быть один раз там с друзьями ходили, другой раз с семьями ходили. Родители с детьми. </u>
+<u xml:id="sp15" who="interviewer">How old were you? </u>
 
-<u xml:id="sp16" who="interviewee">Вы помните, когда вы ждали в очереди? Какое <rstype="place"key="kino">кино?</rs> <rstype="pron"subtype=“persSing”>Я</rs> помню в <rstype="place"key="volgograd">Волгограде</rs> <rstype="pron"subtype=“persSing”>я</rs> училась, и <rstype="pron"subtype=“persPlur">мы</rs> ходили с подругой. <rstype="place"key="kino">Кино</rs> называлось "Женщина, которая поёт". В этом фильме снималась <rstype="pron"subtype="possPlur"">наша</rs> знаменитая певица Алла Борисовна Пугачёва. , "" </u>
+<u xml:id="sp16" who="interviewee">I don’t remember, probably, it was first grade, seven years old. Seven or eight. </u>
 
-<u xml:id="sp17" who="interviewer">Вы знали людей, которые работали в кинотеатре? В кинотеатре, наверное, нет. </u>
+<u xml:id="sp17" who="interviewer">Who did you go to the movies with? </u>
 
-<u xml:id="sp18" who="interviewee">Вы ели что-нибудь в <rstype="place"key="movieTheater">кинотеатре?</rs> Нет. <rstype="pron"subtype=“persSing”>Я</rs> считаю что, это неприлично. Если человек пришел смотреть фильм, значит все внимание его должно быть приковано только к экрану, и он должен смотреть, а не кушать. Для этого есть другое место. , , , </u>
+<u xml:id="sp18" who="interviewee">Who didn’t I go to the movies with! Who did I go with the first time? In general? I went to the movies with my mom, teacher, with almost all my girlfriends. I loved to go to the movies with friends, with a big group. Yes, in a big group and then after we’d loosened up a bit. I would, well, I can’t say this on the record what they usually loosen up with before going to the movies. Your people will understand. </u>
 
-<u xml:id="sp19" who="interviewer">Другие люди ели? Ну иногда. </u>
+<u xml:id="sp19" who="interviewer">How much did a ticket cost? </u>
 
-<u xml:id="sp20" who="interviewee">А мороженое? Ну мороженое, у <rstype="pron"subtype=“persPlur">нас</rs> не было. Это так в городе только было, у <rstype="pron"subtype=“persPlur">нас</rs> иногда только привозили мороженое. В магазин. </u>
+<u xml:id="sp20" who="interviewee">A ticket cost, I don’t remember, a couple kopecks. At the beginning…at the beginning when we were kids and had very little money of our own in our pockets, we went to the morning screenings, then it was cheaper. And afterwards at any time. A ticket cost from, from one dollar, in your system, up to ten or twenty dollars. </u>
 
-<u xml:id="sp21" who="interviewer">Вы помните какой нибудь фильм вы посмотрели? Иностранные. Я могу сказать "Спартак", "Троя", но я не помню ни режиссеров, ни актёров. "Александр" есть. "роя". Ну может быть еще другие, ну так исторические, конечно, очень такие эффектные фильмы. </u>
+<u xml:id="sp21" who="interviewer">What was the name of the movie theater. Describe the theater. </u>
 
-<u xml:id="sp22" who="interviewee">Когда вы посмотрели это фильм? Это в прошлом году <rstype="pron"subtype=“persSing”>я</rs> смотрела. </u>
+<u xml:id="sp22" who="interviewee">The movie theater was called Spark. It designed at first in the Soviet style, in the old style. “Old School.” But then they renovated it, they did a great job, and now it’s a modern screening room, a whole lot of people go there, cinema is strangely popular in Russia recently, and all the premieres are there, and all the stars go there, for example. </u>
 
-<u xml:id="sp23" who="interviewer">А какие фильме вам нравились больше всего? Иностранный фильм. Есть и комедии иностранные. С Луи де Фюнесом, мне очень нравятся. Французские фильмы. Где Жан Марэ. Его уже нет. И один, и другой, они умерли. Ну, фильмы Тимоти Далтон, снимается. Сейчас скажу, я смотрела "Джейн Эйр". Фильм называется "Джейн Эйр". Тимоти Далтон снимается. В этом фильме очень нравится. Он тоже, как история там есть небольшая. </u>
+<u xml:id="sp23" who="interviewer">Did you walk or take transport? </u>
 
-<u xml:id="sp24" who="interviewee">У вас есть любимый иностранный актёр? Ну, не знаю. С ом <rstype="pron"subtype=“persSing”>мне</rs> нравится. правило <rstype="pron"subtype=“persSing”>я</rs> называла? Тоже, ну, можно много, много называть есть хороших актёров </u>
+<u xml:id="sp24" who="interviewee">Normally I drove, it was far enough from home, the nearest movie theater from my house was twenty kilometers away. </u>
 
-<u xml:id="sp25" who="interviewer">Вам не разрешали ваши родители или администрация кинотеатра? Ну, и администрация и школа, ну родители тоже, как бы..не разрешали. До девяти часов мы должны вернуться домой если гуляли. </u>
+<u xml:id="sp25" who="interviewer">How did you get there? </u>
 
-<u xml:id="sp26" who="interviewee">Вы помните какой-нибудь фильм, у которого были проблемы с выходом на экран? Ну, <rstype="pron"subtype=“persSing”>я</rs> не знаю, <rstype="pron"subtype=“persSing”>я</rs> не могу этого сказать. Ну, может быть цензура какие фильмы запрещала. </u>
+<u xml:id="sp26" who="interviewee">Normally, at the beginning we took the bus, and later, when we were already grown up, we drove. </u>
 
-<u xml:id="sp27" who="interviewer">Ваши родители ходили в кино? Ходили когда..ну, очень редко, когда было время. </u>
+<u xml:id="sp27" who="interviewer">Did you have one or more movie theaters near home? </u>
 
-<u xml:id="sp28" who="interviewee">Вы ещё ходите в <rstype="place"key="kino">кино?</rs> <rstype="pron"subtype=“persSing”>Мне</rs> бы хотелась. Но если будет время и возможность конечно. Вот сейчас, когда есть время <rstype="pron"subtype=“persSing”>я</rs> смотрю по телевизору. ' , </u>
+<u xml:id="sp28" who="interviewee">No, near home there weren’t any movie theaters. We exchanged VHS tapes, those old ones. But the movie theater was far from home. There were some theaters in the city, five of them at first. But now ten of them, I think. </u>
 
-<u xml:id="sp29" who="interviewer">Когда было последний раз, когда вы ходили в кино? Ой, последний раз, да? Ну, лет десять назад. </u>
+<u xml:id="sp29" who="interviewer">Compare the movie theaters. </u>
+
+<u xml:id="sp30" who="interviewee">It’s a bit hard to compare them, because they’re all typical, similar to one another, all the movie theaters. But there is a difference, in that...the movie theater could be a freestanding building or in a shopping complex. But, as a rule, now all the movie theaters we have are in shopping complexes. </u>
+
+<u xml:id="sp31" who="interviewer">When did you start going to the movies alone? </u>
+
+<u xml:id="sp32" who="interviewee">I don’t remember how old, about 10. </u>
+
+<u xml:id="sp33" who="interviewer">Did you like going to the movies, and why? </u>
+
+<u xml:id="sp34" who="interviewee">I only liked going to the movies for specific films. I go only rarely just for that reason. Only for specific blockbusters, or some sort of well known premieres. Of well known directors or actors. My friends and I preferred to go out, to play soccer or hockey. </u>
+
+<u xml:id="sp35" who="interviewer">How often did you go to the movies? To which showings? The morning ones, afternoons, evenings? </u>
+
+<u xml:id="sp36" who="interviewee">Yes, to different ones. When we wanted, then we went. As children we went to the morning ones, and then when we grew up, it’s cold in Russian and in order not to freeze we went to the movies. </u>
+
+<u xml:id="sp37" who="interviewer">Going to the movies, was it a special occurrence or a regular one? </u>
+
+<u xml:id="sp38" who="interviewee">As a child maybe it was something special, but now, to go to the movies…we think that going to the movies is better than doing something. If you have nothing better to do, you know, right, no better way to spend your time, you can go to the movies. </u>
+
+<u xml:id="sp39" who="interviewer">How did going to the movies change when you grew up or finished school? </u>
+
+<u xml:id="sp40" who="interviewee">Well it became less interesting, less captivating. They simply started being downloaded on the internet. </u>
+
+<u xml:id="sp41" who="interviewer">What were your favorite genres as a child? </u>
+
+<u xml:id="sp42" who="interviewee">Comedy, from early childhood, is my favorite genre, comedy, I also liked war movies, and now I prefer some sort of melodramas, or ones based on real events. </u>
+
+<u xml:id="sp43" who="interviewer">What were your favorite genres when you were in college? </u>
+
+<u xml:id="sp44" who="interviewee">Porn, of course. Of course porn, it's true you don’t need to change anything, it’s that way for all Russian students. And then war movies and comedies. </u>
+
+<u xml:id="sp45" who="interviewer">Do you have a favorite movie? </u>
+
+<u xml:id="sp46" who="interviewee">Yes, I think I have a few favorite movies. I’ve simply watched a lot of movies, the last movie, that left an impression is called Mavericks…or Укротители волн 1 in Russian. It’s a bad translation, with Gerald Butler. “Maybe,” but maybe you know it. Why did I like it? It’s based on true events. </u>
+
+<u xml:id="sp47" who="interviewer">Did you have favorite actors or actresses in from foreign cinema? Who and why? </u>
+
+<u xml:id="sp48" who="interviewee">Yes. Sure favorite actors. Why? Why, I don’t know. Charlize Theron, for example. Yes, Charlize Theron, and, well Johnny Depp, he’s good, particularly in Pirates. Secondly, maybe Jim Carrie, yes, Jim Carrie. Particularly in The Mask and Ace Ventura, the best of his work. Murphy, Eddie Murphy’s a smart alec. But he also did stuff. </u>
+
+<u xml:id="sp49" who="interviewer">Do you remember any movie or outing to the movies particularly? Talk about that visit. </u>
+
+<u xml:id="sp50" who="interviewee">No. I don’t remember specific outings to the movies in particular. I remember movies better, which you remember your entire life. The Godfather, “Godfather.” And also a Russian serial, maybe you’ve seen it, The Brigade. The Russian serial Brigade, and the Russian movie Brother and Brother 2. “Brother and Brother 2.” Well, yes, I think there’s a few more movies, but yes, Life is Beautiful. “It’s a Beautiful Life.” The Italian movie. Maybe I messed up the tile. The Italian movie. Many of the films watched with my friends come highly recommended by Internet Movie Data Base. </u>
+
+<u xml:id="sp51" who="interviewer">How did you spend your free time apart from going to the movies? </u>
+
+<u xml:id="sp52" who="interviewee">Went out, played soccer and hockey. I think very typically, just like all teenagers, who have free time and who are able to buy something forbidden for themselves. </u>
+
+<u xml:id="sp53" who="interviewer">Who did you normally go to the movies with? </u>
+
+<u xml:id="sp54" who="interviewee">Normally either with guys or with girls. We go very rarely in a mixed group. As a rule, it’s either only boys or girls. “Only boys or only girls.” </u>
+
+<u xml:id="sp55" who="interviewer">More men or women? </u>
+
+<u xml:id="sp56" who="interviewee">Who go to the movies? Oh I don’t know, probably more women But most likely since we have more women in general. </u>
+
+<u xml:id="sp57" who="interviewer">In general, did people go to the movies more often with family or with friends or girlfriends? </u>
+
+<u xml:id="sp58" who="interviewee">Yes, no more girls go to the movies, because it gives them something to do. There, families go rarely, on the weekends, families go to the movies. </u>
+
+<u xml:id="sp59" who="interviewer">Were there lines in the movie theaters? Do you remember waiting in line? </u>
+
+<u xml:id="sp60" who="interviewee">Yes, but very rarely. There were very rarely lines. Five minutes maximum. </u>
+
+<u xml:id="sp61" who="interviewer">Did different groups sit in different parts of the movie theater? </u>
+
+<u xml:id="sp62" who="interviewee">Different groups? Well, when, how. In different places, there were, there weren’t places, some there were, we were able to lay down there and watch. </u>
+
+<u xml:id="sp63" who="interviewer">Did people make noise, or were they quiet during the showing? </u>
+
+<u xml:id="sp64" who="interviewee">Ah, not always. That is while watching some showing, we would make noise. </u>
+
+<u xml:id="sp65" who="interviewer">How did people dress for the movies? Dressed up or like normal? </u>
+
+<u xml:id="sp66" who="interviewee">In different ways. For many going to the movies, it’s a special event. Particularly for girls looking to show off, and I don’t know how, they’re able to dress in stockings, thin ones, to wear high heels, it’s not comfortable, it’s stupid, but in order to be especially good looking. The guys dressed normally. </u>
+
+<u xml:id="sp67" who="interviewer">Did you know people who worked at the movie theater? </u>
+
+<u xml:id="sp68" who="interviewee">Yes, I know a couple. And as it was they could go for free. </u>
+
+<u xml:id="sp69" who="interviewer">What was the atmosphere like in the theater? </u>
+
+<u xml:id="sp70" who="interviewee">It depends. At horror movies it’s usually fun, because we go to horror movies with our girlfriends and at the most grueling moment, we scare them but good. Well, just to laugh. </u>
+
+<u xml:id="sp71" who="interviewer">Describe the movie theater, and if possible, compare it with movie theaters today. </u>
+
+<u xml:id="sp72" who="interviewee">I really don’t know how to describe it. There’s a big screen there, it’s dark and loud. </u>
+
+<u xml:id="sp73" who="interviewer">Describe the sounds and smells that you remember when you think about the movie theaters. </u>
+
+<u xml:id="sp74" who="interviewee">The smell of popcorn. I think sound, a strong growing sound. With a strong base. </u>
+
+<u xml:id="sp75" who="interviewer">Were the chairs comfortable? </u>
+
+<u xml:id="sp76" who="interviewee">It depends, usually yes, usually comfortable. </u>
+
+<u xml:id="sp77" who="interviewer">Was it cold at the movies, warm, hot, stuffy? </u>
+
+<u xml:id="sp78" who="interviewee">That also depends, sometimes the air conditioning didn’t work, and sometimes it worked too well. </u>
+
+<u xml:id="sp79" who="interviewer">Was the movie theater big? How many screening rooms were there? </u>
+
+<u xml:id="sp80" who="interviewee">When, it was …There were from two to fifteen screening rooms, that sounds right. But individual seats from 50 to 300. Up to 300 individual seats, they were different. </u>
+
+<u xml:id="sp81" who="interviewer">Was the theater only for movies, or for other events too? </u>
+
+<u xml:id="sp82" who="interviewee">Sometimes for other events, but generally only for movies. </u>
+
+<u xml:id="sp83" who="interviewer">Was there a snack bar? What did they sell at the snack bar? </u>
+
+<u xml:id="sp84" who="interviewee">They always sold popcorn, Pepsi, and soda at the snackbars, and beer too. And there was something to eat. Ice cream. “Ice cream.” </u>
+
+<u xml:id="sp85" who="interviewer">Were there ticket collectors in the theater and how old were they usually? </u>
+
+<u xml:id="sp86" who="interviewee">Well there were always ticket collectors, generally it was young people. Generally it was young girls, up to thirty. </u>
+
+<u xml:id="sp87" who="interviewer">Where did you usually like to sit and why? </u>
+
+<u xml:id="sp88" who="interviewee">That depends on who you go to the movies with. With friends we normally sat in the middle, in order to see better, but with girls normally off to the side. Places for kissing. </u>
+
+<u xml:id="sp89" who="interviewer">Were the movies silent or talkies? Black and white or color? </u>
+
+<u xml:id="sp90" who="interviewee">They were always color, always had sound, with the exception of special films, not special ones, but when it was the desire of the director. If in all the movie theaters of the world it black and white and silent ones cropped up, then we had it too. But all the others were color, with sound. </u>
+
+<u xml:id="sp91" who="interviewer">What was the quality of projection? </u>
+
+<u xml:id="sp92" who="interviewee">The quality was excellent. And many theaters now are in 3D, IMAX format. I’m just not a huge fan of recent cinema, I’m only there rarely, there’s no time. </u>
+
+<u xml:id="sp93" who="interviewer">Which movies were the most popular among viewers and why? </u>
+
+<u xml:id="sp94" who="interviewee">Among viewers, the most popular films were, I think, those that were advertised well. Russians have this habit, to go to popular, cheesy movies, if the advertising is good, then a lot of people go to the movies. If they like the movie, then they tell friends, and their friends go. And I think, almost all the movies, and that are popular in America, are also popular in America. How it generally is in the world, it’s decided by ratings. </u>
+
+<u xml:id="sp95" who="interviewer">Did they often show foreign films in the movie theaters? Films from which countries? </u>
+
+<u xml:id="sp96" who="interviewee">They’re almost always foreign films, because after the collapse of the Soviet Union we didn’t make many movies. There, but now, they show both foreign movies and ours, from all countries, from absolutely all counties, but in general, of course, it’s American movies, in general, because they’re the most appealing for the viewers. The most successful at the box office. </u>
+
+<u xml:id="sp97" who="interviewer">Which movies did you like most of all? </u>
+
+<u xml:id="sp98" who="interviewee">Most of all, I liked, “well,” while I was growing up, as a child fairy tale movies, and then war movies, and then more melodramas. Depends. As I feel like. That’s it. </u>
+
+<u xml:id="sp99" who="interviewer">Were there movies that children couldn’t go to and why? </u>
+
+<u xml:id="sp100" who="interviewee">Yes, there were quite a lot of those kinds of movies, and now they’re restricted. Why? It’s important to everyone why. Because they contain scenes for adults. With the R rating, your American one, but the kids go in general. If they want. </u>
+
+<u xml:id="sp101" who="interviewer">Your parents didn’t let you go or the movie theater management? </u>
+
+<u xml:id="sp102" who="interviewee">They didn’t let us, but we went anyway. And the theater management didn’t prohibit us when I was young, and now I don’t know, maybe, maybe now they prohibit it. </u>
+
+<u xml:id="sp103" who="interviewer">Did you try to go to a movie that you weren’t allowed to go to? </u>
+
+<u xml:id="sp104" who="interviewee">Of course. And there, that was the point. </u>
+
+<u xml:id="sp105" who="interviewer">Talk about it, how it was. </u>
+
+<u xml:id="sp106" who="interviewee">It was easy because, well, in Russia, when I was little, they didn’t pay especial attention to age and didn’t follow the rules especially. Yes, and now, the main thing is to earn money. And it’s not important if a kid a few years younger goes into a movie for adults. The kid himself wants that. </u>
+
+<u xml:id="sp107" who="interviewer">Do you remember any film that had problems coming to the screen? Talk about that film. </u>
+
+<u xml:id="sp108" who="interviewee">To be honest, I don’t remember, because I wasn’t interested. If there had been problems, it simply wouldn’t have come to the screen, and no one would have seen it. Therefore I don’t remember these movies. </u>
+
+<u xml:id="sp109" who="interviewer">How did you find out about the theater’s schedule of screenings? </u>
+
+<u xml:id="sp110" who="interviewee">About the theaters’ schedules? I found out either by advertising, by advertisement banners in the streets and on signs, or on the internet, on the theaters’ schedule. Or from friends, who had like some movie. </u>
+
+<u xml:id="sp111" who="interviewer">Did you read about movies in magazines or in the papers? </u>
+
+<u xml:id="sp112" who="interviewee">Yes, but by accident, if it cropped up by accident. In Playboy, for example. </u>
+
+<u xml:id="sp113" who="interviewer">How did movie advertising change from the Soviet times? </u>
+
+<u xml:id="sp114" who="interviewee">Hardly at all, the advertising just got better and better looking. It got bigger. </u>
+
+<u xml:id="sp115" who="interviewer">Did your parents go to the movies? </u>
+
+<u xml:id="sp116" who="interviewee">Of course they went, this was my parents' favorite pass time. </u>
+
+<u xml:id="sp117" who="interviewer">What did they watch? </u>
+
+<u xml:id="sp118" who="interviewee">I don’t know, they didn’t talk about it much, I think the same thing, but earlier almost all movie theaters showed only Soviet movies. </u>
+
+<u xml:id="sp119" who="interviewer">They went to the movies together with you, with one another, alone? </u>
+
+<u xml:id="sp120" who="interviewee">Well then, it depends. Either together and without me, that is, it didn’t depend on anything, on their mood, per their desire. </u>
+
+<u xml:id="sp121" who="interviewer">Did you have a television set? </u>
+
+<u xml:id="sp122" who="interviewee">Yes. </u>
+
+<u xml:id="sp123" who="interviewer">When you bought it, did you go to the movies more or less? </u>
+
+<u xml:id="sp124" who="interviewee">Just the same. </u>
+
+<u xml:id="sp125" who="interviewer">Do you know when talkies first came out? </u>
+
+<u xml:id="sp126" who="interviewee">No, I don’t know, I don’t remember, but long ago. Long ago, after, somewhere, the first sound films existed before the Second World War, I think, in America. And after the Second World War we already had them in the USSR. </u>
+
+<u xml:id="sp127" who="interviewer">Do you remember movies from during the war? After the war? During Perestroika? </u>
+
+<u xml:id="sp128" who="interviewee">Yes, I saw them, naturally, a bit later. I went to the premieres. I wasn’t that busy. There, but then I saw a lot of movies, yes, they’re interesting enough. They all have their own style, that is, despite that there were many censored films, which the Soviet government prohibited to be shown and only now have they come to the screen. But, to be honest, I don’t really care for them. </u>
+
+<u xml:id="sp129" who="interviewer">How did your going to the movies change with time and why? </u>
+
+<u xml:id="sp130" who="interviewee">I rarely go because there’s little time, and the movies have already gotten old. Earlier it was something amazing and rare, maybe. Rarely, when you go only a little, does it capture your sprit. And now I feel like something new. Some kind of new enjoyments, but I know many people, many of my friends, who are in the habit of going to the movies, they just don’t know where else to go. For them it’s enough to go to the movies. </u>
+
+<u xml:id="sp131" who="interviewer">Would you like to add anything in conclusion? </u>
+
+<u xml:id="sp132" who="interviewee">In conclusion I want to add…that I have to go to the movies somehow. I haven’t been there in a while, and for Ironman 3, “Ironman 3, very good.” </u>
+
+<u xml:id="sp133" who="interviewer">Do you have a suggestion for us regarding what theme to ask about in an interview in the future? </u>
+
+<u xml:id="sp134" who="interviewee">Just not me! Anyone else. Because I can only say a little about it. Recent times especially. </u>
+
+<u xml:id="sp135" who="interviewer">Thank you very much for the interview. </u>
+
+<u xml:id="sp136" who="interviewee"></u>
+
+<u xml:id="sp137" who="interviewer"></u>
+
+<u xml:id="sp138" who="interviewee"></u>
+
+<u xml:id="sp139" who="interviewer"></u>
+
+<u xml:id="sp140" who="interviewee"></u>
+
+<u xml:id="sp141" who="interviewer"></u>
+
+<u xml:id="sp142" who="interviewee"></u>
+
+<u xml:id="sp143" who="interviewer"></u>
+
+<u xml:id="sp144" who="interviewee"></u>
+
+<u xml:id="sp145" who="interviewer"></u>
+
+<u xml:id="sp146" who="interviewee"></u>
+
+<u xml:id="sp147" who="interviewer"></u>
+
+<u xml:id="sp148" who="interviewee"></u>
+
+<u xml:id="sp149" who="interviewer"></u>
+
+<u xml:id="sp150" who="interviewee"></u>
+
+<u xml:id="sp151" who="interviewer"></u>
+
+<u xml:id="sp152" who="interviewee"></u>
+
+<u xml:id="sp153" who="interviewer"></u>
+
+<u xml:id="sp154" who="interviewee"></u>
+
+<u xml:id="sp155" who="interviewer"></u>
+
+<u xml:id="sp156" who="interviewee"></u>
+
+<u xml:id="sp157" who="interviewer"></u>
+
+<u xml:id="sp158" who="interviewee"></u>
+
+<u xml:id="sp159" who="interviewer"></u>
+
+<u xml:id="sp160" who="interviewee"></u>
+
+<u xml:id="sp161" who="interviewer"></u>
+
+<u xml:id="sp162" who="interviewee"></u>
+
+<u xml:id="sp163" who="interviewer"></u>
+
+<u xml:id="sp164" who="interviewee"></u>
+
+<u xml:id="sp165" who="interviewer"></u>
+
+<u xml:id="sp166" who="interviewee"></u>
+
+<u xml:id="sp167" who="interviewer"></u>
+
+<u xml:id="sp168" who="interviewee"></u>
+
+<u xml:id="sp169" who="interviewer"></u>
+
+<u xml:id="sp170" who="interviewee"></u>
+
+<u xml:id="sp171" who="interviewer"></u>
+
+<u xml:id="sp172" who="interviewee"></u>
+
+<u xml:id="sp173" who="interviewer"></u>
+
+<u xml:id="sp174" who="interviewee"></u>
+
+<u xml:id="sp175" who="interviewer"></u>
+
+<u xml:id="sp176" who="interviewee"></u>
+
+<u xml:id="sp177" who="interviewer"></u>
+
+<u xml:id="sp178" who="interviewee"></u>
+
+<u xml:id="sp179" who="interviewer"></u>
+
+<u xml:id="sp180" who="interviewee"></u>
 
 
 
