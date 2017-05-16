@@ -1,0 +1,40 @@
+experiment 5/16/2017
+
+12 reviews (3 comedies, 9 war films from the Thaw era (1957-1960)
+additional stopwords file includes all inflected forms of the word "film"
+
+stage 1
+./bin/mallet import-dir --input sample-data/ikWarComedyThaw --output film_tutorial16may17.mallet --keep-sequence --remove-stopwords --extra-stopwords stoplists/ruFilm.txt
+
+stage 2 (3 topics)
+bin/mallet train-topics  --input film_tutorial16may17.mallet  --num-topics 3 --optimize-interval 3 --output-state topic-state.gz  --output-topic-keys film_tutorial_keys16may17.txt --output-doc-topics film_tutorial_composition16may17.txt
+
+
+***
+tutorial_keys.txt
+outputs a text document showing you what the top key words are for each topic (tutorial_keys.txt)  Can we choose how many keywords to output for each topic?
+
+tutorial_composition.txt
+outputs a text file indicating the breakdown, by percentage, of each topic within each original text file you imported (tutorial_composition.txt). 
+
+
+Key Words for 3 Topics
+
+0	0.15037	жизни войны федора человека федор потому жизнь page время очень может героев людей героя большой двух счастье режиссер экране искусства 
+1	0.14665	бровкин бровкина любаша целину ведь иван может авторы конечно целине ивана page характер люди сразу теперь чем-то там довольно поехать 
+2	0.12614	вероники вероника бориса журавли летят авторы может борис сцены урусевский всегда тема марка потому войны жизни пьесе героини судьба вновь 
+3 topics grup by the film
+
+Key Words for 10 Topics
+0	0.05314	ирина автор мало кинокомедии морю черному должна малюгин стригунов мама ищет звучит жених свадьба колей люди зрителя бригадир малюгина кукушкиным 
+1	0.00954	человека смерть экране нато мари ветер двух федора ветра счастье искусства изображения страдания детях page драмы жизни отца детей идеал 
+2	0.16282	может жизни потому войны жизнь очень время режиссер тема можно времени авторы дело людей много там именно кино более человека 
+3	0.02009	федор федора малого большой характеры двух наташа малый федоров вообще page вопрос бывает большого новое ряд мужчин наташей сюжет испытаний 
+4	0.03832	бровкин бровкина любаша целину иван ведь авторы ивана целине может конечно теперь сразу характер поехать совхоза непутевый чем-то page люди 
+5	0.0095	             вероника борис бориса вероники калатозов разные вновь лестнице чувства ушел вспомните произведения затем снова слишком марк общим фронта час верность 
+6	0.03084	вероники марка пьесе розова судьба розов журавли веронику военного слабости проводов героини бориса разных молодой быта героиню место эпизод поколения 
+7	0.06823	чухрай солдате войны прежде баллада page истории людей потому солдата чувство темы эры здоровье баллады возможность героя молодежи сейчас разве 
+8	0.04667	героев эпохи ежи ставинский покушение является помним материалом средства разговор борьбы ведь ветер page ощущение подвига покушения пассендорфер проникновения материала 
+9	0.02041	урусевский летят приемы новые оператор оператора журавли мастерства советской сцены режиссера освещения ракурс план точно вероника операторского борис кадра калатозова 
+
+10 topics of 12 films group by the review

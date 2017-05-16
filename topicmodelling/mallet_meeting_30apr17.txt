@@ -1,0 +1,7 @@
+
+MALLET 3/19 and 4/30/2017
+
+adding Russian stopwords files on Mac.
+./bin/mallet import-dir --input sample-data/Film_Reviews --output tutorial1may17.mallet --keep-sequence --remove-stopwords --extra-stopwords stoplists/ru.txt
+
+
